@@ -1,3 +1,5 @@
 Readme file
 
-# animal_social_network_repository
+# Animal social network repository
+
+Details coming soon!
