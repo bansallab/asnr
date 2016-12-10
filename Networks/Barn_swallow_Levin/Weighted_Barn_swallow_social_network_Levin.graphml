@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Tag5" />
+    <node id="Tag6" />
+    <node id="Tag2" />
+    <node id="Tag8" />
+    <node id="Tag9" />
+    <node id="Tag55" />
+    <node id="Tag23" />
+    <node id="Tag17" />
+    <node id="Tag15" />
+    <node id="Tag12" />
+    <node id="Tag10" />
+    <node id="Tag11" />
+    <node id="Tag52" />
+    <node id="Tag53" />
+    <node id="Tag51" />
+    <node id="Tag18" />
+    <node id="Tag19" />
+    <edge source="Tag5" target="Tag6">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag2">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag8">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag9">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag55">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag23">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag17">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag15">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag12">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag10">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag11">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag52">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag53">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag51">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag18">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag5" target="Tag19">
+      <data key="d0">52.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag2">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag8">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag9">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag23">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag17">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag15">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag12">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag10">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag11">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag52">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag53">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag51">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag18">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag6" target="Tag19">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag8">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag9">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag23">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag17">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag15">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag12">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag10">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag11">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag52">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag53">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag51">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag18">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag2" target="Tag19">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag9">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag55">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag23">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag17">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag15">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag12">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag10">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag11">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag52">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag53">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag51">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag18">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag8" target="Tag19">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag55">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag17">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag15">
+      <data key="d0">23.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag12">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag10">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag11">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag52">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag53">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag51">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag18">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Tag9" target="Tag19">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="Tag55" target="Tag17">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag55" target="Tag12">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag55" target="Tag10">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag55" target="Tag11">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag55" target="Tag51">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag55" target="Tag19">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag23" target="Tag17">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag23" target="Tag15">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag23" target="Tag12">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag23" target="Tag11">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag23" target="Tag52">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag23" target="Tag53">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag23" target="Tag18">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag23" target="Tag19">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag17" target="Tag15">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag17" target="Tag12">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag17" target="Tag11">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag17" target="Tag52">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag17" target="Tag53">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag17" target="Tag51">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag17" target="Tag18">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag17" target="Tag19">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="Tag15" target="Tag12">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="Tag15" target="Tag10">
+      <data key="d0">40.0</data>
+    </edge>
+    <edge source="Tag15" target="Tag11">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag15" target="Tag52">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag15" target="Tag53">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag15" target="Tag51">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Tag15" target="Tag18">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag15" target="Tag19">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="Tag12" target="Tag10">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag12" target="Tag11">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="Tag12" target="Tag52">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="Tag12" target="Tag53">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="Tag12" target="Tag51">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="Tag12" target="Tag18">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag12" target="Tag19">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Tag10" target="Tag11">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag10" target="Tag51">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Tag10" target="Tag19">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag11" target="Tag52">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag11" target="Tag53">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Tag11" target="Tag51">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="Tag11" target="Tag18">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="Tag11" target="Tag19">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag52" target="Tag53">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag52" target="Tag51">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="Tag52" target="Tag18">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Tag52" target="Tag19">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag53" target="Tag51">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag53" target="Tag18">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="Tag53" target="Tag19">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="Tag51" target="Tag18">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Tag51" target="Tag19">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="Tag18" target="Tag19">
+      <data key="d0">9.0</data>
+    </edge>
+  </graph>
+</graphml>

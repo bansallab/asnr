@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="066870854" />
+    <node id="066836512" />
+    <node id="063547287" />
+    <node id="067005114" />
+    <node id="067104842" />
+    <node id="066816608" />
+    <node id="066816043" />
+    <node id="066792889" />
+    <node id="067776838" />
+    <node id="073101521" />
+    <node id="067008866" />
+    <node id="067071112" />
+    <node id="067103278" />
+    <node id="062770825" />
+    <node id="067071070" />
+    <node id="066839107" />
+    <node id="062101614" />
+    <node id="073112532" />
+    <node id="063553602" />
+    <edge source="066870854" target="067104842">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="066836512" target="067071112">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="066836512" target="066792889">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="063547287" target="067776838">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="063547287" target="063547287">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="063547287" target="062101614">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067005114" target="067005114">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="066816608" target="067071070">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="066816043" target="066816043">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="066816043" target="066792889">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="066792889" target="066792889">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067776838" target="062101614">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073101521" target="063553602">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067008866" target="062770825">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="067008866" target="066839107">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067008866" target="067008866">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="067008866" target="073112532">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="067103278" target="067103278">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="062770825" target="073112532">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="062101614" target="062101614">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073112532" target="073112532">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

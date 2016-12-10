@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="28" />
+    <node id="63" />
+    <node id="65" />
+    <node id="66" />
+    <node id="67" />
+    <node id="68" />
+    <node id="53" />
+    <node id="25" />
+    <node id="27" />
+    <node id="48" />
+    <node id="45" />
+    <node id="42" />
+    <node id="29" />
+    <node id="3" />
+    <node id="2" />
+    <node id="4" />
+    <node id="75" />
+    <node id="74" />
+    <node id="73" />
+    <node id="70" />
+    <node id="10" />
+    <node id="13" />
+    <node id="38" />
+    <node id="58" />
+    <node id="16" />
+    <node id="55" />
+    <node id="32" />
+    <node id="31" />
+    <node id="56" />
+    <node id="35" />
+    <node id="57" />
+    <edge source="28" target="10">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="28" target="58">
+      <data key="d0">132</data>
+    </edge>
+    <edge source="28" target="48">
+      <data key="d0">78</data>
+    </edge>
+    <edge source="28" target="55">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="28" target="45">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="28" target="70">
+      <data key="d0">94</data>
+    </edge>
+    <edge source="28" target="67">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="63" target="75">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="63" target="16">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="65" target="13">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="66" target="3">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="66" target="48">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="68" target="29">
+      <data key="d0">158</data>
+    </edge>
+    <edge source="53" target="55">
+      <data key="d0">44</data>
+    </edge>
+    <edge source="53" target="56">
+      <data key="d0">68</data>
+    </edge>
+    <edge source="25" target="31">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="25" target="56">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="27" target="31">
+      <data key="d0">48</data>
+    </edge>
+    <edge source="48" target="16">
+      <data key="d0">68</data>
+    </edge>
+    <edge source="48" target="32">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="48" target="31">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="48" target="73">
+      <data key="d0">158</data>
+    </edge>
+    <edge source="45" target="73">
+      <data key="d0">116</data>
+    </edge>
+    <edge source="45" target="56">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="45" target="42">
+      <data key="d0">88</data>
+    </edge>
+    <edge source="42" target="10">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="42" target="35">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="29" target="4">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="3" target="2">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="3" target="75">
+      <data key="d0">72</data>
+    </edge>
+    <edge source="3" target="38">
+      <data key="d0">778</data>
+    </edge>
+    <edge source="3" target="32">
+      <data key="d0">108</data>
+    </edge>
+    <edge source="2" target="73">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="4" target="57">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="74" target="73">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="10" target="31">
+      <data key="d0">194</data>
+    </edge>
+    <edge source="10" target="58">
+      <data key="d0">116</data>
+    </edge>
+    <edge source="10" target="35">
+      <data key="d0">68</data>
+    </edge>
+    <edge source="16" target="31">
+      <data key="d0">134</data>
+    </edge>
+    <edge source="16" target="35">
+      <data key="d0">52</data>
+    </edge>
+    <edge source="31" target="35">
+      <data key="d0">70</data>
+    </edge>
+  </graph>
+</graphml>

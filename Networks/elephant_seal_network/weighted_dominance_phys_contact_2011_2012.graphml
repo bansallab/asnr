@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="6LI" />
+    <node id="3AN" />
+    <node id="6RU" />
+    <node id="8DM" />
+    <node id="3CA" />
+    <node id="G3635" />
+    <node id="6NI" />
+    <node id="6PB" />
+    <node id="G5479" />
+    <node id="3AU" />
+    <node id="5411" />
+    <node id="3LU" />
+    <node id="2BR" />
+    <node id="3PE" />
+    <node id="T851" />
+    <node id="T785" />
+    <node id="6ZN" />
+    <node id="8RS" />
+    <node id="2WN" />
+    <node id="G6213" />
+    <node id="5773" />
+    <node id="3QA" />
+    <node id="GL" />
+    <node id="6096" />
+    <node id="4055" />
+    <node id="8JC" />
+    <node id="3MX" />
+    <node id="3KG" />
+    <node id="X579" />
+    <node id="3MA" />
+    <edge source="6LI" target="4055">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6LI" target="8RS">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3AN" target="3MX">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6RU" target="3KG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="8DM" target="GL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="8DM" target="G5479">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3CA" target="3QA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3CA" target="5411">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3CA" target="G6213">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3CA" target="X579">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="G3635" target="6PB">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6NI" target="6ZN">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3AU" target="5411">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3AU" target="3PE">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3AU" target="6096">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="5411" target="G6213">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3LU" target="2WN">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="2BR" target="T851">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="2BR" target="3MA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3PE" target="3QA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="T851" target="T785">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="8RS" target="3KG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="8RS" target="GL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="8RS" target="G6213">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="8RS" target="3MX">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="G6213" target="3QA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="5773" target="3KG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3QA" target="8JC">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3QA" target="X579">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3QA" target="3MA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="GL" target="3MA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="GL" target="3KG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="GL" target="3MX">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

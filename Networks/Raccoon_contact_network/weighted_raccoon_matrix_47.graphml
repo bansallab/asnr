@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="0" />
+    <node id="1" />
+    <node id="2" />
+    <node id="4" />
+    <node id="5" />
+    <node id="6" />
+    <node id="7" />
+    <node id="8" />
+    <node id="10" />
+    <node id="11" />
+    <node id="13" />
+    <node id="15" />
+    <node id="16" />
+    <edge source="0" target="8">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="0" target="16">
+      <data key="d0">52</data>
+    </edge>
+    <edge source="0" target="13">
+      <data key="d0">305</data>
+    </edge>
+    <edge source="0" target="6">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="0" target="7">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="1" target="15">
+      <data key="d0">368</data>
+    </edge>
+    <edge source="1" target="2">
+      <data key="d0">142</data>
+    </edge>
+    <edge source="1" target="10">
+      <data key="d0">1368</data>
+    </edge>
+    <edge source="1" target="5">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="1" target="13">
+      <data key="d0">725</data>
+    </edge>
+    <edge source="2" target="10">
+      <data key="d0">158</data>
+    </edge>
+    <edge source="2" target="11">
+      <data key="d0">132</data>
+    </edge>
+    <edge source="2" target="5">
+      <data key="d0">435</data>
+    </edge>
+    <edge source="2" target="15">
+      <data key="d0">151</data>
+    </edge>
+    <edge source="4" target="11">
+      <data key="d0">2746</data>
+    </edge>
+    <edge source="4" target="6">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="5" target="11">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="6" target="13">
+      <data key="d0">298</data>
+    </edge>
+    <edge source="7" target="11">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="8" target="16">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="10" target="15">
+      <data key="d0">90255</data>
+    </edge>
+    <edge source="11" target="13">
+      <data key="d0">667</data>
+    </edge>
+    <edge source="11" target="15">
+      <data key="d0">49</data>
+    </edge>
+    <edge source="13" target="16">
+      <data key="d0">1200</data>
+    </edge>
+  </graph>
+</graphml>

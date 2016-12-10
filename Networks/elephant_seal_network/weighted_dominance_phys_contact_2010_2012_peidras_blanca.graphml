@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="BLOWHOLE" />
+    <node id="D" />
+    <node id="G" />
+    <node id="F" />
+    <node id="BB" />
+    <node id="TT" />
+    <node id="CHAFFRON" />
+    <node id="DB" />
+    <node id="LT" />
+    <node id="N" />
+    <node id="AP" />
+    <node id="S" />
+    <node id="R" />
+    <node id="4" />
+    <node id="7" />
+    <node id="STARSCAR" />
+    <node id="HP" />
+    <node id="LY" />
+    <edge source="BLOWHOLE" target="F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="D" target="BB">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="D" target="7">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="D" target="F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="G" target="HP">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="F" target="CHAFFRON">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TT" target="AP">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TT" target="N">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CHAFFRON" target="4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DB" target="S">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DB" target="R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DB" target="STARSCAR">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="LT" target="R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="N" target="R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="AP" target="LY">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

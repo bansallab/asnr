@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="23778" />
+    <node id="23770" />
+    <node id="7636" />
+    <node id="23758" />
+    <node id="23773" />
+    <node id="23774" />
+    <node id="7678" />
+    <node id="7658" />
+    <node id="7659" />
+    <node id="B/M-G" />
+    <node id="7673" />
+    <node id="7671" />
+    <node id="23854" />
+    <node id="23853" />
+    <node id="7615" />
+    <node id="23815" />
+    <node id="7637" />
+    <node id="7612" />
+    <node id="7635" />
+    <node id="B/M-W" />
+    <node id="7668" />
+    <node id="7660" />
+    <node id="7667" />
+    <node id="7609" />
+    <node id="23862" />
+    <node id="7684" />
+    <node id="7680" />
+    <edge source="23778" target="23854">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="23778" target="23853">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23778" target="7609">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23778" target="23815">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="23778" target="23770">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23778" target="7615">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="23778" target="23773">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23778" target="23774">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23778" target="7612">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23778" target="7635">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23778" target="7668">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23778" target="7636">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23778" target="23862">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23778" target="7680">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23778" target="7658">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23778" target="7660">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="23778" target="7673">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="23778" target="B/M-W">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23770" target="23854">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23770" target="23774">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="23770" target="7684">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23770" target="7615">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="23770" target="23758">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23770" target="23773">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="23770" target="23815">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="23770" target="7637">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23770" target="23862">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="23770" target="B/M-G">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23770" target="7668">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="23770" target="7636">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="23770" target="7680">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23770" target="7660">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23770" target="7673">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="23770" target="7667">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="23770" target="7671">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7636" target="23854">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7636" target="23815">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="7636" target="7615">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="7636" target="23758">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7636" target="23773">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="7636" target="23774">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="7636" target="7637">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="7636" target="23862">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="7636" target="B/M-G">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7636" target="7668">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="7636" target="7684">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7636" target="7678">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7636" target="7673">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="7636" target="7667">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="23758" target="23774">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23758" target="23773">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23758" target="7637">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23758" target="B/M-G">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23758" target="7667">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23773" target="23854">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23773" target="7684">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23773" target="23774">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="23773" target="23773">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23773" target="23815">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="23773" target="7637">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="23773" target="23862">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="23773" target="B/M-G">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23773" target="7668">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="23773" target="7678">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23773" target="7615">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="23773" target="7673">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="23773" target="7667">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="23774" target="23854">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23774" target="23815">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="23774" target="7615">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="23774" target="7637">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23774" target="23862">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="23774" target="B/M-G">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23774" target="7668">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="23774" target="7684">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23774" target="7678">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23774" target="7673">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="23774" target="7667">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="23774" target="7671">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7678" target="7637">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7678" target="23862">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7678" target="7668">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7678" target="7684">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7678" target="7667">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7658" target="7609">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="7658" target="23853">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="7658" target="7612">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="7658" target="7635">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="7658" target="7680">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7658" target="7660">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7659" target="7684">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7659" target="7612">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7659" target="23853">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7659" target="7609">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="7659" target="7635">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="B/M-G" target="7637">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="B/M-G" target="23862">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="B/M-G" target="7635">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="B/M-G" target="7667">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7673" target="23854">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="7673" target="7684">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7673" target="23815">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="7673" target="7637">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7673" target="23862">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="7673" target="7668">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="7673" target="7615">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="7673" target="7660">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="7673" target="7680">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7673" target="7667">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="7673" target="7671">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7671" target="23862">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23854" target="23815">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="23854" target="7615">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="23854" target="7612">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23854" target="7635">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23854" target="23862">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="23854" target="7680">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23854" target="7660">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="23854" target="B/M-W">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23853" target="7609">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="23853" target="7680">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23853" target="7612">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="23853" target="7635">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="23853" target="7660">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7615" target="23815">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="7615" target="7637">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7615" target="23862">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="7615" target="7668">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7615" target="7612">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7615" target="7680">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="7615" target="7660">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="7615" target="7667">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7615" target="B/M-W">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23815" target="7609">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23815" target="7637">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23815" target="23862">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="23815" target="7635">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23815" target="7668">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="23815" target="7660">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="23815" target="7667">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23815" target="B/M-W">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7637" target="23862">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="7637" target="7668">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7637" target="7667">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="7612" target="7609">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="7612" target="7635">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="7612" target="7680">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7612" target="7660">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7635" target="7609">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="7635" target="7680">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7635" target="23862">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7635" target="7660">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="B/M-W" target="7668">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="B/M-W" target="7660">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7668" target="23862">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="7668" target="7684">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7668" target="7667">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="7660" target="7609">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7660" target="23862">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7660" target="7680">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="7667" target="23862">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="7667" target="7684">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7609" target="7680">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="23862" target="7684">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

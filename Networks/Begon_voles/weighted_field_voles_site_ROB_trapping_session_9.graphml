@@ -1,0 +1,838 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="052873629" />
+    <node id="055810360" />
+    <node id="052838850" />
+    <node id="053599119" />
+    <node id="055794610" />
+    <node id="052826829" />
+    <node id="052853534" />
+    <node id="047033313" />
+    <node id="055888551" />
+    <node id="052776785" />
+    <node id="052773350" />
+    <node id="053342631" />
+    <node id="053791066" />
+    <node id="053599519" />
+    <node id="056294337" />
+    <node id="055525588" />
+    <node id="055890887" />
+    <node id="053273316" />
+    <node id="052839597" />
+    <node id="052596021" />
+    <node id="053349532" />
+    <node id="052611293" />
+    <node id="052628880" />
+    <node id="056011584" />
+    <node id="053594820" />
+    <node id="046874332" />
+    <node id="056018023" />
+    <node id="056294320" />
+    <node id="056015629" />
+    <node id="055557258" />
+    <node id="053849010" />
+    <node id="053340043" />
+    <node id="053512593" />
+    <node id="052587072" />
+    <node id="053602020" />
+    <node id="053615874" />
+    <node id="053320577" />
+    <node id="056015553" />
+    <node id="053006366" />
+    <node id="052627117" />
+    <node id="053849780" />
+    <node id="052814824" />
+    <node id="053127108" />
+    <node id="052532615" />
+    <node id="053839598" />
+    <node id="055536100" />
+    <node id="053352889" />
+    <node id="052600281" />
+    <node id="056036566" />
+    <node id="056521352" />
+    <node id="055538122" />
+    <node id="052855815" />
+    <node id="053798799" />
+    <node id="053275038" />
+    <node id="055817124" />
+    <node id="055545622" />
+    <node id="056275555" />
+    <node id="052546262" />
+    <node id="053848017" />
+    <node id="052588063" />
+    <node id="056005556" />
+    <node id="056047847" />
+    <node id="053638315" />
+    <node id="053512076" />
+    <node id="053596842" />
+    <node id="052882317" />
+    <node id="055536775" />
+    <node id="053027300" />
+    <node id="053258262" />
+    <node id="053845106" />
+    <node id="056276824" />
+    <node id="052823366" />
+    <node id="052865592" />
+    <node id="052596066" />
+    <node id="052589366" />
+    <node id="053304891" />
+    <node id="055548636" />
+    <node id="053841103" />
+    <node id="053851031" />
+    <node id="056296834" />
+    <node id="053833621" />
+    <node id="053371881" />
+    <node id="052562345" />
+    <node id="047094005" />
+    <node id="053265263" />
+    <node id="047030582" />
+    <node id="053054371" />
+    <node id="047027081" />
+    <node id="053319306" />
+    <node id="054099523" />
+    <node id="053832045" />
+    <node id="053834862" />
+    <node id="053108001" />
+    <node id="056025772" />
+    <node id="052585855" />
+    <node id="052774089" />
+    <node id="046877812" />
+    <node id="053045339" />
+    <node id="055536021" />
+    <node id="052858560" />
+    <node id="056281067" />
+    <node id="053768864" />
+    <node id="055893087" />
+    <node id="053839027" />
+    <node id="053798111" />
+    <node id="052788379" />
+    <node id="053626534" />
+    <node id="053074785" />
+    <node id="053839334" />
+    <node id="052791119" />
+    <node id="052875306" />
+    <node id="052524864" />
+    <edge source="052873629" target="053638315">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052873629" target="053848017">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="055810360" target="055536100">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="055810360" target="056015553">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="055810360" target="055810360">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="055810360" target="053834862">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="052838850" target="052814824">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="052838850" target="052838850">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="052838850" target="053349532">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="053599119" target="055888551">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053599119" target="052627117">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053599119" target="047094005">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053599119" target="056281067">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055794610" target="053626534">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="055794610" target="053045339">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="055794610" target="053273316">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="055794610" target="055794610">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="055794610" target="052596021">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="055794610" target="053834862">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052826829" target="052858560">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052826829" target="052826829">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052826829" target="053834862">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052826829" target="047030582">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052826829" target="053626534">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052853534" target="052585855">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047033313" target="047033313">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047033313" target="056296834">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047033313" target="055893087">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047033313" target="053371881">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047033313" target="053512076">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047033313" target="052524864">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="055888551" target="055888551">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055888551" target="052627117">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="055888551" target="056011584">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055888551" target="056281067">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="052776785" target="055536100">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="052776785" target="052776785">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052776785" target="053848017">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052773350" target="055548636">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="052773350" target="052773350">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053342631" target="055536021">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053791066" target="055538122">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="053791066" target="053352889">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053791066" target="053791066">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053791066" target="056036566">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053791066" target="053340043">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053791066" target="047027081">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053599519" target="052628880">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053599519" target="053599519">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="056294337" target="053832045">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="055525588" target="056275555">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055525588" target="056047847">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="055890887" target="053275038">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="055890887" target="056011584">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="055890887" target="055890887">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053273316" target="053626534">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053273316" target="053045339">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="053273316" target="053273316">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053273316" target="052596021">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="053273316" target="053834862">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052839597" target="053849010">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="052839597" target="052524864">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="052839597" target="052839597">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052839597" target="053839334">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="052596021" target="053626534">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="052596021" target="053045339">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="052596021" target="052596021">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052596021" target="053834862">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053349532" target="052814824">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053349532" target="053349532">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052611293" target="053006366">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="052611293" target="052562345">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052628880" target="052628880">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052628880" target="053006366">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052628880" target="053839598">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="056011584" target="053275038">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="056011584" target="056011584">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="056011584" target="056281067">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053594820" target="053596842">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="046874332" target="046874332">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="056018023" target="056018023">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="056018023" target="053768864">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="056018023" target="052791119">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="056018023" target="055545622">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="056018023" target="052875306">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="056294320" target="056015629">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="056294320" target="053851031">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="056294320" target="052587072">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="056294320" target="056294320">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="056015629" target="056015629">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="056015629" target="053275038">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="056015629" target="053851031">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="056015629" target="052587072">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="055557258" target="053638315">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055557258" target="056005556">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053849010" target="053849010">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053849010" target="052524864">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="053849010" target="053839334">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="053340043" target="055538122">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053512593" target="053841103">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053512593" target="053845106">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053512593" target="053512593">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053512593" target="053054371">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="052587072" target="053275038">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052587072" target="053851031">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="052587072" target="052587072">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053602020" target="052855815">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053602020" target="053602020">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053602020" target="053768864">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053602020" target="053849780">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053602020" target="052589366">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053615874" target="053798799">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053320577" target="052858560">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="053320577" target="053320577">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="056015553" target="055536100">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="056015553" target="056015553">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="056015553" target="053834862">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="053006366" target="053006366">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053006366" target="052562345">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="053006366" target="053839598">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052627117" target="056281067">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053849780" target="053768864">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053849780" target="053849780">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053849780" target="052589366">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052814824" target="047094005">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052814824" target="053319306">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052814824" target="052814824">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053127108" target="046877812">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053127108" target="052882317">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053127108" target="052588063">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052532615" target="053798111">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="055536100" target="055536100">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="055536100" target="053848017">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="055536100" target="053834862">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053352889" target="047027081">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053352889" target="055538122">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="053352889" target="056036566">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053352889" target="053352889">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052600281" target="055817124">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052600281" target="052788379">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="052600281" target="053768864">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052600281" target="053304891">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="056036566" target="055538122">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="056036566" target="047027081">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="056521352" target="053839027">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="056521352" target="054099523">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="056521352" target="053027300">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="055538122" target="055538122">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055538122" target="047027081">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052855815" target="052855815">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052855815" target="052589366">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053798799" target="053275038">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="053798799" target="053798799">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="053275038" target="053851031">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053275038" target="053275038">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="055817124" target="052788379">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="055817124" target="053304891">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055545622" target="052585855">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="055545622" target="053768864">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="055545622" target="055545622">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="055545622" target="052791119">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="055545622" target="052875306">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="056275555" target="056047847">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="056275555" target="056276824">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052546262" target="052823366">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052546262" target="053833621">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="052546262" target="052546262">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052546262" target="053839027">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053848017" target="053638315">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="053848017" target="053848017">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052588063" target="046877812">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="056005556" target="053638315">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="056005556" target="056005556">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053638315" target="053638315">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053512076" target="055893087">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053512076" target="053371881">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053596842" target="053596842">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052882317" target="046877812">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052882317" target="054099523">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052882317" target="052865592">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055536775" target="053258262">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="055536775" target="055536775">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053027300" target="054099523">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053027300" target="053839027">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053258262" target="053258262">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="053258262" target="053108001">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053845106" target="053841103">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="053845106" target="053845106">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053845106" target="053054371">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="052823366" target="052823366">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052823366" target="053833621">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052865592" target="054099523">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="052865592" target="052865592">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052596066" target="052596066">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052596066" target="055536021">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="052589366" target="053768864">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053304891" target="052788379">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="053304891" target="053768864">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="053304891" target="053304891">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="055548636" target="055548636">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053841103" target="053841103">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053841103" target="053054371">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053851031" target="053851031">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053851031" target="053074785">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="056296834" target="056025772">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="056296834" target="052524864">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="056296834" target="056296834">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="053833621" target="053833621">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053833621" target="053265263">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053371881" target="055893087">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047094005" target="047094005">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047094005" target="053319306">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053265263" target="053265263">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047030582" target="052858560">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053054371" target="053054371">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053319306" target="053319306">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="054099523" target="053839027">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="054099523" target="054099523">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053834862" target="053626534">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053834862" target="053045339">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053834862" target="053834862">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="052774089" target="052774089">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="046877812" target="046877812">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053045339" target="053626534">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="053045339" target="053045339">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="055536021" target="055536021">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="056281067" target="056281067">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053768864" target="053768864">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053768864" target="052788379">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="053768864" target="052791119">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="053768864" target="052875306">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="052788379" target="052788379">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="053626534" target="053626534">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053074785" target="053074785">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="053839334" target="053839334">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="053839334" target="052524864">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="052791119" target="052791119">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052791119" target="052875306">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="052875306" target="052875306">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="052524864" target="052524864">
+      <data key="d0">3</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="062637603" />
+    <node id="061789041" />
+    <node id="067856079" />
+    <node id="062325819" />
+    <node id="067063272" />
+    <node id="066832052" />
+    <node id="067059850" />
+    <node id="061859519" />
+    <node id="073045813" />
+    <edge source="062637603" target="062637603">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="062637603" target="061789041">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="062637603" target="067856079">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="061789041" target="061789041">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="061789041" target="067856079">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="061789041" target="066832052">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="062325819" target="066832052">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="062325819" target="062325819">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067063272" target="067063272">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067063272" target="067059850">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="066832052" target="061859519">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="066832052" target="066832052">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067059850" target="067059850">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="061859519" target="061859519">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073045813" target="073045813">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

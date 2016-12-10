@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="047050609" />
+    <node id="047043773" />
+    <node id="047082294" />
+    <node id="047069319" />
+    <node id="047052037" />
+    <node id="047014019" />
+    <node id="047092001" />
+    <node id="046874872" />
+    <node id="047015620" />
+    <node id="047094074" />
+    <node id="046809611" />
+    <node id="045102080" />
+    <node id="047018775" />
+    <node id="047001037" />
+    <node id="047055365" />
+    <node id="047098558" />
+    <node id="047003544" />
+    <node id="047028842" />
+    <node id="047070591" />
+    <node id="047053838" />
+    <node id="047001890" />
+    <node id="047055535" />
+    <node id="044065796" />
+    <node id="047019065" />
+    <node id="047091002" />
+    <node id="044055293" />
+    <node id="047089355" />
+    <node id="047014796" />
+    <node id="046895340" />
+    <node id="047003118" />
+    <node id="045015003" />
+    <node id="047092288" />
+    <node id="047058849" />
+    <node id="046874821" />
+    <node id="047087775" />
+    <node id="047000604" />
+    <node id="044023047" />
+    <node id="046889057" />
+    <node id="047043514" />
+    <node id="047065336" />
+    <node id="047107359" />
+    <node id="047041289" />
+    <node id="047089583" />
+    <node id="045300874" />
+    <node id="047014784" />
+    <node id="047023784" />
+    <node id="047070625" />
+    <node id="047028587" />
+    <node id="047013562" />
+    <node id="046881572" />
+    <node id="047073367" />
+    <node id="047025350" />
+    <node id="045268606" />
+    <edge source="047050609" target="047050609">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047050609" target="046874821">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047050609" target="047015620">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047050609" target="047052037">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047043773" target="047014796">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047043773" target="047043773">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047043773" target="047043514">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047043773" target="047014784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047043773" target="047023784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047043773" target="047092001">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047043773" target="047070625">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047043773" target="047001890">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047043773" target="046874821">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="047043773" target="045268606">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047082294" target="047000604">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047069319" target="046889057">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047069319" target="047070591">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047069319" target="047053838">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="047069319" target="047014019">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047069319" target="047023784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047069319" target="047089583">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047069319" target="047092001">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047069319" target="045015003">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047069319" target="047058849">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047069319" target="047013562">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047069319" target="044065796">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047069319" target="047094074">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047052037" target="047028842">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047052037" target="047052037">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047052037" target="046874821">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047052037" target="047015620">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047052037" target="047019065">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047014019" target="044065796">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047092001" target="047001890">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047092001" target="047014784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047092001" target="045015003">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046874872" target="047003544">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046874872" target="047055535">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046874872" target="047092288">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047015620" target="046874821">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047094074" target="047058849">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047094074" target="047013562">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047094074" target="044065796">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047094074" target="045015003">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046809611" target="047098558">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="045102080" target="045102080">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="045102080" target="045268606">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="045102080" target="047019065">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047018775" target="046881572">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047018775" target="045268606">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047018775" target="047107359">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047018775" target="047028842">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047018775" target="047043514">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047001037" target="047014784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047001037" target="047025350">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047001037" target="045268606">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047001037" target="046881572">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047001037" target="047001037">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047055365" target="045015003">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047098558" target="047107359">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047003544" target="047092288">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047003544" target="047055535">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047028842" target="047043514">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047028842" target="046881572">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047028842" target="045268606">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047028842" target="047019065">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047070591" target="046889057">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047070591" target="047053838">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="047070591" target="047023784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047070591" target="047089583">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047070591" target="045015003">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047053838" target="046889057">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="047053838" target="047089583">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="047053838" target="047023784">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="047053838" target="047053838">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="047053838" target="045015003">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047001890" target="047043514">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047001890" target="047014784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044065796" target="047041289">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044065796" target="045300874">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044065796" target="047058849">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044065796" target="047013562">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047091002" target="046895340">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="044055293" target="047089355">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="044055293" target="044055293">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047089355" target="047089355">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047014796" target="047058849">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047014796" target="047014796">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047014796" target="047013562">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047014796" target="044023047">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="046895340" target="046895340">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="046895340" target="047014784">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="046895340" target="047073367">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047003118" target="047003118">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="045015003" target="047089583">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="045015003" target="045015003">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="045015003" target="047028587">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047092288" target="045300874">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047092288" target="047065336">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047092288" target="044023047">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047058849" target="047013562">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="046874821" target="046874821">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047087775" target="047000604">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047000604" target="047014784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047000604" target="047089583">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044023047" target="047065336">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044023047" target="044023047">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046889057" target="047023784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046889057" target="047089583">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047107359" target="045268606">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047041289" target="045300874">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047089583" target="047023784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047014784" target="047073367">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047014784" target="047014784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047070625" target="047070625">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047028587" target="047028587">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046881572" target="045268606">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="046881572" target="046881572">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046881572" target="047025350">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047025350" target="045268606">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="045268606" target="045268606">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

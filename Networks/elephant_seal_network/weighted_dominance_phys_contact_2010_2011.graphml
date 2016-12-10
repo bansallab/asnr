@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1S" />
+    <node id="1R" />
+    <node id="35C" />
+    <node id="3R" />
+    <node id="29C" />
+    <node id="1C" />
+    <node id="5N" />
+    <node id="3C" />
+    <node id="9F" />
+    <node id="3F" />
+    <node id="5C" />
+    <node id="1N" />
+    <node id="7W" />
+    <node id="14R" />
+    <node id="9C" />
+    <node id="24N" />
+    <node id="10F" />
+    <node id="16C" />
+    <node id="14F" />
+    <node id="20C" />
+    <node id="12S" />
+    <node id="10R" />
+    <node id="30C" />
+    <node id="22R" />
+    <node id="16R" />
+    <node id="2S" />
+    <node id="5169" />
+    <node id="WT048" />
+    <node id="11R" />
+    <node id="18N" />
+    <node id="36C" />
+    <node id="6C/S350" />
+    <node id="10N" />
+    <node id="GL" />
+    <node id="4C" />
+    <node id="13C" />
+    <node id="4R/38C" />
+    <node id="6F" />
+    <node id="17F" />
+    <node id="8F" />
+    <node id="13N" />
+    <node id="17R" />
+    <node id="21F" />
+    <node id="6R" />
+    <node id="11S" />
+    <node id="25C" />
+    <node id="31C" />
+    <node id="16F" />
+    <node id="19F" />
+    <node id="X579" />
+    <edge source="1S" target="4R/38C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1S" target="6C/S350">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1S" target="4C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1R" target="1N">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="35C" target="31C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="35C" target="3R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="35C" target="11R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="29C" target="WT048">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1C" target="5169">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1C" target="6R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1C" target="4C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="5N" target="6C/S350">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="5N" target="2S">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3C" target="GL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3C" target="14R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3C" target="9C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3C" target="20C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3C" target="19F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3C" target="X579">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="9F" target="6C/S350">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="9F" target="20C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3F" target="GL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="5C" target="20C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7W" target="12S">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7W" target="2S">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="14R" target="16C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="9C" target="14F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="24N" target="11S">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="10F" target="4R/38C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="20C" target="8F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="10R" target="GL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="10R" target="4C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="10R" target="11R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="30C" target="22R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="30C" target="13N">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="30C" target="4C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="22R" target="17F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="16R" target="11R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="16R" target="13N">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="16R" target="2S">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="2S" target="25C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="2S" target="16F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="2S" target="4C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="2S" target="6C/S350">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="2S" target="31C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="2S" target="WT048">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="5169" target="18N">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="5169" target="13N">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="WT048" target="17F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="WT048" target="17R">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="36C" target="GL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6C/S350" target="21F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6C/S350" target="4C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="10N" target="GL">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="13C" target="X579">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6F" target="19F">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="13N" target="31C">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6R" target="25C">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

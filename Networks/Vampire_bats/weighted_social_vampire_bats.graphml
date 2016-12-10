@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="count" />
+    <node id="veronica" />
+    <node id="cerce" />
+    <node id="vampirella" />
+    <node id="thecount" />
+    <node id="vlad" />
+    <node id="speedster" />
+    <node id="helsing" />
+    <node id="bella" />
+    <node id="fuschia" />
+    <node id="lucy" />
+    <node id="streblick" />
+    <node id="flapper" />
+    <node id="maribelo" />
+    <node id="mina" />
+    <node id="mya" />
+    <node id="gelfing" />
+    <node id="gomez" />
+    <node id="countess" />
+    <node id="lucy " />
+    <node id="dot" />
+    <edge source="count" target="vampirella">
+      <data key="d0">454</data>
+    </edge>
+    <edge source="veronica" target="flapper">
+      <data key="d0">565</data>
+    </edge>
+    <edge source="veronica" target="cerce">
+      <data key="d0">602</data>
+    </edge>
+    <edge source="veronica" target="vampirella">
+      <data key="d0">530</data>
+    </edge>
+    <edge source="veronica" target="thecount">
+      <data key="d0">1249</data>
+    </edge>
+    <edge source="veronica" target="speedster">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="veronica" target="mina">
+      <data key="d0">1819</data>
+    </edge>
+    <edge source="veronica" target="bella">
+      <data key="d0">556</data>
+    </edge>
+    <edge source="veronica" target="fuschia">
+      <data key="d0">800</data>
+    </edge>
+    <edge source="veronica" target="lucy">
+      <data key="d0">1189</data>
+    </edge>
+    <edge source="veronica" target="mya">
+      <data key="d0">7551</data>
+    </edge>
+    <edge source="veronica" target="countess">
+      <data key="d0">1977</data>
+    </edge>
+    <edge source="veronica" target="dot">
+      <data key="d0">385</data>
+    </edge>
+    <edge source="cerce" target="vampirella">
+      <data key="d0">149</data>
+    </edge>
+    <edge source="cerce" target="thecount">
+      <data key="d0">574</data>
+    </edge>
+    <edge source="cerce" target="flapper">
+      <data key="d0">140</data>
+    </edge>
+    <edge source="cerce" target="speedster">
+      <data key="d0">1150</data>
+    </edge>
+    <edge source="cerce" target="mina">
+      <data key="d0">1553</data>
+    </edge>
+    <edge source="cerce" target="bella">
+      <data key="d0">1537</data>
+    </edge>
+    <edge source="cerce" target="lucy">
+      <data key="d0">115</data>
+    </edge>
+    <edge source="cerce" target="maribelo">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="cerce" target="mya">
+      <data key="d0">1187</data>
+    </edge>
+    <edge source="cerce" target="countess">
+      <data key="d0">1613</data>
+    </edge>
+    <edge source="cerce" target="dot">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="vampirella" target="bella">
+      <data key="d0">1109</data>
+    </edge>
+    <edge source="vampirella" target="lucy">
+      <data key="d0">1902</data>
+    </edge>
+    <edge source="vampirella" target="maribelo">
+      <data key="d0">675</data>
+    </edge>
+    <edge source="vampirella" target="mya">
+      <data key="d0">2467</data>
+    </edge>
+    <edge source="vampirella" target="gelfing">
+      <data key="d0">967</data>
+    </edge>
+    <edge source="vampirella" target="countess">
+      <data key="d0">271</data>
+    </edge>
+    <edge source="thecount" target="flapper">
+      <data key="d0">356</data>
+    </edge>
+    <edge source="thecount" target="mina">
+      <data key="d0">212</data>
+    </edge>
+    <edge source="thecount" target="bella">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="thecount" target="countess">
+      <data key="d0">1061</data>
+    </edge>
+    <edge source="vlad" target="lucy">
+      <data key="d0">197</data>
+    </edge>
+    <edge source="speedster" target="flapper">
+      <data key="d0">131</data>
+    </edge>
+    <edge source="speedster" target="mina">
+      <data key="d0">151</data>
+    </edge>
+    <edge source="speedster" target="lucy">
+      <data key="d0">94</data>
+    </edge>
+    <edge source="speedster" target="mya">
+      <data key="d0">191</data>
+    </edge>
+    <edge source="speedster" target="countess">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="speedster" target="dot">
+      <data key="d0">425</data>
+    </edge>
+    <edge source="helsing" target="mya">
+      <data key="d0">567</data>
+    </edge>
+    <edge source="helsing" target="countess">
+      <data key="d0">43</data>
+    </edge>
+    <edge source="helsing" target="bella">
+      <data key="d0">1583</data>
+    </edge>
+    <edge source="helsing" target="lucy">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="bella" target="flapper">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="bella" target="lucy">
+      <data key="d0">583</data>
+    </edge>
+    <edge source="bella" target="fuschia">
+      <data key="d0">85</data>
+    </edge>
+    <edge source="bella" target="maribelo">
+      <data key="d0">474</data>
+    </edge>
+    <edge source="bella" target="mina">
+      <data key="d0">1832</data>
+    </edge>
+    <edge source="bella" target="mya">
+      <data key="d0">5024</data>
+    </edge>
+    <edge source="bella" target="gomez">
+      <data key="d0">544</data>
+    </edge>
+    <edge source="bella" target="countess">
+      <data key="d0">321</data>
+    </edge>
+    <edge source="bella" target="dot">
+      <data key="d0">1396</data>
+    </edge>
+    <edge source="fuschia" target="countess">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="lucy" target="flapper">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="lucy" target="maribelo">
+      <data key="d0">4102</data>
+    </edge>
+    <edge source="lucy" target="mina">
+      <data key="d0">1774</data>
+    </edge>
+    <edge source="lucy" target="mya">
+      <data key="d0">3976</data>
+    </edge>
+    <edge source="lucy" target="countess">
+      <data key="d0">295</data>
+    </edge>
+    <edge source="lucy" target="dot">
+      <data key="d0">489</data>
+    </edge>
+    <edge source="streblick" target="mya">
+      <data key="d0">5216</data>
+    </edge>
+    <edge source="flapper" target="mina">
+      <data key="d0">352</data>
+    </edge>
+    <edge source="flapper" target="gelfing">
+      <data key="d0">179</data>
+    </edge>
+    <edge source="flapper" target="countess">
+      <data key="d0">1238</data>
+    </edge>
+    <edge source="flapper" target="dot">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="mina" target="mya">
+      <data key="d0">778</data>
+    </edge>
+    <edge source="mina" target="countess">
+      <data key="d0">1893</data>
+    </edge>
+    <edge source="mina" target="dot">
+      <data key="d0">672</data>
+    </edge>
+    <edge source="mya" target="countess">
+      <data key="d0">65</data>
+    </edge>
+    <edge source="mya" target="lucy ">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="countess" target="dot">
+      <data key="d0">162</data>
+    </edge>
+  </graph>
+</graphml>

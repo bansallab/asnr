@@ -1,0 +1,788 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="DF1" />
+    <node id="DF3" />
+    <node id="DF2" />
+    <node id="AF4" />
+    <node id="AF5" />
+    <node id="AF6" />
+    <node id="AF1" />
+    <node id="AF2" />
+    <node id="AF3" />
+    <node id="AM9" />
+    <node id="AM8" />
+    <node id="AM1" />
+    <node id="AM3" />
+    <node id="AM2" />
+    <node id="AM5" />
+    <node id="AM4" />
+    <node id="AM7" />
+    <node id="AM6" />
+    <node id="AM10" />
+    <node id="DM1" />
+    <node id="DM2" />
+    <node id="DM3" />
+    <node id="DM4" />
+    <edge source="DF1" target="DF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="DF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AF4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AF5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AF6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AM9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AM8">
+      <data key="d0">304</data>
+    </edge>
+    <edge source="DF1" target="AM1">
+      <data key="d0">5754</data>
+    </edge>
+    <edge source="DF1" target="AM3">
+      <data key="d0">4742</data>
+    </edge>
+    <edge source="DF1" target="AM2">
+      <data key="d0">2712</data>
+    </edge>
+    <edge source="DF1" target="AM5">
+      <data key="d0">670</data>
+    </edge>
+    <edge source="DF1" target="AM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AM7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="AM6">
+      <data key="d0">2363</data>
+    </edge>
+    <edge source="DF1" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="DM1">
+      <data key="d0">2650</data>
+    </edge>
+    <edge source="DF1" target="DM2">
+      <data key="d0">1890</data>
+    </edge>
+    <edge source="DF1" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF1" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="DF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AF4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AF5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AF6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AM9">
+      <data key="d0">4989</data>
+    </edge>
+    <edge source="DF3" target="AM8">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AM1">
+      <data key="d0">573</data>
+    </edge>
+    <edge source="DF3" target="AM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AM5">
+      <data key="d0">1238</data>
+    </edge>
+    <edge source="DF3" target="AM4">
+      <data key="d0">620</data>
+    </edge>
+    <edge source="DF3" target="AM7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="AM6">
+      <data key="d0">741</data>
+    </edge>
+    <edge source="DF3" target="AM10">
+      <data key="d0">940</data>
+    </edge>
+    <edge source="DF3" target="DM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF3" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AF4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AF5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AF6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AM9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AM8">
+      <data key="d0">910</data>
+    </edge>
+    <edge source="DF2" target="AM1">
+      <data key="d0">1544</data>
+    </edge>
+    <edge source="DF2" target="AM3">
+      <data key="d0">3179</data>
+    </edge>
+    <edge source="DF2" target="AM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AM5">
+      <data key="d0">892</data>
+    </edge>
+    <edge source="DF2" target="AM4">
+      <data key="d0">670</data>
+    </edge>
+    <edge source="DF2" target="AM7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="AM6">
+      <data key="d0">248</data>
+    </edge>
+    <edge source="DF2" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="DM1">
+      <data key="d0">1250</data>
+    </edge>
+    <edge source="DF2" target="DM2">
+      <data key="d0">520</data>
+    </edge>
+    <edge source="DF2" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DF2" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AF5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AF6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AM9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AM8">
+      <data key="d0">1993</data>
+    </edge>
+    <edge source="AF4" target="AM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AM3">
+      <data key="d0">5422</data>
+    </edge>
+    <edge source="AF4" target="AM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AM5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AM7">
+      <data key="d0">713</data>
+    </edge>
+    <edge source="AF4" target="AM6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="DM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF4" target="DM3">
+      <data key="d0">570</data>
+    </edge>
+    <edge source="AF4" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AF6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AM9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AM8">
+      <data key="d0">1280</data>
+    </edge>
+    <edge source="AF5" target="AM1">
+      <data key="d0">1376</data>
+    </edge>
+    <edge source="AF5" target="AM3">
+      <data key="d0">1065</data>
+    </edge>
+    <edge source="AF5" target="AM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AM5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AM7">
+      <data key="d0">339</data>
+    </edge>
+    <edge source="AF5" target="AM6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="DM1">
+      <data key="d0">1740</data>
+    </edge>
+    <edge source="AF5" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF5" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AF1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM8">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="DM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF6" target="DM3">
+      <data key="d0">6190</data>
+    </edge>
+    <edge source="AF6" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AF2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AM9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AM8">
+      <data key="d0">2337</data>
+    </edge>
+    <edge source="AF1" target="AM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AM2">
+      <data key="d0">3140</data>
+    </edge>
+    <edge source="AF1" target="AM5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AM7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AM6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="DM1">
+      <data key="d0">1020</data>
+    </edge>
+    <edge source="AF1" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF1" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AF3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AM9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AM8">
+      <data key="d0">934</data>
+    </edge>
+    <edge source="AF2" target="AM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AM3">
+      <data key="d0">975</data>
+    </edge>
+    <edge source="AF2" target="AM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AM5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AM7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AM6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="DM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF2" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="AM9">
+      <data key="d0">510</data>
+    </edge>
+    <edge source="AF3" target="AM8">
+      <data key="d0">496</data>
+    </edge>
+    <edge source="AF3" target="AM1">
+      <data key="d0">321</data>
+    </edge>
+    <edge source="AF3" target="AM3">
+      <data key="d0">861</data>
+    </edge>
+    <edge source="AF3" target="AM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="AM5">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="AM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="AM7">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="AM6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="DM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AF3" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM9" target="AM8">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM9" target="AM1">
+      <data key="d0">124</data>
+    </edge>
+    <edge source="AM9" target="AM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM9" target="AM2">
+      <data key="d0">160</data>
+    </edge>
+    <edge source="AM9" target="AM5">
+      <data key="d0">951</data>
+    </edge>
+    <edge source="AM9" target="AM4">
+      <data key="d0">480</data>
+    </edge>
+    <edge source="AM9" target="AM7">
+      <data key="d0">550</data>
+    </edge>
+    <edge source="AM9" target="AM6">
+      <data key="d0">1351</data>
+    </edge>
+    <edge source="AM9" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM9" target="DM1">
+      <data key="d0">136</data>
+    </edge>
+    <edge source="AM9" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM9" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM9" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM8" target="AM1">
+      <data key="d0">2843</data>
+    </edge>
+    <edge source="AM8" target="AM3">
+      <data key="d0">888</data>
+    </edge>
+    <edge source="AM8" target="AM2">
+      <data key="d0">220</data>
+    </edge>
+    <edge source="AM8" target="AM5">
+      <data key="d0">711</data>
+    </edge>
+    <edge source="AM8" target="AM4">
+      <data key="d0">900</data>
+    </edge>
+    <edge source="AM8" target="AM7">
+      <data key="d0">230</data>
+    </edge>
+    <edge source="AM8" target="AM6">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM8" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM8" target="DM1">
+      <data key="d0">142</data>
+    </edge>
+    <edge source="AM8" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM8" target="DM3">
+      <data key="d0">1146</data>
+    </edge>
+    <edge source="AM8" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM1" target="AM3">
+      <data key="d0">836</data>
+    </edge>
+    <edge source="AM1" target="AM2">
+      <data key="d0">2140</data>
+    </edge>
+    <edge source="AM1" target="AM5">
+      <data key="d0">800</data>
+    </edge>
+    <edge source="AM1" target="AM4">
+      <data key="d0">2040</data>
+    </edge>
+    <edge source="AM1" target="AM7">
+      <data key="d0">1195</data>
+    </edge>
+    <edge source="AM1" target="AM6">
+      <data key="d0">1344</data>
+    </edge>
+    <edge source="AM1" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM1" target="DM1">
+      <data key="d0">1023</data>
+    </edge>
+    <edge source="AM1" target="DM2">
+      <data key="d0">194</data>
+    </edge>
+    <edge source="AM1" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM1" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM3" target="AM2">
+      <data key="d0">4180</data>
+    </edge>
+    <edge source="AM3" target="AM5">
+      <data key="d0">2846</data>
+    </edge>
+    <edge source="AM3" target="AM4">
+      <data key="d0">7890</data>
+    </edge>
+    <edge source="AM3" target="AM7">
+      <data key="d0">362</data>
+    </edge>
+    <edge source="AM3" target="AM6">
+      <data key="d0">1617</data>
+    </edge>
+    <edge source="AM3" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM3" target="DM1">
+      <data key="d0">244</data>
+    </edge>
+    <edge source="AM3" target="DM2">
+      <data key="d0">364</data>
+    </edge>
+    <edge source="AM3" target="DM3">
+      <data key="d0">596</data>
+    </edge>
+    <edge source="AM3" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM2" target="AM5">
+      <data key="d0">900</data>
+    </edge>
+    <edge source="AM2" target="AM4">
+      <data key="d0">960</data>
+    </edge>
+    <edge source="AM2" target="AM7">
+      <data key="d0">460</data>
+    </edge>
+    <edge source="AM2" target="AM6">
+      <data key="d0">1040</data>
+    </edge>
+    <edge source="AM2" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM2" target="DM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM2" target="DM2">
+      <data key="d0">270</data>
+    </edge>
+    <edge source="AM2" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM2" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM5" target="AM4">
+      <data key="d0">4260</data>
+    </edge>
+    <edge source="AM5" target="AM7">
+      <data key="d0">1360</data>
+    </edge>
+    <edge source="AM5" target="AM6">
+      <data key="d0">1811</data>
+    </edge>
+    <edge source="AM5" target="AM10">
+      <data key="d0">1679</data>
+    </edge>
+    <edge source="AM5" target="DM1">
+      <data key="d0">612</data>
+    </edge>
+    <edge source="AM5" target="DM2">
+      <data key="d0">659</data>
+    </edge>
+    <edge source="AM5" target="DM3">
+      <data key="d0">187</data>
+    </edge>
+    <edge source="AM5" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM4" target="AM7">
+      <data key="d0">5980</data>
+    </edge>
+    <edge source="AM4" target="AM6">
+      <data key="d0">1660</data>
+    </edge>
+    <edge source="AM4" target="AM10">
+      <data key="d0">810</data>
+    </edge>
+    <edge source="AM4" target="DM1">
+      <data key="d0">340</data>
+    </edge>
+    <edge source="AM4" target="DM2">
+      <data key="d0">1380</data>
+    </edge>
+    <edge source="AM4" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM4" target="DM4">
+      <data key="d0">130</data>
+    </edge>
+    <edge source="AM7" target="AM6">
+      <data key="d0">2309</data>
+    </edge>
+    <edge source="AM7" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM7" target="DM1">
+      <data key="d0">855</data>
+    </edge>
+    <edge source="AM7" target="DM2">
+      <data key="d0">1672</data>
+    </edge>
+    <edge source="AM7" target="DM3">
+      <data key="d0">765</data>
+    </edge>
+    <edge source="AM7" target="DM4">
+      <data key="d0">312</data>
+    </edge>
+    <edge source="AM6" target="AM10">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM6" target="DM1">
+      <data key="d0">165</data>
+    </edge>
+    <edge source="AM6" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM6" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM6" target="DM4">
+      <data key="d0">588</data>
+    </edge>
+    <edge source="AM10" target="DM1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM10" target="DM2">
+      <data key="d0">946</data>
+    </edge>
+    <edge source="AM10" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="AM10" target="DM4">
+      <data key="d0">448</data>
+    </edge>
+    <edge source="DM1" target="DM2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DM1" target="DM3">
+      <data key="d0">204</data>
+    </edge>
+    <edge source="DM1" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DM2" target="DM3">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DM2" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="DM3" target="DM4">
+      <data key="d0">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="YI" />
+    <node id="YJ" />
+    <node id="YM" />
+    <node id="cc" />
+    <node id="YB" />
+    <node id="YE" />
+    <node id="6491" />
+    <node id="YR" />
+    <node id="T850" />
+    <node id="7714" />
+    <node id="unknown" />
+    <node id="7520" />
+    <node id="YA" />
+    <node id="X528" />
+    <node id="3TC_5777" />
+    <node id="7732" />
+    <node id="7731" />
+    <node id="6ZN_6387_6604" />
+    <node id="UI_7513" />
+    <node id="EN" />
+    <node id="EE" />
+    <node id="EG" />
+    <node id="6RA_6491_6493" />
+    <node id="5773" />
+    <node id="UNK" />
+    <node id="ER" />
+    <node id="3MX" />
+    <node id="UT" />
+    <node id="sf" />
+    <node id="7523" />
+    <node id="UO" />
+    <node id="UH" />
+    <node id="7721" />
+    <node id="7724" />
+    <node id="UY_7749" />
+    <edge source="YI" target="YR">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="YJ" target="YR">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="YM" target="YR">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="cc" target="sf">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="YB" target="YE">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6491" target="YA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="T850" target="7520">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7714" target="ER">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="unknown" target="UT">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="X528" target="UNK">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3TC_5777" target="6RA_6491_6493">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="3TC_5777" target="5773">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7732" target="UO">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7732" target="3MX">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7731" target="7724">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6ZN_6387_6604" target="6RA_6491_6493">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="UI_7513" target="UO">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="EN" target="EE">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="EE" target="EG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="6RA_6491_6493" target="5773">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="UT" target="UH">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="7523" target="UY_7749">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="UH" target="7721">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

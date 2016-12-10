@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="067057333" />
+    <node id="067854119" />
+    <node id="066851623" />
+    <node id="067264607" />
+    <node id="067081593" />
+    <node id="066846037" />
+    <node id="066840854" />
+    <node id="067009841" />
+    <node id="067023588" />
+    <node id="066828259" />
+    <node id="066813831" />
+    <edge source="067057333" target="067057333">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="067057333" target="067854119">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067057333" target="067264607">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067057333" target="066846037">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="067057333" target="066828259">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="067057333" target="066813831">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="067854119" target="066840854">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="066851623" target="067081593">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067264607" target="066846037">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067081593" target="067023588">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="066846037" target="066846037">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="066840854" target="066840854">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="067009841" target="067009841">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="067023588" target="067023588">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="066828259" target="066813831">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>
