@@ -1,4 +1,29 @@
-<table border="1" class="dataframe">
+<style>
+table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover{background-color:#ddd;}
+</style>
+<table border="1" class="GenericTable">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -11,17 +36,17 @@
       <th>Interaction type</th>
       <th>Edge weight criteria</th>
       <th>Is_Connected</th>
-      <th>Number of nodes</th>
-      <th>Number of edges</th>
+      <th>Nodes</th>
+      <th>Edges</th>
       <th>Network Density</th>
       <th>Average degree</th>
       <th>Std(degree sequence)</th>
       <th>CV degree</th>
       <th>Skewness</th>
       <th>Average node strength</th>
-      <th>Degree assortativity Unweighted</th>
-      <th>Betweeness centralization (WEIGHTED)</th>
-      <th>Betweenness centralization (UNWEIGHTED)</th>
+      <th>Degree assortativity (unweighted)</th>
+      <th>Betweeness centralization (weighted)</th>
+      <th>Betweenness centralization (unweighted)</th>
       <th>Transitivity</th>
       <th>Average Clustering coefficient (unweighted)</th>
       <th>Average Clustering coefficient (weighted)</th>
