@@ -23,3 +23,6 @@ google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
