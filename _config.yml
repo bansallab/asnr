@@ -1,24 +1,22 @@
 # Site settings
 title: Animal social network repository
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 
+  This repository provides free access to published non-human social networks.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
 owner: Bansal Lab
-email: shweta@sbansal.com
+email: prathasah@gmail.com, shweta@sbansal.com
 twitter_username: bansallab
 github_username: bansallab
 address:
   - line: Regents Hall, Georgetown University 
   - line: "37th and O Streets, N.W., Washington, DC 20057-1229"
   # Feel free to add more lines here 
-telephone: (123) 456-7890
-copyright: Your Site
+#telephone: (123) 456-7890
+copyright: Bansallab
 
 # API settings
 google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
