@@ -244,4 +244,4 @@ N240_ant_mersch_col6_day36.graphml|*Camponotus fellah*|Insecta|physical contact|
 N241_ant_mersch_col6_day37.graphml|*Camponotus fellah*|Insecta|physical contact|Experimental Lab|91|2570|0.628|56.483999999999995|0.2850718788|0.254567557||||3.0
 N242_ant_mersch_col6_day38.graphml|*Camponotus fellah*|Insecta|physical contact|Experimental Lab|91|2475|0.604|54.396|0.2956651224|0.296937865||||2.0
 N243_ant_mersch_col6_day39.graphml|*Camponotus fellah*|Insecta|physical contact|Experimental Lab|91|2447|0.598|53.78|0.2883599851|0.302611975||||2.0
-Citation: Mersch, Danielle P., Alessandro Crespi, and Laurent Keller. "Tracking individuals shows spatial fidelity is a key regulator of ant social organization."Science 340.6136 (2013): 1090-1093.
+**Citation:** Mersch, Danielle P., Alessandro Crespi, and Laurent Keller. "Tracking individuals shows spatial fidelity is a key regulator of ant social organization."Science 340.6136 (2013): 1090-1093.
