@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="047023592" />
+    <node id="043807083" />
+    <node id="047022043" />
+    <node id="047055797" />
+    <node id="047081320" />
+    <node id="047043098" />
+    <node id="047015269" />
+    <node id="047001780" />
+    <node id="043892368" />
+    <node id="047018784" />
+    <node id="047034006" />
+    <node id="047086298" />
+    <node id="045095064" />
+    <node id="045094374" />
+    <node id="047002309" />
+    <node id="047048553" />
+    <node id="046872021" />
+    <node id="047096893" />
+    <node id="047062783" />
+    <node id="047064564" />
+    <node id="043852083" />
+    <node id="047093838" />
+    <node id="047016834" />
+    <node id="047052299" />
+    <node id="047057360" />
+    <node id="047012515" />
+    <node id="047082793" />
+    <node id="047003824" />
+    <edge source="047023592" target="047082793">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047023592" target="047086298">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047023592" target="047001780">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047023592" target="047057360">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="043807083" target="047055797">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="043807083" target="047016834">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="043807083" target="047052299">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="043807083" target="047048553">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047022043" target="047012515">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047022043" target="047052299">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047055797" target="045095064">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047055797" target="047052299">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047081320" target="047034006">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047081320" target="047015269">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047043098" target="047018784">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047043098" target="047002309">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047015269" target="047082793">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047001780" target="047082793">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="043892368" target="047016834">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="043892368" target="043852083">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047086298" target="047082793">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="047086298" target="047057360">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="045094374" target="047062783">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047048553" target="047016834">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="046872021" target="047096893">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046872021" target="047093838">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046872021" target="047064564">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047096893" target="047093838">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047064564" target="043852083">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047052299" target="047012515">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047057360" target="047003824">
+      <data key="d0">2</data>
+    </edge>
+  </graph>
+</graphml>

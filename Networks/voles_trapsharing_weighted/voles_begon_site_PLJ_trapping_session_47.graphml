@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="079557881" />
+    <node id="096529329" />
+    <node id="072626077" />
+    <node id="072837348" />
+    <node id="073033842" />
+    <node id="073111827" />
+    <node id="079778296" />
+    <node id="073041621" />
+    <node id="072801068" />
+    <node id="073068539" />
+    <node id="079788875" />
+    <node id="096378003" />
+    <node id="079572054" />
+    <node id="079783065" />
+    <node id="096382881" />
+    <node id="067008379" />
+    <node id="079569091" />
+    <node id="073103516" />
+    <node id="072776818" />
+    <node id="072794281" />
+    <node id="096537350" />
+    <node id="073060117" />
+    <node id="079787035" />
+    <node id="096543337" />
+    <node id="067064870" />
+    <node id="073042617" />
+    <node id="096354787" />
+    <node id="073108884" />
+    <node id="096380524" />
+    <node id="072883861" />
+    <node id="072629257" />
+    <edge source="079557881" target="073042617">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079557881" target="073111827">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="079557881" target="067064870">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="096529329" target="096354787">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096529329" target="079783065">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="096529329" target="079572054">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="096529329" target="073103516">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096529329" target="096380524">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="072626077" target="096380524">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="072837348" target="073068539">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073033842" target="079778296">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="073033842" target="067008379">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073111827" target="073060117">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073111827" target="067064870">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="079778296" target="067008379">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079778296" target="072629257">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073041621" target="072801068">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="073041621" target="067064870">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="072801068" target="096543337">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079788875" target="072629257">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096378003" target="073103516">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="079572054" target="096380524">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079783065" target="096354787">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096382881" target="072776818">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="067008379" target="073103516">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="079569091" target="072794281">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="072776818" target="073108884">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096537350" target="072883861">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096537350" target="079787035">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096537350" target="096543337">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

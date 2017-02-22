@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="072893056" />
+    <node id="067063272" />
+    <node id="067084812" />
+    <node id="073084005" />
+    <node id="072801068" />
+    <node id="072797843" />
+    <node id="073045077" />
+    <node id="067008379" />
+    <node id="072792556" />
+    <node id="067059850" />
+    <node id="072837348" />
+    <node id="063537040" />
+    <node id="072629377" />
+    <node id="072851873" />
+    <edge source="072893056" target="067084812">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067063272" target="072797843">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067063272" target="067059850">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073084005" target="072797843">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073084005" target="072792556">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="072801068" target="072797843">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="072801068" target="063537040">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="072797843" target="063537040">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="073045077" target="072629377">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067008379" target="072851873">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="067008379" target="072837348">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="072837348" target="072851873">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

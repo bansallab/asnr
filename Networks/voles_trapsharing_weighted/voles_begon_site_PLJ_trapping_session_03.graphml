@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="045028276" />
+    <node id="046892311" />
+    <node id="047007544" />
+    <node id="047084880" />
+    <node id="047041569" />
+    <node id="046889041" />
+    <node id="047007078" />
+    <node id="047016120" />
+    <node id="044047041" />
+    <node id="047089590" />
+    <node id="047001780" />
+    <node id="044065530" />
+    <node id="047045808" />
+    <node id="044038575" />
+    <node id="047031842" />
+    <node id="046894296" />
+    <node id="047098322" />
+    <node id="047015547" />
+    <node id="045095064" />
+    <node id="044040039" />
+    <node id="043861584" />
+    <node id="046894091" />
+    <node id="047016877" />
+    <node id="047011791" />
+    <node id="047037110" />
+    <node id="046861381" />
+    <node id="047016363" />
+    <node id="047033381" />
+    <node id="047004544" />
+    <node id="047007875" />
+    <edge source="045028276" target="046892311">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="045028276" target="044040039">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046892311" target="044040039">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047007544" target="047098322">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047084880" target="044065530">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047041569" target="047031842">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="046889041" target="047037110">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046889041" target="047015547">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047007078" target="047098322">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047007078" target="047089590">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047016120" target="046894091">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044047041" target="044065530">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047089590" target="046894091">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047089590" target="047011791">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047001780" target="047037110">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047045808" target="047098322">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047045808" target="045095064">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="044038575" target="046861381">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044038575" target="043861584">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="044038575" target="047016363">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047031842" target="047015547">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="046894296" target="045095064">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047015547" target="047037110">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="043861584" target="046861381">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="043861584" target="047016363">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="046894091" target="047011791">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046894091" target="047004544">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047016877" target="047007875">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047037110" target="047033381">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="046861381" target="047016363">
+      <data key="d0">3</data>
+    </edge>
+  </graph>
+</graphml>

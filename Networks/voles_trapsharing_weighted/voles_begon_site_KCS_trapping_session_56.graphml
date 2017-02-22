@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="095594579" />
+    <node id="079783103" />
+    <node id="095595084" />
+    <node id="095566605" />
+    <node id="095571892" />
+    <node id="079774516" />
+    <node id="095593615" />
+    <node id="079599030" />
+    <node id="079560820" />
+    <node id="095593845" />
+    <node id="079589786" />
+    <node id="079594031" />
+    <node id="096379298" />
+    <node id="079768283" />
+    <node id="079586105" />
+    <node id="079769798" />
+    <node id="079594306" />
+    <node id="095595516" />
+    <edge source="095594579" target="095593615">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="095594579" target="095595084">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="095594579" target="095566605">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079783103" target="079768283">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079783103" target="095566605">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079783103" target="079599030">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="079783103" target="095593845">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079783103" target="096379298">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079783103" target="079769798">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079783103" target="079594306">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="095566605" target="079768283">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="095566605" target="095593615">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="095566605" target="095593845">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="095566605" target="096379298">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="095571892" target="079586105">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="095571892" target="079594031">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079774516" target="079589786">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="095593615" target="079768283">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079599030" target="079769798">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="079599030" target="079594306">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="079560820" target="096379298">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="095593845" target="079768283">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="095593845" target="096379298">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079594031" target="079586105">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096379298" target="079768283">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079768283" target="095595516">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="079769798" target="079594306">
+      <data key="d0">2</data>
+    </edge>
+  </graph>
+</graphml>
