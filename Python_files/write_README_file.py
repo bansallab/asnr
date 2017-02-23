@@ -10,8 +10,8 @@ import numpy as np
 import csv
 import zipfile
 ############################################################################
-mydir = "ants_proximity_weighted/"
-author = "mersch" 
+mydir = "voles_trapsharing_weighted/"
+author = "begon" 
 
 dt = pd.read_csv('Network_attributes.csv')
 dt_sub = dt[dt['Filename'].str.contains(author)] 
@@ -68,8 +68,9 @@ for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir))):
 			####################################################
 			#if no edges then return NAs
 			if n_edges==0:
-				elements = [num, filename, "NA", n_nodes, n_edges] + ["NA"]*18
-				writer.writerow(elements)
+				row = [filename, taxa, class1, interaction, location, n_nodes, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+				df_row = pd.DataFrame([row], columns = index_col) 
+				df = pd.concat([df, df_row])
 				continue
 			########################################################
 			## remove edges with weight zero
