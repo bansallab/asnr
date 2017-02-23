@@ -140,7 +140,6 @@ for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir))):
 			df_row = pd.DataFrame([row], columns = index_col) 
 			df = pd.concat([df, df_row])
 ######################################################################################		
-df['Filename'] = df['Filename'].str.split('_').str.get(0)
 df['Taxa'] = df['Taxa'].str.replace('_', ' ')
 df['Taxa'] = "*" + df['Taxa'] +"*"
 df['Interaction type'] = df['Interaction type'].str.replace('_', ' ')
