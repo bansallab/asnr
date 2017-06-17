@@ -31,7 +31,7 @@
 
 <body>
 
-    <!-- Navigation -->
+   <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -42,21 +42,30 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+                <a class="navbar-brand" href="index.html">ASNR</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="active">
+                    <li>
                         <a href="about.html">About</a>
                     </li>
                     <li>
-                        <a href="services.html">Services</a>
+                        <a href="datasets.html">Network Datasets</a>
+                    </li>
+                    <li>
+                        <a href="summary.html">Network Summary</a>
+                    </li>
+                    <li>
+                        <a href="citation.html">Citation</a>
+                    </li>
+                    <li>
+                        <a href="contribute.html">Contribute</a>
                     </li>
                     <li>
                         <a href="contact.html">Contact</a>
                     </li>
-                    <li class="dropdown">
+                    <!-- <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
@@ -109,7 +118,7 @@
                                 <a href="pricing.html">Pricing Table</a>
                             </li>
                         </ul>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -117,19 +126,61 @@
         <!-- /.container -->
     </nav>
 
+    <!-- Header Carousel -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <!--<div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>-->
+        <img class="img-portfolio img-responsive" src="img/Elephant_herd_Serengeti.jpg">                
+        <div class="carousel-caption">
+                    <!-- <h2>Caption 1</h2> -->
+                </div>
+            </div>
+            <div class="item">
+                <!--<div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>-->
+        <img class="img-portfolio img-responsive" src="img/bison.jpg"> 
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 2</h2> -->
+                </div>
+            </div>
+            <div class="item">
+                 <!--<div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>-->
+        <img class="img-portfolio img-responsive" src="img/geese.jpg"> 
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 3</h2> -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+    </header>
     <!-- Page Content -->
     <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">About
-                    <small>Subheading</small>
+                <!-- <h1 class="page-header">About -->
+                    <!-- <small>Subheading</small> -->
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a>
+                    <!-- <li><a href="index.html">Home</a> -->
                     </li>
-                    <li class="active">About</li>
+                    <!-- <li class="active">About</li> -->
                 </ol>
             </div>
         </div>
@@ -138,11 +189,18 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-6">
-                <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                <br>
+                <img class="img-responsive" src="img/birds.jpg" alt="">
             </div>
             <div class="col-md-6">
+                <br><br>
                 <h2>About the Repository</h2>
                 <p>This is an effort on the part of Bansal laboratory to encourage studies and comparative analyses on non-human social networks. All of the datasets provided are part of published peer-review literature. The networks span multiple taxonomic order and include interaction networks of several species of mammals, insects, birds, reptiles and fishes. It is our hope that the networks in this repository further advance the field of animal social network theory. This data repository can be used to answer multiple scientific inquiries in varying fields including the ones on social behavior, social evolution, information transfer and disease transmission.</p>
+                <!-- <p>This network repository is an effort on the part of <a href="http://bansallab.com/index.html">Bansal laboratory</a> to encourage studies and comparative analyses on non-human social networks. It is composed of five-hundred and thirty-five networks from forty-six different species spanning multiple taxonomic orders. All of the datasets provided are part of published peer-review literature. 
+
+                <br><br>This repository is novel in that it incorporates different animal networks that vary in sociality levels, including social, solitary and fission fusion. Networks vary in interaction criteria, edge definition, and weighted and unweighted, and in many more network properties as well. However, this repository synthesizes all of these networks in an organized, consistent manner in order to make sure that the networks are user-friendly. 
+
+                <br><br>It is our hope that the networks in this repository further advance the field of animal social network theory, yet the networks in this repository are not limited to questions of sociality. Due to its extensive and detailed nature, this data repository can be used to answer multiple scientific inquiries in varying fields including the ones on social behavior, social evolution, information transfer and disease transmission.</p> -->
             </div>
         </div>
         <!-- /.row -->
@@ -150,55 +208,56 @@
         <!-- Team Members -->
         <div class="row">
             <div class="col-lg-12">
+            <br><br>
                 <h2 class="page-header">Our Team</h2>
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <img class="img-responsive" src="img/shweta.jpg" alt="" height="170" width="170">
                     <div class="caption">
-                        <h3>John Smith<br>
-                            <small>Job Title</small>
+                        <h3>Shweta Bansal<br>
+                            <small>Assistant Professor of Biology <br>Georgetown University</small>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
-                        <ul class="list-inline">
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p> -->
+                        <!-- <ul class="list-inline">
                             <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
                             </li>
                             <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
                             </li>
                             <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <img class="img-responsive" src="img/pratha.jpg" alt="" height="500" width="500">
                     <div class="caption">
-                        <h3>John Smith<br>
-                            <small>Job Title</small>
+                        <h3>Pratha Sah<br>
+                            <small>PhD Student in Biology <br>Georgetown University</small>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
-                        <ul class="list-inline">
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p> -->
+                        <!-- <ul class="list-inline">
                             <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
                             </li>
                             <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
                             </li>
                             <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 text-center">
+            <!-- <div class="col-md-4 text-center">
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
-                    <div class="caption">
-                        <h3>John Smith<br>
-                            <small>Job Title</small>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
-                        <ul class="list-inline">
+                    <div class="caption"> -->
+                        <!-- <h3>John Smith<br> -->
+                            <!-- <small>Job Title</small> -->
+                        <!-- </h3> -->
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p> -->
+                        <!-- <ul class="list-inline">
                             <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
                             </li>
                             <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
@@ -208,7 +267,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
         <!-- /.row -->
 
@@ -220,7 +279,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
+                    <!-- <p>Copyright &copy; Your Website 2014</p> -->
                 </div>
             </div>
         </footer>

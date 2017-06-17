@@ -1,27 +1,33 @@
+<link rel="stylesheet" href="modern-business.css">
 <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
 <nav id="sidebar-wrapper">
+
   <ul class="sidebar-nav">
     <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
     <li class="sidebar-brand">
-      <a href="#dataset"  onclick = $("#menu-close").click(); >Network datasets</a>
+      <a data-toggle="tab" href="#top" onclick = $("#menu-close").click(); >Home</a>
     </li>
     <li>
-      <a href="#top" onclick = $("#menu-close").click(); >Home</a>
+      <a data-toggle="tab" href="#about" onclick = $("#menu-close").click(); >About</a>
     </li>
     <li>
-      <a href="#about" onclick = $("#menu-close").click(); >About</a>
+      <a data-toggle="tab" href="#dataset"  onclick = $("#menu-close").click(); >Network datasets</a>
     </li>
     <li>
-      <a href="#citation" onclick = $("#menu-close").click(); >Citation</a>
-    </li>
-        <li>
-      <a href="#contribute" onclick = $("#menu-close").click(); >Contribute</a>
+      <a data-toggle="tab" href="#table" onclick = $("#menu-close").click(); >Network summary</a>
     </li>
     <li>
-      <a href="#table" onclick = $("#menu-close").click(); >Network summary</a>
+      <a data-toggle="tab" href="#citation" onclick = $("#menu-close").click(); >Citation</a>
     </li>
     <li>
-      <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
+      <a data-toggle="tab" href="#contribute" onclick = $("#menu-close").click(); >Contribute</a>
+    </li>
+    <li>
+      <a data-toggle="tab" href="#contact" onclick = $("#menu-close").click(); >Contact</a>
     </li>
   </ul>
+
 </nav>
+
+
+
