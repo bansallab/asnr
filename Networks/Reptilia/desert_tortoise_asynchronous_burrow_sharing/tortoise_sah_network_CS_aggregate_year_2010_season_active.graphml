@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="TFW6758" />
+    <node id="TCS0027" />
+    <node id="TCS0026" />
+    <node id="TCS0025" />
+    <node id="TCS0002" />
+    <node id="TCS0023" />
+    <node id="TCS0004" />
+    <node id="TFW7850" />
+    <node id="TCS0059" />
+    <node id="TCS0012" />
+    <node id="TCS0010" />
+    <node id="TCS0035" />
+    <node id="TCS0052" />
+    <node id="TCS0050" />
+    <node id="TCS0051" />
+    <node id="TFW6752" />
+    <node id="TCS0054" />
+    <node id="TCS0055" />
+    <node id="TCS0024" />
+    <node id="TCS0005" />
+    <node id="TCS0011" />
+    <node id="TCS0030" />
+    <node id="TCS0031" />
+    <node id="TCS0032" />
+    <node id="TCS0022" />
+    <node id="TCS0033" />
+    <node id="TCS0049" />
+    <node id="TCS0046" />
+    <edge source="TFW6758" target="TCS0005" />
+    <edge source="TFW6758" target="TCS0030" />
+    <edge source="TFW6758" target="TCS0022" />
+    <edge source="TFW6758" target="TCS0012" />
+    <edge source="TFW6758" target="TCS0054" />
+    <edge source="TFW6758" target="TCS0055" />
+    <edge source="TCS0027" target="TCS0049" />
+    <edge source="TCS0027" target="TCS0051" />
+    <edge source="TCS0027" target="TCS0023" />
+    <edge source="TCS0027" target="TCS0010" />
+    <edge source="TCS0026" target="TCS0035" />
+    <edge source="TCS0026" target="TCS0025" />
+    <edge source="TCS0025" target="TCS0052" />
+    <edge source="TCS0002" target="TCS0046" />
+    <edge source="TCS0023" target="TCS0051" />
+    <edge source="TCS0004" target="TCS0046" />
+    <edge source="TCS0004" target="TCS0005" />
+    <edge source="TCS0004" target="TCS0011" />
+    <edge source="TCS0012" target="TCS0030" />
+    <edge source="TCS0012" target="TCS0022" />
+    <edge source="TCS0012" target="TCS0033" />
+    <edge source="TCS0012" target="TCS0011" />
+    <edge source="TCS0012" target="TCS0054" />
+    <edge source="TCS0012" target="TCS0055" />
+    <edge source="TCS0010" target="TCS0051" />
+    <edge source="TCS0010" target="TCS0032" />
+    <edge source="TCS0035" target="TCS0052" />
+    <edge source="TCS0051" target="TCS0031" />
+    <edge source="TFW6752" target="TCS0033" />
+    <edge source="TFW6752" target="TCS0011" />
+    <edge source="TCS0054" target="TCS0005" />
+    <edge source="TCS0054" target="TCS0022" />
+    <edge source="TCS0054" target="TCS0011" />
+    <edge source="TCS0054" target="TCS0046" />
+    <edge source="TCS0054" target="TCS0055" />
+    <edge source="TCS0055" target="TCS0030" />
+    <edge source="TCS0005" target="TCS0046" />
+    <edge source="TCS0011" target="TCS0033" />
+  </graph>
+</graphml>

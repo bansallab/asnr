@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="T22486" />
+    <node id="T22487" />
+    <node id="T22485" />
+    <node id="TCS0092A" />
+    <node id="T22646" />
+    <node id="TCS0092B" />
+    <node id="T22642" />
+    <node id="T22361" />
+    <node id="TCS0071" />
+    <node id="TCS0016" />
+    <node id="T22306" />
+    <node id="TCS0012" />
+    <node id="TCS0010" />
+    <node id="TCS0011" />
+    <node id="T22300" />
+    <node id="TCS0063" />
+    <node id="TCS0062" />
+    <node id="TCS0060" />
+    <node id="TCS0066" />
+    <node id="TCS0065" />
+    <node id="TCS0064" />
+    <node id="TCS0069" />
+    <node id="TFW7850" />
+    <node id="T22421" />
+    <node id="T22380" />
+    <node id="T22305" />
+    <node id="T22304" />
+    <node id="TCS0072" />
+    <node id="TCS0073" />
+    <node id="TCS0074" />
+    <node id="TCS0075" />
+    <node id="TCS0077" />
+    <node id="TCS0078" />
+    <node id="TCS0079" />
+    <node id="T22638" />
+    <node id="T22439" />
+    <node id="T22438" />
+    <node id="TCS0049" />
+    <node id="TCS0046" />
+    <node id="TCS0041" />
+    <node id="TCS0040" />
+    <node id="TCS0042" />
+    <node id="TFW6758" />
+    <node id="T20822" />
+    <node id="TCS0028" />
+    <node id="TCS0027" />
+    <node id="TCS0026" />
+    <node id="TCS0025" />
+    <node id="TCS0024" />
+    <node id="TCS0023" />
+    <node id="TCS0022" />
+    <node id="TCS0021" />
+    <node id="TCS0020" />
+    <node id="T22446" />
+    <node id="T22447" />
+    <node id="T22444" />
+    <node id="T22443" />
+    <node id="T22440" />
+    <node id="T22441" />
+    <node id="TCS0052" />
+    <node id="T22520" />
+    <node id="TCS0055" />
+    <node id="TCS0002" />
+    <node id="TCS0028A" />
+    <node id="TCS0036" />
+    <node id="TCS0030" />
+    <node id="TCS0032" />
+    <node id="T22182" />
+    <node id="T21793" />
+    <node id="T22518" />
+    <node id="T22455" />
+    <node id="T22454" />
+    <node id="T22457" />
+    <node id="T22453" />
+    <node id="T22637" />
+    <node id="TFW7890" />
+    <node id="TCS0008" />
+    <node id="TFW6752" />
+    <node id="T22184" />
+    <node id="TCS0005" />
+    <node id="TCS0004" />
+    <node id="TCS0081" />
+    <node id="TCS0080" />
+    <node id="TCS0083" />
+    <node id="TCS0082" />
+    <node id="TCS0085" />
+    <node id="TCS0084" />
+    <node id="TCS0087" />
+    <node id="TCS0086" />
+    <node id="TCS0089" />
+    <node id="TCS0088" />
+    <node id="T22463" />
+    <node id="T22464" />
+    <node id="T22465" />
+    <node id="TCS0091A" />
+    <node id="TCS0098" />
+    <node id="TCS0099" />
+    <node id="TCS0096" />
+    <node id="TCS0033" />
+    <node id="TCS0093" />
+    <node id="TCS0090" />
+    <node id="T22372" />
+    <node id="T22379" />
+    <node id="T20551" />
+    <node id="T20489" />
+    <edge source="T22486" target="T20551" />
+    <edge source="T22487" target="TCS0069" />
+    <edge source="TCS0012" target="T22637" />
+    <edge source="TCS0012" target="TCS0022" />
+    <edge source="TCS0012" target="TCS0011" />
+    <edge source="TCS0011" target="TCS0033" />
+    <edge source="TCS0060" target="TFW6752" />
+    <edge source="TCS0060" target="TCS0033" />
+    <edge source="TCS0060" target="TFW7850" />
+    <edge source="TCS0060" target="TCS0064" />
+    <edge source="TCS0066" target="TCS0008" />
+    <edge source="TCS0069" target="TCS0080" />
+    <edge source="TCS0069" target="TCS0083" />
+    <edge source="T22380" target="TCS0072" />
+    <edge source="T22305" target="T21793" />
+    <edge source="TCS0072" target="TCS0080" />
+    <edge source="TCS0072" target="T22465" />
+    <edge source="TCS0078" target="TCS0079" />
+    <edge source="TCS0078" target="T22184" />
+    <edge source="TCS0079" target="T22184" />
+    <edge source="T22438" target="T22464" />
+    <edge source="TCS0046" target="TCS0005" />
+    <edge source="TCS0046" target="TCS0004" />
+    <edge source="T20822" target="T22454" />
+    <edge source="TCS0025" target="TCS0052" />
+    <edge source="TCS0020" target="T22182" />
+    <edge source="TCS0030" target="TCS0004" />
+    <edge source="TFW6752" target="TCS0033" />
+    <edge source="TCS0005" target="TCS0004" />
+    <edge source="T22379" target="T20489" />
+  </graph>
+</graphml>

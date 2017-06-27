@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="TPV122" />
+    <node id="T15454" />
+    <node id="T16054" />
+    <node id="T15170" />
+    <node id="TPV144" />
+    <node id="TPV147" />
+    <node id="TPV141" />
+    <node id="TPV140" />
+    <node id="TPV143" />
+    <node id="TPV142" />
+    <node id="TPV101" />
+    <node id="TPV111" />
+    <node id="T15875" />
+    <node id="T15876" />
+    <node id="T15759" />
+    <node id="T15953" />
+    <node id="TPV145" />
+    <node id="TPV134" />
+    <node id="TPV136" />
+    <node id="T16068" />
+    <node id="TPV131" />
+    <node id="TPV133" />
+    <node id="T15993" />
+    <node id="TPV138" />
+    <node id="TPV139" />
+    <node id="T15994" />
+    <node id="T13072" />
+    <node id="T15000" />
+    <node id="TPV118" />
+    <node id="T15711" />
+    <node id="T15995" />
+    <node id="TPV117" />
+    <node id="TPV114" />
+    <node id="TPV109" />
+    <node id="T16086" />
+    <node id="T15923" />
+    <node id="T14862" />
+    <node id="T15776" />
+    <node id="T16168" />
+    <node id="T15944" />
+    <edge source="TPV122" target="TPV140" />
+    <edge source="TPV144" target="TPV109" />
+    <edge source="TPV147" target="TPV118" />
+    <edge source="TPV141" target="TPV114" />
+    <edge source="TPV134" target="TPV136" />
+    <edge source="TPV134" target="TPV117" />
+    <edge source="TPV134" target="TPV133" />
+    <edge source="TPV136" target="TPV117" />
+    <edge source="TPV136" target="TPV133" />
+    <edge source="T16068" target="T16086" />
+    <edge source="TPV133" target="TPV117" />
+  </graph>
+</graphml>

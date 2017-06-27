@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="TCS0029" />
+    <node id="TCS0001" />
+    <node id="TCS0003" />
+    <node id="TCS0002" />
+    <node id="TCS0005" />
+    <node id="TCS0004" />
+    <node id="TCS0007" />
+    <node id="TCS0006" />
+    <node id="TCS0014" />
+    <node id="TCS0015" />
+    <node id="TCS0012" />
+    <node id="TCS0013" />
+    <node id="TCS0010" />
+    <node id="TCS0011" />
+    <node id="TCS0053" />
+    <node id="TCS0055" />
+    <edge source="TCS0003" target="TCS0002" />
+    <edge source="TCS0003" target="TCS0004" />
+    <edge source="TCS0002" target="TCS0004" />
+    <edge source="TCS0005" target="TCS0004" />
+    <edge source="TCS0007" target="TCS0010" />
+    <edge source="TCS0006" target="TCS0053" />
+    <edge source="TCS0006" target="TCS0012" />
+  </graph>
+</graphml>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="THW0237" />
+    <node id="THW0236" />
+    <node id="TFW6959" />
+    <node id="THW0231" />
+    <node id="THW0208" />
+    <node id="THW0209" />
+    <node id="TFW6462" />
+    <node id="THW0230" />
+    <node id="THW0239" />
+    <node id="THW0206" />
+    <node id="THW0240" />
+    <node id="THW0212" />
+    <node id="THW0246" />
+    <node id="THW0244" />
+    <node id="THW0245" />
+    <node id="TFW7060" />
+    <node id="THW0227" />
+    <edge source="THW0237" target="THW0239" />
+    <edge source="THW0236" target="THW0208" />
+    <edge source="TFW6959" target="TFW7060" />
+    <edge source="TFW6959" target="THW0231" />
+    <edge source="TFW6959" target="THW0244" />
+    <edge source="THW0231" target="TFW7060" />
+    <edge source="THW0231" target="THW0244" />
+  </graph>
+</graphml>

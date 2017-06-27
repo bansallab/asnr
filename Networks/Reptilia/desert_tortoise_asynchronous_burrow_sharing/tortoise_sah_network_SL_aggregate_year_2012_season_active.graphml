@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="TCN717" />
+    <node id="TCN716" />
+    <node id="TCN714" />
+    <node id="TCN710" />
+    <node id="TCN719" />
+    <node id="TCN718" />
+    <node id="TCN701" />
+    <node id="TCN702" />
+    <node id="TCN703" />
+    <node id="TCN704" />
+    <node id="TCN705" />
+    <node id="TCN706" />
+    <edge source="TCN717" target="TCN703" />
+    <edge source="TCN719" target="TCN718" />
+    <edge source="TCN702" target="TCN703" />
+    <edge source="TCN702" target="TCN705" />
+    <edge source="TCN703" target="TCN705" />
+  </graph>
+</graphml>

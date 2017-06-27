@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="TCN825" />
+    <node id="TCN824" />
+    <node id="TCN827" />
+    <node id="TCN826" />
+    <node id="TCN821" />
+    <node id="TCN820" />
+    <node id="TCN823" />
+    <node id="TCN808" />
+    <node id="TCN806" />
+    <node id="TCN805" />
+    <node id="TCN804" />
+    <node id="TCN803" />
+    <node id="TCN802" />
+    <node id="TCN801" />
+    <node id="TCN822" />
+    <node id="TCN812" />
+    <node id="TCN813" />
+    <node id="TCN815" />
+    <node id="TCN816" />
+    <node id="TCN817" />
+    <node id="TCN818" />
+    <node id="TCN819" />
+    <edge source="TCN824" target="TCN826" />
+    <edge source="TCN824" target="TCN815" />
+    <edge source="TCN824" target="TCN816" />
+    <edge source="TCN824" target="TCN808" />
+    <edge source="TCN824" target="TCN804" />
+    <edge source="TCN824" target="TCN823" />
+    <edge source="TCN827" target="TCN812" />
+    <edge source="TCN826" target="TCN804" />
+    <edge source="TCN826" target="TCN815" />
+    <edge source="TCN826" target="TCN823" />
+    <edge source="TCN826" target="TCN808" />
+    <edge source="TCN821" target="TCN817" />
+    <edge source="TCN820" target="TCN819" />
+    <edge source="TCN820" target="TCN804" />
+    <edge source="TCN823" target="TCN804" />
+    <edge source="TCN823" target="TCN815" />
+    <edge source="TCN823" target="TCN808" />
+    <edge source="TCN808" target="TCN804" />
+    <edge source="TCN808" target="TCN815" />
+    <edge source="TCN804" target="TCN815" />
+  </graph>
+</graphml>
