@@ -1,0 +1,167 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="DBMREEG " />
+    <node id="DBMWHEG " />
+    <node id="DBMLBBK " />
+    <node id="OREGDBM " />
+    <node id="DBMLBLB " />
+    <node id="DBMBKRE " />
+    <node id="EGMFPOR " />
+    <node id="WHMRELG " />
+    <node id="REYEDBM " />
+    <node id="DBMVIBK  " />
+    <node id="DBMREBK " />
+    <node id="DBMFPFP " />
+    <node id="DBMLGBK " />
+    <node id="URMURYE " />
+    <node id="DBMORVI" />
+    <node id="EGMYEOR " />
+    <node id="DBMORVI  " />
+    <node id="DBMVIBK " />
+    <node id="DBMREEG  " />
+    <node id="DBMBKFP " />
+    <node id="EGMBKFP " />
+    <node id="DBMFPLB " />
+    <node id="URMURYE" />
+    <node id="DBMDBWH " />
+    <node id="ORVIDBM " />
+    <node id="DBMORWH " />
+    <node id="DBMORBK " />
+    <node id="WHMORLG " />
+    <node id="DBMLBFP " />
+    <node id="DBMORDB " />
+    <node id="DBMLGOR " />
+    <node id="LBVIDBM " />
+    <node id="DBMORVI " />
+    <node id="URMOROR " />
+    <node id="DBMLBBK    " />
+    <node id="DBMFPWH " />
+    <node id="DBMEGEG " />
+    <node id="YEMORFP " />
+    <node id="DBMBKOR " />
+    <edge source="DBMREEG " target="DBMEGEG " />
+    <edge source="DBMREEG " target="DBMFPFP " />
+    <edge source="DBMWHEG " target="DBMLBLB " />
+    <edge source="DBMLBBK " target="EGMFPOR " />
+    <edge source="DBMLBBK " target="URMOROR " />
+    <edge source="DBMLBBK " target="DBMLBFP " />
+    <edge source="DBMLBBK " target="WHMRELG " />
+    <edge source="DBMLBBK " target="DBMREBK " />
+    <edge source="OREGDBM " target="ORVIDBM " />
+    <edge source="DBMBKRE " target="DBMORVI" />
+    <edge source="DBMBKRE " target="DBMORVI " />
+    <edge source="DBMBKRE " target="DBMREBK " />
+    <edge source="EGMFPOR " target="DBMORVI " />
+    <edge source="EGMFPOR " target="DBMORWH " />
+    <edge source="EGMFPOR " target="DBMORVI" />
+    <edge source="EGMFPOR " target="DBMORBK " />
+    <edge source="EGMFPOR " target="WHMORLG " />
+    <edge source="WHMRELG " target="DBMLGBK " />
+    <edge source="WHMRELG " target="LBVIDBM " />
+    <edge source="WHMRELG " target="DBMLBBK    " />
+    <edge source="WHMRELG " target="EGMYEOR " />
+    <edge source="WHMRELG " target="DBMVIBK " />
+    <edge source="WHMRELG " target="REYEDBM " />
+    <edge source="WHMRELG " target="DBMVIBK  " />
+    <edge source="WHMRELG " target="DBMFPLB " />
+    <edge source="WHMRELG " target="DBMORDB " />
+    <edge source="REYEDBM " target="DBMORVI " />
+    <edge source="REYEDBM " target="URMURYE " />
+    <edge source="REYEDBM " target="DBMORVI" />
+    <edge source="REYEDBM " target="EGMYEOR " />
+    <edge source="REYEDBM " target="URMOROR " />
+    <edge source="REYEDBM " target="DBMFPWH " />
+    <edge source="REYEDBM " target="DBMVIBK " />
+    <edge source="REYEDBM " target="DBMLGOR " />
+    <edge source="REYEDBM " target="YEMORFP " />
+    <edge source="REYEDBM " target="DBMVIBK  " />
+    <edge source="REYEDBM " target="DBMLBFP " />
+    <edge source="REYEDBM " target="DBMORDB " />
+    <edge source="DBMVIBK  " target="DBMLGBK " />
+    <edge source="DBMVIBK  " target="URMURYE " />
+    <edge source="DBMVIBK  " target="URMOROR " />
+    <edge source="DBMVIBK  " target="DBMVIBK " />
+    <edge source="DBMVIBK  " target="LBVIDBM " />
+    <edge source="DBMVIBK  " target="DBMFPLB " />
+    <edge source="DBMVIBK  " target="DBMORDB " />
+    <edge source="DBMREBK " target="DBMORVI " />
+    <edge source="DBMREBK " target="URMOROR " />
+    <edge source="DBMREBK " target="DBMORVI" />
+    <edge source="DBMREBK " target="DBMLBFP " />
+    <edge source="DBMFPFP " target="URMURYE " />
+    <edge source="DBMFPFP " target="DBMORVI" />
+    <edge source="DBMFPFP " target="DBMORVI  " />
+    <edge source="DBMFPFP " target="DBMBKFP " />
+    <edge source="DBMFPFP " target="EGMBKFP " />
+    <edge source="DBMFPFP " target="DBMEGEG " />
+    <edge source="DBMFPFP " target="DBMBKOR " />
+    <edge source="DBMLGBK " target="DBMDBWH " />
+    <edge source="DBMLGBK " target="ORVIDBM " />
+    <edge source="DBMLGBK " target="DBMVIBK " />
+    <edge source="DBMLGBK " target="DBMFPLB " />
+    <edge source="DBMLGBK " target="DBMORDB " />
+    <edge source="URMURYE " target="DBMORVI " />
+    <edge source="URMURYE " target="DBMORVI" />
+    <edge source="URMURYE " target="EGMYEOR " />
+    <edge source="URMURYE " target="URMOROR " />
+    <edge source="URMURYE " target="DBMFPWH " />
+    <edge source="URMURYE " target="DBMORVI  " />
+    <edge source="URMURYE " target="DBMBKFP " />
+    <edge source="URMURYE " target="DBMVIBK " />
+    <edge source="URMURYE " target="DBMLBFP " />
+    <edge source="URMURYE " target="DBMORDB " />
+    <edge source="URMURYE " target="DBMBKOR " />
+    <edge source="DBMORVI" target="URMURYE" />
+    <edge source="DBMORVI" target="DBMFPWH " />
+    <edge source="DBMORVI" target="URMOROR " />
+    <edge source="DBMORVI" target="DBMORWH " />
+    <edge source="DBMORVI" target="EGMYEOR " />
+    <edge source="DBMORVI" target="DBMORBK " />
+    <edge source="DBMORVI" target="DBMBKFP " />
+    <edge source="DBMORVI" target="WHMORLG " />
+    <edge source="DBMORVI" target="DBMLBFP " />
+    <edge source="DBMORVI" target="DBMORDB " />
+    <edge source="DBMORVI" target="DBMBKOR " />
+    <edge source="EGMYEOR " target="URMURYE" />
+    <edge source="EGMYEOR " target="DBMORVI " />
+    <edge source="EGMYEOR " target="URMOROR " />
+    <edge source="EGMYEOR " target="DBMFPWH " />
+    <edge source="EGMYEOR " target="DBMLBFP " />
+    <edge source="EGMYEOR " target="DBMORDB " />
+    <edge source="DBMORVI  " target="DBMBKFP " />
+    <edge source="DBMORVI  " target="DBMBKOR " />
+    <edge source="DBMVIBK " target="URMOROR " />
+    <edge source="DBMVIBK " target="LBVIDBM " />
+    <edge source="DBMVIBK " target="DBMFPLB " />
+    <edge source="DBMVIBK " target="DBMORDB " />
+    <edge source="DBMREEG  " target="DBMEGEG " />
+    <edge source="DBMBKFP " target="DBMBKOR " />
+    <edge source="DBMFPLB " target="DBMORDB " />
+    <edge source="URMURYE" target="URMOROR " />
+    <edge source="URMURYE" target="DBMORDB " />
+    <edge source="DBMDBWH " target="ORVIDBM " />
+    <edge source="DBMORWH " target="DBMORBK " />
+    <edge source="DBMORWH " target="DBMORVI " />
+    <edge source="DBMORWH " target="WHMORLG " />
+    <edge source="DBMORBK " target="DBMORVI " />
+    <edge source="DBMORBK " target="WHMORLG " />
+    <edge source="WHMORLG " target="DBMORVI " />
+    <edge source="DBMLBFP " target="DBMORVI " />
+    <edge source="DBMLBFP " target="DBMFPWH " />
+    <edge source="DBMLBFP " target="URMOROR " />
+    <edge source="DBMLBFP " target="DBMLGOR " />
+    <edge source="DBMLBFP " target="YEMORFP " />
+    <edge source="DBMLBFP " target="DBMORDB " />
+    <edge source="DBMORDB " target="DBMORVI " />
+    <edge source="DBMORDB " target="URMOROR " />
+    <edge source="DBMORDB " target="DBMFPWH " />
+    <edge source="DBMLGOR " target="URMOROR " />
+    <edge source="DBMLGOR " target="YEMORFP " />
+    <edge source="DBMLGOR " target="DBMFPWH " />
+    <edge source="DBMORVI " target="URMOROR " />
+    <edge source="DBMORVI " target="DBMFPWH " />
+    <edge source="URMOROR " target="DBMFPWH " />
+    <edge source="URMOROR " target="YEMORFP " />
+    <edge source="DBMFPWH " target="YEMORFP " />
+  </graph>
+</graphml>

@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="HZ" />
+    <node id="HX" />
+    <node id="HP" />
+    <node id="HV" />
+    <node id="HT" />
+    <node id="HU" />
+    <node id="HK" />
+    <node id="HH" />
+    <node id="HO" />
+    <node id="HL" />
+    <node id="HM" />
+    <node id="HC" />
+    <node id="HA" />
+    <node id="HD" />
+    <node id="HE" />
+    <node id="SZ" />
+    <node id="SX" />
+    <node id="SS" />
+    <node id="SP" />
+    <node id="SV" />
+    <node id="SU" />
+    <node id="ST" />
+    <node id="SK" />
+    <node id="SO" />
+    <node id="SM" />
+    <node id="SL" />
+    <node id="SC" />
+    <node id="SA" />
+    <node id="SE" />
+    <node id="SD" />
+    <edge source="HZ" target="HX">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="HZ" target="ST">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="HZ" target="SM">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="HZ" target="HE">
+      <data key="d0">0.093023256</data>
+    </edge>
+    <edge source="HX" target="SZ">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="HX" target="SX">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="HX" target="SS">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="HX" target="SV">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="HX" target="ST">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HX" target="SM">
+      <data key="d0">0.444444444</data>
+    </edge>
+    <edge source="HX" target="HA">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HX" target="SE">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="HP" target="SX">
+      <data key="d0">0.170212766</data>
+    </edge>
+    <edge source="HP" target="SL">
+      <data key="d0">0.127659574</data>
+    </edge>
+    <edge source="HP" target="HV">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HP" target="SV">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HP" target="HT">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="HP" target="SK">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HP" target="SU">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="HP" target="SM">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="HP" target="HM">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HP" target="SC">
+      <data key="d0">0.127659574</data>
+    </edge>
+    <edge source="HP" target="HD">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HP" target="HE">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="HV" target="SX">
+      <data key="d0">0.06060606</data>
+    </edge>
+    <edge source="HV" target="HL">
+      <data key="d0">0.048780488</data>
+    </edge>
+    <edge source="HV" target="SP">
+      <data key="d0">0.076923076</data>
+    </edge>
+    <edge source="HV" target="SU">
+      <data key="d0">0.074074074</data>
+    </edge>
+    <edge source="HV" target="HD">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HV" target="SM">
+      <data key="d0">0.227272728</data>
+    </edge>
+    <edge source="HV" target="HM">
+      <data key="d0">0.097560976</data>
+    </edge>
+    <edge source="HV" target="SE">
+      <data key="d0">0.051282052</data>
+    </edge>
+    <edge source="HT" target="HU">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="HT" target="SK">
+      <data key="d0">0.238095238</data>
+    </edge>
+    <edge source="HT" target="HH">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HT" target="HO">
+      <data key="d0">0.114285714</data>
+    </edge>
+    <edge source="HT" target="SM">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HT" target="ST">
+      <data key="d0">0.146341464</data>
+    </edge>
+    <edge source="HU" target="SU">
+      <data key="d0">0.157894736</data>
+    </edge>
+    <edge source="HU" target="SS">
+      <data key="d0">0.171428572</data>
+    </edge>
+    <edge source="HU" target="SV">
+      <data key="d0">0.054054054</data>
+    </edge>
+    <edge source="HU" target="ST">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="HU" target="SK">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="HU" target="SO">
+      <data key="d0">0.055555556</data>
+    </edge>
+    <edge source="HU" target="HO">
+      <data key="d0">0.048780488</data>
+    </edge>
+    <edge source="HU" target="SM">
+      <data key="d0">0.19047619</data>
+    </edge>
+    <edge source="HU" target="SD">
+      <data key="d0">0.05882353</data>
+    </edge>
+    <edge source="HK" target="SE">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="HK" target="SS">
+      <data key="d0">0.121212122</data>
+    </edge>
+    <edge source="HK" target="ST">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="HK" target="SK">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="HK" target="HO">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="HK" target="HL">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="HK" target="SL">
+      <data key="d0">0.155555556</data>
+    </edge>
+    <edge source="HK" target="HC">
+      <data key="d0">0.127659574</data>
+    </edge>
+    <edge source="HK" target="SA">
+      <data key="d0">0.166666666</data>
+    </edge>
+    <edge source="HK" target="HD">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="HK" target="HE">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="HH" target="SZ">
+      <data key="d0">0.139534884</data>
+    </edge>
+    <edge source="HH" target="SP">
+      <data key="d0">0.093023256</data>
+    </edge>
+    <edge source="HH" target="ST">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HH" target="SK">
+      <data key="d0">0.181818182</data>
+    </edge>
+    <edge source="HH" target="HO">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HH" target="SL">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HH" target="HC">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HH" target="SA">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HH" target="HA">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HH" target="HD">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HO" target="SZ">
+      <data key="d0">0.052631578</data>
+    </edge>
+    <edge source="HO" target="SK">
+      <data key="d0">0.097560976</data>
+    </edge>
+    <edge source="HO" target="ST">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="HO" target="HE">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="HL" target="SP">
+      <data key="d0">0.111111112</data>
+    </edge>
+    <edge source="HL" target="SV">
+      <data key="d0">0.108108108</data>
+    </edge>
+    <edge source="HL" target="SU">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="HL" target="SK">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="HL" target="SE">
+      <data key="d0">0.133333334</data>
+    </edge>
+    <edge source="HL" target="SL">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="HL" target="SC">
+      <data key="d0">0.093023256</data>
+    </edge>
+    <edge source="HL" target="SA">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="HL" target="HD">
+      <data key="d0">0.063829787</data>
+    </edge>
+    <edge source="HL" target="HE">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HM" target="SX">
+      <data key="d0">0.142857142</data>
+    </edge>
+    <edge source="HM" target="SP">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="HM" target="SU">
+      <data key="d0">0.142857142</data>
+    </edge>
+    <edge source="HM" target="SO">
+      <data key="d0">0.238095238</data>
+    </edge>
+    <edge source="HM" target="HD">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HM" target="SM">
+      <data key="d0">0.086956522</data>
+    </edge>
+    <edge source="HM" target="SL">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="HM" target="HA">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HM" target="SE">
+      <data key="d0">0.186046512</data>
+    </edge>
+    <edge source="HC" target="ST">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HC" target="SK">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HC" target="SE">
+      <data key="d0">0.391304348</data>
+    </edge>
+    <edge source="HC" target="SL">
+      <data key="d0">0.422222222</data>
+    </edge>
+    <edge source="HC" target="SC">
+      <data key="d0">0.130434782</data>
+    </edge>
+    <edge source="HC" target="SA">
+      <data key="d0">0.130434782</data>
+    </edge>
+    <edge source="HC" target="HA">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HC" target="HD">
+      <data key="d0">0.29787234</data>
+    </edge>
+    <edge source="HA" target="SL">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="HA" target="SU">
+      <data key="d0">0.052631578</data>
+    </edge>
+    <edge source="HA" target="ST">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="HA" target="SK">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="HA" target="SC">
+      <data key="d0">0.153846154</data>
+    </edge>
+    <edge source="HA" target="SA">
+      <data key="d0">0.102564102</data>
+    </edge>
+    <edge source="HA" target="SE">
+      <data key="d0">0.177777778</data>
+    </edge>
+    <edge source="HD" target="SL">
+      <data key="d0">0.239130435</data>
+    </edge>
+    <edge source="HD" target="SU">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="HD" target="ST">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HD" target="SA">
+      <data key="d0">0.212765958</data>
+    </edge>
+    <edge source="HD" target="SE">
+      <data key="d0">0.212765958</data>
+    </edge>
+    <edge source="HD" target="HE">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="HE" target="SZ">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="HE" target="SS">
+      <data key="d0">0.093023256</data>
+    </edge>
+    <edge source="HE" target="SP">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="HE" target="SU">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="HE" target="ST">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="HE" target="SK">
+      <data key="d0">0.133333334</data>
+    </edge>
+    <edge source="HE" target="SO">
+      <data key="d0">0.093023256</data>
+    </edge>
+    <edge source="HE" target="SC">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="HE" target="SA">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="HE" target="SD">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="SX" target="SP">
+      <data key="d0">0.071428572</data>
+    </edge>
+    <edge source="SX" target="SL">
+      <data key="d0">0.027027027</data>
+    </edge>
+    <edge source="SX" target="SE">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="SP" target="SU">
+      <data key="d0">0.071428572</data>
+    </edge>
+    <edge source="SP" target="SK">
+      <data key="d0">0.066666666</data>
+    </edge>
+    <edge source="ST" target="SK">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="ST" target="SD">
+      <data key="d0">0.105263158</data>
+    </edge>
+    <edge source="ST" target="SL">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="ST" target="SA">
+      <data key="d0">0.048780488</data>
+    </edge>
+    <edge source="SK" target="SM">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="SK" target="SL">
+      <data key="d0">0.022727273</data>
+    </edge>
+    <edge source="SO" target="SA">
+      <data key="d0">0.0625</data>
+    </edge>
+    <edge source="SO" target="SE">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="SO" target="SD">
+      <data key="d0">0.153846154</data>
+    </edge>
+    <edge source="SL" target="SA">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="SA" target="SE">
+      <data key="d0">0.051282052</data>
+    </edge>
+  </graph>
+</graphml>

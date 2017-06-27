@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="DO" />
+    <node id="DL" />
+    <node id="DM" />
+    <node id="DK" />
+    <node id="DH" />
+    <node id="DD" />
+    <node id="DE" />
+    <node id="DC" />
+    <node id="DA" />
+    <node id="DZ" />
+    <node id="DX" />
+    <node id="DV" />
+    <node id="DU" />
+    <node id="DS" />
+    <node id="DP" />
+    <node id="TZ" />
+    <node id="TX" />
+    <node id="TV" />
+    <node id="TT" />
+    <node id="TU" />
+    <node id="TS" />
+    <node id="TP" />
+    <node id="TO" />
+    <node id="TL" />
+    <node id="TM" />
+    <node id="TK" />
+    <node id="TH" />
+    <node id="TE" />
+    <node id="TC" />
+    <node id="TA" />
+    <edge source="DO" target="TU">
+      <data key="d0">0.071428572</data>
+    </edge>
+    <edge source="DO" target="TH">
+      <data key="d0">0.051282052</data>
+    </edge>
+    <edge source="DL" target="DK">
+      <data key="d0">0.052631578</data>
+    </edge>
+    <edge source="DL" target="TX">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="DL" target="TV">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="DL" target="TU">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="DL" target="TP">
+      <data key="d0">0.136363636</data>
+    </edge>
+    <edge source="DL" target="DA">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="DL" target="TO">
+      <data key="d0">0.133333334</data>
+    </edge>
+    <edge source="DL" target="TL">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="DL" target="TM">
+      <data key="d0">0.4</data>
+    </edge>
+    <edge source="DL" target="TK">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="DL" target="TE">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="DL" target="DS">
+      <data key="d0">0.048780488</data>
+    </edge>
+    <edge source="DL" target="DP">
+      <data key="d0">0.102564102</data>
+    </edge>
+    <edge source="DM" target="TE">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="DM" target="TZ">
+      <data key="d0">0.212765958</data>
+    </edge>
+    <edge source="DM" target="TX">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="DM" target="DD">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="DM" target="DE">
+      <data key="d0">0.086956522</data>
+    </edge>
+    <edge source="DM" target="TT">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="DM" target="TO">
+      <data key="d0">0.127659574</data>
+    </edge>
+    <edge source="DM" target="TM">
+      <data key="d0">0.173913044</data>
+    </edge>
+    <edge source="DM" target="TK">
+      <data key="d0">0.127659574</data>
+    </edge>
+    <edge source="DM" target="DU">
+      <data key="d0">0.097560976</data>
+    </edge>
+    <edge source="DM" target="TC">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="DM" target="DP">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="DK" target="TZ">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="DK" target="TX">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="DK" target="TU">
+      <data key="d0">0.0625</data>
+    </edge>
+    <edge source="DK" target="TP">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="DK" target="DA">
+      <data key="d0">0.054054054</data>
+    </edge>
+    <edge source="DK" target="TL">
+      <data key="d0">0.15</data>
+    </edge>
+    <edge source="DK" target="TM">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="DK" target="TE">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="DK" target="TC">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="DH" target="TS">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="DH" target="DU">
+      <data key="d0">0.048780488</data>
+    </edge>
+    <edge source="DH" target="TC">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="DH" target="TX">
+      <data key="d0">0.279069768</data>
+    </edge>
+    <edge source="DH" target="TK">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="DD" target="TX">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="DD" target="TT">
+      <data key="d0">0.108108108</data>
+    </edge>
+    <edge source="DD" target="DE">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="DD" target="DA">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="DD" target="TL">
+      <data key="d0">0.097560976</data>
+    </edge>
+    <edge source="DD" target="TK">
+      <data key="d0">0.170212766</data>
+    </edge>
+    <edge source="DD" target="TH">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="DD" target="DU">
+      <data key="d0">0.102564102</data>
+    </edge>
+    <edge source="DD" target="TC">
+      <data key="d0">0.285714286</data>
+    </edge>
+    <edge source="DE" target="TZ">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="DE" target="TH">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="DE" target="TV">
+      <data key="d0">0.177777778</data>
+    </edge>
+    <edge source="DE" target="TC">
+      <data key="d0">0.173913044</data>
+    </edge>
+    <edge source="DE" target="TU">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="DE" target="TP">
+      <data key="d0">0.177777778</data>
+    </edge>
+    <edge source="DE" target="DA">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="DE" target="TO">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="DE" target="DZ">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="DE" target="TK">
+      <data key="d0">0.255319148</data>
+    </edge>
+    <edge source="DE" target="DX">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="DE" target="TT">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="DE" target="DS">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="DE" target="DP">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="DE" target="TA">
+      <data key="d0">0.255319148</data>
+    </edge>
+    <edge source="DC" target="TV">
+      <data key="d0">0.15</data>
+    </edge>
+    <edge source="DC" target="TT">
+      <data key="d0">0.307692308</data>
+    </edge>
+    <edge source="DC" target="TU">
+      <data key="d0">0.05882353</data>
+    </edge>
+    <edge source="DC" target="TC">
+      <data key="d0">0.051282052</data>
+    </edge>
+    <edge source="DC" target="TE">
+      <data key="d0">0.139534884</data>
+    </edge>
+    <edge source="DC" target="DS">
+      <data key="d0">0.052631578</data>
+    </edge>
+    <edge source="DA" target="TU">
+      <data key="d0">0.095238096</data>
+    </edge>
+    <edge source="DA" target="TZ">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="DA" target="TS">
+      <data key="d0">0.212765958</data>
+    </edge>
+    <edge source="DA" target="TP">
+      <data key="d0">0.181818182</data>
+    </edge>
+    <edge source="DA" target="TL">
+      <data key="d0">0.093023256</data>
+    </edge>
+    <edge source="DA" target="TM">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="DA" target="TK">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="DA" target="TE">
+      <data key="d0">0.139534884</data>
+    </edge>
+    <edge source="DA" target="DP">
+      <data key="d0">0.051282052</data>
+    </edge>
+    <edge source="DZ" target="TV">
+      <data key="d0">0.093023256</data>
+    </edge>
+    <edge source="DZ" target="TS">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="DZ" target="TP">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="DZ" target="TX">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="DX" target="TL">
+      <data key="d0">0.114285714</data>
+    </edge>
+    <edge source="DX" target="TC">
+      <data key="d0">0.054054054</data>
+    </edge>
+    <edge source="DX" target="TA">
+      <data key="d0">0.146341464</data>
+    </edge>
+    <edge source="DV" target="TE">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="DV" target="TX">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="DV" target="TP">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="DV" target="TO">
+      <data key="d0">0.133333334</data>
+    </edge>
+    <edge source="DV" target="TM">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="DV" target="DU">
+      <data key="d0">0.051282052</data>
+    </edge>
+    <edge source="DU" target="TV">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="DU" target="TS">
+      <data key="d0">0.222222222</data>
+    </edge>
+    <edge source="DU" target="TP">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="DU" target="TL">
+      <data key="d0">0.108108108</data>
+    </edge>
+    <edge source="DU" target="TK">
+      <data key="d0">0.127659574</data>
+    </edge>
+    <edge source="DU" target="TE">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="DU" target="TC">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="DU" target="TA">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="DS" target="TZ">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="DS" target="TT">
+      <data key="d0">0.139534884</data>
+    </edge>
+    <edge source="DS" target="TP">
+      <data key="d0">0.142857142</data>
+    </edge>
+    <edge source="DS" target="TO">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="DS" target="TL">
+      <data key="d0">0.157894736</data>
+    </edge>
+    <edge source="DS" target="TK">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="DS" target="TE">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="DS" target="DP">
+      <data key="d0">0.054054054</data>
+    </edge>
+    <edge source="DS" target="TA">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="DP" target="TX">
+      <data key="d0">0.133333334</data>
+    </edge>
+    <edge source="DP" target="TU">
+      <data key="d0">0.111111112</data>
+    </edge>
+    <edge source="DP" target="TP">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="DP" target="TL">
+      <data key="d0">0.054054054</data>
+    </edge>
+    <edge source="DP" target="TM">
+      <data key="d0">0.266666666</data>
+    </edge>
+    <edge source="DP" target="TK">
+      <data key="d0">0.085106382</data>
+    </edge>
+    <edge source="TZ" target="TT">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="TZ" target="TS">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TZ" target="TP">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TZ" target="TO">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TZ" target="TK">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TZ" target="TE">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TX" target="TU">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TX" target="TP">
+      <data key="d0">0.02173913</data>
+    </edge>
+    <edge source="TX" target="TL">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TX" target="TM">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TX" target="TK">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TX" target="TH">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TX" target="TA">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TV" target="TU">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="TV" target="TP">
+      <data key="d0">0.02173913</data>
+    </edge>
+    <edge source="TV" target="TL">
+      <data key="d0">0.09090909</data>
+    </edge>
+    <edge source="TV" target="TC">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="TT" target="TH">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TT" target="TE">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TT" target="TC">
+      <data key="d0">0.047619048</data>
+    </edge>
+    <edge source="TU" target="TP">
+      <data key="d0">0.045454546</data>
+    </edge>
+    <edge source="TU" target="TE">
+      <data key="d0">0.046511628</data>
+    </edge>
+    <edge source="TU" target="TC">
+      <data key="d0">0.097560976</data>
+    </edge>
+    <edge source="TS" target="TH">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TS" target="TC">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TP" target="TE">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TP" target="TC">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TP" target="TL">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="TP" target="TM">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="TP" target="TK">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TP" target="TA">
+      <data key="d0">0.088888888</data>
+    </edge>
+    <edge source="TO" target="TH">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TO" target="TE">
+      <data key="d0">0.04347826</data>
+    </edge>
+    <edge source="TL" target="TE">
+      <data key="d0">0.065217391</data>
+    </edge>
+    <edge source="TL" target="TC">
+      <data key="d0">0.119047619</data>
+    </edge>
+    <edge source="TL" target="TA">
+      <data key="d0">0.044444444</data>
+    </edge>
+    <edge source="TM" target="TE">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TK" target="TA">
+      <data key="d0">0.042553192</data>
+    </edge>
+    <edge source="TH" target="TC">
+      <data key="d0">0.04347826</data>
+    </edge>
+  </graph>
+</graphml>

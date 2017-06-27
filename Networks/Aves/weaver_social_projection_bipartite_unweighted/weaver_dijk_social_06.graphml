@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="YEMDBDB" />
+    <node id="YEMDBOR" />
+    <node id="ORORYEM" />
+    <node id="YEMUR" />
+    <node id="URLGYEM" />
+    <node id="URYEYEM" />
+    <node id="LBLBYEM" />
+    <node id="WHREYEM" />
+    <node id="UREGYEM" />
+    <node id="YEMURWH" />
+    <node id="YEWHYEM" />
+    <node id="YELGYEM" />
+    <node id="LGMWHDB" />
+    <node id="YEMURVI" />
+    <node id="YEMEGRE" />
+    <node id="YEMDBLB" />
+    <node id="YEMWHWH" />
+    <node id="YEMWHRE" />
+    <node id="WHWHYEM" />
+    <edge source="YEMDBDB" target="YEMDBLB" />
+    <edge source="YEMDBDB" target="ORORYEM" />
+    <edge source="YEMDBDB" target="YEMUR" />
+    <edge source="YEMDBOR" target="URLGYEM" />
+    <edge source="YEMDBOR" target="YEWHYEM" />
+    <edge source="YEMDBOR" target="LBLBYEM" />
+    <edge source="YEMDBOR" target="UREGYEM" />
+    <edge source="YEMDBOR" target="YELGYEM" />
+    <edge source="YEMDBOR" target="LGMWHDB" />
+    <edge source="ORORYEM" target="YEMEGRE" />
+    <edge source="ORORYEM" target="WHWHYEM" />
+    <edge source="ORORYEM" target="UREGYEM" />
+    <edge source="ORORYEM" target="URYEYEM" />
+    <edge source="ORORYEM" target="YEMWHWH" />
+    <edge source="ORORYEM" target="YEMUR" />
+    <edge source="ORORYEM" target="YEMDBLB" />
+    <edge source="YEMUR" target="WHREYEM" />
+    <edge source="YEMUR" target="YEMURWH" />
+    <edge source="YEMUR" target="YEMURVI" />
+    <edge source="YEMUR" target="YEMDBLB" />
+    <edge source="YEMUR" target="YEMWHRE" />
+    <edge source="URLGYEM" target="LBLBYEM" />
+    <edge source="URLGYEM" target="UREGYEM" />
+    <edge source="URLGYEM" target="YEWHYEM" />
+    <edge source="URLGYEM" target="YELGYEM" />
+    <edge source="URYEYEM" target="YEMEGRE" />
+    <edge source="URYEYEM" target="LBLBYEM" />
+    <edge source="URYEYEM" target="UREGYEM" />
+    <edge source="URYEYEM" target="YELGYEM" />
+    <edge source="URYEYEM" target="LGMWHDB" />
+    <edge source="URYEYEM" target="YEMWHWH" />
+    <edge source="URYEYEM" target="WHWHYEM" />
+    <edge source="LBLBYEM" target="YEWHYEM" />
+    <edge source="LBLBYEM" target="LGMWHDB" />
+    <edge source="LBLBYEM" target="UREGYEM" />
+    <edge source="LBLBYEM" target="YELGYEM" />
+    <edge source="LBLBYEM" target="YEMWHWH" />
+    <edge source="LBLBYEM" target="WHWHYEM" />
+    <edge source="WHREYEM" target="YEMDBLB" />
+    <edge source="WHREYEM" target="YEMWHRE" />
+    <edge source="WHREYEM" target="YEMURWH" />
+    <edge source="WHREYEM" target="YEMURVI" />
+    <edge source="UREGYEM" target="YEMEGRE" />
+    <edge source="UREGYEM" target="YEWHYEM" />
+    <edge source="UREGYEM" target="YELGYEM" />
+    <edge source="UREGYEM" target="LGMWHDB" />
+    <edge source="UREGYEM" target="YEMWHWH" />
+    <edge source="UREGYEM" target="WHWHYEM" />
+    <edge source="YEMURWH" target="YEMDBLB" />
+    <edge source="YEMURWH" target="YEMWHRE" />
+    <edge source="YEMURWH" target="YEMURVI" />
+    <edge source="YEWHYEM" target="YELGYEM" />
+    <edge source="YEWHYEM" target="LGMWHDB" />
+    <edge source="YELGYEM" target="LGMWHDB" />
+    <edge source="YELGYEM" target="YEMWHWH" />
+    <edge source="YELGYEM" target="WHWHYEM" />
+    <edge source="LGMWHDB" target="YEMWHWH" />
+    <edge source="LGMWHDB" target="WHWHYEM" />
+    <edge source="YEMURVI" target="YEMDBLB" />
+    <edge source="YEMURVI" target="YEMWHRE" />
+    <edge source="YEMEGRE" target="WHWHYEM" />
+    <edge source="YEMEGRE" target="YEMWHWH" />
+    <edge source="YEMDBLB" target="YEMWHRE" />
+    <edge source="YEMWHWH" target="WHWHYEM" />
+  </graph>
+</graphml>

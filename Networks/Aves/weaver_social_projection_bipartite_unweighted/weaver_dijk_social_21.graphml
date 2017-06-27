@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="GMWY" />
+    <node id="GMYV" />
+    <node id="GMBY" />
+    <node id="GMUY" />
+    <node id="GMWR" />
+    <node id="GMYY" />
+    <node id="VVGM" />
+    <node id="GMRY" />
+    <node id="BMWR" />
+    <node id="GMYB" />
+    <node id="GMWO" />
+    <node id="GMFY" />
+    <node id="GMWO " />
+    <node id="GMOE" />
+    <node id="GMOB" />
+    <edge source="GMWY" target="GMRY" />
+    <edge source="GMWY" target="GMWR" />
+    <edge source="GMWY" target="GMYY" />
+    <edge source="GMWY" target="GMWO" />
+    <edge source="GMWY" target="GMYB" />
+    <edge source="GMYV" target="GMWO " />
+    <edge source="GMYV" target="GMRY" />
+    <edge source="GMYV" target="GMWR" />
+    <edge source="GMYV" target="GMYY" />
+    <edge source="GMYV" target="GMOB" />
+    <edge source="GMYV" target="GMOE" />
+    <edge source="GMYV" target="GMYB" />
+    <edge source="GMYV" target="GMWO" />
+    <edge source="GMYV" target="GMFY" />
+    <edge source="GMYV" target="VVGM" />
+    <edge source="GMYV" target="BMWR" />
+    <edge source="GMBY" target="GMUY" />
+    <edge source="GMBY" target="GMOB" />
+    <edge source="GMBY" target="GMRY" />
+    <edge source="GMBY" target="GMYY" />
+    <edge source="GMBY" target="GMWO" />
+    <edge source="GMBY" target="GMYB" />
+    <edge source="GMUY" target="GMWO" />
+    <edge source="GMUY" target="GMRY" />
+    <edge source="GMUY" target="GMYY" />
+    <edge source="GMWR" target="GMWO " />
+    <edge source="GMWR" target="GMRY" />
+    <edge source="GMWR" target="GMYY" />
+    <edge source="GMWR" target="GMOB" />
+    <edge source="GMWR" target="BMWR" />
+    <edge source="GMWR" target="GMYB" />
+    <edge source="GMWR" target="GMWO" />
+    <edge source="GMWR" target="GMFY" />
+    <edge source="GMWR" target="VVGM" />
+    <edge source="GMYY" target="GMOB" />
+    <edge source="GMYY" target="VVGM" />
+    <edge source="GMYY" target="GMRY" />
+    <edge source="GMYY" target="GMOE" />
+    <edge source="GMYY" target="GMYB" />
+    <edge source="GMYY" target="GMWO" />
+    <edge source="GMYY" target="GMFY" />
+    <edge source="GMYY" target="GMWO " />
+    <edge source="GMYY" target="BMWR" />
+    <edge source="VVGM" target="GMOB" />
+    <edge source="VVGM" target="GMOE" />
+    <edge source="VVGM" target="GMYB" />
+    <edge source="VVGM" target="GMWO" />
+    <edge source="VVGM" target="GMFY" />
+    <edge source="GMRY" target="GMWO " />
+    <edge source="GMRY" target="BMWR" />
+    <edge source="GMRY" target="GMYB" />
+    <edge source="GMRY" target="GMWO" />
+    <edge source="BMWR" target="GMWO " />
+    <edge source="BMWR" target="GMYB" />
+    <edge source="BMWR" target="GMWO" />
+    <edge source="GMYB" target="GMOB" />
+    <edge source="GMYB" target="GMWO" />
+    <edge source="GMYB" target="GMFY" />
+    <edge source="GMYB" target="GMWO " />
+    <edge source="GMWO" target="GMOB" />
+    <edge source="GMWO" target="GMOE" />
+    <edge source="GMWO" target="GMFY" />
+    <edge source="GMFY" target="GMOB" />
+    <edge source="GMOE" target="GMOB" />
+  </graph>
+</graphml>

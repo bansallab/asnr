@@ -1,0 +1,19 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="EOOM" />
+    <node id="VBOM" />
+    <node id="FZOM" />
+    <node id="GMGL" />
+    <node id="WZOM" />
+    <edge source="EOOM" target="VBOM" />
+    <edge source="EOOM" target="FZOM" />
+    <edge source="EOOM" target="GMGL" />
+    <edge source="EOOM" target="WZOM" />
+    <edge source="VBOM" target="FZOM" />
+    <edge source="VBOM" target="GMGL" />
+    <edge source="VBOM" target="WZOM" />
+    <edge source="FZOM" target="GMGL" />
+    <edge source="FZOM" target="WZOM" />
+    <edge source="GMGL" target="WZOM" />
+  </graph>
+</graphml>

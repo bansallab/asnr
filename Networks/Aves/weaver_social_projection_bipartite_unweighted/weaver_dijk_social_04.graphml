@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="REMURLB" />
+    <node id="LBEGREM" />
+    <node id="REMLGLG" />
+    <node id="REMRELG" />
+    <node id="ORVIREM" />
+    <node id="URREM" />
+    <node id="REMURBK" />
+    <node id="BKWHREM" />
+    <node id="REMUR" />
+    <node id="FPFPREM" />
+    <node id="ORBKREM" />
+    <node id="ORWHYEM" />
+    <node id="REREREM" />
+    <node id="REMWHDB" />
+    <node id="REMURYE" />
+    <node id="URBKREM" />
+    <node id="DBDBREM" />
+    <node id="FPMLBOR" />
+    <edge source="REMURLB" target="REMURYE" />
+    <edge source="REMURLB" target="REMUR" />
+    <edge source="REMURLB" target="FPMLBOR" />
+    <edge source="LBEGREM" target="REMLGLG" />
+    <edge source="LBEGREM" target="FPFPREM" />
+    <edge source="LBEGREM" target="ORVIREM" />
+    <edge source="LBEGREM" target="URBKREM" />
+    <edge source="LBEGREM" target="REREREM" />
+    <edge source="REMLGLG" target="URBKREM" />
+    <edge source="REMLGLG" target="FPFPREM" />
+    <edge source="REMLGLG" target="ORVIREM" />
+    <edge source="REMLGLG" target="REREREM" />
+    <edge source="REMRELG" target="DBDBREM" />
+    <edge source="REMRELG" target="ORBKREM" />
+    <edge source="REMRELG" target="REMURBK" />
+    <edge source="ORVIREM" target="URBKREM" />
+    <edge source="ORVIREM" target="REREREM" />
+    <edge source="URREM" target="REMWHDB" />
+    <edge source="URREM" target="BKWHREM" />
+    <edge source="URREM" target="ORWHYEM" />
+    <edge source="REMURBK" target="DBDBREM" />
+    <edge source="REMURBK" target="ORBKREM" />
+    <edge source="REMUR" target="REMURYE" />
+    <edge source="ORBKREM" target="URBKREM" />
+    <edge source="ORBKREM" target="DBDBREM" />
+    <edge source="ORWHYEM" target="REMWHDB" />
+    <edge source="REREREM" target="URBKREM" />
+  </graph>
+</graphml>

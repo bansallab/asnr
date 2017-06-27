@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="EGMBKFP" />
+    <node id="DBMORYE" />
+    <node id="YEMORFP" />
+    <node id="REMORUR" />
+    <node id="DBMURRE" />
+    <node id="DBMYEEG" />
+    <node id="DBMREUR" />
+    <node id="DBMLBUR" />
+    <node id="DBMDBWH" />
+    <node id="DBMUR" />
+    <node id="LBURDBM" />
+    <node id="DBMEGEG" />
+    <node id="OREGDBM" />
+    <node id="DBMREOR" />
+    <node id="DBMYEYE" />
+    <node id="REYEDBM" />
+    <node id="DBMORDB" />
+    <node id="DBMBKYE" />
+    <node id="DBMEGUR" />
+    <node id="DBMYELG" />
+    <node id="DBMORBK" />
+    <node id="DBMLGOR" />
+    <node id="DBMREBK" />
+    <node id="DBMWHYE" />
+    <edge source="EGMBKFP" target="DBMREOR" />
+    <edge source="EGMBKFP" target="OREGDBM" />
+    <edge source="EGMBKFP" target="DBMREBK" />
+    <edge source="EGMBKFP" target="DBMEGUR" />
+    <edge source="EGMBKFP" target="DBMORYE" />
+    <edge source="DBMORYE" target="DBMREOR" />
+    <edge source="DBMORYE" target="DBMREBK" />
+    <edge source="DBMORYE" target="DBMEGUR" />
+    <edge source="DBMORYE" target="OREGDBM" />
+    <edge source="YEMORFP" target="DBMREBK" />
+    <edge source="YEMORFP" target="DBMORDB" />
+    <edge source="YEMORFP" target="DBMLBUR" />
+    <edge source="REMORUR" target="DBMREBK" />
+    <edge source="REMORUR" target="DBMLGOR" />
+    <edge source="REMORUR" target="DBMYELG" />
+    <edge source="DBMURRE" target="DBMREOR" />
+    <edge source="DBMYEEG" target="OREGDBM" />
+    <edge source="DBMYEEG" target="REYEDBM" />
+    <edge source="DBMYEEG" target="DBMYELG" />
+    <edge source="DBMYEEG" target="DBMORDB" />
+    <edge source="DBMYEEG" target="DBMREBK" />
+    <edge source="DBMYEEG" target="DBMREUR" />
+    <edge source="DBMYEEG" target="DBMLBUR" />
+    <edge source="DBMREUR" target="REYEDBM" />
+    <edge source="DBMREUR" target="DBMYELG" />
+    <edge source="DBMREUR" target="DBMORDB" />
+    <edge source="DBMREUR" target="DBMLBUR" />
+    <edge source="DBMLBUR" target="REYEDBM" />
+    <edge source="DBMLBUR" target="DBMYELG" />
+    <edge source="DBMLBUR" target="DBMORDB" />
+    <edge source="DBMLBUR" target="DBMREBK" />
+    <edge source="DBMDBWH" target="DBMUR" />
+    <edge source="DBMUR" target="DBMREBK" />
+    <edge source="DBMUR" target="DBMYEYE" />
+    <edge source="LBURDBM" target="DBMREBK" />
+    <edge source="LBURDBM" target="REYEDBM" />
+    <edge source="LBURDBM" target="DBMYEYE" />
+    <edge source="LBURDBM" target="DBMORDB" />
+    <edge source="DBMEGEG" target="DBMREOR" />
+    <edge source="OREGDBM" target="DBMEGUR" />
+    <edge source="OREGDBM" target="DBMREOR" />
+    <edge source="OREGDBM" target="DBMREBK" />
+    <edge source="DBMREOR" target="DBMEGUR" />
+    <edge source="DBMREOR" target="DBMREBK" />
+    <edge source="DBMYEYE" target="DBMREBK" />
+    <edge source="DBMYEYE" target="REYEDBM" />
+    <edge source="DBMYEYE" target="DBMORDB" />
+    <edge source="REYEDBM" target="DBMYELG" />
+    <edge source="REYEDBM" target="DBMORDB" />
+    <edge source="REYEDBM" target="DBMREBK" />
+    <edge source="DBMORDB" target="DBMYELG" />
+    <edge source="DBMORDB" target="DBMORBK" />
+    <edge source="DBMORDB" target="DBMWHYE" />
+    <edge source="DBMORDB" target="DBMREBK" />
+    <edge source="DBMORDB" target="DBMBKYE" />
+    <edge source="DBMBKYE" target="DBMWHYE" />
+    <edge source="DBMBKYE" target="DBMORBK" />
+    <edge source="DBMEGUR" target="DBMREBK" />
+    <edge source="DBMYELG" target="DBMLGOR" />
+    <edge source="DBMYELG" target="DBMREBK" />
+    <edge source="DBMORBK" target="DBMWHYE" />
+    <edge source="DBMLGOR" target="DBMREBK" />
+  </graph>
+</graphml>

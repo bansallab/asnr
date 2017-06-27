@@ -1,0 +1,70 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="GRMBKRE" />
+    <node id="VIMLBYE" />
+    <node id="GRMORRE" />
+    <node id="GRMLBYE" />
+    <node id="GRMOROR" />
+    <node id="GRMREBK" />
+    <node id="YEWHWHM" />
+    <node id="GRMEGVI" />
+    <node id="GRMBKBK" />
+    <node id="VIYEGRM" />
+    <node id="GRMORVI" />
+    <node id="GRMLBLB" />
+    <node id="BKORWHM" />
+    <node id="RIGHT-M" />
+    <node id="VIMBKVI" />
+    <node id="GRMRERE" />
+    <node id="GRMFPLB" />
+    <node id="YEMEGUR" />
+    <node id="YEMORWH" />
+    <node id="GRMBKEG" />
+    <node id="BKWHGRM" />
+    <node id="LBMDBDB" />
+    <node id="ORBKGRM" />
+    <edge source="GRMBKRE" target="LBMDBDB" />
+    <edge source="VIMLBYE" target="GRMOROR" />
+    <edge source="VIMLBYE" target="GRMLBYE" />
+    <edge source="VIMLBYE" target="GRMEGVI" />
+    <edge source="VIMLBYE" target="YEMORWH" />
+    <edge source="GRMORRE" target="RIGHT-M" />
+    <edge source="GRMORRE" target="GRMFPLB" />
+    <edge source="GRMORRE" target="GRMORVI" />
+    <edge source="GRMOROR" target="YEMEGUR" />
+    <edge source="GRMREBK" target="YEWHWHM" />
+    <edge source="GRMREBK" target="GRMBKEG" />
+    <edge source="GRMREBK" target="BKORWHM" />
+    <edge source="GRMREBK" target="GRMLBLB" />
+    <edge source="GRMREBK" target="LBMDBDB" />
+    <edge source="GRMREBK" target="GRMBKBK" />
+    <edge source="GRMREBK" target="VIYEGRM" />
+    <edge source="GRMREBK" target="ORBKGRM" />
+    <edge source="YEWHWHM" target="LBMDBDB" />
+    <edge source="YEWHWHM" target="GRMBKBK" />
+    <edge source="YEWHWHM" target="BKORWHM" />
+    <edge source="YEWHWHM" target="GRMLBLB" />
+    <edge source="GRMEGVI" target="GRMRERE" />
+    <edge source="GRMEGVI" target="YEMORWH" />
+    <edge source="GRMEGVI" target="BKWHGRM" />
+    <edge source="GRMBKBK" target="GRMBKEG" />
+    <edge source="GRMBKBK" target="BKORWHM" />
+    <edge source="GRMBKBK" target="GRMLBLB" />
+    <edge source="GRMBKBK" target="LBMDBDB" />
+    <edge source="GRMBKBK" target="VIYEGRM" />
+    <edge source="VIYEGRM" target="LBMDBDB" />
+    <edge source="VIYEGRM" target="BKORWHM" />
+    <edge source="GRMORVI" target="RIGHT-M" />
+    <edge source="GRMORVI" target="GRMFPLB" />
+    <edge source="GRMLBLB" target="LBMDBDB" />
+    <edge source="GRMLBLB" target="BKORWHM" />
+    <edge source="BKORWHM" target="GRMBKEG" />
+    <edge source="BKORWHM" target="LBMDBDB" />
+    <edge source="BKORWHM" target="ORBKGRM" />
+    <edge source="VIMBKVI" target="YEMORWH" />
+    <edge source="GRMRERE" target="YEMORWH" />
+    <edge source="GRMRERE" target="BKWHGRM" />
+    <edge source="YEMORWH" target="BKWHGRM" />
+    <edge source="GRMBKEG" target="LBMDBDB" />
+  </graph>
+</graphml>
