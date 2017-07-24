@@ -202,62 +202,7 @@
         </div>
         <!-- /.row -->
 
-        <!-- Contact Form -->
-        <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file.  -->
-        <div class="row">
-            <div class="col-md-8">
-                <h3>Send us a Message!</h3><br>
-                <form name="datasetSubmission" id="datasetSubmission" action="https://docs.google.com/forms/d/e/1FAIpQLSfqCngplG-PMD0_PeR1389Rpkat5kuey0ch2e-uegcOU55x-w/viewform?usp=pp_url&entry.1802278786=name&entry.386856262=organ&entry.639954376=number&entry.735475765=email&entry.2127289274=message">
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Full Name:</label>
-                            <input type="text" class="form-control" name="entry.1802278786" id="entry.1802278786" required data-validation-required-message="Please enter your name.">
-                            <p class="help-block"></p>
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Organization:</label>
-                            <input type="text" class="form-control" name="entry.386856262" id="entry.386856262" required data-validation-required-message="Please enter your organization.">
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Phone Number:</label>
-                            <input type="number" class="form-control" name="entry.639954376" id="entry.639954376" required data-validation-required-message="Please enter your phone number.">
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Email Address:</label>
-                            <input type="text" class="form-control" name="entry.735475765" id="entry.735475765" required data-validation-required-message="Please enter your email address.">
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Message:</label>
-                            <textarea rows="10" cols="100" class="form-control" name="entry.2127289274" id="entry.2127289274" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
-                        </div>
-                    </div>
-                    <div id="success"></div>
-                    <!-- For success/fail messages  -->
-                    <button type="submit" class="btn btn-primary" value="Submit">Send Message</button>
-                </form><br><br>
-
-                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
-
-                <!-- prevents redirection -->
-                <script src="js/jquery.js"></script>
-                <script type="text/javascript">var submitted=false;</script>
-                <script type="text/javascript">
-                $('#datasetSubmission').on('submit', function(e) {
-                    $('#datasetSubmission').fadeOut(2000);
-                    $('#datasetSubmission').prepend('Your submission has been processed...');
-                    });
-                </script>
-            </div>
-
-        </div>
+        
         <!-- /.row -->
 
         <!-- google form -->
