@@ -206,7 +206,7 @@
         <div class="row">
             <div class="col-md-8">
                 <h3>Send us a Message!</h3><br>
-                <form name="datasetSubmission" id="datasetSubmission" action="https://docs.google.com/forms/d/e/1FAIpQLSfqCngplG-PMD0_PeR1389Rpkat5kuey0ch2e-uegcOU55x-w/viewform?usp=pp_url&entry.1802278786=name&entry.386856262=organ&entry.639954376=number&entry.735475765=email&entry.2127289274=message">
+                <form name="datasetSubmission" id="https://docs.google.com/forms/d/e/1FAIpQLSfqCngplG-PMD0_PeR1389Rpkat5kuey0ch2e-uegcOU55x-w/viewform?usp=pp_url&entry.1802278786=f&entry.386856262=o&entry.735475765=e&entry.2127289274=m">
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Full Name:</label>
@@ -232,9 +232,14 @@
                             <textarea rows="10" cols="100" class="form-control" name="entry.2127289274" id="entry.2127289274" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
                         </div>
                     </div>
+                    
+                    <!-- <label for="fileUpload" class="btn btn-large" style="font-size: 11pt">Select file</label><br/><br/><br/> -->
+                    <input type="file" class="form-control" name="fileUpload" id="fileUpload" class="hide"/><br><br>
+                    <!-- <img src="" id="imagePreview" alt="Preview Image" width="200px"/> -->
+
                     <div id="success"></div>
                     <!-- For success/fail messages  -->
-                    <button type="submit" class="btn btn-primary" value="Submit">Send Message</button>
+                    <button type="submit" class="btn btn-primary" value="Submit" style="color: #ffffff"><b>Send Message</button></b>
                 </form><br><br>
 
                 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
@@ -243,7 +248,7 @@
                 <script src="js/jquery.js"></script>
                 <script type="text/javascript">var submitted=false;</script>
                 <script type="text/javascript">
-                $('#datasetSubmission').on('submit', function(e) {
+                $('#datasetSubmission').on('Submit', function(e) {
                     $('#datasetSubmission').fadeOut(2000);
                     $('#datasetSubmission').prepend('Your submission has been processed...');
                     });
