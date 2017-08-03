@@ -212,7 +212,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		
 
 		#Save as markdown
-		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False, header=False)
+		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False, header = True)
 
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
 		    file1.write('**Citation**: '+cit1)
