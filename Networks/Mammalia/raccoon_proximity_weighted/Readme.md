@@ -11,11 +11,11 @@ average betweenness centrality (weighted)|0.0- 0.333
 average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.876
 Newman modularity|0.0- 0.817
-maximum modularity|0.0- 0.896
+maximum modularity|0.0- 0.897
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-Species|Procyon_lotor
+Species|*Procyon lotor*
 Taxonomic class|Mammalia
 Population type|free-ranging
 Geographical location|Illinois, USA
@@ -23,6 +23,4 @@ Data collection technique|logger
 Edge weight type|duration
 Time span of data collection|7days
 Time resolution of data collection|1 sec
-Citation|"Reynolds, Jennifer JH, et al. 
-Raccoon contact networks predict seasonal susceptibility to rabies outbreaks and limitations of vaccination.
- Journal of Animal Ecology 84.6 (2015): 1720-1731."
+Citation|"> Reynolds, Jennifer JH, et al. ""Raccoon contact networks predict seasonal susceptibility to rabies outbreaks and limitations of vaccination."" Journal of Animal Ecology 84.6 (2015): 1720-1731."

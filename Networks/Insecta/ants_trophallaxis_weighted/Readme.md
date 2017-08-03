@@ -11,11 +11,11 @@ average betweenness centrality (weighted)|0.0- 0.333
 average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.876
 Newman modularity|0.0- 0.817
-maximum modularity|0.0- 0.896
+maximum modularity|0.0- 0.897
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-Species|Camponotus_pennsylvanicus
+Species|*Camponotus pennsylvanicus*
 Taxonomic class|Insecta
 Population type|captive
 Geographical location|Old Main, State College, Pennsylvania
@@ -23,6 +23,4 @@ Data collection technique|video
 Edge weight type|duration
 Time span of data collection|1 day
 Time resolution of data collection|1sec
-Citation|"Quevillon, Lauren E., et al. 
-Social, spatial, and temporal organization in a complex insect society.
- Scientific reports 5 (2015)."
+Citation|"> Quevillon, Lauren E., et al. ""Social, spatial, and temporal organization in a complex insect society."" Scientific reports 5 (2015)."

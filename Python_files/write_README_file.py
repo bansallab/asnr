@@ -69,6 +69,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		dt_sub =  dt[dt['dirname'].str.contains(subdir)] 
 		location = dt_sub['geographical_location'].iloc[0]
 		taxa = dt_sub['Taxa'].iloc[0]
+		taxa = taxa.replace('_', ' ')
 		class1 = dt_sub['Class'].iloc[0]
 		interaction = dt_sub['interaction_type'].iloc[0]
 		edge_wt_type = dt_sub['edge_wt_type'].iloc[0]
@@ -77,8 +78,8 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		time_span = dt_sub['time_span'].iloc[0]
 		resolution = dt_sub['resolution'].iloc[0]
 		citn = dt_sub['Citation'].iloc[0]
-		cit1 = citn.replace('"', '\n')
-		dt = pd.DataFrame([["Species", taxa], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution], ["Citation", cit1]], columns= ["a", "b"])
+		#cit1 = citn.replace('"', '\n')
+		dt = pd.DataFrame([["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution], ["Citation", "> "+citn]], columns= ["a", "b"])
 		
 		########################################3
 		for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir+'/'+subdir))):	
@@ -185,7 +186,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 						val = [num for num in val if not isinstance(num, basestring)]
 						min_val = round(float(min(val)),3)
 						max_val = round(float(max(val)),3)
-						value1 = str(min_val)+ '- '+str(max_val)
+						value1 = str(min_val)+ ' - '+str(max_val)
 					else: value1 = 'n/a'
 					row = [attr, str(min_val)+ '- '+str(max_val)]
 					df_row = pd.DataFrame([row], columns = index_col) 

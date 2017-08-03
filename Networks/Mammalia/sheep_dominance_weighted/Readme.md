@@ -11,11 +11,11 @@ average betweenness centrality (weighted)|0.0- 0.333
 average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.876
 Newman modularity|0.0- 0.817
-maximum modularity|0.0- 0.896
+maximum modularity|0.0- 0.897
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-Species|Ovis_canadensis
+Species|*Ovis canadensis*
 Taxonomic class|Mammalia
 Population type|semi-ranging
 Geographical location|Montana, USA
@@ -23,4 +23,4 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|15 months
 Time resolution of data collection|real time
-Citation|Christine C Hass. Social status in female bighorn sheep (Ovis canadensis): Expression, development and reproductive correlates. J. of Zoology, 225(3):509-523, 1991.
+Citation|> Christine C Hass. Social status in female bighorn sheep (Ovis canadensis): Expression, development and reproductive correlates. J. of Zoology, 225(3):509-523, 1991.
