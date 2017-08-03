@@ -15,15 +15,14 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-**Species**| Zonotrichia_atricapilla
-**Taxonomic class**| Aves
-**Population type**| free-ranging
-**Geographical location**| California, USA
-**Data collection technique**| manual 
-**Edge weight type**| frequency
-**Time span of data collection**| 4 months
-**Time resolution of data collection**| real time
-**Citation**| Shizuka, Daizaburo, et al.
- "Across‐year social stability shapes network structure in wintering migrant sparrows.
-" Ecology letters 17.
-8 (2014): 998-1007.
+Species|Zonotrichia_atricapilla
+Taxonomic class|Aves
+Population type|free-ranging
+Geographical location|California, USA
+Data collection technique|manual 
+Edge weight type|frequency
+Time span of data collection|4 months
+Time resolution of data collection|real time
+Citation|"Shizuka, Daizaburo, et al. 
+Across‐year social stability shapes network structure in wintering migrant sparrows.
+ Ecology letters 17.8 (2014): 998-1007."

@@ -15,15 +15,14 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.063- 1.0
 network diameter|0.063- 1.0
-**Species**| Gopherus_agassizii
-**Taxonomic class**| Reptilia
-**Population type**| free-ranging
-**Geographical location**| Nevada, USA
-**Data collection technique**| radio tags
-**Edge weight type**| unweighted
-**Time span of data collection**| 8 months
-**Time resolution of data collection**| real time
-**Citation**| Sah, Pratha, et al.
- "Inferring social structure and its drivers from refuge use in the desert tortoise, a relatively solitary species.
-" Behavioral Ecology and Sociobiology 70.
-8 (2016): 1277-1289.
+Species|Gopherus_agassizii
+Taxonomic class|Reptilia
+Population type|free-ranging
+Geographical location|Nevada, USA
+Data collection technique|radio tags
+Edge weight type|unweighted
+Time span of data collection|8 months
+Time resolution of data collection|real time
+Citation|"Sah, Pratha, et al. 
+Inferring social structure and its drivers from refuge use in the desert tortoise, a relatively solitary species.
+ Behavioral Ecology and Sociobiology 70.8 (2016): 1277-1289."

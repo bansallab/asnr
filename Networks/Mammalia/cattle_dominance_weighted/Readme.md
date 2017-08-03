@@ -15,17 +15,12 @@ maximum modularity|0.0- 0.777
 relative modularity|0.09- 0.734
 group cohesion|0.3- 1.0
 network diameter|0.3- 1.0
-**Species**| Cattle_N/A
-**Taxonomic class**| Mammalia
-**Population type**| semi-ranging
-**Geographical location**| Jeanerette, Louisiana, USA
-**Data collection technique**| manual 
-**Edge weight type**| frequency
-**Time span of data collection**| Not specified
-**Time resolution of data collection**| 1 sec
-**Citation**| Martin W.
- Schein and Milton H.
- Fohrman.
- Social dominance relationships in a herd of dairy cattle.
- The British J.
- of Animal Behaviour, 3(2):45-55, 1955.
+Species|Cattle_N/A
+Taxonomic class|Mammalia
+Population type|semi-ranging
+Geographical location|Jeanerette, Louisiana, USA
+Data collection technique|manual 
+Edge weight type|frequency
+Time span of data collection|Not specified
+Time resolution of data collection|1 sec
+Citation|Martin W. Schein and Milton H. Fohrman. Social dominance relationships in a herd of dairy cattle. The British J. of Animal Behaviour, 3(2):45-55, 1955.
