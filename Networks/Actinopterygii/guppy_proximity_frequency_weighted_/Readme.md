@@ -15,4 +15,12 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-**Species:** Poecilia_reticulata**Taxonomic class:** Actinopterygii**Population type:** captive**Geographical location:** Louisville, Kentcuky**Data collection technique:** video**Edge weight type:** frequency**Time span of data collection:** 90min**Time resolution of data collection :** 10 seconds**Citation:** Hasenjager, Matthew J., and Lee Alan Dugatkin. "Familiarity affects network structure and information flow in guppy (Poecilia reticulata) shoals." Behavioral Ecology (2016): arw152.
+**Species|** Poecilia_reticulata
+**Taxonomic class|** Actinopterygii
+**Population type|** captive
+**Geographical location|** Louisville, Kentcuky
+**Data collection technique|** video
+**Edge weight type|** frequency
+**Time span of data collection|** 90min
+**Time resolution of data collection|** 10 seconds
+**Citation|** Hasenjager, Matthew J., and Lee Alan Dugatkin. "Familiarity affects network structure and information flow in guppy (Poecilia reticulata) shoals." Behavioral Ecology (2016): arw152.

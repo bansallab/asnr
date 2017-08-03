@@ -15,4 +15,12 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.916
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-**Species:** Macaca_mulatta**Taxonomic class:** Mammalia**Population type:** captive**Geographical location:** Rijswijk, the Netherlands**Data collection technique:** manual **Edge weight type:** frequency**Time span of data collection:** 3years**Time resolution of data collection :** 1 hour**Citation:** Massen, Jorg JM, and Elisabeth HM Sterck. "Stability and durability of intra-and intersex social bonds of captive rhesus macaques (Macaca mulatta)." International Journal of Primatology 34.4 (2013): 770-791.
+**Species|** Macaca_mulatta
+**Taxonomic class|** Mammalia
+**Population type|** captive
+**Geographical location|** Rijswijk, the Netherlands
+**Data collection technique|** manual 
+**Edge weight type|** frequency
+**Time span of data collection|** 3years
+**Time resolution of data collection|** 1 hour
+**Citation|** Massen, Jorg JM, and Elisabeth HM Sterck. "Stability and durability of intra-and intersex social bonds of captive rhesus macaques (Macaca mulatta)." International Journal of Primatology 34.4 (2013): 770-791.

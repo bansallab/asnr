@@ -15,4 +15,12 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-**Species:** Haemorhous_mexicanus**Taxonomic class:** Aves**Population type:** free-ranging**Geographical location:** Virginia Tech, Virginia, USA**Data collection technique:** RFID**Edge weight type:** simple_ratio_index**Time span of data collection:** 137 days**Time resolution of data collection :** 1 sec**Citation:** Adelman, James S., et al. "Feeder use predicts both acquisition and transmission of a contagious pathogen in a North American songbird." Proc. R. Soc. B. Vol. 282. No. 1815. The Royal Society, 2015.
+**Species|** Haemorhous_mexicanus
+**Taxonomic class|** Aves
+**Population type|** free-ranging
+**Geographical location|** Virginia Tech, Virginia, USA
+**Data collection technique|** RFID
+**Edge weight type|** simple_ratio_index
+**Time span of data collection|** 137 days
+**Time resolution of data collection|** 1 sec
+**Citation|** Adelman, James S., et al. "Feeder use predicts both acquisition and transmission of a contagious pathogen in a North American songbird." Proc. R. Soc. B. Vol. 282. No. 1815. The Royal Society, 2015.

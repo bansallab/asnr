@@ -15,4 +15,12 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-**Species:** White_leghorn_N/A**Taxonomic class:** Aves**Population type:** captive**Geographical location:** Manhattan, Kansas**Data collection technique:** manual **Edge weight type:** frequency**Time span of data collection:** Not specified**Time resolution of data collection :** Not specified**Citation:** Guhl, A. M. "Social behavior of the domestic fowl." Transactions of the Kansas Academy of Science (1903-) 71.3 (1968): 379-384.
+**Species|** White_leghorn_N/A
+**Taxonomic class|** Aves
+**Population type|** captive
+**Geographical location|** Manhattan, Kansas
+**Data collection technique|** manual 
+**Edge weight type|** frequency
+**Time span of data collection|** Not specified
+**Time resolution of data collection|** Not specified
+**Citation|** Guhl, A. M. "Social behavior of the domestic fowl." Transactions of the Kansas Academy of Science (1903-) 71.3 (1968): 379-384.
