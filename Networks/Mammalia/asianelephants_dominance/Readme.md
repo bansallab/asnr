@@ -1,3 +1,4 @@
+---|---
 Species|*Elephas maximus*
 Taxonomic class|Mammalia
 Population type|free-ranging

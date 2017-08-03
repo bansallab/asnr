@@ -1,3 +1,4 @@
+---|---
 Species|*Gasterosteus aculeatus*
 Taxonomic class|Actinopterygii
 Population type|captive

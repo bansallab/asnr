@@ -1,3 +1,4 @@
+---|---
 Species|*White leghorn N/A*
 Taxonomic class|Aves
 Population type|captive

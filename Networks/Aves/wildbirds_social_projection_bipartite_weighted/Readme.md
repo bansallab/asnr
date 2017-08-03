@@ -1,3 +1,4 @@
+---|---
 Species|*Wild birds N/A*
 Taxonomic class|Aves
 Population type|free-ranging

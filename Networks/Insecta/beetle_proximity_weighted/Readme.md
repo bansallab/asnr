@@ -1,3 +1,4 @@
+---|---
 Species|*Bolitotherus cornutus*
 Taxonomic class|Insecta
 Population type|captive

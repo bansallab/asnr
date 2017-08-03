@@ -1,3 +1,4 @@
+---|---
 Species|*Papio cynocephalus*
 Taxonomic class|Mammalia
 Population type|free-ranging

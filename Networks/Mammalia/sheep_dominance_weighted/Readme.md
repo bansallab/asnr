@@ -1,3 +1,4 @@
+---|---
 Species|*Ovis canadensis*
 Taxonomic class|Mammalia
 Population type|semi-ranging

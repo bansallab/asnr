@@ -1,3 +1,4 @@
+---|---
 Species|*Ateles hybridus*
 Taxonomic class|Mammalia
 Population type|free-ranging
@@ -20,7 +21,7 @@ average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.876
 Newman modularity|0.0 - 0.817
 maximum modularity|0.0 - 0.896
-relative modularity|0.0 - 0.919
+relative modularity|0.0 - 0.916
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
 **Citation**: Rimbach, Rebecca, et al. 

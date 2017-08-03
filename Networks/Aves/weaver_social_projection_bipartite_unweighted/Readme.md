@@ -1,3 +1,4 @@
+---|---
 Species|*Philetairus socius*
 Taxonomic class|Aves
 Population type|free-ranging

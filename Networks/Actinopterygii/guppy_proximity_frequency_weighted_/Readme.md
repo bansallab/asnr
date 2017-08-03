@@ -1,3 +1,4 @@
+---|---
 Species|*Poecilia reticulata*
 Taxonomic class|Actinopterygii
 Population type|captive

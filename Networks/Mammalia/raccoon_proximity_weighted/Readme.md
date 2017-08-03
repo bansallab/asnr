@@ -1,3 +1,4 @@
+---|---
 Species|*Procyon lotor*
 Taxonomic class|Mammalia
 Population type|free-ranging

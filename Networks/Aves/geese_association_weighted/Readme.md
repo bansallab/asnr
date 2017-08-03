@@ -1,3 +1,4 @@
+---|---
 Species|*Branta leucopsis*
 Taxonomic class|Aves
 Population type|captive
