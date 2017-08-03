@@ -79,8 +79,16 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		resolution = dt_sub['resolution'].iloc[0]
 		citn = dt_sub['Citation'].iloc[0]
 		cit1 = citn.split()
-		cit1 = list(''.join(l + '<br>' * (n % 5 == 2) for n, l in enumerate(cit1)))
-		cit1 = ' '.join(cit1)		
+		cit2 = []
+		for num in xrange(len(cit1)):
+			if  (num> 0 and num%5==0): 
+				cit2.append(cit1[num])
+				cit2.append('<br>')
+			else: cit2.append(cit1[num])
+
+	
+		cit2 = ' '.join(cit2)		
+		#print cit2
 		########################################3
 		for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir+'/'+subdir))):	
 			if filename.endswith(".graphml"): 	
@@ -217,7 +225,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False, header = True)
 
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
-		    file1.write('**Citation**: '+cit1)
+		    file1.write('**Citation**: '+cit2)
 		"""
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
 		    file1.write('**Species**| ' + taxa +'\n')

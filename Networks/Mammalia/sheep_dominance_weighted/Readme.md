@@ -11,8 +11,8 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.876
 Newman modularity|0.0 - 0.817
-maximum modularity|0.0 - 0.898
+maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: C h r i s t i n e C H a s s . < b r > S o c i a l s t a t u s i n f e m a l e b i g h o r n < b r > s h e e p ( O v i s c a n a d e n s i s ) : E x p r e s s i o n , d e v e l o p m e n t < b r > a n d r e p r o d u c t i v e c o r r e l a t e s . J . o f < b r > Z o o l o g y , 2 2 5 ( 3 ) : 5 0 9 - 5 2 3 , 1 9 9 1 .
+**Citation**: Christine C Hass. Social status in <br> female bighorn sheep (Ovis canadensis): <br> Expression, development and reproductive correlates. <br> J. of Zoology, 225(3):509-523, 1991. <br>

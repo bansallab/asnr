@@ -11,8 +11,8 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.876
 Newman modularity|0.0 - 0.817
-maximum modularity|0.0 - 0.898
-relative modularity|0.0 - 0.919
+maximum modularity|0.0 - 0.896
+relative modularity|0.0 - 0.916
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: D a v i s , S t e p h e n , e t < b r > a l . " S p a t i a l a n a l y s e s o f w i l d l i f e < b r > c o n t a c t n e t w o r k s . " J o u r n a l o f t h e < b r > R o y a l S o c i e t y I n t e r f a c e 1 2 . 1 0 2 ( 2 0 1 5 ) : < b r > 2 0 1 4 1 0 0 4 .
+**Citation**: Davis, Stephen, et al. "Spatial analyses <br> of wildlife contact networks." Journal <br> of the Royal Society Interface <br> 12.102 (2015): 20141004.
