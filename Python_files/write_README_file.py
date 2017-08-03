@@ -220,6 +220,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 	            file1.write('**Edge weight type**| '+edge_wt_type+'\n')		
 		    file1.write('**Time span of data collection**| '+time_span+'\n')
 		    file1.write('**Time resolution of data collection**| '+resolution+'\n')
-		    file1.write('**Citation**| '+citn)
+		    cit1 = citn.replace(".", "./n")
+		    file1.write('**Citation**| '+cit1)
 
 

@@ -12,7 +12,7 @@ average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.332
 Newman modularity|0.0- 0.572
 maximum modularity|0.0- 0.768
-relative modularity|0.084- 0.835
+relative modularity|0.09- 0.835
 group cohesion|0.13- 1.0
 network diameter|0.13- 1.0
 **Species**| Bison_bison
@@ -23,4 +23,4 @@ network diameter|0.13- 1.0
 **Edge weight type**| frequency
 **Time span of data collection**| 2 months
 **Time resolution of data collection**| 1sec
-**Citation**| Dale F Lott. Dominance relations and breeding rate in mature male American bison. Zeitschrift für Tierpsychologie, 49(4):418-432, 1979.
+**Citation**| Dale F Lott./n Dominance relations and breeding rate in mature male American bison./n Zeitschrift für Tierpsychologie, 49(4):418-432, 1979./n

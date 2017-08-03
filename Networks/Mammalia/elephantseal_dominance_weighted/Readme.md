@@ -12,7 +12,7 @@ average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.332
 Newman modularity|0.0- 0.572
 maximum modularity|0.0- 0.768
-relative modularity|0.084- 0.835
+relative modularity|0.09- 0.835
 group cohesion|0.13- 1.0
 network diameter|0.13- 1.0
 **Species**| Mirounga_angustirostris
@@ -23,4 +23,4 @@ network diameter|0.13- 1.0
 **Edge weight type**| frequency
 **Time span of data collection**| 69 days
 **Time resolution of data collection**| real time
-**Citation**| Casey, Caroline, et al. "Rival assessment among northern elephant seals: evidence of associative learning during male–male contests." Royal Society open science 2.8 (2015): 150228.
+**Citation**| Casey, Caroline, et al./n "Rival assessment among northern elephant seals: evidence of associative learning during male–male contests./n" Royal Society open science 2./n8 (2015): 150228./n
