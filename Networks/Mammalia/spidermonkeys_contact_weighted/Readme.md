@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Ateles hybridus*
 Taxonomic class|Mammalia

@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Hirundo rustica*
 Taxonomic class|Aves

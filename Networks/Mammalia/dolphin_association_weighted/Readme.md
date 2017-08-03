@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Tursiops truncatus*
 Taxonomic class|Mammalia

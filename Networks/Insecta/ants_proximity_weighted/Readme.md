@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Camponotus fellah*
 Taxonomic class|Insecta

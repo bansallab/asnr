@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Branta leucopsis*
 Taxonomic class|Aves

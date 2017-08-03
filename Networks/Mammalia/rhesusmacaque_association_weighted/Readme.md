@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Macaca mulatta*
 Taxonomic class|Mammalia

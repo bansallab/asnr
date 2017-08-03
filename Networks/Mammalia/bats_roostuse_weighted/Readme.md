@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Myotis sodalis*
 Taxonomic class|Mammalia

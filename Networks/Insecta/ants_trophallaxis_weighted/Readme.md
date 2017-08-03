@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Camponotus pennsylvanicus*
 Taxonomic class|Insecta

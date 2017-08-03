@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Acanthiza N/A*
 Taxonomic class|Aves

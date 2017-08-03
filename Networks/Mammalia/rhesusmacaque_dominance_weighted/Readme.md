@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Macaca fuscata*
 Taxonomic class|Mammalia

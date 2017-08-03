@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Zonotrichia atricapilla*
 Taxonomic class|Aves

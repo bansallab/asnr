@@ -203,7 +203,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		# Create a new DataFrame with just the markdown
 		# strings
 		df2 = pd.DataFrame([[cols[0], cols[1]], ['---',]*len(cols)], columns=cols)
-		dt2 = pd.DataFrame([['---',]*len(cols)], columns=cols)
+		dt2 = pd.DataFrame([["", ""], ['---',]*len(cols)], columns=cols)
 
 		#Create a new concatenated DataFrame
 	

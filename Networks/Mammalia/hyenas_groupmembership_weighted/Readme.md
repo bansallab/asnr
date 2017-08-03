@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Crocuta crocuta*
 Taxonomic class|Mammalia

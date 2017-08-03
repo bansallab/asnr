@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Bison bison*
 Taxonomic class|Mammalia
@@ -19,9 +20,9 @@ average betweenness centrality (unweighted)|0.0 - 0.144
 average betweenness centrality (weighted)|0.0 - 0.144
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.332
-Newman modularity|0.0 - 0.572
-maximum modularity|0.0 - 0.777
-relative modularity|0.084 - 0.835
+Newman modularity|0.0 - 0.58
+maximum modularity|0.0 - 0.794
+relative modularity|0.09 - 0.734
 group cohesion|0.13 - 1.0
 network diameter|0.13 - 1.0
 **Citation**: Dale F Lott. Dominance relations and breeding rate in mature male American bison. Zeitschrift für Tierpsychologie, 49(4):418-432, 1979.

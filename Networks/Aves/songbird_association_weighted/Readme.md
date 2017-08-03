@@ -1,3 +1,4 @@
+|
 ---|---
 Species|*Haemorhous mexicanus*
 Taxonomic class|Aves
