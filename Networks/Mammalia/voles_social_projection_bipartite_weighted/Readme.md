@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.916
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Davis, Stephen, et al. 
-Spatial analyses of wildlife contact networks.
- Journal of the Royal Society Interface 12.102 (2015): 20141004.
+**Citation**: Davis, Stephen, et al. <br>Spatial analyses of wildlife contact networks.<br> Journal of the Royal Society Interface 12.102 (2015): 20141004.

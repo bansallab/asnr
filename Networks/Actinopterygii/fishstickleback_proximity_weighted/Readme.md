@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Atton, N., et al. 
-Familiarity affects social network structure and discovery of prey patch locations in foraging stickleback shoals.
- Proceedings of the Royal Society of London B: Biological Sciences 281.1789 (2014): 20140579.
+**Citation**: Atton, N., et al. <br>Familiarity affects social network structure and discovery of prey patch locations in foraging stickleback shoals.<br> Proceedings of the Royal Society of London B: Biological Sciences 281.1789 (2014): 20140579.

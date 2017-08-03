@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Takahata, Yukio. 
-Diachronic changes in the dominance relations of adult female Japanese monkeys of the Arashiyama B group.
- The monkeys of Arashiyama. State University of New York Press, Albany (1991): 123-139.
+**Citation**: Takahata, Yukio. <br>Diachronic changes in the dominance relations of adult female Japanese monkeys of the Arashiyama B group.<br> The monkeys of Arashiyama. State University of New York Press, Albany (1991): 123-139.

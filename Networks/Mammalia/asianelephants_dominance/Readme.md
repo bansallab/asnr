@@ -15,6 +15,4 @@ maximum modularity|0.685
 relative modularity|0.734
 group cohesion|0.3
 network diameter|n/a
-**Citation**: de Silva, Shermin, Volker Schmid, and George Wittemyer. 
-Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat.
- Behavioral Ecology (2016): arw153.
+**Citation**: de Silva, Shermin, Volker Schmid, and George Wittemyer. <br>Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat.<br> Behavioral Ecology (2016): arw153.

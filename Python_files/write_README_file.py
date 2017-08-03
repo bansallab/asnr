@@ -78,7 +78,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		time_span = dt_sub['time_span'].iloc[0]
 		resolution = dt_sub['resolution'].iloc[0]
 		citn = dt_sub['Citation'].iloc[0]
-		cit1 = citn.replace('"', '\n')		
+		cit1 = citn.replace('"', '<br>')		
 		########################################3
 		for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir+'/'+subdir))):	
 			if filename.endswith(".graphml"): 	

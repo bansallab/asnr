@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Reynolds, Jennifer JH, et al. 
-Raccoon contact networks predict seasonal susceptibility to rabies outbreaks and limitations of vaccination.
- Journal of Animal Ecology 84.6 (2015): 1720-1731.
+**Citation**: Reynolds, Jennifer JH, et al. <br>Raccoon contact networks predict seasonal susceptibility to rabies outbreaks and limitations of vaccination.<br> Journal of Animal Ecology 84.6 (2015): 1720-1731.

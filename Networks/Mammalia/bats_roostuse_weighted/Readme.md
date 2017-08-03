@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.916
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Silvis, Alexander, et al. 
-Roosting and foraging social structure of the endangered Indiana bat (Myotis sodalis).
- PloS one 9.5 (2014): e96937.
+**Citation**: Silvis, Alexander, et al. <br>Roosting and foraging social structure of the endangered Indiana bat (Myotis sodalis).<br> PloS one 9.5 (2014): e96937.

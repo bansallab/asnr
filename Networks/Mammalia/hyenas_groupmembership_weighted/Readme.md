@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Holekamp, Kay E., et al. 
-Society, demography and genetic structure in the spotted hyena.
- Molecular Ecology 21.3 (2012): 613-632.
+**Citation**: Holekamp, Kay E., et al. <br>Society, demography and genetic structure in the spotted hyena.<br> Molecular Ecology 21.3 (2012): 613-632.

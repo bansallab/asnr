@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Gazda, Stefanie, et al. 
-The importance of delineating networks by activity type in bottlenose dolphins (Tursiops truncatus) in Cedar Key, Florida.
- Royal Society open science 2.3 (2015): 140263.
+**Citation**: Gazda, Stefanie, et al. <br>The importance of delineating networks by activity type in bottlenose dolphins (Tursiops truncatus) in Cedar Key, Florida.<br> Royal Society open science 2.3 (2015): 140263.

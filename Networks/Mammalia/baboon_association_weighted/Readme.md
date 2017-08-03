@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Franz, Mathias, Jeanne Altmann, and Susan C. Alberts. 
-Knockouts of high-ranking males have limited impact on baboon social networks.
- Current zoology 61.1 (2015): 107-113.
+**Citation**: Franz, Mathias, Jeanne Altmann, and Susan C. Alberts. <br>Knockouts of high-ranking males have limited impact on baboon social networks.<br> Current zoology 61.1 (2015): 107-113.

@@ -15,6 +15,4 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.916
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Massen, Jorg JM, and Elisabeth HM Sterck. 
-Stability and durability of intra-and intersex social bonds of captive rhesus macaques (Macaca mulatta).
- International Journal of Primatology 34.4 (2013): 770-791.
+**Citation**: Massen, Jorg JM, and Elisabeth HM Sterck. <br>Stability and durability of intra-and intersex social bonds of captive rhesus macaques (Macaca mulatta).<br> International Journal of Primatology 34.4 (2013): 770-791.
