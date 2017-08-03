@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|0.0 - 0.144
 average betweenness centrality (weighted)|0.0 - 0.144
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.332
-Newman modularity|0.0 - 0.519
-maximum modularity|0.0 - 0.777
-relative modularity|0.084 - 0.734
+Newman modularity|0.0 - 0.523
+maximum modularity|0.0 - 0.762
+relative modularity|0.09 - 0.734
 group cohesion|0.3 - 1.0
 network diameter|0.3 - 1.0
 **Study description**|**value**

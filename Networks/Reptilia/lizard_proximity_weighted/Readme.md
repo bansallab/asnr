@@ -1,9 +1,9 @@
 network attribute|range
 ---|---
 total nodes|2.0 - 1100.0
-total edges|1.0 - 3182.0
+total edges|1.0 - 11139.0
 network density|0.0 - 1.0
-average degree|0.0 - 38.081
+average degree|0.0 - 139.238
 degree heterogeneity|0.0 - 7.75
 degree assortativity|-1.0 - 1.0
 average betweenness centrality (unweighted)|0.0 - 0.333
