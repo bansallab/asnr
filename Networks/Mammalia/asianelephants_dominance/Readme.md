@@ -13,6 +13,6 @@ average clustering coefficient (weighted)|0.04
 Newman modularity|0.503
 maximum modularity|0.685
 relative modularity|0.734
-group cohesion|0.2999700029997
+group cohesion|0.3
 network diameter|n/a
-**Citation:** Davis, Stephen, et al. "Spatial analyses of wildlife contact networks." Journal of the Royal Society Interface 12.102 (2015): 20141004.
+**Species:** Elephas_maximus**Taxonomic class:** Mammalia**Population type:** free-ranging**Geographical location:** Uda Walawe National Park, Sri Lanka**Data collection technique:** manual **Edge weight type:** unweighted**Time span of data collection:** 206days**Time resolution of data collection :** 1sec**Citation:** de Silva, Shermin, Volker Schmid, and George Wittemyer. "Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat." Behavioral Ecology (2016): arw153.

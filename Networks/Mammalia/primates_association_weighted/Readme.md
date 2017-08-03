@@ -1,7 +1,7 @@
 network attribute|range
 ---|---
 total nodes|5.0- 73.0
-total edges|10.0- 205.0
+total edges|10.0- 181.0
 network density|0.023- 1.0
 average degree|1.644- 15.182
 degree heterogeneity|0.0- 0.64
@@ -15,4 +15,4 @@ maximum modularity|0.0- 0.777
 relative modularity|0.084- 0.734
 group cohesion|0.3- 1.0
 network diameter|0.3- 1.0
-**Species:** Cattle_N/A**Taxonomic class:** Mammalia**Population type:** semi-ranging**Geographical location:** Jeanerette, Louisiana, USA**Data collection technique:** manual **Edge weight type:** frequency**Time span of data collection:** Not specified**Time resolution of data collection :** 1 sec**Citation:** Martin W. Schein and Milton H. Fohrman. Social dominance relationships in a herd of dairy cattle. The British J. of Animal Behaviour, 3(2):45-55, 1955.
+**Species:** Macaca_fuscata**Taxonomic class:** Mammalia**Population type:** free-ranging**Geographical location:** Yakushima, Japan**Data collection technique:** manual **Edge weight type:** frequency**Time span of data collection:** 3 months**Time resolution of data collection :** real time**Citation:** Griffin, Randi H., and Charles L. Nunn. "Community structure and the spread of infectious disease in primate social networks." Evolutionary Ecology 26.4 (2012): 779-800.

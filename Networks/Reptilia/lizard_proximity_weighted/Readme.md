@@ -1,7 +1,7 @@
 network attribute|range
 ---|---
-total nodes|2- 1100
-total edges|1- 11139
+total nodes|2.0- 1100.0
+total edges|1.0- 11139.0
 network density|0.0- 1.0
 average degree|0.0- 139.238
 degree heterogeneity|0.0- 7.75
@@ -12,7 +12,7 @@ average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 1.0
 Newman modularity|0.0- 0.817
 maximum modularity|0.0- 0.896
-relative modularity|0.0- NA
-group cohesion|0.0625699023127- 1.00025006252
-network diameter|0.0625699023127- 1.00025006252
-**Citation:** Davis, Stephen, et al. "Spatial analyses of wildlife contact networks." Journal of the Royal Society Interface 12.102 (2015): 20141004.
+relative modularity|0.0- 0.939
+group cohesion|0.063- 1.0
+network diameter|0.063- 1.0
+**Species:** Tiliqua_rugosa**Taxonomic class:** Reptilia**Population type:** free-ranging**Geographical location:** Kungara, South Australia**Data collection technique:** logger**Edge weight type:** simple_ratio_index**Time span of data collection:** 120 days**Time resolution of data collection :** 10 minutes**Citation:** Bull, C. M., S. S. Godfrey, and D. M. Gordon. "Social networks and the spread of Salmonella in a sleepy lizard population." Molecular Ecology 21.17 (2012): 4386-4392.

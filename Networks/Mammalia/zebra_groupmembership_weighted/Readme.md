@@ -1,18 +1,18 @@
 network attribute|range
 ---|---
-total nodes|15- 73
-total edges|13- 1167
-network density|0.023- 0.683
-average degree|1.314- 37.645
-degree heterogeneity|0.197- 0.728
-degree assortativity|-0.3- 0.718
-average betweenness centrality (unweighted)|0.001- 0.054
-average betweenness centrality (weighted)|0.001- 0.054
-average clustering coefficient (unweighted)|0.0- 0.876
+total nodes|5.0- 73.0
+total edges|10.0- 222.0
+network density|0.023- 1.0
+average degree|1.314- 17.077
+degree heterogeneity|0.0- 0.728
+degree assortativity|-0.333- 0.718
+average betweenness centrality (unweighted)|0.0- 0.144
+average betweenness centrality (weighted)|0.0- 0.144
+average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.876
 Newman modularity|0.0- 0.572
-maximum modularity|0.0- 0.768
-relative modularity|0.128- NA
-group cohesion|0.130463144162- 0.810832725209
-network diameter|0.130463144162- 0.810832725209
-**Citation:** Davis, Stephen, et al. "Spatial analyses of wildlife contact networks." Journal of the Royal Society Interface 12.102 (2015): 20141004.
+maximum modularity|0.0- 0.777
+relative modularity|0.084- 0.835
+group cohesion|0.13- 1.0
+network diameter|0.13- 1.0
+**Species:** Equus_grevyi**Taxonomic class:** Mammalia**Population type:** free-ranging**Geographical location:** Kenya**Data collection technique:** manual **Edge weight type:** unweighted**Time span of data collection:** 3 months**Time resolution of data collection :** real time**Citation:** Siva R Sundaresan, Ilya R Fischhoff, Jonathan Dushoff, and Daniel I Rubenstein. Network metrics reveal differences in social organization between two fission-fusion species, Grevy's zebra and onager. Oecologia, 151(1):140-149, 2007.

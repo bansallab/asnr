@@ -1,7 +1,7 @@
 network attribute|range
 ---|---
-total nodes|2- 291
-total edges|1- 3182
+total nodes|2.0- 291.0
+total edges|1.0- 3182.0
 network density|0.0- 1.0
 average degree|0.0- 37.645
 degree heterogeneity|0.0- 1.934
@@ -12,7 +12,7 @@ average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.876
 Newman modularity|0.0- 0.817
 maximum modularity|0.0- 0.896
-relative modularity|0.0- NA
-group cohesion|0.0727272727273- 1.00025006252
-network diameter|0.0727272727273- 1.00025006252
-**Citation:** Davis, Stephen, et al. "Spatial analyses of wildlife contact networks." Journal of the Royal Society Interface 12.102 (2015): 20141004.
+relative modularity|0.0- 0.939
+group cohesion|0.073- 1.0
+network diameter|0.073- 1.0
+**Species:** Papio_cynocephalus**Taxonomic class:** Mammalia**Population type:** free-ranging**Geographical location:** Amboseli National Park, Kenya**Data collection technique:** manual **Edge weight type:** frequency**Time span of data collection:** 30days**Time resolution of data collection :** real time**Citation:** Franz, Mathias, Jeanne Altmann, and Susan C. Alberts. "Knockouts of high-ranking males have limited impact on baboon social networks." Current zoology 61.1 (2015): 107-113.

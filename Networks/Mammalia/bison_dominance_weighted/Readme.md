@@ -1,18 +1,18 @@
 network attribute|range
 ---|---
-total nodes|16- 73
-total edges|15- 222
-network density|0.023- 0.683
+total nodes|5.0- 73.0
+total edges|10.0- 222.0
+network density|0.023- 1.0
 average degree|1.314- 17.077
-degree heterogeneity|0.283- 0.728
-degree assortativity|-0.28- 0.165
-average betweenness centrality (unweighted)|0.001- 0.054
-average betweenness centrality (weighted)|0.001- 0.054
-average clustering coefficient (unweighted)|0.0- 0.813
-average clustering coefficient (weighted)|0.0- 0.259
+degree heterogeneity|0.0- 0.728
+degree assortativity|-0.333- 0.165
+average betweenness centrality (unweighted)|0.0- 0.144
+average betweenness centrality (weighted)|0.0- 0.144
+average clustering coefficient (unweighted)|0.0- 1.0
+average clustering coefficient (weighted)|0.0- 0.332
 Newman modularity|0.0- 0.572
-maximum modularity|0.0- 0.768
-relative modularity|0.131- NA
-group cohesion|0.130463144162- 0.775862068966
-network diameter|0.130463144162- 0.775862068966
-**Citation:** Davis, Stephen, et al. "Spatial analyses of wildlife contact networks." Journal of the Royal Society Interface 12.102 (2015): 20141004.
+maximum modularity|0.0- 0.777
+relative modularity|0.084- 0.835
+group cohesion|0.13- 1.0
+network diameter|0.13- 1.0
+**Species:** Bison_bison**Taxonomic class:** Mammalia**Population type:** semi-ranging**Geographical location:** Moiese, Montana, USA**Data collection technique:** manual **Edge weight type:** frequency**Time span of data collection:** 2 months**Time resolution of data collection :** 1sec**Citation:** Dale F Lott. Dominance relations and breeding rate in mature male American bison. Zeitschrift für Tierpsychologie, 49(4):418-432, 1979.

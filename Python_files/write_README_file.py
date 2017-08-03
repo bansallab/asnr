@@ -10,20 +10,6 @@ import numpy as np
 import csv
 import zipfile
 ############################################################################
-root = "/home/patate/directory/"
-path = os.path.join(root, "targetdirectory")
-
-mydir = "voles_trapsharing_weighted/"
-author = "begon" 
-
-dt = pd.read_csv('Network_attributes.csv')
-dt_sub = dt[dt['Filename'].str.contains(author)] 
-location = dt_sub['Geographical Location'].iloc[0]
-taxa = dt_sub['Taxa'].iloc[0]
-class1 = dt_sub['Class'].iloc[0]
-interaction = dt_sub['Interaction type'].iloc[0]
-citn = dt_sub['Citation'].iloc[0]
-
 #####################################################################333
 def calculate_avg_wd(G, partition, n_nodes):
 	r"""returns average within-module degree"""
@@ -76,7 +62,23 @@ val_list = [num_nodes_list, num_edges_list, net_density_list, avg_degree_list, c
 for mydir in os.listdir(os.path.abspath('../Networks/')):
 	for subdir in os.listdir(os.path.abspath('../Networks/'+mydir)):
 		print mydir, subdir
-		for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir+'/'+subdir))):
+		
+		#######################################
+		## read qualitative attributes
+		dt = pd.read_csv('Network_attributes.csv')
+		dt_sub =  dt[dt['dirname'].str.contains(subdir)] 
+		location = dt_sub['geographical_location'].iloc[0]
+		taxa = dt_sub['Taxa'].iloc[0]
+		class1 = dt_sub['Class'].iloc[0]
+		interaction = dt_sub['interaction_type'].iloc[0]
+		edge_wt_type = dt_sub['edge_wt_type'].iloc[0]
+		population_type = dt_sub['population_type'].iloc[0]
+		data_record = dt_sub['data_record_technique'].iloc[0]
+		time_span = dt_sub['time_span'].iloc[0]
+		resolution = dt_sub['resolution'].iloc[0]
+		citn = dt_sub['Citation'].iloc[0]
+		########################################3
+		for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir+'/'+subdir))):	
 			if filename.endswith(".graphml"): 	
 					print filename
 					G= nx.read_graphml(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+ filename))
@@ -165,7 +167,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 				index_col = ['network attribute','value']
 				df = pd.DataFrame(columns=index_col)
 				for (attr, val) in zip(attr_list, val_list):
-					if len(val)==1: value = val[0]
+					if len(val)==1: value = round(val[0],3)
 					else: value = 'n/a'
 					
 					row = [attr, value]
@@ -177,8 +179,9 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 				for (attr, val) in zip(attr_list, val_list):
 					
 					if len(val)>0:
-						min_val = min(val)
-						max_val = max(val)
+						val = [num for num in val if not isinstance(num, basestring)]
+						min_val = round(float(min(val)),3)
+						max_val = round(float(max(val)),3)
 						value1 = str(min_val)+ '- '+str(max_val)
 					else: value1 = 'n/a'
 					row = [attr, str(min_val)+ '- '+str(max_val)]
@@ -209,6 +212,14 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False)
 
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
+		    file1.write('**Species:** ' + taxa)
+		    file1.write('**Taxonomic class:** ' + class1)				
+		    file1.write('**Population type:** '+population_type)
+		    file1.write('**Geographical location:** '+location)
+		    file1.write('**Data collection technique:** '+ data_record)
+	            file1.write('**Edge weight type:** '+edge_wt_type)		
+		    file1.write('**Time span of data collection:** '+time_span)
+		    file1.write('**Time resolution of data collection :** '+resolution)
 		    file1.write('**Citation:** '+citn)
 
 
