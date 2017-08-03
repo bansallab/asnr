@@ -11,8 +11,8 @@ average betweenness centrality (weighted)|0.0- 0.144
 average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.332
 Newman modularity|0.0- 0.572
-maximum modularity|0.0- 0.768
-relative modularity|0.09- 0.835
+maximum modularity|0.0- 0.777
+relative modularity|0.09- 0.745
 group cohesion|0.13- 1.0
 network diameter|0.13- 1.0
 **Species**| Trichosurus_cunninghami
@@ -23,4 +23,8 @@ network diameter|0.13- 1.0
 **Edge weight type**| frequency
 **Time span of data collection**| 3 months
 **Time resolution of data collection**| 1 sec
-**Citation**| Banks, Sam C./n, et al./n "Adaptive responses and disruptive effects: how major wildfire influences kinship‐based social interactions in a forest marsupial./n" Molecular ecology 21./n3 (2012): 673-684./n
+**Citation**| Banks, Sam C.
+, et al.
+ "Adaptive responses and disruptive effects: how major wildfire influences kinship‐based social interactions in a forest marsupial.
+" Molecular ecology 21.
+3 (2012): 673-684.

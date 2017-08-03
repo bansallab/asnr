@@ -23,4 +23,6 @@ network diameter|n/a
 **Edge weight type**| unweighted
 **Time span of data collection**| 206days
 **Time resolution of data collection**| 1sec
-**Citation**| de Silva, Shermin, Volker Schmid, and George Wittemyer./n "Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat./n" Behavioral Ecology (2016): arw153./n
+**Citation**| de Silva, Shermin, Volker Schmid, and George Wittemyer.
+ "Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat.
+" Behavioral Ecology (2016): arw153.

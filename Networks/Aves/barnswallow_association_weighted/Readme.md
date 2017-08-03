@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.0- 0.333
 average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 1.0
 Newman modularity|0.0- 0.817
-maximum modularity|0.0- 0.898
+maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
@@ -23,4 +23,8 @@ network diameter|0.073- 1.0
 **Edge weight type**| frequency
 **Time span of data collection**| 11 days
 **Time resolution of data collection**| 1 sec
-**Citation**| Levin, Iris I./n, et al./n "Stress response, gut microbial diversity and sexual signals correlate with social interactions./n" Biology Letters 12./n6 (2016): 20160352./n
+**Citation**| Levin, Iris I.
+, et al.
+ "Stress response, gut microbial diversity and sexual signals correlate with social interactions.
+" Biology Letters 12.
+6 (2016): 20160352.

@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.0- 0.333
 average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 0.876
 Newman modularity|0.0- 0.817
-maximum modularity|0.0- 0.898
+maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
@@ -23,4 +23,8 @@ network diameter|0.073- 1.0
 **Edge weight type**| frequency
 **Time span of data collection**| 120 min
 **Time resolution of data collection**| 6 min
-**Citation**| Atton, N./n, et al./n "Familiarity affects social network structure and discovery of prey patch locations in foraging stickleback shoals./n" Proceedings of the Royal Society of London B: Biological Sciences 281./n1789 (2014): 20140579./n
+**Citation**| Atton, N.
+, et al.
+ "Familiarity affects social network structure and discovery of prey patch locations in foraging stickleback shoals.
+" Proceedings of the Royal Society of London B: Biological Sciences 281.
+1789 (2014): 20140579.

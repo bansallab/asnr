@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.0- 0.333
 average clustering coefficient (unweighted)|0.0- 1.0
 average clustering coefficient (weighted)|0.0- 1.0
 Newman modularity|0.0- 0.817
-maximum modularity|0.0- 0.898
+maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.063- 1.0
 network diameter|0.063- 1.0
@@ -23,4 +23,7 @@ network diameter|0.063- 1.0
 **Edge weight type**| unweighted
 **Time span of data collection**| 8 months
 **Time resolution of data collection**| real time
-**Citation**| Sah, Pratha, et al./n "Inferring social structure and its drivers from refuge use in the desert tortoise, a relatively solitary species./n" Behavioral Ecology and Sociobiology 70./n8 (2016): 1277-1289./n
+**Citation**| Sah, Pratha, et al.
+ "Inferring social structure and its drivers from refuge use in the desert tortoise, a relatively solitary species.
+" Behavioral Ecology and Sociobiology 70.
+8 (2016): 1277-1289.
