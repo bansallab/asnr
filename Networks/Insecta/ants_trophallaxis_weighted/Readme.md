@@ -11,8 +11,8 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.876
 Newman modularity|0.0 - 0.817
-maximum modularity|0.0 - 0.896
+maximum modularity|0.0 - 0.898
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Quevillon, Lauren E., et al. <br>Social, spatial, and temporal organization in a complex insect society.<br> Scientific reports 5 (2015).
+**Citation**: Q u e v i l l o n , L a u r e n E . , < b r > e t a l . " S o c i a l , s p a t i a l , a n d < b r > t e m p o r a l o r g a n i z a t i o n i n a c o m p l e x < b r > i n s e c t s o c i e t y . " S c i e n t i f i c r e p o r t s 5 < b r > ( 2 0 1 5 ) .
