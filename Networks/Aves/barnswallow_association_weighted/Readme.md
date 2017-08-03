@@ -1,12 +1,3 @@
-**Citation**: Levin, Iris I., et al. "Stress response, gut microbial diversity and sexual signals correlate with social interactions." Biology Letters 12.6 (2016): 20160352.
-Species|*Hirundo rustica*
-Taxonomic class|Aves
-Population type|free-ranging
-Geographical location|Boulder County, Colorado, USA
-Data collection technique|logger
-Edge weight type|frequency
-Time span of data collection|11 days
-Time resolution of data collection|1 sec
 network attribute|range
 ---|---
 total nodes|2.0- 291.0
@@ -24,3 +15,14 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
+Species|*Hirundo rustica*
+Taxonomic class|Aves
+Population type|free-ranging
+Geographical location|Boulder County, Colorado, USA
+Data collection technique|logger
+Edge weight type|frequency
+Time span of data collection|11 days
+Time resolution of data collection|1 sec
+"Citation:Levin, Iris I., et al. 
+Stress response, gut microbial diversity and sexual signals correlate with social interactions.
+ Biology Letters 12.6 (2016): 20160352."|

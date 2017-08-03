@@ -78,8 +78,8 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		time_span = dt_sub['time_span'].iloc[0]
 		resolution = dt_sub['resolution'].iloc[0]
 		citn = dt_sub['Citation'].iloc[0]
-		#cit1 = citn.replace('"', '\n')
-		dt = pd.DataFrame([["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution]], columns= ["a", "b"])
+		cit1 = citn.replace('"', '\n')
+		dt = pd.DataFrame([["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution], ["Citation:"+cit1,"" ]], columns= ["a", "b"])
 		
 		########################################3
 		for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir+'/'+subdir))):	
@@ -211,16 +211,15 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 	
 		df3 = pd.concat([df2, df])
 
-		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'w') as file1:
-		    file1.write('**Citation**: '+citn+'\n')
+		#with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'w') as file1:
+		#    file1.write('**Citation**: '+cit1)
 
 		#Save as markdown
-		dt.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), mode="a", sep="|", index=False, header=False)
-		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename),  mode="a", sep="|", index=False)
+		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False)
 
-		
+		dt.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), mode="a", sep="|", index=False, header=False)
 		"""
-		with open(os.path.abspath('../Networks/'+mydir+'/'+snbdir+'/'+base_filename), 'a') as file1:
+		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
 		    file1.write('**Species**| ' + taxa +'\n')
 		    file1.write('**Taxonomic class**| ' + class1+'\n')				
 		    file1.write('**Population type**| '+population_type+'\n')

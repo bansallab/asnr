@@ -1,12 +1,3 @@
-**Citation**: Rimbach, Rebecca, et al. "Brown spider monkeys (Ateles hybridus): a model for differentiating the role of social networks and physical contact on parasite transmission dynamics." Phil. Trans. R. Soc. B 370.1669 (2015): 20140110.
-Species|*Ateles hybridus*
-Taxonomic class|Mammalia
-Population type|free-ranging
-Geographical location|Colombia
-Data collection technique|manual 
-Edge weight type|duration
-Time span of data collection|2 years
-Time resolution of data collection|15min
 network attribute|range
 ---|---
 total nodes|2.0- 181.0
@@ -24,3 +15,14 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.916
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
+Species|*Ateles hybridus*
+Taxonomic class|Mammalia
+Population type|free-ranging
+Geographical location|Colombia
+Data collection technique|manual 
+Edge weight type|duration
+Time span of data collection|2 years
+Time resolution of data collection|15min
+"Citation:Rimbach, Rebecca, et al. 
+Brown spider monkeys (Ateles hybridus): a model for differentiating the role of social networks and physical contact on parasite transmission dynamics.
+ Phil. Trans. R. Soc. B 370.1669 (2015): 20140110."|

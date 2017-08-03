@@ -1,12 +1,3 @@
-**Citation**: Quevillon, Lauren E., et al. "Social, spatial, and temporal organization in a complex insect society." Scientific reports 5 (2015).
-Species|*Camponotus pennsylvanicus*
-Taxonomic class|Insecta
-Population type|captive
-Geographical location|Old Main, State College, Pennsylvania
-Data collection technique|video
-Edge weight type|duration
-Time span of data collection|1 day
-Time resolution of data collection|1sec
 network attribute|range
 ---|---
 total nodes|2.0- 291.0
@@ -24,3 +15,14 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
+Species|*Camponotus pennsylvanicus*
+Taxonomic class|Insecta
+Population type|captive
+Geographical location|Old Main, State College, Pennsylvania
+Data collection technique|video
+Edge weight type|duration
+Time span of data collection|1 day
+Time resolution of data collection|1sec
+"Citation:Quevillon, Lauren E., et al. 
+Social, spatial, and temporal organization in a complex insect society.
+ Scientific reports 5 (2015)."|

@@ -1,12 +1,3 @@
-**Citation**: Reynolds, Jennifer JH, et al. "Raccoon contact networks predict seasonal susceptibility to rabies outbreaks and limitations of vaccination." Journal of Animal Ecology 84.6 (2015): 1720-1731.
-Species|*Procyon lotor*
-Taxonomic class|Mammalia
-Population type|free-ranging
-Geographical location|Illinois, USA
-Data collection technique|logger
-Edge weight type|duration
-Time span of data collection|7days
-Time resolution of data collection|1 sec
 network attribute|range
 ---|---
 total nodes|2.0- 181.0
@@ -24,3 +15,14 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.939
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
+Species|*Procyon lotor*
+Taxonomic class|Mammalia
+Population type|free-ranging
+Geographical location|Illinois, USA
+Data collection technique|logger
+Edge weight type|duration
+Time span of data collection|7days
+Time resolution of data collection|1 sec
+"Citation:Reynolds, Jennifer JH, et al. 
+Raccoon contact networks predict seasonal susceptibility to rabies outbreaks and limitations of vaccination.
+ Journal of Animal Ecology 84.6 (2015): 1720-1731."|
