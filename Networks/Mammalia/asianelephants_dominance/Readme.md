@@ -1,15 +1,4 @@
 network attribute|value
-|
----|---
-Species|*Elephas maximus*
-Taxonomic class|Mammalia
-Population type|free-ranging
-Geographical location|Uda Walawe National Park, Sri Lanka
-Data collection technique|manual 
-Edge weight type|unweighted
-Time span of data collection|206days
-Time resolution of data collection|1sec
-network attribute|value
 ---|---
 total nodes|73.0
 total edges|60.0

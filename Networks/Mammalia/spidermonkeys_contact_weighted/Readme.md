@@ -1,15 +1,4 @@
 network attribute|range
-|
----|---
-Species|*Ateles hybridus*
-Taxonomic class|Mammalia
-Population type|free-ranging
-Geographical location|Colombia
-Data collection technique|manual 
-Edge weight type|duration
-Time span of data collection|2 years
-Time resolution of data collection|15min
-network attribute|range
 ---|---
 total nodes|2.0 - 181.0
 total edges|1.0 - 546.0
@@ -22,7 +11,7 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.876
 Newman modularity|0.0 - 0.817
-maximum modularity|0.0 - 0.898
+maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.916
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0

@@ -1,15 +1,4 @@
 network attribute|range
-|
----|---
-Species|*Cattle N/A*
-Taxonomic class|Mammalia
-Population type|semi-ranging
-Geographical location|Jeanerette, Louisiana, USA
-Data collection technique|manual 
-Edge weight type|frequency
-Time span of data collection|Not specified
-Time resolution of data collection|1 sec
-network attribute|range
 ---|---
 total nodes|5.0 - 73.0
 total edges|10.0 - 205.0
@@ -22,7 +11,7 @@ average betweenness centrality (weighted)|0.0 - 0.144
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.332
 Newman modularity|0.0 - 0.503
-maximum modularity|0.0 - 0.727
+maximum modularity|0.0 - 0.734
 relative modularity|0.09 - 0.734
 group cohesion|0.3 - 1.0
 network diameter|0.3 - 1.0

@@ -1,15 +1,4 @@
 network attribute|range
-|
----|---
-Species|*Tursiops truncatus*
-Taxonomic class|Mammalia
-Population type|free-ranging
-Geographical location|Fiordland, New Zealand
-Data collection technique|manual 
-Edge weight type|frequency
-Time span of data collection|594 days
-Time resolution of data collection|real time
-network attribute|range
 ---|---
 total nodes|5.0 - 73.0
 total edges|10.0 - 205.0

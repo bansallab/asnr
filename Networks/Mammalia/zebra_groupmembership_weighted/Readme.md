@@ -1,15 +1,4 @@
 network attribute|range
-|
----|---
-Species|*Equus grevyi*
-Taxonomic class|Mammalia
-Population type|free-ranging
-Geographical location|Kenya
-Data collection technique|manual 
-Edge weight type|unweighted
-Time span of data collection|3 months
-Time resolution of data collection|real time
-network attribute|range
 ---|---
 total nodes|5.0 - 73.0
 total edges|10.0 - 222.0
@@ -23,7 +12,7 @@ average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.876
 Newman modularity|0.0 - 0.575
 maximum modularity|0.0 - 0.789
-relative modularity|0.09 - 0.753
+relative modularity|0.09 - 0.835
 group cohesion|0.13 - 1.0
 network diameter|0.13 - 1.0
 **Citation**: Siva R Sundaresan, Ilya R Fischhoff, Jonathan Dushoff, and Daniel I Rubenstein. Network metrics reveal differences in social organization between two fission-fusion species, Grevy's zebra and onager. Oecologia, 151(1):140-149, 2007.
