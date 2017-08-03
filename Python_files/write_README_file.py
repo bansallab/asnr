@@ -78,9 +78,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		time_span = dt_sub['time_span'].iloc[0]
 		resolution = dt_sub['resolution'].iloc[0]
 		citn = dt_sub['Citation'].iloc[0]
-		cit1 = citn.replace('"', '\n')
-		dt = pd.DataFrame([["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution], ["Citation:"+cit1,"" ]], columns= ["a", "b"])
-		
+		cit1 = citn.replace('"', '\n')		
 		########################################3
 		for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir+'/'+subdir))):	
 			if filename.endswith(".graphml"): 	
@@ -172,8 +170,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 				df = pd.DataFrame(columns=index_col)
 				for (attr, val) in zip(attr_list, val_list):
 					if len(val)==1: value = round(val[0],3)
-					else: value = 'n/a'
-					
+					else: value = 'n/a'					
 					row = [attr, value]
 					df_row = pd.DataFrame([row], columns = index_col) 
 					df = pd.concat([df, df_row])
@@ -188,36 +185,36 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 						max_val = round(float(max(val)),3)
 						value1 = str(min_val)+ ' - '+str(max_val)
 					else: value1 = 'n/a'
-					row = [attr, str(min_val)+ '- '+str(max_val)]
+					row = [attr, str(min_val)+ ' - '+str(max_val)]
 					df_row = pd.DataFrame([row], columns = index_col) 
 					df = pd.concat([df, df_row])
 	
 		######################################################################################		
-		#df['Taxa'] = df['Taxa'].str.replace('_', ' ')
-		#df['Taxa'] = "*" + df['Taxa'] +"*"
-		#df['Interaction type'] = df['Interaction type'].str.replace('_', ' ')
-		#for col in numeric_cols: df[col] = pd.to_numeric(df[col], errors='coerce')
-		df=df.round(decimals=3)
-		base_filename = 'Readme.md'
-
 		# Get column names
 		cols = df.columns
 
+		dt = pd.DataFrame([["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution], ["Citation: "+citn,"" ]], columns = cols)
+		
+		df=df.round(decimals=3)
+		base_filename = 'Readme.md'
+
+		
+
 		# Create a new DataFrame with just the markdown
 		# strings
-		df2 = pd.DataFrame([['---',]*len(cols)], columns=cols)
+		df2 = pd.DataFrame([['---',]*len(cols), [cols[0], cols[1]], ['---',]*len(cols)], columns=cols)
 
 		#Create a new concatenated DataFrame
 	
-		df3 = pd.concat([df2, df])
+		df3 = pd.concat([dt, df2, df])
 
-		#with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'w') as file1:
-		#    file1.write('**Citation**: '+cit1)
+		
 
 		#Save as markdown
-		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False)
+		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False, header=False)
 
-		dt.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), mode="a", sep="|", index=False, header=False)
+		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
+		    file1.write('**Citation**: '+cit1)
 		"""
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
 		    file1.write('**Species**| ' + taxa +'\n')
