@@ -212,14 +212,14 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False)
 
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
-		    file1.write('**Species|** ' + taxa +'\n')
-		    file1.write('**Taxonomic class|** ' + class1+'\n')				
-		    file1.write('**Population type|** '+population_type+'\n')
-		    file1.write('**Geographical location|** '+location+'\n')
-		    file1.write('**Data collection technique|** '+ data_record+'\n')
-	            file1.write('**Edge weight type|** '+edge_wt_type+'\n')		
-		    file1.write('**Time span of data collection|** '+time_span+'\n')
-		    file1.write('**Time resolution of data collection|** '+resolution+'\n')
-		    file1.write('**Citation|** '+citn)
+		    file1.write('**Species**| ' + taxa +'\n')
+		    file1.write('**Taxonomic class**| ' + class1+'\n')				
+		    file1.write('**Population type**| '+population_type+'\n')
+		    file1.write('**Geographical location**| '+location+'\n')
+		    file1.write('**Data collection technique**| '+ data_record+'\n')
+	            file1.write('**Edge weight type**| '+edge_wt_type+'\n')		
+		    file1.write('**Time span of data collection**| '+time_span+'\n')
+		    file1.write('**Time resolution of data collection**| '+resolution+'\n')
+		    file1.write('**Citation**| '+citn)
 
 

@@ -15,12 +15,12 @@ maximum modularity|0.0- 0.896
 relative modularity|0.0- 0.916
 group cohesion|0.073- 1.0
 network diameter|0.073- 1.0
-**Species|** Microtus_agrestis
-**Taxonomic class|** Mammalia
-**Population type|** free-ranging
-**Geographical location|** Northumberland, England
-**Data collection technique|** manual 
-**Edge weight type|** frequency
-**Time span of data collection|** 6 days
-**Time resolution of data collection|** 12 hours
-**Citation|** Davis, Stephen, et al. "Spatial analyses of wildlife contact networks." Journal of the Royal Society Interface 12.102 (2015): 20141004.
+**Species**| Microtus_agrestis
+**Taxonomic class**| Mammalia
+**Population type**| free-ranging
+**Geographical location**| Northumberland, England
+**Data collection technique**| manual 
+**Edge weight type**| frequency
+**Time span of data collection**| 6 days
+**Time resolution of data collection**| 12 hours
+**Citation**| Davis, Stephen, et al. "Spatial analyses of wildlife contact networks." Journal of the Royal Society Interface 12.102 (2015): 20141004.
