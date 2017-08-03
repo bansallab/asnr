@@ -175,8 +175,12 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 				index_col = ['network attribute','range']
 				df = pd.DataFrame(columns=index_col)
 				for (attr, val) in zip(attr_list, val_list):
-					min_val = min(val_list)
-					max_val = max(val_list)
+					
+					if len(val)>0:
+						min_val = min(val)
+						max_val = max(val)
+						value1 = str(min_val)+ '- '+str(max_val)
+					else: value1 = 'n/a'
 					row = [attr, str(min_val)+ '- '+str(max_val)]
 					df_row = pd.DataFrame([row], columns = index_col) 
 					df = pd.concat([df, df_row])

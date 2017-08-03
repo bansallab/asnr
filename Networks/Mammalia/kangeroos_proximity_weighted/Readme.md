@@ -1,18 +1,18 @@
 network attribute|range
 ---|---
-total nodes|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-total edges|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-network density|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-average degree|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-degree heterogeneity|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-degree assortativity|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-average betweenness centrality (unweighted)|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-average betweenness centrality (weighted)|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-average clustering coefficient (unweighted)|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-average clustering coefficient (weighted)|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-Newman modularity|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-maximum modularity|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-relative modularity|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-group cohesion|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
-network diameter|[]- [73, 16, 28, 62, 50, 18, 30, 35, 26, 21, 62, 23, 25, 15, 27, 17]
+total nodes|15- 73
+total edges|13- 1167
+network density|0.023- 0.683
+average degree|1.314- 37.645
+degree heterogeneity|0.197- 0.728
+degree assortativity|-0.3- 0.718
+average betweenness centrality (unweighted)|0.001- 0.054
+average betweenness centrality (weighted)|0.001- 0.054
+average clustering coefficient (unweighted)|0.0- 0.876
+average clustering coefficient (weighted)|0.0- 0.876
+Newman modularity|0.0- 0.572
+maximum modularity|0.0- 0.768
+relative modularity|0.1- NA
+group cohesion|0.130463144162- 0.810832725209
+network diameter|0.130463144162- 0.810832725209
 **Citation:** Davis, Stephen, et al. "Spatial analyses of wildlife contact networks." Journal of the Royal Society Interface 12.102 (2015): 20141004.
