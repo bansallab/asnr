@@ -15,4 +15,13 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Holekamp, Kay E., et al. "Society, <br> demography and genetic structure in <br> the spotted hyena." Molecular Ecology <br> 21.3 (2012): 613-632.
+**Study description**|**value**
+Species|*Crocuta crocuta*
+Taxonomic class|Mammalia
+Population type|free-ranging
+Geographical location|Masai Mara National Reserve, Kenya
+Data collection technique|manual 
+Edge weight type|twice_weight_index
+Time span of data collection|4 months (approx 16 days each month)
+Time resolution of data collection|15min
+**Citation**: Holekamp, Kay E., et al. "Society, demography and <br> genetic structure in the spotted hyena." Molecular <br> Ecology 21.3 (2012): 613-632.

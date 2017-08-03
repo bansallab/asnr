@@ -15,4 +15,13 @@ maximum modularity|0.685
 relative modularity|0.734
 group cohesion|0.3
 network diameter|n/a
-**Citation**: de Silva, Shermin, Volker Schmid, and <br> George Wittemyer. "Fission–fusion processes weaken <br> dominance networks of female Asian <br> elephants in a productive habitat." <br> Behavioral Ecology (2016): arw153.
+**Study description**|**value**
+Species|*Elephas maximus*
+Taxonomic class|Mammalia
+Population type|free-ranging
+Geographical location|Uda Walawe National Park, Sri Lanka
+Data collection technique|manual 
+Edge weight type|unweighted
+Time span of data collection|206days
+Time resolution of data collection|1sec
+**Citation**: de Silva, Shermin, Volker Schmid, and George Wittemyer. <br> "Fission–fusion processes weaken dominance networks of female <br> Asian elephants in a productive habitat." Behavioral <br> Ecology (2016): arw153.

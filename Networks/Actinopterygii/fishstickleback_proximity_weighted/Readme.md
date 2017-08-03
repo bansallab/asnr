@@ -15,4 +15,13 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Atton, N., et al. "Familiarity affects <br> social network structure and discovery <br> of prey patch locations in <br> foraging stickleback shoals." Proceedings of <br> the Royal Society of London <br> B: Biological Sciences 281.1789 (2014): <br> 20140579.
+**Study description**|**value**
+Species|*Gasterosteus aculeatus*
+Taxonomic class|Actinopterygii
+Population type|captive
+Geographical location|St. Andrews, UK
+Data collection technique|video
+Edge weight type|frequency
+Time span of data collection|120 min
+Time resolution of data collection|6 min
+**Citation**: Atton, N., et al. "Familiarity affects social network <br> structure and discovery of prey patch locations <br> in foraging stickleback shoals." Proceedings of the <br> Royal Society of London B: Biological Sciences <br> 281.1789 (2014): 20140579.

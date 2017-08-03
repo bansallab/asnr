@@ -15,4 +15,13 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Reynolds, Jennifer JH, et al. "Raccoon <br> contact networks predict seasonal susceptibility <br> to rabies outbreaks and limitations <br> of vaccination." Journal of Animal <br> Ecology 84.6 (2015): 1720-1731.
+**Study description**|**value**
+Species|*Procyon lotor*
+Taxonomic class|Mammalia
+Population type|free-ranging
+Geographical location|Illinois, USA
+Data collection technique|logger
+Edge weight type|duration
+Time span of data collection|7days
+Time resolution of data collection|1 sec
+**Citation**: Reynolds, Jennifer JH, et al. "Raccoon contact networks <br> predict seasonal susceptibility to rabies outbreaks and <br> limitations of vaccination." Journal of Animal Ecology <br> 84.6 (2015): 1720-1731.

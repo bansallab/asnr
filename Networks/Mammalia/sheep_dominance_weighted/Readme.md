@@ -15,4 +15,13 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Christine C Hass. Social status in <br> female bighorn sheep (Ovis canadensis): <br> Expression, development and reproductive correlates. <br> J. of Zoology, 225(3):509-523, 1991. <br>
+**Study description**|**value**
+Species|*Ovis canadensis*
+Taxonomic class|Mammalia
+Population type|semi-ranging
+Geographical location|Montana, USA
+Data collection technique|manual 
+Edge weight type|frequency
+Time span of data collection|15 months
+Time resolution of data collection|real time
+**Citation**: Christine C Hass. Social status in female bighorn <br> sheep (Ovis canadensis): Expression, development and reproductive <br> correlates. J. of Zoology, 225(3):509-523, 1991.

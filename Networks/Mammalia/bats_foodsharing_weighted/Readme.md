@@ -11,8 +11,17 @@ average betweenness centrality (weighted)|0.0 - 0.144
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.332
 Newman modularity|0.0 - 0.572
-maximum modularity|0.0 - 0.768
-relative modularity|0.09 - 0.745
+maximum modularity|0.0 - 0.777
+relative modularity|0.084 - 0.753
 group cohesion|0.13 - 1.0
 network diameter|0.13 - 1.0
-**Citation**: Carter, Gerald G., and Gerald S. <br> Wilkinson. "Food sharing in vampire <br> bats: reciprocal help predicts donations <br> more than relatedness or harassment."Proceedings <br> of the Royal Society of <br> London B: Biological Sciences 280.1753 <br> (2013): 20122573.
+**Study description**|**value**
+Species|*Desmodus rotundus*
+Taxonomic class|Mammalia
+Population type|captive
+Geographical location|Bloomfield Hills, Michigan, USA
+Data collection technique|video
+Edge weight type|duration
+Time span of data collection|2 hours
+Time resolution of data collection|1 sec
+**Citation**: Carter, Gerald G., and Gerald S. Wilkinson. "Food <br> sharing in vampire bats: reciprocal help predicts <br> donations more than relatedness or harassment."Proceedings of <br> the Royal Society of London B: Biological <br> Sciences 280.1753 (2013): 20122573.

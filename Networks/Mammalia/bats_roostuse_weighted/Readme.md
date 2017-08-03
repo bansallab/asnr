@@ -15,4 +15,13 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.916
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Silvis, Alexander, et al. "Roosting and <br> foraging social structure of the <br> endangered Indiana bat (Myotis sodalis)." <br> PloS one 9.5 (2014): e96937. <br>
+**Study description**|**value**
+Species|*Myotis sodalis*
+Taxonomic class|Mammalia
+Population type|free-ranging
+Geographical location|Pickaway County, Ohio, USA
+Data collection technique|radio tags
+Edge weight type|unweighted
+Time span of data collection|1 year
+Time resolution of data collection|real time
+**Citation**: Silvis, Alexander, et al. "Roosting and foraging social <br> structure of the endangered Indiana bat (Myotis <br> sodalis)." PloS one 9.5 (2014): e96937.

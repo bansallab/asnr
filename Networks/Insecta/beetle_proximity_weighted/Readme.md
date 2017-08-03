@@ -15,4 +15,13 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Formica, Vincent, et al. "Consistency of <br> animal social networks after disturbance." <br> Behavioral Ecology (2016): arw128.
+**Study description**|**value**
+Species|*Bolitotherus cornutus*
+Taxonomic class|Insecta
+Population type|captive
+Geographical location|Virginia, USA
+Data collection technique|manual 
+Edge weight type|simple_ratio_index
+Time span of data collection|12 days
+Time resolution of data collection|3.5 hours
+**Citation**: Formica, Vincent, et al. "Consistency of animal social <br> networks after disturbance." Behavioral Ecology (2016): arw128. <br>

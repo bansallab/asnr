@@ -81,7 +81,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		cit1 = citn.split()
 		cit2 = []
 		for num in xrange(len(cit1)):
-			if  (num> 0 and num%5==0): 
+			if  (num> 0 and num%7==0): 
 				cit2.append(cit1[num])
 				cit2.append('<br>')
 			else: cit2.append(cit1[num])
@@ -203,7 +203,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		# Get column names
 		cols = df.columns
 
-		dt = pd.DataFrame([["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution]], columns = cols)
+		dt = pd.DataFrame([ ["**Study description**", "**value**"],  ["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution]], columns = cols)
 		
 		df=df.round(decimals=3)
 		base_filename = 'Readme.md'
@@ -213,12 +213,12 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		# Create a new DataFrame with just the markdown
 		# strings
 		df2 = pd.DataFrame([['---',]*len(cols)], columns=cols)
-		dt2 = pd.DataFrame([["", ""], ['---',]*len(cols)], columns=cols)
+		#dt2 = pd.DataFrame([["", ""], ['---',]*len(cols)], columns=cols)
 
 		#Create a new concatenated DataFrame
 	
 		#df3 = pd.concat([dt2,dt, df2, df])
-		df3 = pd.concat([df2, df])
+		df3 = pd.concat([df2, df, dt])
 		
 
 		#Save as markdown

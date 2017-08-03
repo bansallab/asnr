@@ -15,4 +15,13 @@ maximum modularity|0.0 - 0.896
 relative modularity|0.0 - 0.939
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
-**Citation**: Quevillon, Lauren E., et al. "Social, <br> spatial, and temporal organization in <br> a complex insect society." Scientific <br> reports 5 (2015).
+**Study description**|**value**
+Species|*Camponotus pennsylvanicus*
+Taxonomic class|Insecta
+Population type|captive
+Geographical location|Old Main, State College, Pennsylvania
+Data collection technique|video
+Edge weight type|duration
+Time span of data collection|1 day
+Time resolution of data collection|1sec
+**Citation**: Quevillon, Lauren E., et al. "Social, spatial, and <br> temporal organization in a complex insect society." <br> Scientific reports 5 (2015).

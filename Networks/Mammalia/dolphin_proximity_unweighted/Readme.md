@@ -10,9 +10,18 @@ average betweenness centrality (unweighted)|0.0 - 0.144
 average betweenness centrality (weighted)|0.0 - 0.144
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.332
-Newman modularity|0.0 - 0.518
-maximum modularity|0.0 - 0.75
-relative modularity|0.09 - 0.734
+Newman modularity|0.0 - 0.519
+maximum modularity|0.0 - 0.777
+relative modularity|0.084 - 0.734
 group cohesion|0.3 - 1.0
 network diameter|0.3 - 1.0
-**Citation**: Lusseau, David, et al. "The bottlenose <br> dolphin community of Doubtful Sound <br> features a large proportion of <br> long-lasting associations." Behavioral Ecology and <br> Sociobiology 54.4 (2003): 396-405.
+**Study description**|**value**
+Species|*Tursiops truncatus*
+Taxonomic class|Mammalia
+Population type|free-ranging
+Geographical location|Fiordland, New Zealand
+Data collection technique|manual 
+Edge weight type|frequency
+Time span of data collection|594 days
+Time resolution of data collection|real time
+**Citation**: Lusseau, David, et al. "The bottlenose dolphin community <br> of Doubtful Sound features a large proportion <br> of long-lasting associations." Behavioral Ecology and Sociobiology <br> 54.4 (2003): 396-405.
