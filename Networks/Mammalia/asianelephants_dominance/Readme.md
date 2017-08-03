@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|unweighted
 Time span of data collection|206days
 Time resolution of data collection|1sec
-"Citation: de Silva, Shermin, Volker Schmid, and George Wittemyer. ""Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat."" Behavioral Ecology (2016): arw153."|
----|---
 network attribute|value
 ---|---
 total nodes|73.0

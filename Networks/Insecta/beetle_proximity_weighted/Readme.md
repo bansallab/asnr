@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|simple_ratio_index
 Time span of data collection|12 days
 Time resolution of data collection|3.5 hours
-"Citation: Formica, Vincent, et al. ""Consistency of animal social networks after disturbance."" Behavioral Ecology (2016): arw128."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

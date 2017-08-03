@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|2 months
 Time resolution of data collection|real time
-"Citation: Farine, Damien R., and Peter J. Milburn. ""Social organisation of thornbill-dominated mixed-species flocks using social network analysis."" Behavioral Ecology and Sociobiology 67.2 (2013): 321-330."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

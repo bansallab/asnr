@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|30days
 Time resolution of data collection|real time
-"Citation: Franz, Mathias, Jeanne Altmann, and Susan C. Alberts. ""Knockouts of high-ranking males have limited impact on baboon social networks."" Current zoology 61.1 (2015): 107-113."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

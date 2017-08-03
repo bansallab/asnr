@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|3years
 Time resolution of data collection|1 hour
-"Citation: Massen, Jorg JM, and Elisabeth HM Sterck. ""Stability and durability of intra-and intersex social bonds of captive rhesus macaques (Macaca mulatta)."" International Journal of Primatology 34.4 (2013): 770-791."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 181.0

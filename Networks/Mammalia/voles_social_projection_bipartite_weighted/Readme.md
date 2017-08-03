@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|6 days
 Time resolution of data collection|12 hours
-"Citation: Davis, Stephen, et al. ""Spatial analyses of wildlife contact networks."" Journal of the Royal Society Interface 12.102 (2015): 20141004."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 181.0

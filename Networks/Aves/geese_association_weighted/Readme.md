@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|15 days
 Time resolution of data collection|4min
-"Citation: Kurvers, Ralf HJM, et al. ""Contrasting context dependence of familiarity and kinship in animal social networks."" Animal Behaviour 86.5 (2013): 993-1001."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

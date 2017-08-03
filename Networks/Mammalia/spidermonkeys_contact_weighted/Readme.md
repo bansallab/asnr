@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|duration
 Time span of data collection|2 years
 Time resolution of data collection|15min
-"Citation: Rimbach, Rebecca, et al. ""Brown spider monkeys (Ateles hybridus): a model for differentiating the role of social networks and physical contact on parasite transmission dynamics."" Phil. Trans. R. Soc. B 370.1669 (2015): 20140110."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 181.0

@@ -6,8 +6,6 @@ Data collection technique|video
 Edge weight type|frequency
 Time span of data collection|90min
 Time resolution of data collection|10 seconds
-"Citation: Hasenjager, Matthew J., and Lee Alan Dugatkin. ""Familiarity affects network structure and information flow in guppy (Poecilia reticulata) shoals."" Behavioral Ecology (2016): arw152."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

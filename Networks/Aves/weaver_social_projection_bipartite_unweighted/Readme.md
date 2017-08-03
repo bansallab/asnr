@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|unweighted
 Time span of data collection|10 months
 Time resolution of data collection|real time
-"Citation: Dijk, René E., et al. ""Cooperative investment in public goods is kin directed in communal nests of social birds."" Ecology letters 17.9 (2014): 1141-1148."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

@@ -6,8 +6,6 @@ Data collection technique|video
 Edge weight type|duration
 Time span of data collection|1 day
 Time resolution of data collection|1sec
-"Citation: Quevillon, Lauren E., et al. ""Social, spatial, and temporal organization in a complex insect society."" Scientific reports 5 (2015)."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

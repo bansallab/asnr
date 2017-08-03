@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|simple_ratio_index
 Time span of data collection|3 months
 Time resolution of data collection|real time
-"Citation: Arnberg, Nina N., et al. ""Social network structure in wintering golden‐crowned sparrows is not correlated with kinship."" Molecular ecology 24.19 (2015): 5034-5044."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

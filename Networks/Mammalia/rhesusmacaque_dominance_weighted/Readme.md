@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|6 months
 Time resolution of data collection|2 hours
-"Citation: Takahata, Yukio. ""Diachronic changes in the dominance relations of adult female Japanese monkeys of the Arashiyama B group."" The monkeys of Arashiyama. State University of New York Press, Albany (1991): 123-139."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 181.0

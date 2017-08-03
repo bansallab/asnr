@@ -193,7 +193,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		# Get column names
 		cols = df.columns
 
-		dt = pd.DataFrame([["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution], ["Citation: "+citn,"" ]], columns = cols)
+		dt = pd.DataFrame([["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution]], columns = cols)
 		
 		df=df.round(decimals=3)
 		base_filename = 'Readme.md'
@@ -202,7 +202,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 
 		# Create a new DataFrame with just the markdown
 		# strings
-		df2 = pd.DataFrame([['---',]*len(cols), [cols[0], cols[1]], ['---',]*len(cols)], columns=cols)
+		df2 = pd.DataFrame([[cols[0], cols[1]], ['---',]*len(cols)], columns=cols)
 
 		#Create a new concatenated DataFrame
 	

@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|Not specified
 Time resolution of data collection|Not specified
-"Citation: Guhl, A. M. ""Social behavior of the domestic fowl."" Transactions of the Kansas Academy of Science (1903-) 71.3 (1968): 379-384."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

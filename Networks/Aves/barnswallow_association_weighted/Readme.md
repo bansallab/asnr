@@ -6,8 +6,6 @@ Data collection technique|logger
 Edge weight type|frequency
 Time span of data collection|11 days
 Time resolution of data collection|1 sec
-"Citation: Levin, Iris I., et al. ""Stress response, gut microbial diversity and sexual signals correlate with social interactions."" Biology Letters 12.6 (2016): 20160352."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

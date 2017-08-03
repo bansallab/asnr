@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|15 months
 Time resolution of data collection|real time
-Citation: Christine C Hass. Social status in female bighorn sheep (Ovis canadensis): Expression, development and reproductive correlates. J. of Zoology, 225(3):509-523, 1991.|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 181.0

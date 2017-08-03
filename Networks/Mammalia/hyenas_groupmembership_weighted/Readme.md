@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|twice_weight_index
 Time span of data collection|4 months (approx 16 days each month)
 Time resolution of data collection|15min
-"Citation: Holekamp, Kay E., et al. ""Society, demography and genetic structure in the spotted hyena."" Molecular Ecology 21.3 (2012): 613-632."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 181.0

@@ -6,8 +6,6 @@ Data collection technique|video
 Edge weight type|frequency
 Time span of data collection|120 min
 Time resolution of data collection|6 min
-"Citation: Atton, N., et al. ""Familiarity affects social network structure and discovery of prey patch locations in foraging stickleback shoals."" Proceedings of the Royal Society of London B: Biological Sciences 281.1789 (2014): 20140579."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

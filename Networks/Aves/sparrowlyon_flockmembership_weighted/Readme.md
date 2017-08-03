@@ -6,8 +6,6 @@ Data collection technique|manual
 Edge weight type|frequency
 Time span of data collection|4 months
 Time resolution of data collection|real time
-"Citation: Shizuka, Daizaburo, et al. ""Across‐year social stability shapes network structure in wintering migrant sparrows."" Ecology letters 17.8 (2014): 998-1007."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 291.0

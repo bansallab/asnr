@@ -6,8 +6,6 @@ Data collection technique|radio tags
 Edge weight type|unweighted
 Time span of data collection|1 year
 Time resolution of data collection|real time
-"Citation: Silvis, Alexander, et al. ""Roosting and foraging social structure of the endangered Indiana bat (Myotis sodalis)."" PloS one 9.5 (2014): e96937."|
----|---
 network attribute|range
 ---|---
 total nodes|2.0 - 181.0
