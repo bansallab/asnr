@@ -7,9 +7,9 @@
 /* Global Styles */
 
 
-html,
-body {
+html,body {
     height: 100%;
+    width: 100%;
 }
 
 body {
@@ -18,29 +18,31 @@ body {
 }
 
 .img-portfolio {
-    margin-bottom: 30px;
+    width:auto;
+    height:auto;
 }
 
-.img-hover:hover {
+.img-hover {
     opacity: 0.8;
 }
 
 /* Home Page Carousel */
 
-.carousel {
-  width:auto;
-  height:auto;
+header.carousel-slide {
+    width:auto;
+    height:auto;
 }
 
-header.carousel {
-    width: auto;
-    height: auto;
+header.carousel-slide .img-responsive {
+    width:100%;
+    height:100%;
 }
 
-header.carousel .item,
-header.carousel .item.active,
-header.carousel .carousel-inner {
-    height: 102%;
+header.carousel-slide .item,
+header.carousel-slide .item-active,
+header.carousel-slide .carousel-inner {
+    height: 100%;
+    /*width: auto;*/
 }
 
 header.carousel .fill {
@@ -95,7 +97,7 @@ footer {
         margin-bottom: 15px;
     }
 
-    header.carousel .carousel {
+    header.carousel-slide .carousel {
         height: 100%;
     }
 }
