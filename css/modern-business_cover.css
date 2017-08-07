@@ -13,7 +13,7 @@ html,body {
 }
 
 body {
-    padding-top: 90px;
+    padding-top: 40px;
     padding-bottom: 60px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
