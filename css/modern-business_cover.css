@@ -28,24 +28,24 @@ body {
 
 /* Home Page Carousel */
 
-header.carousel-slide {
+.carousel-slide {
     width:100%;
     height:100%;
 }
 
-header.carousel-slide .img-responsive {
+.carousel-slide .img-responsive {
     width:100%;
     height:100%;
 }
 
-header.carousel-slide .item,
-header.carousel-slide .item-active,
-header.carousel-slide .carousel-inner {
+.carousel-slide .item,
+.carousel-slide .item-active,
+.carousel-slide .carousel-inner {
     height: 100%;
     /*width: auto;*/
 }
 
-header.carousel .fill {
+.carousel .fill {
     width: 100%;
     height: 100%;
     background-position: center;
