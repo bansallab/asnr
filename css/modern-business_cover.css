@@ -41,7 +41,7 @@ header.carousel-slide .img-responsive {
 header.carousel-slide .item,
 header.carousel-slide .item-active,
 header.carousel-slide .carousel-inner {
-    height: 100%;
+    height: auto;
     /*width: auto;*/
 }
 
