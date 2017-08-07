@@ -30,6 +30,7 @@
 </head>
 
 <body id="contribute" class="tab-pane">
+
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="height: 90px">
         <div class="container">
@@ -245,7 +246,7 @@
                 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 
                 <!-- prevents redirection -->
-                <script src="js/jquery.js"></script>
+                <!-- <script src="js/jquery.js"></script> --> <!--had to be commented out, otherwise carousel would take up whole screen-->
                 <script type="text/javascript">var submitted=false;</script>
                 <script type="text/javascript">
                 $('#datasetSubmission').on('Submit', function(e) {
@@ -255,6 +256,7 @@
                 </script>
             </div>
         </div>
+        <hr>
 
         <!-- Footer -->
         <footer>
@@ -269,7 +271,7 @@
     <!-- /.container -->
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <!-- <script src="js/jquery.js"></script> -->
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>

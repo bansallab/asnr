@@ -27,7 +27,6 @@ body {
 }
 
 /* Home Page Carousel */
-
 .carousel-slide {
     width:100%;
     height:100%;
@@ -46,6 +45,31 @@ body {
 }
 
 .carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/*carousel block for non-splash pages:*/
+header.carousel-slide {
+    width:100%;
+    height:70%;
+}
+
+header.carousel-slide .img-responsive {
+    width:100%;
+    height:100%;
+}
+
+header.carousel-slide .item,
+header.carousel-slide .item-active,
+header.carousel-slide .carousel-inner {
+    height: 100%;
+    /*width: auto;*/
+}
+
+header.carousel .fill {
     width: 100%;
     height: 100%;
     background-position: center;
