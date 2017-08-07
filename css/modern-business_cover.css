@@ -6,6 +6,7 @@
 
 /* Global Styles */
 
+
 html,
 body {
     height: 100%;
@@ -27,7 +28,8 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 50%;
+    width: auto;
+    height: auto;
 }
 
 header.carousel .item,
