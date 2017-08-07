@@ -29,8 +29,8 @@ body {
 /* Home Page Carousel */
 
 header.carousel-slide {
-    width:auto;
-    height:auto;
+    width:100%;
+    height:100%;
 }
 
 header.carousel-slide .img-responsive {
@@ -41,7 +41,7 @@ header.carousel-slide .img-responsive {
 header.carousel-slide .item,
 header.carousel-slide .item-active,
 header.carousel-slide .carousel-inner {
-    height: auto;
+    height: 100%;
     /*width: auto;*/
 }
 
