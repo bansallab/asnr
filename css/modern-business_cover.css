@@ -27,6 +27,11 @@ body {
 
 /* Home Page Carousel */
 
+.carousel {
+  width:auto;
+  height:auto;
+}
+
 header.carousel {
     width: auto;
     height: auto;
