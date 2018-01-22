@@ -50,10 +50,16 @@
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
+#header3-n H3 {
+  text-align: center;
+}
 #msg-box3-p .mbr-header .mbr-header__text {
   text-align: center;
 }
 #msg-box3-p .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-p .mbr-article P {
   text-align: center;
 }
 
