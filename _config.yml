@@ -1,7 +1,7 @@
 # Site settings
 title: Animal social network repository
 email: your-email@domain.com
-description: 
+description: Animal Social Networks Repository
   This repository provides free access to published non-human social networks.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
@@ -26,3 +26,7 @@ markdown: kramdown
 
 gems:
   - jekyll-seo-tag
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
