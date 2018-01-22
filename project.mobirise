@@ -37,7 +37,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">DATA</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DATA</a></li> ",
           "_tags": [
             "Theme"
           ],
@@ -194,7 +194,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">DATA</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DATA</a></li> ",
           "_tags": [
             "Theme"
           ],
@@ -266,12 +266,19 @@
             "showMeta": true
           },
           "title": "ANIMAL NETWORK DATA",
-          "meta": "ASNR aims to assemble and provide a comprehensive index of real-world animal interaction data sets, across all taxa.",
+          "meta": "<span style=\"font-style: normal;\">ASNR aims to assemble and provide a comprehensive index of real-world animal interaction data sets, across all taxa.</span>",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-n"
+          "_anchor": "header3-n",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_params": {
@@ -479,7 +486,7 @@
           },
           "title": "DATA USAGE",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "<p>[ADD DATA USAGE DETAILS]</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CITATION</a>",
           "_tags": [
             "Theme"
@@ -508,7 +515,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">DATA</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DATA</a></li> ",
           "_tags": [
             "Theme"
           ],
@@ -730,7 +737,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">DATA</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DATA</a></li> ",
           "_tags": [
             "Theme"
           ],
@@ -871,7 +878,7 @@
           },
           "title": "TEAM &amp; CONTACT",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>ASNR was developed and is maintained by Dr. Pratha Sah and Dr. Shweta Bansal, with funding from the National Science Foundation. A team of undergraduate researchers (Jose Mendez, Grant Rosensteel and Elly Meng) have also contributed to the data collection, network analysis and data visualization efforts.</p>",
+          "text": "<p>ASNR was developed and is maintained by <a href=\"https://prathasah.github.io/\">Dr. Pratha Sah</a> and <a href=\"http://bansallab.com\">Dr. Shweta Bansal</a>, with funding from the <a href=\"http://www.nsf.gov\">National Science Foundation</a>. A team of undergraduate researchers (Jose Mendez, Grant Rosensteel and Elly Meng) have also contributed to the data collection, network analysis and data visualization efforts.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
           "_tags": [
             "Theme"

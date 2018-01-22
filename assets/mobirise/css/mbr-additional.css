@@ -27,6 +27,7 @@
 }
 
 
+
 #ext_menu-8 .mbr-brand__name {
   font-size: 16px;
 }
@@ -44,6 +45,10 @@
 }
 #ext_menu-8 .mbr-brand__name a {
   font-family: 'Open Sans', sans-serif;
+}
+#header3-n SPAN {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
 #msg-box3-p .mbr-header .mbr-header__text {
   text-align: center;
