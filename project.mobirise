@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ASNR",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,7 +12,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "4.6.2"
   },
   "pages": {
@@ -819,7 +819,9 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
@@ -858,9 +860,71 @@
           "_anchor": "msg-box3-e"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-719x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#eb6b56",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "RESEARCH<br>",
+          "items": [
+            {
+              "authorName": "Pratha Sah, Janet Mann, Shweta Bansal",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">Disease implications of animal social network structure: a synthesis across social systems</p>"
+            },
+            {
+              "authorName": "Pratha Sah, Stephan Leu, Paul Cross, Peter Hudson, Shweta Bansal&nbsp;",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><a href=\"http://dx.doi.org/10.1073/pnas.1613616114\">Unraveling the disease consequence and mechanisms of modular structure in animal social networks&nbsp;</a></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-q",
+          "testimonial": [
+            {
+              "authorName": "Pratha Sah, Janet Mann, Shweta Bansal",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><a href=\"http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12786/\">Disease implications of animal social network structure: a synthesis across social systems</a></p>"
+            },
+            {
+              "authorName": "Pratha Sah, Stephan Leu, Paul Cross, Peter Hudson, Shweta Bansal&nbsp;",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><a href=\"http://dx.doi.org/10.1073/pnas.1613616114\">Unraveling the disease consequence and mechanisms of modular structure in animal social networks&nbsp;</a></p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"

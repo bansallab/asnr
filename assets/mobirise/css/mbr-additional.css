@@ -108,6 +108,9 @@
 }
 
 
+
+
+
 #ext_menu-c .mbr-brand__name {
   font-size: 16px;
 }
@@ -128,12 +131,18 @@
 }
 #msg-box3-e .mbr-header .mbr-header__text {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box3-e .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#testimonials1-q .mbr-section__header {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
 #msg-box3-i .mbr-header .mbr-header__text {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box3-i .mbr-header .mbr-header__subtext {
   text-align: center;
