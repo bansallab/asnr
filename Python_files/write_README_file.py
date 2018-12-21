@@ -14,7 +14,7 @@ import zipfile
 def calculate_avg_wd(G, partition, n_nodes):
 	r"""returns average within-module degree"""
 	wdlist = []
-	for node1 in G.nodes():
+	for node1 in list(G.nodes):
 		nbrs = G.neighbors(node1)
 		mod1 = partition[node1]
 		mod_nbrs = [node2 for node2 in nbrs if partition[node2]==mod1]
@@ -26,7 +26,7 @@ def calculate_avg_wd(G, partition, n_nodes):
 #######################################
 def calculate_Qmax(G, mod_nodes):
 	r"""returns maximum modularity possible given the network partition"""
-	Lt= sum([G.degree(node) for node in G.nodes()])
+	Lt= sum([G.degree(node) for node in list(G.nodes)])
 	total  =0
 	
 	for mod in mod_nodes.keys():
@@ -59,19 +59,24 @@ attr_list = ['total nodes', 'total edges', 'network density','average degree', '
 
 val_list = [num_nodes_list, num_edges_list, net_density_list, avg_degree_list, cv_degree_list, asrt_list, avg_betw_list, betw_wt_list, clstr_list, clstr_wt_list, modularity_list, qmax_list, qrel_list, cohesion_list, diameter_list]
 
-for mydir in os.listdir(os.path.abspath('../Networks/')):
-	for subdir in os.listdir(os.path.abspath('../Networks/'+mydir)):
+directories = os.listdir(os.path.abspath('../Networks/'))
+directories = [name for name in directories if name != '.DS_Store']
+for mydir in directories:
+	sub_directories = os.listdir(os.path.abspath('../Networks/'+mydir))
+	sub_directories = [name for name in sub_directories if name != '.DS_Store']
+	for subdir in sub_directories:
 		print mydir, subdir
 		
 		#######################################
 		## read qualitative attributes
-		dt = pd.read_csv('Network_attributes.csv')
+		dt = pd.read_csv('Network_summary_26Feb2017.csv')
 		dt_sub =  dt[dt['dirname'].str.contains(subdir)] 
 		location = dt_sub['geographical_location'].iloc[0]
-		taxa = dt_sub['Taxa'].iloc[0]
+		taxa = dt_sub['taxa'].iloc[0]
 		taxa = taxa.replace('_', ' ')
-		class1 = dt_sub['Class'].iloc[0]
+		class1 = dt_sub['class'].iloc[0]
 		interaction = dt_sub['interaction_type'].iloc[0]
+		interaction = interaction.replace('_', ' ')
 		edge_wt_type = dt_sub['edge_wt_type'].iloc[0]
 		population_type = dt_sub['population_type'].iloc[0]
 		data_record = dt_sub['data_record_technique'].iloc[0]
@@ -88,21 +93,21 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 
 	
 		cit2 = ' '.join(cit2)		
-		#print cit2
+
 		########################################3
 		for filename in sorted(os.listdir(os.path.abspath('../Networks/'+mydir+'/'+subdir))):	
 			if filename.endswith(".graphml"): 	
 					print filename
 					G= nx.read_graphml(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+ filename))
-					G.remove_edges_from(G.selfloop_edges())
-					n_nodes = len(G.nodes())
-					n_edges = len(G.edges())
+					G.remove_edges_from(nx.selfloop_edges(G))
+					n_nodes = len(list(G.nodes))
+					n_edges = len(list(G.edges))
 			
 
 					#####
 					## if network does not have weights, add a weight of one to all edges
 					if len(nx.get_edge_attributes(G,'weight'))==0:
-						for (n1,n2) in G.edges(): G[n1][n2]['weight']=1
+						for (n1,n2) in list(G.edges): G[n1][n2]['weight']=1
 					####
 
 					####################################################
@@ -110,7 +115,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 					if n_edges==0:continue
 					########################################################
 					## remove edges with weight zero
-					for (n1, n2) in G.edges():
+					for (n1, n2) in list(G.edges):
 						if G[n1][n2]['weight']==0: 
 							#print ("Removing NULL edge!!!"), (n1, n2), len(G.edges()),
 							G.remove_edge(n1,n2)
@@ -123,7 +128,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 					num_comp = nx.number_connected_components(G)
 					density = round(nx.density(G),3)
 					net_density_list.append(density)
-					deg_list = [G.degree(node) for node in G.nodes()]
+					deg_list = [G.degree(node) for node in list(G.nodes)]
 					avg_deg = round(np.mean(deg_list),3)
 					avg_degree_list.append(avg_deg)
 					std_deg = round(np.std(deg_list),3)
@@ -152,15 +157,15 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 					#for the rest of the computations, network is required to be connected
 					if not nx.is_connected(G): G = max(nx.connected_component_subgraphs(G), key=len)
 					G1 = nx.Graph()
-					G1.add_nodes_from(G.nodes())
-					G1.add_edges_from(G.edges())
+					G1.add_nodes_from(G.nodes)
+					G1.add_edges_from(G.edges)
 					try:
 						partition = community.best_partition(G1)
 						Q = round(community.modularity(partition, G1),3)
 						modularity_list.append(Q)
 						modules = list(set(partition.values()))
 						mod_nodes= {}
-						for mod in modules: mod_nodes[mod] = [node for node in G1.nodes() if partition[node]==mod]
+						for mod in modules: mod_nodes[mod] = [node for node in list(G1.nodes) if partition[node]==mod]
 						Qmax = round(calculate_Qmax(G1, mod_nodes),3)
 						qmax_list.append(Qmax)
 						coh = calculate_avg_wd(G1, partition, n_nodes)/(1.*avg_deg)
@@ -169,7 +174,7 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 					
 					
 					diam = nx.diameter(G)
-					avg_modsize = float(len(G1.nodes()))/len(modules)
+					avg_modsize = float(len(list(G1.nodes)))/len(modules)
 					if Qmax>0:Qrel = round(float(Q)/Qmax,3)
 					else: Qrel="NA"	
 					qrel_list.append(Qrel)
@@ -203,7 +208,8 @@ for mydir in os.listdir(os.path.abspath('../Networks/')):
 		# Get column names
 		cols = df.columns
 
-		dt = pd.DataFrame([ ["**Study description**", "**value**"],  ["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution]], columns = cols)
+		dt = pd.DataFrame([ ["**Study description**", "**value**"],  ["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], [ "Interaction type", interaction], ["Edge weight type", edge_wt_type,], ["Time span of data collection", time_span], [ "Time resolution of data collection", resolution]], columns = cols)
+		
 		
 		df=df.round(decimals=3)
 		base_filename = 'Readme.md'

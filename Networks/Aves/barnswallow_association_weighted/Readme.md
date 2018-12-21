@@ -1,26 +1,27 @@
 network attribute|range
 ---|---
-total nodes|2.0 - 291.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 1.934
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.817
-maximum modularity|0.0 - 0.896
-relative modularity|0.0 - 0.939
-group cohesion|0.073 - 1.0
-network diameter|0.073 - 1.0
+total nodes|17.0 - 149.0
+total edges|53.0 - 2837.0
+network density|0.164 - 0.897
+average degree|6.235 - 38.081
+degree heterogeneity|0.133 - 0.723
+degree assortativity|-0.31 - 0.46
+average betweenness centrality (unweighted)|0.002 - 0.049
+average betweenness centrality (weighted)|0.002 - 0.049
+average clustering coefficient (unweighted)|0.548 - 0.929
+average clustering coefficient (weighted)|0.04 - 0.108
+Newman modularity|0.022 - 0.552
+maximum modularity|0.47 - 0.7
+relative modularity|0.044 - 0.789
+group cohesion|0.503 - 0.851
+network diameter|0.503 - 0.851
 **Study description**|**value**
 Species|*Hirundo rustica*
 Taxonomic class|Aves
 Population type|free-ranging
 Geographical location|Boulder County, Colorado, USA
 Data collection technique|logger
+Interaction type|physical contact
 Edge weight type|frequency
 Time span of data collection|11 days
 Time resolution of data collection|1 sec

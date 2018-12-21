@@ -1,26 +1,27 @@
 network attribute|range
 ---|---
-total nodes|2.0 - 291.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 1.934
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 0.876
-Newman modularity|0.0 - 0.817
-maximum modularity|0.0 - 0.896
-relative modularity|0.0 - 0.939
-group cohesion|0.073 - 1.0
-network diameter|0.073 - 1.0
+total nodes|126.0 - 149.0
+total edges|1444.0 - 2837.0
+network density|0.164 - 0.257
+average degree|21.97 - 38.081
+degree heterogeneity|0.565 - 0.723
+degree assortativity|0.207 - 0.46
+average betweenness centrality (unweighted)|0.002 - 0.013
+average betweenness centrality (weighted)|0.002 - 0.013
+average clustering coefficient (unweighted)|0.754 - 0.821
+average clustering coefficient (weighted)|0.04 - 0.108
+Newman modularity|0.144 - 0.552
+maximum modularity|0.525 - 0.7
+relative modularity|0.264 - 0.789
+group cohesion|0.503 - 0.851
+network diameter|0.503 - 0.851
 **Study description**|**value**
 Species|*Wild birds N/A*
 Taxonomic class|Aves
 Population type|free-ranging
 Geographical location|Oxford, UK
 Data collection technique|RFID
+Interaction type|social projection bipartite
 Edge weight type|half_weight_index
 Time span of data collection|6 days
 Time resolution of data collection|1 sec

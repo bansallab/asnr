@@ -1,26 +1,27 @@
 network attribute|range
 ---|---
-total nodes|2.0 - 291.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 1.934
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.817
-maximum modularity|0.0 - 0.896
-relative modularity|0.0 - 0.939
-group cohesion|0.073 - 1.0
-network diameter|0.073 - 1.0
+total nodes|17.0 - 149.0
+total edges|53.0 - 2837.0
+network density|0.151 - 1.0
+average degree|6.235 - 38.081
+degree heterogeneity|0.0 - 0.746
+degree assortativity|-0.31 - 0.46
+average betweenness centrality (unweighted)|0.0 - 0.049
+average betweenness centrality (weighted)|0.0 - 0.049
+average clustering coefficient (unweighted)|0.548 - 1.0
+average clustering coefficient (weighted)|0.025 - 1.0
+Newman modularity|0.0 - 0.552
+maximum modularity|0.0 - 0.72
+relative modularity|0.044 - 0.789
+group cohesion|0.364 - 1.0
+network diameter|0.364 - 1.0
 **Study description**|**value**
 Species|*Haemorhous mexicanus*
 Taxonomic class|Aves
 Population type|free-ranging
 Geographical location|Virginia Tech, Virginia, USA
 Data collection technique|RFID
+Interaction type|social projection bipartite
 Edge weight type|simple_ratio_index
 Time span of data collection|137 days
 Time resolution of data collection|1 sec

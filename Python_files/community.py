@@ -294,7 +294,7 @@ def induced_graph(partition, graph) :
     ret = nx.Graph()
     ret.add_nodes_from(partition.values())
     
-    for node1, node2, datas in graph.edges_iter(data = True) :
+    for node1, node2, datas in graph.edges(data = True) :
         weight = datas.get("weight", 1)
         com1 = partition[node1]
         com2 = partition[node2]

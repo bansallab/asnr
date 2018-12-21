@@ -1,27 +1,28 @@
 network attribute|range
 ---|---
-total nodes|5.0 - 73.0
-total edges|10.0 - 222.0
-network density|0.023 - 1.0
-average degree|1.314 - 17.077
-degree heterogeneity|0.0 - 0.728
-degree assortativity|-0.333 - 0.718
-average betweenness centrality (unweighted)|0.0 - 0.144
-average betweenness centrality (weighted)|0.0 - 0.144
+total nodes|2.0 - 1100.0
+total edges|1.0 - 11139.0
+network density|0.0 - 1.0
+average degree|0.0 - 139.238
+degree heterogeneity|0.0 - 7.75
+degree assortativity|-1.0 - 1.0
+average betweenness centrality (unweighted)|0.0 - 0.333
+average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 0.876
-Newman modularity|0.0 - 0.572
-maximum modularity|0.0 - 0.768
-relative modularity|0.09 - 0.835
-group cohesion|0.13 - 1.0
-network diameter|0.13 - 1.0
+average clustering coefficient (weighted)|0.0 - 1.0
+Newman modularity|0.0 - 0.819
+maximum modularity|0.0 - 0.896
+relative modularity|0.0 - 0.939
+group cohesion|0.063 - 1.0
+network diameter|0.063 - 1.0
 **Study description**|**value**
 Species|*Macropus giganteus*
 Taxonomic class|Mammalia
 Population type|free-ranging
 Geographical location|New South Wales, Australia
-Data collection technique|manual 
+Data collection technique|survey scan
+Interaction type|spatial proximity
 Edge weight type|frequency
 Time span of data collection|Not specified
-Time resolution of data collection|real time
+Time resolution of data collection|ad libitum
 **Citation**: TR Grant. Dominance and association among members of <br> a captive and a free-ranging group of <br> grey kangaroos (Macropus giganteus). Animal Behaviour, 21(3):449-456, <br> 1973.
