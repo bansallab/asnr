@@ -11,8 +11,8 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 1.0
 Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.896
-relative modularity|0.0 - 0.918
+maximum modularity|0.0 - 0.898
+relative modularity|0.0 - 0.922
 group cohesion|0.063 - 1.0
 network diameter|0.063 - 1.0
 **Study description**|**value**
@@ -23,6 +23,7 @@ Geographical location|Northumberland, England
 Data collection technique|mark recapture
 Interaction type|social projection bipartite
 Edge weight type|frequency
-Time span of data collection|6 days
-Time resolution of data collection|12 hours
+Total duration of data collection|6 days
+Time resolution of data collection (within a day)|12 hours
+Time span of data collection (within a day)|24 hours
 **Citation**: Davis, Stephen, et al. "Spatial analyses of wildlife <br> contact networks." Journal of the Royal Society <br> Interface 12.102 (2015): 20141004.

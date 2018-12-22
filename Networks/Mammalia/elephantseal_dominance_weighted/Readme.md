@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|0.0 - 0.333
 average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.805
-maximum modularity|0.0 - 0.877
-relative modularity|0.0 - 0.918
+Newman modularity|0.0 - 0.804
+maximum modularity|0.0 - 0.88
+relative modularity|0.0 - 0.914
 group cohesion|0.063 - 1.0
 network diameter|0.063 - 1.0
 **Study description**|**value**
@@ -23,6 +23,7 @@ Geographical location|California, USA
 Data collection technique|survey scan
 Interaction type|dominance
 Edge weight type|frequency
-Time span of data collection|69 days
-Time resolution of data collection|ad libitum
+Total duration of data collection|69 days
+Time resolution of data collection (within a day)|ad libitum
+Time span of data collection (within a day)|focal follow/ad libitum
 **Citation**: Casey, Caroline, et al. "Rival assessment among northern <br> elephant seals: evidence of associative learning during <br> male–male contests." Royal Society open science 2.8 <br> (2015): 150228.

@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 1.0
 Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.896
+maximum modularity|0.0 - 0.898
 relative modularity|0.0 - 0.939
 group cohesion|0.063 - 1.0
 network diameter|0.063 - 1.0
@@ -23,6 +23,7 @@ Geographical location|Moiese, Montana, USA
 Data collection technique|survey scan
 Interaction type|dominance
 Edge weight type|frequency
-Time span of data collection|2 months
-Time resolution of data collection|1sec
+Total duration of data collection|2 months
+Time resolution of data collection (within a day)|1sec
+Time span of data collection (within a day)|focal follow/ad libitum
 **Citation**: Dale F Lott. Dominance relations and breeding rate <br> in mature male American bison. Zeitschrift für <br> Tierpsychologie, 49(4):418-432, 1979.

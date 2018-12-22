@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 1.0
 Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.896
+maximum modularity|0.0 - 0.898
 relative modularity|0.0 - 0.939
 group cohesion|0.063 - 1.0
 network diameter|0.063 - 1.0
@@ -23,6 +23,7 @@ Geographical location|Montana, USA
 Data collection technique|focal sampling
 Interaction type|dominance
 Edge weight type|frequency
-Time span of data collection|15 months
-Time resolution of data collection|ad libitum
+Total duration of data collection|15 months
+Time resolution of data collection (within a day)|ad libitum
+Time span of data collection (within a day)|focal follow/ad libitum
 **Citation**: Christine C Hass. Social status in female bighorn <br> sheep (Ovis canadensis): Expression, development and reproductive <br> correlates. J. of Zoology, 225(3):509-523, 1991.

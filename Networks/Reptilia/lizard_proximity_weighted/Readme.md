@@ -10,8 +10,8 @@ average betweenness centrality (unweighted)|0.0 - 0.148
 average betweenness centrality (weighted)|0.0 - 0.148
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.606
-maximum modularity|0.0 - 0.836
+Newman modularity|0.0 - 0.61
+maximum modularity|0.0 - 0.829
 relative modularity|0.044 - 0.889
 group cohesion|0.174 - 1.0
 network diameter|0.174 - 1.0
@@ -23,6 +23,7 @@ Geographical location|Kungara, South Australia
 Data collection technique|logger
 Interaction type|spatial proximity
 Edge weight type|simple_ratio_index
-Time span of data collection|120 days
-Time resolution of data collection|10 minutes
+Total duration of data collection|120 days
+Time resolution of data collection (within a day)|10 minutes
+Time span of data collection (within a day)|24 hours
 **Citation**: Bull, C. M., S. S. Godfrey, and D. <br> M. Gordon. "Social networks and the spread <br> of Salmonella in a sleepy lizard population." <br> Molecular Ecology 21.17 (2012): 4386-4392.

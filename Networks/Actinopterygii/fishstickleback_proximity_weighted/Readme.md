@@ -23,6 +23,7 @@ Geographical location|St. Andrews, UK
 Data collection technique|video
 Interaction type|group membership
 Edge weight type|frequency
-Time span of data collection|120 min
-Time resolution of data collection|6 min
+Total duration of data collection|120 min
+Time resolution of data collection (within a day)|6 min
+Time span of data collection (within a day)|120 min
 **Citation**: Atton, N., et al. "Familiarity affects social network <br> structure and discovery of prey patch locations <br> in foraging stickleback shoals." Proceedings of the <br> Royal Society of London B: Biological Sciences <br> 281.1789 (2014): 20140579.

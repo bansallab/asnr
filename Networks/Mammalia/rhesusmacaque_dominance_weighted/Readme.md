@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 1.0
 Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.896
+maximum modularity|0.0 - 0.898
 relative modularity|0.0 - 0.939
 group cohesion|0.063 - 1.0
 network diameter|0.063 - 1.0
@@ -23,6 +23,7 @@ Geographical location|Arashiyama, Japan
 Data collection technique|survey scan
 Interaction type|dominance
 Edge weight type|frequency
-Time span of data collection|6 months
-Time resolution of data collection|2 hours
+Total duration of data collection|6 months
+Time resolution of data collection (within a day)|2 hours
+Time span of data collection (within a day)|focal follow/ad libitum
 **Citation**: Takahata, Yukio. "Diachronic changes in the dominance relations <br> of adult female Japanese monkeys of the <br> Arashiyama B group." The monkeys of Arashiyama. <br> State University of New York Press, Albany <br> (1991): 123-139.

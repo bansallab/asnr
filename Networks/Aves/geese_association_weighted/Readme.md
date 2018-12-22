@@ -13,8 +13,8 @@ average clustering coefficient (weighted)|0.038 - 0.119
 Newman modularity|0.022 - 0.552
 maximum modularity|0.449 - 0.7
 relative modularity|0.044 - 0.789
-group cohesion|0.503 - 0.851
-network diameter|0.503 - 0.851
+group cohesion|0.491 - 0.851
+network diameter|0.491 - 0.851
 **Study description**|**value**
 Species|*Branta leucopsis*
 Taxonomic class|Aves
@@ -23,6 +23,7 @@ Geographical location|Heteren, Netherlands
 Data collection technique|survey scan
 Interaction type|foraging
 Edge weight type|frequency
-Time span of data collection|15 days
-Time resolution of data collection|4min
+Total duration of data collection|15 days
+Time resolution of data collection (within a day)|4min
+Time span of data collection (within a day)|4 hours
 **Citation**: Kurvers, Ralf HJM, et al. "Contrasting context dependence <br> of familiarity and kinship in animal social <br> networks." Animal Behaviour 86.5 (2013): 993-1001.

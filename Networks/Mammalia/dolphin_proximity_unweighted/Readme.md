@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 1.0
 Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.896
+maximum modularity|0.0 - 0.898
 relative modularity|0.0 - 0.939
 group cohesion|0.063 - 1.0
 network diameter|0.063 - 1.0
@@ -23,6 +23,7 @@ Geographical location|Fiordland, New Zealand
 Data collection technique|survey scan
 Interaction type|spatial proximity
 Edge weight type|frequency
-Time span of data collection|594 days
-Time resolution of data collection|ad libitum
+Total duration of data collection|594 days
+Time resolution of data collection (within a day)|ad libitum
+Time span of data collection (within a day)|Not specified
 **Citation**: Lusseau, David, et al. "The bottlenose dolphin community <br> of Doubtful Sound features a large proportion <br> of long-lasting associations." Behavioral Ecology and Sociobiology <br> 54.4 (2003): 396-405.

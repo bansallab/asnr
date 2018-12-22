@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|0.0 - 0.333
 average betweenness centrality (weighted)|0.0 - 0.333
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.805
-maximum modularity|0.0 - 0.877
-relative modularity|0.0 - 0.918
+Newman modularity|0.0 - 0.804
+maximum modularity|0.0 - 0.88
+relative modularity|0.0 - 0.914
 group cohesion|0.063 - 1.0
 network diameter|0.063 - 1.0
 **Study description**|**value**
@@ -23,6 +23,7 @@ Geographical location|Amboseli National Park, Kenya
 Data collection technique|focal sampling
 Interaction type|spatial proximity
 Edge weight type|frequency
-Time span of data collection|30days
-Time resolution of data collection|ad libitum
+Total duration of data collection|30days
+Time resolution of data collection (within a day)|ad libitum
+Time span of data collection (within a day)|focal follow/ad libitum
 **Citation**: Franz, Mathias, Jeanne Altmann, and Susan C. Alberts. <br> "Knockouts of high-ranking males have limited impact <br> on baboon social networks." Current zoology 61.1 <br> (2015): 107-113.

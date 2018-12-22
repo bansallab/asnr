@@ -23,6 +23,7 @@ Geographical location|Kimberley, South Africa
 Data collection technique|mark recapture
 Interaction type|social projection bipartite
 Edge weight type|unweighted
-Time span of data collection|10 months
-Time resolution of data collection|ad libitum
+Total duration of data collection|10 months
+Time resolution of data collection (within a day)|ad libitum
+Time span of data collection (within a day)|focal follow/ad libitum
 **Citation**: Dijk, René E., et al. "Cooperative investment in <br> public goods is kin directed in communal <br> nests of social birds." Ecology letters 17.9 <br> (2014): 1141-1148.

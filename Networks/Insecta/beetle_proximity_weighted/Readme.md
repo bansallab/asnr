@@ -23,6 +23,7 @@ Geographical location|Virginia, USA
 Data collection technique|survey scan
 Interaction type|spatial proximity
 Edge weight type|simple_ratio_index
-Time span of data collection|12 days
-Time resolution of data collection|3.5 hours
+Total duration of data collection|12 days
+Time resolution of data collection (within a day)|3.5 hours
+Time span of data collection (within a day)|few minutes
 **Citation**: Formica, Vincent, et al. "Consistency of animal social <br> networks after disturbance." Behavioral Ecology (2016): arw128. <br>

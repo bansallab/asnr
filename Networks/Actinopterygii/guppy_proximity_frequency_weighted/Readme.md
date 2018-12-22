@@ -23,6 +23,7 @@ Geographical location|Louisville, Kentcuky
 Data collection technique|video
 Interaction type|spatial proximity
 Edge weight type|frequency
-Time span of data collection|90min
-Time resolution of data collection|10 seconds
+Total duration of data collection|90min
+Time resolution of data collection (within a day)|10 seconds
+Time span of data collection (within a day)|90min
 **Citation**: Hasenjager, Matthew J., and Lee Alan Dugatkin. "Familiarity <br> affects network structure and information flow in <br> guppy (Poecilia reticulata) shoals." Behavioral Ecology (2016): <br> arw152.

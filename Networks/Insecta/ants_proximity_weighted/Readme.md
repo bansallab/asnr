@@ -23,6 +23,7 @@ Geographical location|University of Lausanne, Laussane, Switzerland
 Data collection technique|video
 Interaction type|physical contact
 Edge weight type|frequency
-Time span of data collection|1day
-Time resolution of data collection|0.5 sec
+Total duration of data collection|1day
+Time resolution of data collection (within a day)|0.5 sec
+Time span of data collection (within a day)|24 hours
 **Citation**: Mersch, Danielle P., Alessandro Crespi, and Laurent Keller. <br> "Tracking individuals shows spatial fidelity is a <br> key regulator of ant social organization."Science 340.6136 <br> (2013): 1090-1093.

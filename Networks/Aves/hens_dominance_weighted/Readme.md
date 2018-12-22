@@ -11,10 +11,10 @@ average betweenness centrality (weighted)|0.0 - 0.049
 average clustering coefficient (unweighted)|0.548 - 1.0
 average clustering coefficient (weighted)|0.038 - 1.0
 Newman modularity|0.0 - 0.552
-maximum modularity|0.0 - 0.72
+maximum modularity|0.0 - 0.7
 relative modularity|0.044 - 0.789
-group cohesion|0.364 - 1.0
-network diameter|0.364 - 1.0
+group cohesion|0.476 - 1.0
+network diameter|0.476 - 1.0
 **Study description**|**value**
 Species|*White leghorn N/A*
 Taxonomic class|Aves
@@ -23,6 +23,7 @@ Geographical location|Manhattan, Kansas
 Data collection technique|mn/unspecified
 Interaction type|dominance
 Edge weight type|frequency
-Time span of data collection|Not specified
-Time resolution of data collection|Not specified
+Total duration of data collection|Not specified
+Time resolution of data collection (within a day)|Not specified
+Time span of data collection (within a day)|Not specified
 **Citation**: Guhl, A. M. "Social behavior of the domestic <br> fowl." Transactions of the Kansas Academy of <br> Science (1903-) 71.3 (1968): 379-384.
