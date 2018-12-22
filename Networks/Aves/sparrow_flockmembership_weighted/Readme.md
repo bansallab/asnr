@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|17.0 - 149.0
-total edges|53.0 - 2837.0
-network density|0.164 - 1.0
-average degree|6.235 - 38.081
-degree heterogeneity|0.0 - 0.723
-degree assortativity|-0.31 - 0.46
-average betweenness centrality (unweighted)|0.0 - 0.049
-average betweenness centrality (weighted)|0.0 - 0.049
-average clustering coefficient (unweighted)|0.548 - 1.0
-average clustering coefficient (weighted)|0.038 - 1.0
-Newman modularity|0.0 - 0.552
-maximum modularity|0.0 - 0.7
-relative modularity|0.044 - 0.789
-group cohesion|0.476 - 1.0
-network diameter|0.476 - 1.0
+total nodes|31.0 - 40.0
+total edges|211.0 - 305.0
+network density|0.391 - 0.454
+average degree|13.613 - 15.25
+degree heterogeneity|0.373 - 0.438
+degree assortativity|-0.116 - 0.289
+average betweenness centrality (unweighted)|0.017 - 0.031
+average betweenness centrality (weighted)|0.017 - 0.031
+average clustering coefficient (unweighted)|0.708 - 0.769
+average clustering coefficient (weighted)|0.147 - 0.15
+Newman modularity|0.234 - 0.235
+maximum modularity|0.533 - 0.635
+relative modularity|0.37 - 0.439
+group cohesion|0.6 - 0.701
+network diameter|0.6 - 0.701
 **Study description**|**value**
 Species|*Zonotrichia atricapilla*
 Taxonomic class|Aves

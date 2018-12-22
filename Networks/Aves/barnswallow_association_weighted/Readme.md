@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|17.0 - 149.0
-total edges|53.0 - 2837.0
-network density|0.164 - 0.897
-average degree|6.235 - 38.081
-degree heterogeneity|0.133 - 0.723
-degree assortativity|-0.31 - 0.46
-average betweenness centrality (unweighted)|0.002 - 0.049
-average betweenness centrality (weighted)|0.002 - 0.049
+total nodes|17.0 - 17.0
+total edges|53.0 - 122.0
+network density|0.39 - 0.897
+average degree|6.235 - 14.353
+degree heterogeneity|0.133 - 0.465
+degree assortativity|-0.31 - -0.153
+average betweenness centrality (unweighted)|0.007 - 0.049
+average betweenness centrality (weighted)|0.007 - 0.049
 average clustering coefficient (unweighted)|0.548 - 0.929
-average clustering coefficient (weighted)|0.04 - 0.108
-Newman modularity|0.022 - 0.552
-maximum modularity|0.498 - 0.7
-relative modularity|0.044 - 0.789
-group cohesion|0.491 - 0.851
-network diameter|0.491 - 0.851
+average clustering coefficient (weighted)|0.103 - 0.108
+Newman modularity|0.022 - 0.168
+maximum modularity|0.47 - 0.498
+relative modularity|0.044 - 0.357
+group cohesion|0.525 - 0.698
+network diameter|0.525 - 0.698
 **Study description**|**value**
 Species|*Hirundo rustica*
 Taxonomic class|Aves

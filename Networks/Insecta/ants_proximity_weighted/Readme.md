@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|5.0 - 164.0
-total edges|9.0 - 11139.0
-network density|0.088 - 1.0
-average degree|2.222 - 139.238
-degree heterogeneity|0.0 - 0.754
-degree assortativity|-0.447 - 0.535
-average betweenness centrality (unweighted)|0.0 - 0.148
-average betweenness centrality (weighted)|0.0 - 0.148
-average clustering coefficient (unweighted)|0.319 - 1.0
-average clustering coefficient (weighted)|0.01 - 1.0
-Newman modularity|0.0 - 0.552
-maximum modularity|0.0 - 0.782
-relative modularity|0.044 - 0.889
-group cohesion|0.233 - 1.0
-network diameter|0.233 - 1.0
+total nodes|35.0 - 164.0
+total edges|480.0 - 11139.0
+network density|0.532 - 0.876
+average degree|27.429 - 139.238
+degree heterogeneity|0.105 - 0.325
+degree assortativity|-0.123 - 0.232
+average betweenness centrality (unweighted)|0.001 - 0.009
+average betweenness centrality (weighted)|0.001 - 0.009
+average clustering coefficient (unweighted)|0.68 - 0.913
+average clustering coefficient (weighted)|0.01 - 0.136
+Newman modularity|0.024 - 0.205
+maximum modularity|0.425 - 0.71
+relative modularity|0.052 - 0.415
+group cohesion|0.369 - 0.718
+network diameter|0.369 - 0.718
 **Study description**|**value**
 Species|*Camponotus fellah*
 Taxonomic class|Insecta

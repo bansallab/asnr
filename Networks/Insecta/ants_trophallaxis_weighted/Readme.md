@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|5.0 - 164.0
-total edges|9.0 - 11139.0
-network density|0.053 - 1.0
-average degree|1.533 - 139.238
-degree heterogeneity|0.0 - 0.754
-degree assortativity|-0.447 - 0.535
-average betweenness centrality (unweighted)|0.0 - 0.148
-average betweenness centrality (weighted)|0.0 - 0.148
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.61
-maximum modularity|0.0 - 0.829
-relative modularity|0.044 - 0.889
-group cohesion|0.174 - 1.0
-network diameter|0.174 - 1.0
+total nodes|24.0 - 37.0
+total edges|23.0 - 68.0
+network density|0.053 - 0.137
+average degree|1.533 - 3.676
+degree heterogeneity|0.354 - 0.641
+degree assortativity|-0.287 - 0.196
+average betweenness centrality (unweighted)|0.006 - 0.13
+average betweenness centrality (weighted)|0.006 - 0.13
+average clustering coefficient (unweighted)|0.0 - 0.186
+average clustering coefficient (weighted)|0.0 - 0.02
+Newman modularity|0.319 - 0.606
+maximum modularity|0.653 - 0.825
+relative modularity|0.489 - 0.777
+group cohesion|0.174 - 0.806
+network diameter|0.174 - 0.806
 **Study description**|**value**
 Species|*Camponotus pennsylvanicus*
 Taxonomic class|Insecta

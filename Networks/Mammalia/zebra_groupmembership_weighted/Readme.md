@@ -1,20 +1,20 @@
-network attribute|range
+network attribute|value
 ---|---
-total nodes|4.0 - 1100.0
-total edges|5.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.804
-maximum modularity|0.0 - 0.88
-relative modularity|0.0 - 0.914
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|n/a
+total edges|n/a
+network density|0.316
+average degree|8.222
+degree heterogeneity|0.579
+degree assortativity|0.718
+average betweenness centrality (unweighted)|0.025
+average betweenness centrality (weighted)|n/a
+average clustering coefficient (unweighted)|0.876
+average clustering coefficient (weighted)|0.876
+Newman modularity|0.203
+maximum modularity|0.346
+relative modularity|0.587
+group cohesion|0.811
+network diameter|n/a
 **Study description**|**value**
 Species|*Equus grevyi*
 Taxonomic class|Mammalia

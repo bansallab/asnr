@@ -1,20 +1,20 @@
-network attribute|range
+network attribute|value
 ---|---
-total nodes|17.0 - 149.0
-total edges|53.0 - 2837.0
-network density|0.151 - 1.0
-average degree|6.235 - 38.081
-degree heterogeneity|0.0 - 0.746
-degree assortativity|-0.31 - 0.46
-average betweenness centrality (unweighted)|0.0 - 0.049
-average betweenness centrality (weighted)|0.0 - 0.049
-average clustering coefficient (unweighted)|0.548 - 1.0
-average clustering coefficient (weighted)|0.025 - 1.0
-Newman modularity|0.0 - 0.552
-maximum modularity|0.0 - 0.7
-relative modularity|0.044 - 0.789
-group cohesion|0.476 - 1.0
-network diameter|0.476 - 1.0
+total nodes|n/a
+total edges|n/a
+network density|0.151
+average degree|17.556
+degree heterogeneity|0.746
+degree assortativity|0.0
+average betweenness centrality (unweighted)|0.009
+average betweenness centrality (weighted)|n/a
+average clustering coefficient (unweighted)|0.604
+average clustering coefficient (weighted)|0.025
+Newman modularity|0.394
+maximum modularity|0.659
+relative modularity|0.598
+group cohesion|0.734
+network diameter|n/a
 **Study description**|**value**
 Species|*Haemorhous mexicanus*
 Taxonomic class|Aves

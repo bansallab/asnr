@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|2.0 - 1100.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.898
-relative modularity|0.0 - 0.939
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|35.0 - 36.0
+total edges|509.0 - 585.0
+network density|0.855 - 0.929
+average degree|29.086 - 32.5
+degree heterogeneity|0.136 - 0.158
+degree assortativity|-0.123 - -0.074
+average betweenness centrality (unweighted)|0.002 - 0.004
+average betweenness centrality (weighted)|0.002 - 0.004
+average clustering coefficient (unweighted)|0.899 - 0.963
+average clustering coefficient (weighted)|0.113 - 0.146
+Newman modularity|0.009 - 0.038
+maximum modularity|0.436 - 0.49
+relative modularity|0.021 - 0.078
+group cohesion|0.545 - 0.573
+network diameter|0.545 - 0.573
 **Study description**|**value**
 Species|*Crocuta crocuta*
 Taxonomic class|Mammalia

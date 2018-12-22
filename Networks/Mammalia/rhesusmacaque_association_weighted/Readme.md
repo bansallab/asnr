@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|2.0 - 1100.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.898
-relative modularity|0.0 - 0.939
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|28.0 - 28.0
+total edges|228.0 - 378.0
+network density|0.603 - 1.0
+average degree|16.286 - 27.0
+degree heterogeneity|0.0 - 0.235
+degree assortativity|nan - nan
+average betweenness centrality (unweighted)|0.0 - 0.015
+average betweenness centrality (weighted)|0.0 - 0.015
+average clustering coefficient (unweighted)|0.659 - 1.0
+average clustering coefficient (weighted)|0.032 - 0.099
+Newman modularity|0.0 - 0.099
+maximum modularity|0.0 - 0.498
+relative modularity|0.199 - 0.199
+group cohesion|0.601 - 1.0
+network diameter|0.601 - 1.0
 **Study description**|**value**
 Species|*Macaca mulatta*
 Taxonomic class|Mammalia

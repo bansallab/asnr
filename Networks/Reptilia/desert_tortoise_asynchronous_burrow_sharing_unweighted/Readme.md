@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|5.0 - 1100.0
-total edges|5.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.016 - 139.238
-degree heterogeneity|0.0 - 7.75
+total nodes|12.0 - 1100.0
+total edges|5.0 - 479.0
+network density|0.0 - 0.124
+average degree|0.016 - 3.49
+degree heterogeneity|0.68 - 7.75
 degree assortativity|-0.543 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.148
-average betweenness centrality (weighted)|0.0 - 0.148
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.804
-maximum modularity|0.0 - 0.88
-relative modularity|0.0 - 0.914
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+average betweenness centrality (unweighted)|0.0 - 0.034
+average betweenness centrality (weighted)|0.0 - 0.034
+average clustering coefficient (unweighted)|0.0 - 0.49
+average clustering coefficient (weighted)|0.0 - 0.49
+Newman modularity|0.0 - 0.805
+maximum modularity|0.0 - 0.877
+relative modularity|0.0 - 0.918
+group cohesion|0.063 - 0.848
+network diameter|0.063 - 0.848
 **Study description**|**value**
 Species|*Gopherus agassizii*
 Taxonomic class|Reptilia

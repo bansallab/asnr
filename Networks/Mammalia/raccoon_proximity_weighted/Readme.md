@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|2.0 - 1100.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.898
-relative modularity|0.0 - 0.939
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|8.0 - 24.0
+total edges|17.0 - 100.0
+network density|0.144 - 0.679
+average degree|2.444 - 8.333
+degree heterogeneity|0.289 - 0.644
+degree assortativity|-0.593 - 0.505
+average betweenness centrality (unweighted)|0.013 - 0.13
+average betweenness centrality (weighted)|0.013 - 0.13
+average clustering coefficient (unweighted)|0.282 - 0.784
+average clustering coefficient (weighted)|0.001 - 0.065
+Newman modularity|0.044 - 0.479
+maximum modularity|0.211 - 0.734
+relative modularity|0.095 - 0.939
+group cohesion|0.423 - 0.971
+network diameter|0.423 - 0.971
 **Study description**|**value**
 Species|*Procyon lotor*
 Taxonomic class|Mammalia

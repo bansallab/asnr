@@ -1,20 +1,20 @@
-network attribute|range
+network attribute|value
 ---|---
-total nodes|5.0 - 164.0
-total edges|9.0 - 11139.0
-network density|0.053 - 1.0
-average degree|1.533 - 139.238
-degree heterogeneity|0.0 - 0.754
-degree assortativity|-0.447 - 0.535
-average betweenness centrality (unweighted)|0.0 - 0.148
-average betweenness centrality (weighted)|0.0 - 0.148
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.61
-maximum modularity|0.0 - 0.829
-relative modularity|0.044 - 0.889
-group cohesion|0.174 - 1.0
-network diameter|0.174 - 1.0
+total nodes|n/a
+total edges|n/a
+network density|0.18
+average degree|10.6
+degree heterogeneity|0.4
+degree assortativity|0.35
+average betweenness centrality (unweighted)|0.027
+average betweenness centrality (weighted)|n/a
+average clustering coefficient (unweighted)|0.566
+average clustering coefficient (weighted)|0.011
+Newman modularity|0.454
+maximum modularity|0.737
+relative modularity|0.616
+group cohesion|0.717
+network diameter|n/a
 **Study description**|**value**
 Species|*Tiliqua rugosa*
 Taxonomic class|Reptilia

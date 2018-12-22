@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|17.0 - 149.0
-total edges|53.0 - 2837.0
-network density|0.164 - 0.897
-average degree|6.235 - 38.081
-degree heterogeneity|0.133 - 0.723
-degree assortativity|-0.31 - 0.46
-average betweenness centrality (unweighted)|0.002 - 0.049
-average betweenness centrality (weighted)|0.002 - 0.049
-average clustering coefficient (unweighted)|0.548 - 0.929
-average clustering coefficient (weighted)|0.038 - 0.119
-Newman modularity|0.022 - 0.552
-maximum modularity|0.449 - 0.7
-relative modularity|0.044 - 0.789
-group cohesion|0.491 - 0.851
-network diameter|0.491 - 0.851
+total nodes|20.0 - 23.0
+total edges|190.0 - 253.0
+network density|0.802 - 0.821
+average degree|15.6 - 17.652
+degree heterogeneity|0.154 - 0.198
+degree assortativity|-0.175 - -0.083
+average betweenness centrality (unweighted)|0.009 - 0.01
+average betweenness centrality (weighted)|0.009 - 0.01
+average clustering coefficient (unweighted)|0.854 - 0.864
+average clustering coefficient (weighted)|0.038 - 0.076
+Newman modularity|0.035 - 0.045
+maximum modularity|0.449 - 0.5
+relative modularity|0.078 - 0.09
+group cohesion|0.545 - 0.586
+network diameter|0.545 - 0.586
 **Study description**|**value**
 Species|*Branta leucopsis*
 Taxonomic class|Aves

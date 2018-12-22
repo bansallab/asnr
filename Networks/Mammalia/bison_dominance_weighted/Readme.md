@@ -1,20 +1,20 @@
-network attribute|range
+network attribute|value
 ---|---
-total nodes|2.0 - 1100.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.898
-relative modularity|0.0 - 0.939
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|n/a
+total edges|n/a
+network density|0.683
+average degree|17.077
+degree heterogeneity|0.283
+degree assortativity|-0.104
+average betweenness centrality (unweighted)|0.013
+average betweenness centrality (weighted)|n/a
+average clustering coefficient (unweighted)|0.813
+average clustering coefficient (weighted)|0.126
+Newman modularity|0.083
+maximum modularity|0.633
+relative modularity|0.131
+group cohesion|0.45
+network diameter|n/a
 **Study description**|**value**
 Species|*Bison bison*
 Taxonomic class|Mammalia

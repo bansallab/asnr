@@ -1,20 +1,20 @@
-network attribute|range
+network attribute|value
 ---|---
-total nodes|17.0 - 149.0
-total edges|53.0 - 2837.0
-network density|0.164 - 1.0
-average degree|6.235 - 38.081
-degree heterogeneity|0.0 - 0.723
-degree assortativity|-0.31 - 0.46
-average betweenness centrality (unweighted)|0.0 - 0.049
-average betweenness centrality (weighted)|0.0 - 0.049
-average clustering coefficient (unweighted)|0.548 - 1.0
-average clustering coefficient (weighted)|0.038 - 1.0
-Newman modularity|0.0 - 0.552
-maximum modularity|0.0 - 0.7
-relative modularity|0.044 - 0.789
-group cohesion|0.476 - 1.0
-network diameter|0.476 - 1.0
+total nodes|n/a
+total edges|n/a
+network density|1.0
+average degree|31.0
+degree heterogeneity|0.0
+degree assortativity|
+average betweenness centrality (unweighted)|0.0
+average betweenness centrality (weighted)|n/a
+average clustering coefficient (unweighted)|1.0
+average clustering coefficient (weighted)|1.0
+Newman modularity|0.0
+maximum modularity|0.0
+relative modularity|n/a
+group cohesion|1.0
+network diameter|n/a
 **Study description**|**value**
 Species|*White leghorn N/A*
 Taxonomic class|Aves

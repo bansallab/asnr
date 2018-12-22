@@ -1,20 +1,20 @@
-network attribute|range
+network attribute|value
 ---|---
-total nodes|2.0 - 1100.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.898
-relative modularity|0.0 - 0.939
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|n/a
+total edges|n/a
+network density|0.515
+average degree|8.235
+degree heterogeneity|0.481
+degree assortativity|-0.272
+average betweenness centrality (unweighted)|0.035
+average betweenness centrality (weighted)|n/a
+average clustering coefficient (unweighted)|0.811
+average clustering coefficient (weighted)|0.092
+Newman modularity|0.075
+maximum modularity|0.561
+relative modularity|0.134
+group cohesion|0.514
+network diameter|n/a
 **Study description**|**value**
 Species|*Ateles hybridus*
 Taxonomic class|Mammalia

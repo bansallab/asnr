@@ -1,20 +1,20 @@
-network attribute|range
+network attribute|value
 ---|---
-total nodes|2.0 - 1100.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.898
-relative modularity|0.0 - 0.922
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|n/a
+total edges|n/a
+network density|0.023
+average degree|1.644
+degree heterogeneity|0.64
+degree assortativity|0.09
+average betweenness centrality (unweighted)|0.004
+average betweenness centrality (weighted)|n/a
+average clustering coefficient (unweighted)|0.04
+average clustering coefficient (weighted)|0.04
+Newman modularity|0.503
+maximum modularity|0.685
+relative modularity|0.734
+group cohesion|0.3
+network diameter|n/a
 **Study description**|**value**
 Species|*Elephas maximus*
 Taxonomic class|Mammalia

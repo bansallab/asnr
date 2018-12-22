@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|4.0 - 1100.0
-total edges|5.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.804
-maximum modularity|0.0 - 0.88
-relative modularity|0.0 - 0.914
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|18.0 - 50.0
+total edges|15.0 - 58.0
+network density|0.039 - 0.098
+average degree|1.314 - 2.32
+degree heterogeneity|0.437 - 0.728
+degree assortativity|-0.28 - 0.165
+average betweenness centrality (unweighted)|0.001 - 0.054
+average betweenness centrality (weighted)|0.001 - 0.054
+average clustering coefficient (unweighted)|0.0 - 0.107
+average clustering coefficient (weighted)|0.0 - 0.107
+Newman modularity|0.0 - 0.575
+maximum modularity|0.0 - 0.789
+relative modularity|0.623 - 0.753
+group cohesion|0.13 - 0.759
+network diameter|0.13 - 0.759
 **Study description**|**value**
 Species|*Mirounga angustirostris*
 Taxonomic class|Mammalia

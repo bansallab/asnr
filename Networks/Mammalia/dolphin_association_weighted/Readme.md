@@ -1,20 +1,20 @@
 network attribute|range
 ---|---
-total nodes|2.0 - 1100.0
-total edges|1.0 - 11139.0
-network density|0.0 - 1.0
-average degree|0.0 - 139.238
-degree heterogeneity|0.0 - 7.75
-degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 1.0
-Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.898
-relative modularity|0.0 - 0.939
-group cohesion|0.063 - 1.0
-network diameter|0.063 - 1.0
+total nodes|151.0 - 291.0
+total edges|1032.0 - 3182.0
+network density|0.059 - 0.137
+average degree|10.979 - 21.869
+degree heterogeneity|0.731 - 0.925
+degree assortativity|0.177 - 0.232
+average betweenness centrality (unweighted)|0.005 - 0.009
+average betweenness centrality (weighted)|0.005 - 0.009
+average clustering coefficient (unweighted)|0.659 - 0.788
+average clustering coefficient (weighted)|0.052 - 0.179
+Newman modularity|0.355 - 0.473
+maximum modularity|0.74 - 0.836
+relative modularity|0.447 - 0.566
+group cohesion|0.559 - 0.67
+network diameter|0.559 - 0.67
 **Study description**|**value**
 Species|*Tursiops truncatus*
 Taxonomic class|Mammalia
