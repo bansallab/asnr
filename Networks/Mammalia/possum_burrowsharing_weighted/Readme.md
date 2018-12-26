@@ -28,4 +28,4 @@ Total duration of data collection|3 months
 Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|24 hours
 Note|
-**Citation**: Banks, Sam C., et al. "Adaptive responses and <br> disruptive effects: how major wildfire influences kinship‐based <br> social interactions in a forest marsupial." Molecular <br> ecology 21.3 (2012): 673-684.
+**Citation** |: Banks, Sam C., et al. "Adaptive responses and <br> disruptive effects: how major wildfire influences kinship‐based <br> social interactions in a forest marsupial." Molecular <br> ecology 21.3 (2012): 673-684.

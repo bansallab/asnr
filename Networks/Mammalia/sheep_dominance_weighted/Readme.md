@@ -28,4 +28,4 @@ Total duration of data collection|15 months
 Time resolution of data collection (within a day)|ad libitum
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
-**Citation**: Christine C Hass. Social status in female bighorn <br> sheep (Ovis canadensis): Expression, development and reproductive <br> correlates. J. of Zoology, 225(3):509-523, 1991.
+**Citation** |: Christine C Hass. Social status in female bighorn <br> sheep (Ovis canadensis): Expression, development and reproductive <br> correlates. J. of Zoology, 225(3):509-523, 1991.

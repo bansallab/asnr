@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|0.019 - 0.028
 average betweenness centrality (weighted)|0.019 - 0.028
 average clustering coefficient (unweighted)|0.407 - 0.557
 average clustering coefficient (weighted)|0.067 - 0.125
-Newman modularity|0.105 - 0.213
+Newman modularity|0.106 - 0.208
 maximum modularity|0.5 - 0.769
-relative modularity|0.144 - 0.334
+relative modularity|0.159 - 0.334
 group cohesion|0.362 - 0.667
 network diameter|0.362 - 0.667
 **Study description**|**value**
@@ -28,4 +28,4 @@ Total duration of data collection|12 days
 Time resolution of data collection (within a day)|3.5 hours
 Time span of data collection (within a day)|few minutes
 Note|Networks represent four control (C)  and four treatment (T) groups recorded during “undisturbed” phase where individuals were allowed to interact with each other freely.
-**Citation**: Formica, Vincent, et al. "Consistency of animal social <br> networks after disturbance." Behavioral Ecology (2016): arw128. <br>
+**Citation** |: Formica, Vincent, et al. "Consistency of animal social <br> networks after disturbance." Behavioral Ecology (2016): arw128. <br>

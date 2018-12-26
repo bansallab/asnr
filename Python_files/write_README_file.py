@@ -242,7 +242,7 @@ for mydir in directories:
 		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False, header = True)
 
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
-		    file1.write('**Citation**: '+cit2)
+		    file1.write('**Citation** |: '+cit2)
 		"""
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
 		    file1.write('**Species**| ' + taxa +'\n')

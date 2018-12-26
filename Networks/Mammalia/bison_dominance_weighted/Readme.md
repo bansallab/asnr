@@ -28,4 +28,4 @@ Total duration of data collection|2 months
 Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
-**Citation**: Dale F Lott. Dominance relations and breeding rate <br> in mature male American bison. Zeitschrift für <br> Tierpsychologie, 49(4):418-432, 1979.
+**Citation** |: Dale F Lott. Dominance relations and breeding rate <br> in mature male American bison. Zeitschrift für <br> Tierpsychologie, 49(4):418-432, 1979.

@@ -28,4 +28,4 @@ Total duration of data collection|7days
 Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|24 hours
 Note|Networks represents adjacency matrices constructed for each week of the year
-**Citation**: Reynolds, Jennifer JH, et al. "Raccoon contact networks <br> predict seasonal susceptibility to rabies outbreaks and <br> limitations of vaccination." Journal of Animal Ecology <br> 84.6 (2015): 1720-1731.
+**Citation** |: Reynolds, Jennifer JH, et al. "Raccoon contact networks <br> predict seasonal susceptibility to rabies outbreaks and <br> limitations of vaccination." Journal of Animal Ecology <br> 84.6 (2015): 1720-1731.

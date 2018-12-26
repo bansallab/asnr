@@ -28,4 +28,4 @@ Total duration of data collection|8 months
 Time resolution of data collection (within a day)|ad libitum
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent social data collected over different years and inactive (November–February)/active (March–October) season. 
-**Citation**: Sah, Pratha, et al. "Inferring social structure and <br> its drivers from refuge use in the <br> desert tortoise, a relatively solitary species." Behavioral <br> Ecology and Sociobiology 70.8 (2016): 1277-1289.
+**Citation** |: Sah, Pratha, et al. "Inferring social structure and <br> its drivers from refuge use in the <br> desert tortoise, a relatively solitary species." Behavioral <br> Ecology and Sociobiology 70.8 (2016): 1277-1289.

@@ -28,4 +28,4 @@ Total duration of data collection|594 days
 Time resolution of data collection (within a day)|ad libitum
 Time span of data collection (within a day)|Not specified
 Note|
-**Citation**: Lusseau, David, et al. "The bottlenose dolphin community <br> of Doubtful Sound features a large proportion <br> of long-lasting associations." Behavioral Ecology and Sociobiology <br> 54.4 (2003): 396-405.
+**Citation** |: Lusseau, David, et al. "The bottlenose dolphin community <br> of Doubtful Sound features a large proportion <br> of long-lasting associations." Behavioral Ecology and Sociobiology <br> 54.4 (2003): 396-405.

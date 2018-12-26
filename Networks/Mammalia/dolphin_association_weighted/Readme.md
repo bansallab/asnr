@@ -10,11 +10,11 @@ average betweenness centrality (unweighted)|0.005 - 0.009
 average betweenness centrality (weighted)|0.005 - 0.009
 average clustering coefficient (unweighted)|0.659 - 0.788
 average clustering coefficient (weighted)|0.052 - 0.179
-Newman modularity|0.353 - 0.475
-maximum modularity|0.74 - 0.837
-relative modularity|0.435 - 0.568
-group cohesion|0.54 - 0.669
-network diameter|0.54 - 0.669
+Newman modularity|0.356 - 0.473
+maximum modularity|0.74 - 0.836
+relative modularity|0.452 - 0.566
+group cohesion|0.567 - 0.67
+network diameter|0.567 - 0.67
 **Study description**|**value**
 Species|*Tursiops truncatus*
 Taxonomic class|Mammalia
@@ -28,4 +28,4 @@ Total duration of data collection|124 days
 Time resolution of data collection (within a day)|ad libitum
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Four networks: an overall network that does not take behaviour into account, and the socialize network, the travel network and the forage network that correspond to their respective behaviours.
-**Citation**: Gazda, Stefanie, et al. "The importance of delineating <br> networks by activity type in bottlenose dolphins <br> (Tursiops truncatus) in Cedar Key, Florida." Royal <br> Society open science 2.3 (2015): 140263.
+**Citation** |: Gazda, Stefanie, et al. "The importance of delineating <br> networks by activity type in bottlenose dolphins <br> (Tursiops truncatus) in Cedar Key, Florida." Royal <br> Society open science 2.3 (2015): 140263.

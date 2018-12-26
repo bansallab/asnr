@@ -28,4 +28,4 @@ Total duration of data collection|69 days
 Time resolution of data collection (within a day)|ad libitum
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Network represent interactions collected over different years and/or in different colonies
-**Citation**: Casey, Caroline, et al. "Rival assessment among northern <br> elephant seals: evidence of associative learning during <br> male–male contests." Royal Society open science 2.8 <br> (2015): 150228.
+**Citation** |: Casey, Caroline, et al. "Rival assessment among northern <br> elephant seals: evidence of associative learning during <br> male–male contests." Royal Society open science 2.8 <br> (2015): 150228.

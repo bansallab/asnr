@@ -28,4 +28,4 @@ Total duration of data collection|3 months
 Time resolution of data collection (within a day)|ad libitum
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
-**Citation**: Siva R Sundaresan, Ilya R Fischhoff, Jonathan Dushoff, <br> and Daniel I Rubenstein. Network metrics reveal <br> differences in social organization between two fission-fusion <br> species, Grevy's zebra and onager. Oecologia, 151(1):140-149, <br> 2007.
+**Citation** |: Siva R Sundaresan, Ilya R Fischhoff, Jonathan Dushoff, <br> and Daniel I Rubenstein. Network metrics reveal <br> differences in social organization between two fission-fusion <br> species, Grevy's zebra and onager. Oecologia, 151(1):140-149, <br> 2007.

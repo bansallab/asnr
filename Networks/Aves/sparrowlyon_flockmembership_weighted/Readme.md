@@ -28,4 +28,4 @@ Total duration of data collection|4 months
 Time resolution of data collection (within a day)|ad libitum
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent social data collected during two non-breeding seasons: October 2010–February 2011 (Season 2) and October2011–April 2012 (Season 3).
-**Citation**: Shizuka, Daizaburo, et al. "Across‚Äêyear social stability shapes <br> network structure in wintering migrant sparrows." Ecology <br> letters 17.8 (2014): 998-1007.
+**Citation** |: Shizuka, Daizaburo, et al. "Across‚Äêyear social stability shapes <br> network structure in wintering migrant sparrows." Ecology <br> letters 17.8 (2014): 998-1007.
