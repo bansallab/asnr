@@ -22,8 +22,10 @@ Population type|semi-ranging
 Geographical location|Moiese, Montana, USA
 Data collection technique|survey scan
 Interaction type|dominance
+Definition of interaction|Only those aggressive interactions were analyzed that led to an outcome in which the lost and the winner could be categorized unambiguosly
 Edge weight type|frequency
 Total duration of data collection|2 months
 Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|focal follow/ad libitum
+Note|
 **Citation**: Dale F Lott. Dominance relations and breeding rate <br> in mature male American bison. Zeitschrift für <br> Tierpsychologie, 49(4):418-432, 1979.

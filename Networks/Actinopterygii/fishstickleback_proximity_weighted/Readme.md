@@ -22,8 +22,10 @@ Population type|captive
 Geographical location|St. Andrews, UK
 Data collection technique|video
 Interaction type|group membership
+Definition of interaction|A pair of individuals were classed as shoaling if they were within four body lengths of one another from head to head. Gambit of the group approach was then used to assume that a string of fish connected by less than two body lengths were all assumed to be associating with one another.
 Edge weight type|frequency
 Total duration of data collection|120 min
 Time resolution of data collection (within a day)|6 min
 Time span of data collection (within a day)|120 min
+Note|Networks represent social data collected from seven replicate groups of fish
 **Citation**: Atton, N., et al. "Familiarity affects social network <br> structure and discovery of prey patch locations <br> in foraging stickleback shoals." Proceedings of the <br> Royal Society of London B: Biological Sciences <br> 281.1789 (2014): 20140579.

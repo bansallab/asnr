@@ -70,6 +70,8 @@ for mydir in directories:
 		resolution = dt_sub['resolution'].iloc[0]
 		time_span_day = dt_sub['time_span_per_day'].iloc[0]
 		citn = dt_sub['Citation'].iloc[0]
+		note = dt_sub['note'].iloc[0]
+		definition_of_interaction = dt_sub['definition_of_interaction'].iloc[0]
 		cit1 = citn.split()
 		cit2 = []
 		for num in xrange(len(cit1)):
@@ -217,7 +219,7 @@ for mydir in directories:
 		# Get column names
 		cols = df.columns
 
-		dt = pd.DataFrame([ ["**Study description**", "**value**"],  ["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], [ "Interaction type", interaction], ["Edge weight type", edge_wt_type], ["Total duration of data collection", total_span], [ "Time resolution of data collection (within a day)", resolution], ["Time span of data collection (within a day)",time_span_day]], columns = cols)
+		dt = pd.DataFrame([ ["**Study description**", "**value**"],  ["Species", "*"+taxa+"*"], ["Taxonomic class", class1], ["Population type", population_type], ["Geographical location", location], [ "Data collection technique", data_record ], [ "Interaction type", interaction], [ "Definition of interaction", definition_of_interaction], ["Edge weight type", edge_wt_type], ["Total duration of data collection", total_span], [ "Time resolution of data collection (within a day)", resolution], ["Time span of data collection (within a day)",time_span_day], ["Note", note]], columns = cols)
 		
 		
 		df=df.round(decimals=3)

@@ -10,10 +10,10 @@ average betweenness centrality (unweighted)|0.007
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.781
 average clustering coefficient (weighted)|0.079
-Newman modularity|0.078
-maximum modularity|0.697
-relative modularity|0.112
-group cohesion|0.381
+Newman modularity|0.083
+maximum modularity|0.686
+relative modularity|0.121
+group cohesion|0.397
 network diameter|n/a
 **Study description**|**value**
 Species|*Acanthiza N/A*
@@ -22,8 +22,10 @@ Population type|free-ranging
 Geographical location|Canberra, Australia
 Data collection technique|survey scan
 Interaction type|group membership
+Definition of interaction|Flock membership was identified based on frequent interactions between (such as ‘beating’ for insects) flocks and large gaps between flocks. Association strength of each dyad was calculated using the simple ratio index.
 Edge weight type|frequency
 Total duration of data collection|2 months
 Time resolution of data collection (within a day)|ad libitum
 Time span of data collection (within a day)|focal follow/ad libitum
+Note|
 **Citation**: Farine, Damien R., and Peter J. Milburn. "Social <br> organisation of thornbill-dominated mixed-species flocks using social <br> network analysis." Behavioral Ecology and Sociobiology 67.2 <br> (2013): 321-330.

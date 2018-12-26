@@ -22,8 +22,10 @@ Population type|semi-ranging
 Geographical location|Jeanerette, Louisiana, USA
 Data collection technique|survey scan
 Interaction type|dominance
+Definition of interaction|The dominance relationship was ascertained from direct physical contests.
 Edge weight type|frequency
 Total duration of data collection|Not specified
 Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|1 hour
+Note|
 **Citation**: Martin W. Schein and Milton H. Fohrman. Social <br> dominance relationships in a herd of dairy <br> cattle. The British J. of Animal Behaviour, <br> 3(2):45-55, 1955.
