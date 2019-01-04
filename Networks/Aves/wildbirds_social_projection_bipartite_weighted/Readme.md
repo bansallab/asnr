@@ -28,4 +28,4 @@ Total duration of data collection|6 days
 Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|12 hours
 Note|Each network represents social data collected for consecutive 6-day time window.
-**Citation** |: Firth, Josh A., and Ben C. Sheldon. "Experimental <br> manipulation of avian social structure reveals segregation <br> is carried over across contexts." Proceedings of <br> the Royal Society of London B: Biological <br> Sciences 282.1802 (2015): 20142350.
+**Citation** | Firth, Josh A., and Ben C. Sheldon. "Experimental <br> manipulation of avian social structure reveals segregation <br> is carried over across contexts." Proceedings of <br> the Royal Society of London B: Biological <br> Sciences 282.1802 (2015): 20142350.

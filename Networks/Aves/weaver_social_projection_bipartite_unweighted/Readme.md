@@ -10,8 +10,8 @@ average betweenness centrality (unweighted)|0.0 - 0.148
 average betweenness centrality (weighted)|0.0 - 0.148
 average clustering coefficient (unweighted)|0.319 - 1.0
 average clustering coefficient (weighted)|0.319 - 1.0
-Newman modularity|0.0 - 0.549
-maximum modularity|0.0 - 0.781
+Newman modularity|0.0 - 0.55
+maximum modularity|0.0 - 0.782
 relative modularity|0.055 - 0.889
 group cohesion|0.233 - 1.0
 network diameter|0.233 - 1.0
@@ -25,7 +25,7 @@ Interaction type|social projection bipartite
 Definition of interaction|A network edge was drawn between individuals that used the same nest chambers either for roosting or nest-building at any given time within a series of observations at the same colony in the same year, either together in the nest chamber at the same time or at different times.
 Edge weight type|unweighted
 Total duration of data collection|10 months
-Time resolution of data collection (within a day)|ad libitum
+Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent social data collected from 23 colonies of sociable weavers
-**Citation** |: Dijk, René E., et al. "Cooperative investment in <br> public goods is kin directed in communal <br> nests of social birds." Ecology letters 17.9 <br> (2014): 1141-1148.
+**Citation** | Dijk, René E., et al. "Cooperative investment in <br> public goods is kin directed in communal <br> nests of social birds." Ecology letters 17.9 <br> (2014): 1141-1148.

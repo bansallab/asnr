@@ -12,7 +12,7 @@ average clustering coefficient (unweighted)|0.0 - 0.711
 average clustering coefficient (weighted)|0.0 - 0.667
 Newman modularity|0.0 - 0.819
 maximum modularity|0.0 - 0.896
-relative modularity|0.0 - 0.916
+relative modularity|0.0 - 0.922
 group cohesion|0.073 - 1.0
 network diameter|0.073 - 1.0
 **Study description**|**value**
@@ -28,4 +28,4 @@ Total duration of data collection|6 days
 Time resolution of data collection (within a day)|12 hours
 Time span of data collection (within a day)|24 hours
 Note|Networks represent social data combined over two consecutive trapping sessions at four sites (BHP, KCS, PLJ and ROB). Populations were trapped in ‘primary’ sessions every 28 days from March to November, and every 56 days from November to March.
-**Citation** |: Davis, Stephen, et al. "Spatial analyses of wildlife <br> contact networks." Journal of the Royal Society <br> Interface 12.102 (2015): 20141004.
+**Citation** | Davis, Stephen, et al. "Spatial analyses of wildlife <br> contact networks." Journal of the Royal Society <br> Interface 12.102 (2015): 20141004.

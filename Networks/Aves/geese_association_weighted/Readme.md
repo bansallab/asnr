@@ -28,4 +28,4 @@ Total duration of data collection|15 days
 Time resolution of data collection (within a day)|4min
 Time span of data collection (within a day)|4 hours
 Note|Networks represent male and female only network
-**Citation** |: Kurvers, Ralf HJM, et al. "Contrasting context dependence <br> of familiarity and kinship in animal social <br> networks." Animal Behaviour 86.5 (2013): 993-1001.
+**Citation** | Kurvers, Ralf HJM, et al. "Contrasting context dependence <br> of familiarity and kinship in animal social <br> networks." Animal Behaviour 86.5 (2013): 993-1001.

@@ -28,4 +28,4 @@ Total duration of data collection|206days
 Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|5.5 hours
 Note|
-**Citation** |: de Silva, Shermin, Volker Schmid, and George Wittemyer. <br> "Fission–fusion processes weaken dominance networks of female <br> Asian elephants in a productive habitat." Behavioral <br> Ecology (2016): arw153.
+**Citation** | de Silva, Shermin, Volker Schmid, and George Wittemyer. <br> "Fission–fusion processes weaken dominance networks of female <br> Asian elephants in a productive habitat." Behavioral <br> Ecology (2016): arw153.

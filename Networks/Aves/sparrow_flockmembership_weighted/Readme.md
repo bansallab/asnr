@@ -25,7 +25,7 @@ Interaction type|group membership
 Definition of interaction|A flock was defined as a group of birds within an approximately 5-metre radius. Social networks of flock comembership was constructed where nodes represent individual birds and edges represent the simple ratio association index
 Edge weight type|simple_ratio_index
 Total duration of data collection|3 months
-Time resolution of data collection (within a day)|ad libitum
+Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Two networks collected over two consecutive years
-**Citation** |: Arnberg, Nina N., et al. "Social network structure <br> in wintering golden‐crowned sparrows is not correlated <br> with kinship." Molecular ecology 24.19 (2015): 5034-5044. <br>
+**Citation** | Arnberg, Nina N., et al. "Social network structure <br> in wintering golden‐crowned sparrows is not correlated <br> with kinship." Molecular ecology 24.19 (2015): 5034-5044. <br>

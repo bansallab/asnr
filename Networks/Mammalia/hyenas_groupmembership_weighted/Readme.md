@@ -28,4 +28,4 @@ Total duration of data collection|4 months (approx 16 days each month)
 Time resolution of data collection (within a day)|15min
 Time span of data collection (within a day)|few hours
 Note|The three social networks were collected during periods of low (networks A and C) and high (network B) prey abundance. 
-**Citation** |: Holekamp, Kay E., et al. "Society, demography and <br> genetic structure in the spotted hyena." Molecular <br> Ecology 21.3 (2012): 613-632.
+**Citation** | Holekamp, Kay E., et al. "Society, demography and <br> genetic structure in the spotted hyena." Molecular <br> Ecology 21.3 (2012): 613-632.

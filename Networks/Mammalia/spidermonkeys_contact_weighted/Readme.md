@@ -10,10 +10,10 @@ average betweenness centrality (unweighted)|0.035
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.811
 average clustering coefficient (weighted)|0.092
-Newman modularity|0.075
-maximum modularity|0.561
-relative modularity|0.134
-group cohesion|0.514
+Newman modularity|0.076
+maximum modularity|0.662
+relative modularity|0.115
+group cohesion|0.414
 network diameter|n/a
 **Study description**|**value**
 Species|*Ateles hybridus*
@@ -28,4 +28,4 @@ Total duration of data collection|2 years
 Time resolution of data collection (within a day)|15min
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
-**Citation** |: Rimbach, Rebecca, et al. "Brown spider monkeys (Ateles <br> hybridus): a model for differentiating the role <br> of social networks and physical contact on <br> parasite transmission dynamics." Phil. Trans. R. Soc. <br> B 370.1669 (2015): 20140110.
+**Citation** | Rimbach, Rebecca, et al. "Brown spider monkeys (Ateles <br> hybridus): a model for differentiating the role <br> of social networks and physical contact on <br> parasite transmission dynamics." Phil. Trans. R. Soc. <br> B 370.1669 (2015): 20140110.

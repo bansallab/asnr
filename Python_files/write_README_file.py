@@ -55,7 +55,7 @@ for mydir in directories:
 		
 		#######################################
 		## read qualitative attributes
-		dt = pd.read_csv('Network_summary_26Feb2017.csv')
+		dt = pd.read_csv('Network_summary_master_file.csv')
 		dt_sub =  dt[dt['dirname'].str.contains(subdir)] 
 		location = dt_sub['geographical_location'].iloc[0]
 		taxa = dt_sub['taxa'].iloc[0]
@@ -211,7 +211,7 @@ for mydir in directories:
 					value1 = str(min_val)+ ' - '+str(max_val)
 				else: value1 = 'n/a'
 				row = [attr, str(min_val)+ ' - '+str(max_val)]
-				if attr =="total nodes": print row
+				#if attr =="total nodes": print row
 				df_row = pd.DataFrame([row], columns = index_col) 
 				df = pd.concat([df, df_row])
 	
@@ -242,7 +242,7 @@ for mydir in directories:
 		df3.to_csv(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), sep="|", index=False, header = True)
 
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
-		    file1.write('**Citation** |: '+cit2)
+		    file1.write('**Citation** | '+cit2)
 		"""
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
 		    file1.write('**Species**| ' + taxa +'\n')

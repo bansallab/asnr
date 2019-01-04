@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.001 - 0.009
 average clustering coefficient (unweighted)|0.68 - 0.913
 average clustering coefficient (weighted)|0.01 - 0.136
 Newman modularity|0.025 - 0.205
-maximum modularity|0.438 - 0.725
+maximum modularity|0.438 - 0.71
 relative modularity|0.049 - 0.415
 group cohesion|0.369 - 0.718
 network diameter|0.369 - 0.718
@@ -28,4 +28,4 @@ Total duration of data collection|1day
 Time resolution of data collection (within a day)|0.5 sec
 Time span of data collection (within a day)|24 hours
 Note|Networks represent six separate colonies of the ant. The authors recorded the position and orientation of all individuals twice per second to reconstruct spatial movement and infer all social interactions occurring over the 41 days of the experiment.
-**Citation** |: Mersch, Danielle P., Alessandro Crespi, and Laurent Keller. <br> "Tracking individuals shows spatial fidelity is a <br> key regulator of ant social organization."Science 340.6136 <br> (2013): 1090-1093.
+**Citation** | Mersch, Danielle P., Alessandro Crespi, and Laurent Keller. <br> "Tracking individuals shows spatial fidelity is a <br> key regulator of ant social organization."Science 340.6136 <br> (2013): 1090-1093.
