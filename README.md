@@ -13,16 +13,27 @@ The list of available datasets are formatted in graphml files and are available 
 Glossary of study description terms 
 ===================================
 Species: Scientific name of the animals recorded in the study.
+
 Taxonomic class: Taxonomic class of the species. Could be Actinopterygii, Aves, Insecta, Mammalia or Reptilia.
+
 Population type: Type of animal population recorded. Could be captive, semi-ranging or free-ranging.
+
 Georgraphical location: Location where the population(s) were recorded.
-Data collection technique: Method of data collection including focal sampling, survey scan, mark recapture, RFID, radio tags, video recording, etc. 
-Interaction type: Type of association/interaction recorded between animal pairs to construct the social network. 
-Definition of interaction: Criteria of occurence of an association/interaction as defined in the study. 
+
+Data collection technique: Method of data collection including focal sampling, survey scan, mark recapture, RFID, radio tags, video recording, etc.
+
+Interaction type: Type of association/interaction recorded between animal pairs to construct the social network.
+
+Definition of interaction: Criteria of occurence of an association/interaction as defined in the study.
+
 Edge weight type: Criteria of weighting network edges. Could be based on frequency, duration, intensity of interactions or metrics such as simple ratio index, half weight index etc.
+
 Total duration of data collection: Total time span over which the social network data was collected.
+
 Time resolution of data colllection (within a day): Resolution of data collection within a day.
+
 Time span of data collection (within a day): Total duration of data collection within a day.
+
 Note: Additional notes on the dataset
 
 
