@@ -1,7 +1,7 @@
 network attribute|value
 ---|---
-total nodes|n/a
-total edges|n/a
+total nodes|62
+total edges|1167
 network density|0.617
 average degree|37.645
 degree heterogeneity|0.197
@@ -10,10 +10,10 @@ average betweenness centrality (unweighted)|0.006
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.667
 average clustering coefficient (weighted)|0.141
-Newman modularity|0.086
-maximum modularity|0.64
-relative modularity|0.134
-group cohesion|0.446
+Newman modularity|0.096
+maximum modularity|0.646
+relative modularity|0.149
+group cohesion|0.451
 network diameter|n/a
 **Study description**|**value**
 Species|*Macaca fuscata*

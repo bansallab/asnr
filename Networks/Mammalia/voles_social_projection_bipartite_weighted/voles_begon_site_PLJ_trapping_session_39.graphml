@@ -3,28 +3,39 @@
   <key attr.name="weight" attr.type="int" for="edge" id="d0" />
   <graph edgedefault="undirected">
     <node id="067037524" />
-    <node id="067856079" />
-    <node id="067119634" />
     <node id="068025523" />
+    <node id="066869526" />
+    <node id="066832052" />
+    <node id="063347069" />
+    <node id="068122048" />
+    <node id="067073553" />
+    <node id="067066512" />
+    <node id="067067040" />
+    <node id="063268287" />
+    <node id="067262812" />
+    <node id="066882115" />
+    <node id="067042091" />
+    <node id="066794336" />
+    <node id="067856079" />
+    <node id="066874009" />
+    <node id="066827315" />
+    <node id="067031376" />
+    <node id="068014818" />
+    <node id="063544609" />
+    <node id="067596056" />
+    <node id="067100872" />
+    <node id="053609768" />
+    <node id="067119634" />
     <node id="067598607" />
     <node id="068051343" />
-    <node id="063357366" />
-    <node id="066832052" />
+    <node id="063003296" />
+    <node id="067085808" />
+    <node id="067026538" />
     <node id="067773046" />
-    <node id="067596056" />
+    <node id="067036004" />
     <node id="067037786" />
-    <node id="068122048" />
-    <node id="053609768" />
+    <node id="063357366" />
     <edge source="067037524" target="067037786">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="067856079" target="067773046">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="067856079" target="067596056">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="067119634" target="053609768">
       <data key="d0">1</data>
     </edge>
     <edge source="068025523" target="068051343">
@@ -36,14 +47,23 @@
     <edge source="068025523" target="067773046">
       <data key="d0">1</data>
     </edge>
-    <edge source="067598607" target="068122048">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="063357366" target="066832052">
+    <edge source="066832052" target="063357366">
       <data key="d0">1</data>
     </edge>
-    <edge source="067773046" target="067596056">
+    <edge source="068122048" target="067598607">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="067856079" target="067773046">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="067856079" target="067596056">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067596056" target="067773046">
       <data key="d0">4</data>
+    </edge>
+    <edge source="053609768" target="067119634">
+      <data key="d0">1</data>
     </edge>
   </graph>
 </graphml>

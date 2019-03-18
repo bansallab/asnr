@@ -12,9 +12,9 @@ average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.332
 Newman modularity|0.0 - 0.311
 maximum modularity|0.0 - 0.777
-relative modularity|0.084 - 0.503
-group cohesion|0.43 - 1.0
-network diameter|0.43 - 1.0
+relative modularity|0.09 - 0.503
+group cohesion|0.433 - 1.0
+network diameter|0.433 - 1.0
 **Study description**|**value**
 Species|*Macaca fuscata*
 Taxonomic class|Mammalia

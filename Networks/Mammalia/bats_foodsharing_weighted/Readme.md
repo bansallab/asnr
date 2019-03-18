@@ -1,7 +1,7 @@
 network attribute|value
 ---|---
-total nodes|n/a
-total edges|n/a
+total nodes|21
+total edges|72
 network density|0.343
 average degree|6.857
 degree heterogeneity|0.676
@@ -10,10 +10,10 @@ average betweenness centrality (unweighted)|0.043
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.548
 average clustering coefficient (weighted)|0.041
-Newman modularity|0.14
-maximum modularity|0.626
-relative modularity|0.224
-group cohesion|0.514
+Newman modularity|0.123
+maximum modularity|0.623
+relative modularity|0.197
+group cohesion|0.5
 network diameter|n/a
 **Study description**|**value**
 Species|*Desmodus rotundus*

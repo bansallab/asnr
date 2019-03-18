@@ -12,7 +12,7 @@ average clustering coefficient (unweighted)|0.0 - 0.107
 average clustering coefficient (weighted)|0.0 - 0.107
 Newman modularity|0.0 - 0.572
 maximum modularity|0.0 - 0.768
-relative modularity|0.623 - 0.753
+relative modularity|0.614 - 0.753
 group cohesion|0.13 - 0.776
 network diameter|0.13 - 0.776
 **Study description**|**value**

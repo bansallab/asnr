@@ -1,7 +1,7 @@
 network attribute|value
 ---|---
-total nodes|n/a
-total edges|n/a
+total nodes|17
+total edges|70
 network density|0.515
 average degree|8.235
 degree heterogeneity|0.481
@@ -10,10 +10,10 @@ average betweenness centrality (unweighted)|0.035
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.811
 average clustering coefficient (weighted)|0.092
-Newman modularity|0.076
-maximum modularity|0.662
-relative modularity|0.115
-group cohesion|0.414
+Newman modularity|0.075
+maximum modularity|0.561
+relative modularity|0.134
+group cohesion|0.514
 network diameter|n/a
 **Study description**|**value**
 Species|*Ateles hybridus*

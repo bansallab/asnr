@@ -10,11 +10,11 @@ average betweenness centrality (unweighted)|0.006 - 0.13
 average betweenness centrality (weighted)|0.006 - 0.13
 average clustering coefficient (unweighted)|0.0 - 0.186
 average clustering coefficient (weighted)|0.0 - 0.02
-Newman modularity|0.319 - 0.606
-maximum modularity|0.653 - 0.825
+Newman modularity|0.319 - 0.61
+maximum modularity|0.653 - 0.836
 relative modularity|0.489 - 0.777
-group cohesion|0.174 - 0.781
-network diameter|0.174 - 0.781
+group cohesion|0.174 - 0.806
+network diameter|0.174 - 0.806
 **Study description**|**value**
 Species|*Camponotus pennsylvanicus*
 Taxonomic class|Insecta

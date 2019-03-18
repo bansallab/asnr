@@ -1,7 +1,7 @@
 network attribute|value
 ---|---
-total nodes|n/a
-total edges|n/a
+total nodes|62
+total edges|159
 network density|0.084
 average degree|5.129
 degree heterogeneity|0.572
@@ -10,10 +10,10 @@ average betweenness centrality (unweighted)|0.039
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.259
 average clustering coefficient (weighted)|0.259
-Newman modularity|0.519
-maximum modularity|0.764
-relative modularity|0.679
-group cohesion|0.755
+Newman modularity|0.522
+maximum modularity|0.73
+relative modularity|0.715
+group cohesion|0.792
 network diameter|n/a
 **Study description**|**value**
 Species|*Tursiops truncatus*

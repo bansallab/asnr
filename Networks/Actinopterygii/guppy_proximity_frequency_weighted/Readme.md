@@ -19,7 +19,7 @@ network diameter|1.0 - 1.0
 Species|*Poecilia reticulata*
 Taxonomic class|Actinopterygii
 Population type|captive
-Geographical location|Louisville, Kentcuky
+Geographical location|Louisville, Kentucky
 Data collection technique|video
 Interaction type|spatial proximity
 Definition of interaction|A contact phase between two individuals was one or more consecutive observations in which they were recorded as being within four body length to one another.

@@ -1,7 +1,7 @@
 network attribute|value
 ---|---
-total nodes|n/a
-total edges|n/a
+total nodes|73
+total edges|60
 network density|0.023
 average degree|1.644
 degree heterogeneity|0.64

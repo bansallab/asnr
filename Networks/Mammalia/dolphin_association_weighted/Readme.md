@@ -10,11 +10,11 @@ average betweenness centrality (unweighted)|0.005 - 0.009
 average betweenness centrality (weighted)|0.005 - 0.009
 average clustering coefficient (unweighted)|0.659 - 0.788
 average clustering coefficient (weighted)|0.052 - 0.179
-Newman modularity|0.36 - 0.474
-maximum modularity|0.74 - 0.838
-relative modularity|0.453 - 0.566
-group cohesion|0.563 - 0.669
-network diameter|0.563 - 0.669
+Newman modularity|0.355 - 0.473
+maximum modularity|0.739 - 0.838
+relative modularity|0.452 - 0.564
+group cohesion|0.567 - 0.671
+network diameter|0.567 - 0.671
 **Study description**|**value**
 Species|*Tursiops truncatus*
 Taxonomic class|Mammalia

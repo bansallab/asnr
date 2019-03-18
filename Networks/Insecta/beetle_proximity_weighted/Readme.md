@@ -10,11 +10,11 @@ average betweenness centrality (unweighted)|0.019 - 0.028
 average betweenness centrality (weighted)|0.019 - 0.028
 average clustering coefficient (unweighted)|0.407 - 0.557
 average clustering coefficient (weighted)|0.067 - 0.125
-Newman modularity|0.106 - 0.208
-maximum modularity|0.5 - 0.769
-relative modularity|0.159 - 0.334
-group cohesion|0.362 - 0.667
-network diameter|0.362 - 0.667
+Newman modularity|0.1 - 0.213
+maximum modularity|0.5 - 0.796
+relative modularity|0.126 - 0.334
+group cohesion|0.304 - 0.667
+network diameter|0.304 - 0.667
 **Study description**|**value**
 Species|*Bolitotherus cornutus*
 Taxonomic class|Insecta
