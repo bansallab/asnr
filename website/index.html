@@ -26,33 +26,7 @@ body{font-family: Roboto;}blockquote{border-color: #041e42;}.display-1{font-fami
   <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
   <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
 
-<script src="https://www.w3schools.com/lib/w3.js"></script>
-  
-<script>
-function w3IncludeHTML() {
-  var z, i, a, file, xhttp;
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    if (z[i].getAttribute("w3-include-html")) {
-      a = z[i].cloneNode(false);
-      file = z[i].getAttribute("w3-include-html");
-      var xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-          a.removeAttribute("w3-include-html");
-          a.innerHTML = xhttp.responseText;
-
-          z[i].parentNode.replaceChild(a, z[i]);
-          w3IncludeHTML();
-        }
-      }      
-      xhttp.open("GET", file, true);
-      xhttp.send();
-      return;
-    }
-  }
-}
-</script>
+<script src="https://www.w3schools.com/lib/w3data.js"></script>
   
 </head>
 <body><div id="top-page"></div>                                         <amp-animation id="showScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0.4", "visibility": "visible" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <amp-animation id="hideScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0", "visibility": "hidden" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <div id="scrollToTopMarker">                                             <amp-position-observer on="enter:hideScrollToTopAnim.start; exit:showScrollToTopAnim.start" layout="nodisplay">                                             </amp-position-observer>                                         </div>
@@ -208,8 +182,9 @@ function w3IncludeHTML() {
                     Stockpile size</h1>
                 <h3 class="mbr-fonts-style align-center display-5">
                     Blah Blah Blah</h3>
-                <div w3-include-html="content.html"></div>
-                <div class="mbr-text align-center">
+              <div w3-include-html="content.html"></div> 
+              <script>w3IncludeHTML();</script>
+              <div class="mbr-text align-center">
                     
                 </div>
 
@@ -437,10 +412,6 @@ function w3IncludeHTML() {
   
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i></i></a></div>
   <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)">                                         <a class="scroll-to-top-arrow"></a>                                     </button>
-  
-<script>
-w3IncludeHTML();
-</script>
   
 </body>
 </html>
