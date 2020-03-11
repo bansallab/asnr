@@ -25,10 +25,8 @@ body{font-family: Roboto;}blockquote{border-color: #041e42;}.display-1{font-fami
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
   <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
-
-<script src="https://www.w3schools.com/lib/w3data.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   
+  <script type="text/javascript" src="w3data.js"></script>
 </head>
 <body><div id="top-page"></div>                                         <amp-animation id="showScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0.4", "visibility": "visible" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <amp-animation id="hideScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0", "visibility": "hidden" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <div id="scrollToTopMarker">                                             <amp-position-observer on="enter:hideScrollToTopAnim.start; exit:showScrollToTopAnim.start" layout="nodisplay">                                             </amp-position-observer>                                         </div>
   <section class="header4 cid-rSRwPG0qCl mbr-fullscreen" id="header4-3">
@@ -43,7 +41,7 @@ body{font-family: Roboto;}blockquote{border-color: #041e42;}.display-1{font-fami
     </div>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/b">how to create a site for free</a></section><section class="mbr-section content18 cid-rSRCBE2OBa" id="content18-6">
+<section class="engine"><a href="https://mobirise.info">Mobirise</a></section><section class="mbr-section content18 cid-rSRCBE2OBa" id="content18-6">
 
     
 
@@ -183,17 +181,12 @@ body{font-family: Roboto;}blockquote{border-color: #041e42;}.display-1{font-fami
                     Stockpile size</h1>
                 <h3 class="mbr-fonts-style align-center display-5">
                     Blah Blah Blah</h3>
-              <div w3-include-html="content.html"></div> 
-              <script>w3IncludeHTML();</script>
-              
-              <div id="my_header_include"></div><script>$('#my_header_include').load('content.html')</script>
-
-              
-              <div class="mbr-text align-center">
+                <div class="mbr-text align-center">
                     
                 </div>
-
-     				<div id="includedContent"></div>
+                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-primary display-4" href="https://mobirise.co">Nipah</a>
+                    <a class="btn btn-md btn-info display-4" href="https://mobirise.co">MERS</a></div>
+                <amp-img src="assets/images/01.jpg" alt="Mobirise" width="730.5" height="487" layout="responsive" class="mobirise-loader">
                     <div placeholder="" class="placeholder">
                                 <div class="mobirise-spinner">
                                     <em></em>
@@ -412,11 +405,13 @@ body{font-family: Roboto;}blockquote{border-color: #041e42;}.display-1{font-fami
     </div>
 </section>
 
+<div id="custom-html-h" custom-code="true" data-rv-view="153">    <div w3-include-html="content.html"></div> 
+</div>
+
 
   
-  
+  <script>w3IncludeHTML();</script>
+
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i></i></a></div>
-  <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)">                                         <a class="scroll-to-top-arrow"></a>                                     </button>
-  
-</body>
+  <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)">                                         <a class="scroll-to-top-arrow"></a>                                     </button></body>
 </html>
