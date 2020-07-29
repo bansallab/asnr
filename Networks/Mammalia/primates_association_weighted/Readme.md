@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent four control (C)  and four treatment (T) groups recorded during _undisturbedÓ phase where individuals were allowed to interact with each other freely.
 **Citation** | Griffin, Randi H., and Charles L. Nunn. "Community <br> structure and the spread of infectious disease <br> in primate social networks." Evolutionary Ecology 26.4 <br> (2012): 779-800.
+![NetworkImage](/Networks/Network%20Visualizations/primate_griffin_1.png)
