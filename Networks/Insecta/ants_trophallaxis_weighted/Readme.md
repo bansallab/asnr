@@ -31,4 +31,4 @@ Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|20min
 Note|Networks represent two C. pennsylvanicus colonies. Each colony was filmed for approximately 30 minutes for 8 consecutive nights.
 **Citation** | Quevillon, Lauren E., et al. "Social, spatial, and <br> temporal organization in a complex insect society." <br> Scientific reports 5 (2015).
-![NetworkImage](asnr/Networks/Network%20Visualization/ant_quevillon_colony1_day1.png)
+![NetworkImage](Networks/Network%20Visualization/ant_quevillon_colony1_day1.png)
