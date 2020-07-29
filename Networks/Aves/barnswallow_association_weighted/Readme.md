@@ -30,4 +30,4 @@ Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|6 hours
 Note|Two networks were constructed with edges weighted by the number of interactions at two spatial proximities: body contact interactions and all other spatially proximate interactions
 **Citation** | Levin, Iris I., et al. "Stress response, gut <br> microbial diversity and sexual signals correlate with <br> social interactions." Biology Letters 12.6 (2016): 20160352. <br>
-![NetworkImage](/Networks/Network%20Visualization/barnswallow_levin_contact_network.png)*
+![NetworkImage](/Networks/Network%20Visualizations/barnswallow_levin_contact_network.png)
