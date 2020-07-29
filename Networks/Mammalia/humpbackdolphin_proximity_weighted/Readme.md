@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|2.5 years
 Note|Network represents social data collected by boat-surveys over 2.5 years
 **Citation** | Hunt, T. N., Allen, S. J., Bejder, L., <br> & Parra, G. J. (2019). Assortative interactions <br> revealed in a fission_fusion society of Australian <br> humpback dolphins. Behavioral Ecology, 30(4), 914-927.
+![NetworkImage](/Networks/Network%20Visualizations/humpback_dolphin_hunt.png)
