@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
 **Citation** | TR Grant. Dominance and association among members of <br> a captive and a free-ranging group of <br> grey kangaroos (Macropus giganteus). Animal Behaviour, 21(3):449-456, <br> 1973.
+![NetworkImage](/Networks/Network%20Visualizations/kangaroo_grant.png)
