@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent social data collected over different years and inactive (November_February)/active (March_October) season. 
 **Citation** | Sah, Pratha, et al. "Inferring social structure and <br> its drivers from refuge use in the <br> desert tortoise, a relatively solitary species." Behavioral <br> Ecology and Sociobiology 70.8 (2016): 1277-1289.
+![NetworkImage](/Networks/Network%20Visualizations/tortoise_sah_network_CS_aggregate_year_2008_season_active.png)
