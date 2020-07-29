@@ -10,12 +10,13 @@ average betweenness centrality (unweighted)|0.019 - 0.028
 average betweenness centrality (weighted)|0.019 - 0.028
 average clustering coefficient (unweighted)|0.407 - 0.557
 average clustering coefficient (weighted)|0.067 - 0.125
-Newman modularity|0.1 - 0.213
-maximum modularity|0.5 - 0.796
-relative modularity|0.126 - 0.334
-group cohesion|0.304 - 0.667
-network diameter|0.304 - 0.667
+Newman modularity|0.124 - 0.209
+maximum modularity|0.5 - 0.741
+relative modularity|0.176 - 0.334
+group cohesion|0.391 - 0.667
+network diameter|0.391 - 0.667
 **Study description**|**value**
+Attributes Available|sex, measurement from caudal end of elytra to scutellum
 Species|*Bolitotherus cornutus*
 Taxonomic class|Insecta
 Population type|captive
@@ -27,5 +28,5 @@ Edge weight type|simple_ratio_index
 Total duration of data collection|12 days
 Time resolution of data collection (within a day)|3.5 hours
 Time span of data collection (within a day)|few minutes
-Note|Networks represent four control (C)  and four treatment (T) groups recorded during “undisturbed” phase where individuals were allowed to interact with each other freely.
+Note|Networks represent four control (C)  and four treatment (T) groups recorded during _undisturbed√ì phase where individuals were allowed to interact with each other freely.
 **Citation** | Formica, Vincent, et al. "Consistency of animal social <br> networks after disturbance." Behavioral Ecology (2016): arw128. <br>

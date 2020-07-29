@@ -3,7 +3,6 @@
   <key attr.name="weight" attr.type="int" for="edge" id="d0" />
   <graph edgedefault="undirected">
     <node id="073067518" />
-    <node id="072779084" />
     <node id="073063893" />
     <node id="073080095" />
     <node id="073095014" />
@@ -11,22 +10,17 @@
     <node id="073106792" />
     <node id="072786528" />
     <node id="072823560" />
-    <node id="073075853" />
     <node id="067062854" />
     <node id="073047886" />
     <node id="067008281" />
     <node id="072888895" />
     <node id="072832622" />
-    <node id="072792545" />
-    <node id="072854069" />
     <node id="073074345" />
     <node id="072781830" />
-    <node id="072796785" />
     <node id="073042293" />
     <node id="072869037" />
     <node id="073087333" />
     <node id="072862091" />
-    <node id="072868277" />
     <node id="072841371" />
     <node id="066799621" />
     <node id="073043573" />
@@ -36,18 +30,15 @@
     <node id="072812829" />
     <node id="072860010" />
     <node id="073107614" />
-    <node id="073112784" />
     <node id="072861557" />
-    <node id="068777857" />
     <node id="072639829" />
     <node id="073088117" />
     <node id="073033266" />
     <node id="073001036" />
     <node id="073006870" />
     <node id="073112292" />
-    <node id="073088516" />
-    <node id="067011775" />
-    <node id="063364283" />
+    <node id="072779084" />
+    <node id="072792545" />
     <node id="072807836" />
     <node id="072878375" />
     <node id="072793593" />
@@ -59,9 +50,6 @@
       <data key="d0">1</data>
     </edge>
     <edge source="073067518" target="067062854">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="072779084" target="072812829">
       <data key="d0">1</data>
     </edge>
     <edge source="073063893" target="072775050">
@@ -221,6 +209,9 @@
       <data key="d0">2</data>
     </edge>
     <edge source="072775050" target="072824538">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="072812829" target="072779084">
       <data key="d0">1</data>
     </edge>
     <edge source="072860010" target="073033266">

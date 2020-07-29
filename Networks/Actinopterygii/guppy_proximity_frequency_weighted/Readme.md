@@ -16,6 +16,7 @@ relative modularity|0.0 - 0.0
 group cohesion|1.0 - 1.0
 network diameter|1.0 - 1.0
 **Study description**|**value**
+Attributes Available|group, experimental block, standard length, the proportion of time spent active, the proportion of time engaged in shoaling, the number of elapsed days since that individual's last habituation session
 Species|*Poecilia reticulata*
 Taxonomic class|Actinopterygii
 Population type|captive

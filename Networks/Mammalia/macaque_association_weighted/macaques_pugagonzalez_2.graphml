@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Hr"/>
+<node id="Hn"/>
+<node id="Hd"/>
+<node id="Ch"/>
+<node id="C"/>
+<node id="Mk"/>
+<node id="L"/>
+<edge source="Hr" target="Hn">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hr" target="Hd">
+  <data key="d0">133</data>
+</edge>
+<edge source="Hr" target="Ch">
+  <data key="d0">30</data>
+</edge>
+<edge source="Hr" target="C">
+  <data key="d0">43</data>
+</edge>
+<edge source="Hr" target="L">
+  <data key="d0">8</data>
+</edge>
+<edge source="Hr" target="Mk">
+  <data key="d0">19</data>
+</edge>
+<edge source="Hn" target="Hd">
+  <data key="d0">168</data>
+</edge>
+<edge source="Hn" target="Ch">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hn" target="C">
+  <data key="d0">60</data>
+</edge>
+<edge source="Hn" target="Mk">
+  <data key="d0">5</data>
+</edge>
+<edge source="Hn" target="L">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hd" target="Ch">
+  <data key="d0">17</data>
+</edge>
+<edge source="Ch" target="C">
+  <data key="d0">61</data>
+</edge>
+<edge source="Ch" target="Mk">
+  <data key="d0">39</data>
+</edge>
+<edge source="Ch" target="L">
+  <data key="d0">4</data>
+</edge>
+<edge source="C" target="L">
+  <data key="d0">54</data>
+</edge>
+<edge source="C" target="Mk">
+  <data key="d0">54</data>
+</edge>
+<edge source="Mk" target="L">
+  <data key="d0">28</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="X2T"/>
+<node id="X2L"/>
+<node id="P360"/>
+<node id="P274"/>
+<node id="NARINE"/>
+<node id="NEIG"/>
+<node id="G400"/>
+<node id="MARILIN"/>
+<node id="L11"/>
+<node id="O203"/>
+<node id="PP"/>
+<node id="PIRAT"/>
+<node id="EPIS"/>
+<node id="DIANA"/>
+<node id="P277"/>
+<node id="MA"/>
+<node id="PUNK"/>
+<node id="K431"/>
+<node id="Z"/>
+<node id="A330"/>
+<node id="ALPHAF"/>
+<edge source="X2T" target="X2L">
+  <data key="d0">0.6935</data>
+</edge>
+<edge source="X2T" target="P277">
+  <data key="d0">1.3869999999999998</data>
+</edge>
+<edge source="X2T" target="EPIS">
+  <data key="d0">0.6935</data>
+</edge>
+<edge source="X2T" target="Z">
+  <data key="d0">3.4675</data>
+</edge>
+<edge source="X2T" target="NEIG">
+  <data key="d0">0.6935</data>
+</edge>
+<edge source="X2T" target="MA">
+  <data key="d0">2.7739999999999996</data>
+</edge>
+<edge source="X2T" target="MARILIN">
+  <data key="d0">1.3869999999999998</data>
+</edge>
+<edge source="X2T" target="PUNK">
+  <data key="d0">3.4675</data>
+</edge>
+<edge source="X2L" target="P360">
+  <data key="d0">0.7258</data>
+</edge>
+<edge source="X2L" target="O203">
+  <data key="d0">0.7258</data>
+</edge>
+<edge source="X2L" target="P274">
+  <data key="d0">0.7258</data>
+</edge>
+<edge source="X2L" target="EPIS">
+  <data key="d0">0.7258</data>
+</edge>
+<edge source="X2L" target="G400">
+  <data key="d0">0.7258</data>
+</edge>
+<edge source="P360" target="NARINE">
+  <data key="d0">2.2257</data>
+</edge>
+<edge source="P360" target="PP">
+  <data key="d0">7.419</data>
+</edge>
+<edge source="P360" target="Z">
+  <data key="d0">1.4838</data>
+</edge>
+<edge source="P360" target="DIANA">
+  <data key="d0">2.9676</data>
+</edge>
+<edge source="P360" target="PUNK">
+  <data key="d0">0.7419</data>
+</edge>
+<edge source="P360" target="G400">
+  <data key="d0">0.7419</data>
+</edge>
+<edge source="P360" target="K431">
+  <data key="d0">1.4838</data>
+</edge>
+<edge source="P274" target="NARINE">
+  <data key="d0">0.7258</data>
+</edge>
+<edge source="P274" target="O203">
+  <data key="d0">0.7258</data>
+</edge>
+<edge source="P274" target="PIRAT">
+  <data key="d0">1.4516</data>
+</edge>
+<edge source="P274" target="NEIG">
+  <data key="d0">4.3548</data>
+</edge>
+<edge source="P274" target="MA">
+  <data key="d0">2.9032</data>
+</edge>
+<edge source="P274" target="K431">
+  <data key="d0">0.7258</data>
+</edge>
+<edge source="NARINE" target="NEIG">
+  <data key="d0">0.8387</data>
+</edge>
+<edge source="NARINE" target="G400">
+  <data key="d0">0.7903</data>
+</edge>
+<edge source="NARINE" target="MARILIN">
+  <data key="d0">1.5484</data>
+</edge>
+<edge source="NARINE" target="L11">
+  <data key="d0">0.871</data>
+</edge>
+<edge source="NARINE" target="MA">
+  <data key="d0">1.5806</data>
+</edge>
+<edge source="NARINE" target="PUNK">
+  <data key="d0">0.7903</data>
+</edge>
+<edge source="NEIG" target="O203">
+  <data key="d0">0.8387</data>
+</edge>
+<edge source="NEIG" target="P277">
+  <data key="d0">1.6774</data>
+</edge>
+<edge source="NEIG" target="Z">
+  <data key="d0">3.3548</data>
+</edge>
+<edge source="NEIG" target="MA">
+  <data key="d0">1.6774</data>
+</edge>
+<edge source="NEIG" target="ALPHAF">
+  <data key="d0">1.6774</data>
+</edge>
+<edge source="NEIG" target="PUNK">
+  <data key="d0">3.3548</data>
+</edge>
+<edge source="G400" target="O203">
+  <data key="d0">0.7097</data>
+</edge>
+<edge source="G400" target="P277">
+  <data key="d0">2.5161</data>
+</edge>
+<edge source="G400" target="Z">
+  <data key="d0">0.7742</data>
+</edge>
+<edge source="G400" target="A330">
+  <data key="d0">1.5484</data>
+</edge>
+<edge source="G400" target="MA">
+  <data key="d0">4.9356</data>
+</edge>
+<edge source="G400" target="ALPHAF">
+  <data key="d0">1.5484</data>
+</edge>
+<edge source="G400" target="PUNK">
+  <data key="d0">0.7742</data>
+</edge>
+<edge source="G400" target="PIRAT">
+  <data key="d0">0.7419</data>
+</edge>
+<edge source="G400" target="EPIS">
+  <data key="d0">1.5806</data>
+</edge>
+<edge source="G400" target="DIANA">
+  <data key="d0">1.6130000000000002</data>
+</edge>
+<edge source="G400" target="MARILIN">
+  <data key="d0">0.7742</data>
+</edge>
+<edge source="MARILIN" target="P277">
+  <data key="d0">1.6774</data>
+</edge>
+<edge source="MARILIN" target="Z">
+  <data key="d0">3.0968</data>
+</edge>
+<edge source="MARILIN" target="A330">
+  <data key="d0">2.3226</data>
+</edge>
+<edge source="MARILIN" target="MA">
+  <data key="d0">2.3226</data>
+</edge>
+<edge source="MARILIN" target="ALPHAF">
+  <data key="d0">0.7742</data>
+</edge>
+<edge source="MARILIN" target="DIANA">
+  <data key="d0">0.7742</data>
+</edge>
+<edge source="MARILIN" target="PUNK">
+  <data key="d0">0.7742</data>
+</edge>
+<edge source="MARILIN" target="K431">
+  <data key="d0">9.2904</data>
+</edge>
+<edge source="L11" target="A330">
+  <data key="d0">5.1288</data>
+</edge>
+<edge source="L11" target="ALPHAF">
+  <data key="d0">4.5486</data>
+</edge>
+<edge source="L11" target="DIANA">
+  <data key="d0">0.8065</data>
+</edge>
+<edge source="L11" target="K431">
+  <data key="d0">8.3391</data>
+</edge>
+<edge source="L11" target="PUNK">
+  <data key="d0">0.7581</data>
+</edge>
+<edge source="O203" target="PP">
+  <data key="d0">1.4838</data>
+</edge>
+<edge source="O203" target="PIRAT">
+  <data key="d0">0.7419</data>
+</edge>
+<edge source="O203" target="EPIS">
+  <data key="d0">0.7903</data>
+</edge>
+<edge source="O203" target="DIANA">
+  <data key="d0">0.7097</data>
+</edge>
+<edge source="PP" target="PIRAT">
+  <data key="d0">1.4838</data>
+</edge>
+<edge source="PIRAT" target="EPIS">
+  <data key="d0">0.7903</data>
+</edge>
+<edge source="PIRAT" target="P277">
+  <data key="d0">0.7419</data>
+</edge>
+<edge source="PIRAT" target="MA">
+  <data key="d0">0.7419</data>
+</edge>
+<edge source="PIRAT" target="PUNK">
+  <data key="d0">1.4838</data>
+</edge>
+<edge source="EPIS" target="P277">
+  <data key="d0">1.5806</data>
+</edge>
+<edge source="EPIS" target="MA">
+  <data key="d0">0.7903</data>
+</edge>
+<edge source="EPIS" target="PUNK">
+  <data key="d0">1.5806</data>
+</edge>
+<edge source="DIANA" target="Z">
+  <data key="d0">12.822000000000001</data>
+</edge>
+<edge source="DIANA" target="A330">
+  <data key="d0">0.8065</data>
+</edge>
+<edge source="DIANA" target="P277">
+  <data key="d0">4.1935</data>
+</edge>
+<edge source="DIANA" target="MA">
+  <data key="d0">0.8226</data>
+</edge>
+<edge source="DIANA" target="PUNK">
+  <data key="d0">7.2585</data>
+</edge>
+<edge source="DIANA" target="K431">
+  <data key="d0">10.4845</data>
+</edge>
+<edge source="P277" target="MA">
+  <data key="d0">1.6774</data>
+</edge>
+<edge source="P277" target="PUNK">
+  <data key="d0">1.6774</data>
+</edge>
+<edge source="P277" target="K431">
+  <data key="d0">2.5161</data>
+</edge>
+<edge source="P277" target="Z">
+  <data key="d0">5.0322</data>
+</edge>
+<edge source="MA" target="Z">
+  <data key="d0">4.274</data>
+</edge>
+<edge source="MA" target="A330">
+  <data key="d0">2.5644</data>
+</edge>
+<edge source="MA" target="PUNK">
+  <data key="d0">1.6452</data>
+</edge>
+<edge source="MA" target="K431">
+  <data key="d0">5.7582</data>
+</edge>
+<edge source="PUNK" target="Z">
+  <data key="d0">5.9836</data>
+</edge>
+<edge source="PUNK" target="A330">
+  <data key="d0">2.2743</data>
+</edge>
+<edge source="PUNK" target="ALPHAF">
+  <data key="d0">3.0324</data>
+</edge>
+<edge source="PUNK" target="K431">
+  <data key="d0">6.0648</data>
+</edge>
+<edge source="K431" target="Z">
+  <data key="d0">0.8548</data>
+</edge>
+<edge source="K431" target="A330">
+  <data key="d0">0.7581</data>
+</edge>
+<edge source="Z" target="A330">
+  <data key="d0">5.9836</data>
+</edge>
+<edge source="Z" target="ALPHAF">
+  <data key="d0">2.5644</data>
+</edge>
+<edge source="A330" target="ALPHAF">
+  <data key="d0">8.548</data>
+</edge>
+</graph></graphml>

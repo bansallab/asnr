@@ -3,19 +3,20 @@ network attribute|value
 total nodes|28
 total edges|205
 network density|0.542
-average degree|14.643
-degree heterogeneity|0.336
-degree assortativity|-0.133
-average betweenness centrality (unweighted)|0.018
+average degree|n/a
+degree heterogeneity|n/a
+degree assortativity|n/a
+average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.646
 average clustering coefficient (weighted)|0.106
-Newman modularity|0.098
-maximum modularity|0.634
-relative modularity|0.155
-group cohesion|0.463
+Newman modularity|0.096
+maximum modularity|0.662
+relative modularity|0.145
+group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
+Attributes Available|not available
 Species|*Cattle N/A*
 Taxonomic class|Mammalia
 Population type|semi-ranging

@@ -11,11 +11,12 @@ average betweenness centrality (weighted)|0.002 - 0.013
 average clustering coefficient (unweighted)|0.754 - 0.821
 average clustering coefficient (weighted)|0.04 - 0.108
 Newman modularity|0.144 - 0.552
-maximum modularity|0.525 - 0.7
+maximum modularity|0.526 - 0.7
 relative modularity|0.264 - 0.789
 group cohesion|0.503 - 0.851
 network diameter|0.503 - 0.851
 **Study description**|**value**
+Attributes Available|not available
 Species|*Wild birds N/A*
 Taxonomic class|Aves
 Population type|free-ranging

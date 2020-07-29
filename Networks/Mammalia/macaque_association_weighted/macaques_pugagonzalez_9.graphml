@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="flo"/>
+<node id="and"/>
+<node id="gam"/>
+<node id="ind"/>
+<node id="kwi"/>
+<node id="may"/>
+<node id="moo"/>
+<node id="sel"/>
+<node id="she"/>
+<node id="sos"/>
+<node id="tsc"/>
+<node id="ver"/>
+<node id="dra"/>
+<edge source="flo" target="and">
+  <data key="d0">0.985555555</data>
+</edge>
+<edge source="flo" target="dra">
+  <data key="d0">0.013333333000000001</data>
+</edge>
+<edge source="flo" target="gam">
+  <data key="d0">0.14</data>
+</edge>
+<edge source="flo" target="ind">
+  <data key="d0">0.0425</data>
+</edge>
+<edge source="flo" target="kwi">
+  <data key="d0">0.051944444000000006</data>
+</edge>
+<edge source="flo" target="moo">
+  <data key="d0">0.333611111</data>
+</edge>
+<edge source="flo" target="sel">
+  <data key="d0">0.472500001</data>
+</edge>
+<edge source="flo" target="she">
+  <data key="d0">0.814444445</data>
+</edge>
+<edge source="flo" target="sos">
+  <data key="d0">0.3225</data>
+</edge>
+<edge source="flo" target="tsc">
+  <data key="d0">0.255277778</data>
+</edge>
+<edge source="flo" target="ver">
+  <data key="d0">0.17333333399999998</data>
+</edge>
+<edge source="flo" target="may">
+  <data key="d0">0.006111111</data>
+</edge>
+<edge source="and" target="gam">
+  <data key="d0">0.550000001</data>
+</edge>
+<edge source="and" target="ind">
+  <data key="d0">1.316388889</data>
+</edge>
+<edge source="and" target="kwi">
+  <data key="d0">0.471111111</data>
+</edge>
+<edge source="and" target="may">
+  <data key="d0">0.49472222200000004</data>
+</edge>
+<edge source="and" target="moo">
+  <data key="d0">0.34833333299999997</data>
+</edge>
+<edge source="and" target="sel">
+  <data key="d0">1.525555556</data>
+</edge>
+<edge source="and" target="she">
+  <data key="d0">0.632499999</data>
+</edge>
+<edge source="and" target="sos">
+  <data key="d0">0.226944444</data>
+</edge>
+<edge source="and" target="tsc">
+  <data key="d0">0.315</data>
+</edge>
+<edge source="and" target="ver">
+  <data key="d0">0.401944444</data>
+</edge>
+<edge source="and" target="dra">
+  <data key="d0">0.11527777800000001</data>
+</edge>
+<edge source="gam" target="dra">
+  <data key="d0">0.010555556</data>
+</edge>
+<edge source="gam" target="ind">
+  <data key="d0">0.269444444</data>
+</edge>
+<edge source="gam" target="kwi">
+  <data key="d0">0.066111112</data>
+</edge>
+<edge source="gam" target="moo">
+  <data key="d0">0.05138888900000001</data>
+</edge>
+<edge source="gam" target="sel">
+  <data key="d0">0.578055556</data>
+</edge>
+<edge source="gam" target="she">
+  <data key="d0">1.138611111</data>
+</edge>
+<edge source="gam" target="ver">
+  <data key="d0">0.023611111</data>
+</edge>
+<edge source="gam" target="tsc">
+  <data key="d0">0.209166667</data>
+</edge>
+<edge source="ind" target="dra">
+  <data key="d0">0.011111111000000002</data>
+</edge>
+<edge source="ind" target="kwi">
+  <data key="d0">0.163611111</data>
+</edge>
+<edge source="ind" target="may">
+  <data key="d0">0.014444443999999999</data>
+</edge>
+<edge source="ind" target="moo">
+  <data key="d0">0.0275</data>
+</edge>
+<edge source="ind" target="sel">
+  <data key="d0">0.151111111</data>
+</edge>
+<edge source="ind" target="she">
+  <data key="d0">0.015</data>
+</edge>
+<edge source="ind" target="ver">
+  <data key="d0">0.33</data>
+</edge>
+<edge source="ind" target="sos">
+  <data key="d0">0.17861111100000002</data>
+</edge>
+<edge source="kwi" target="dra">
+  <data key="d0">0.084166666</data>
+</edge>
+<edge source="kwi" target="may">
+  <data key="d0">0.08916666699999999</data>
+</edge>
+<edge source="kwi" target="moo">
+  <data key="d0">0.31</data>
+</edge>
+<edge source="kwi" target="sel">
+  <data key="d0">0.845555556</data>
+</edge>
+<edge source="kwi" target="she">
+  <data key="d0">1.388333333</data>
+</edge>
+<edge source="kwi" target="sos">
+  <data key="d0">0.535</data>
+</edge>
+<edge source="kwi" target="ver">
+  <data key="d0">0.5275</data>
+</edge>
+<edge source="kwi" target="tsc">
+  <data key="d0">0.014444443999999999</data>
+</edge>
+<edge source="may" target="dra">
+  <data key="d0">0.0016666670000000001</data>
+</edge>
+<edge source="may" target="moo">
+  <data key="d0">0.306388889</data>
+</edge>
+<edge source="may" target="sel">
+  <data key="d0">0.051666667</data>
+</edge>
+<edge source="may" target="she">
+  <data key="d0">0.485555556</data>
+</edge>
+<edge source="may" target="tsc">
+  <data key="d0">0.025</data>
+</edge>
+<edge source="may" target="ver">
+  <data key="d0">0.032777778</data>
+</edge>
+<edge source="may" target="sos">
+  <data key="d0">0.028055556000000002</data>
+</edge>
+<edge source="moo" target="dra">
+  <data key="d0">0.026944443999999998</data>
+</edge>
+<edge source="moo" target="sel">
+  <data key="d0">0.07666666700000001</data>
+</edge>
+<edge source="moo" target="she">
+  <data key="d0">1.059166667</data>
+</edge>
+<edge source="moo" target="tsc">
+  <data key="d0">0.423333333</data>
+</edge>
+<edge source="moo" target="ver">
+  <data key="d0">0.078611111</data>
+</edge>
+<edge source="sel" target="dra">
+  <data key="d0">0.110555555</data>
+</edge>
+<edge source="sel" target="she">
+  <data key="d0">0.1225</data>
+</edge>
+<edge source="sel" target="tsc">
+  <data key="d0">0.079166667</data>
+</edge>
+<edge source="sel" target="ver">
+  <data key="d0">0.13777777800000002</data>
+</edge>
+<edge source="sel" target="sos">
+  <data key="d0">0.043333332999999995</data>
+</edge>
+<edge source="she" target="dra">
+  <data key="d0">0.0058333330000000004</data>
+</edge>
+<edge source="she" target="sos">
+  <data key="d0">0.095833333</data>
+</edge>
+<edge source="she" target="tsc">
+  <data key="d0">0.304444444</data>
+</edge>
+<edge source="she" target="ver">
+  <data key="d0">0.14</data>
+</edge>
+<edge source="sos" target="dra">
+  <data key="d0">0.11333333300000001</data>
+</edge>
+<edge source="sos" target="tsc">
+  <data key="d0">0.026388889</data>
+</edge>
+<edge source="sos" target="ver">
+  <data key="d0">0.12222222199999999</data>
+</edge>
+<edge source="tsc" target="dra">
+  <data key="d0">0.015833333999999998</data>
+</edge>
+<edge source="tsc" target="ver">
+  <data key="d0">0.0725</data>
+</edge>
+<edge source="ver" target="dra">
+  <data key="d0">0.0075</data>
+</edge>
+</graph></graphml>

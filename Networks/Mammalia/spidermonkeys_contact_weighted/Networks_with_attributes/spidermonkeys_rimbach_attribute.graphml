@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="sex" attr.type="string"/>
+<key id="d0" for="node" attr.name="age" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Dl">
+  <data key="d0">adult</data>
+  <data key="d1">female</data>
+</node>
+<node id="Pi">
+  <data key="d0">juv</data>
+  <data key="d1">female</data>
+</node>
+<node id="Ba">
+  <data key="d0">adult</data>
+  <data key="d1">female</data>
+</node>
+<node id="Wa">
+  <data key="d0">adult</data>
+  <data key="d1">male</data>
+</node>
+<node id="Ko">
+  <data key="d0">juv</data>
+  <data key="d1">female</data>
+</node>
+<node id="Vi">
+  <data key="d0">adult</data>
+  <data key="d1">female</data>
+</node>
+<node id="Ki">
+  <data key="d0">juv</data>
+  <data key="d1">female</data>
+</node>
+<node id="Bo">
+  <data key="d0">juv</data>
+  <data key="d1">female</data>
+</node>
+<node id="Db">
+  <data key="d0">subad</data>
+  <data key="d1">male</data>
+</node>
+<node id="Vn">
+  <data key="d0">juv</data>
+  <data key="d1">male</data>
+</node>
+<node id="Vt">
+  <data key="d0">subad</data>
+  <data key="d1">male</data>
+</node>
+<node id="Ku">
+  <data key="d0">adult</data>
+  <data key="d1">female</data>
+</node>
+<node id="Pe">
+  <data key="d0">adult</data>
+  <data key="d1">female</data>
+</node>
+<node id="Pk">
+  <data key="d0">adult</data>
+  <data key="d1">male</data>
+</node>
+<node id="Nw">
+  <data key="d0">adult</data>
+  <data key="d1">male</data>
+</node>
+<node id="Pl">
+  <data key="d0">juv</data>
+  <data key="d1">female</data>
+</node>
+<node id="RK">
+  <data key="d0">adult</data>
+  <data key="d1">male</data>
+</node>
+<edge source="Dl" target="Ba">
+  <data key="d2">407</data>
+</edge>
+<edge source="Dl" target="Wa">
+  <data key="d2">160</data>
+</edge>
+<edge source="Dl" target="Vi">
+  <data key="d2">54</data>
+</edge>
+<edge source="Dl" target="Db">
+  <data key="d2">319</data>
+</edge>
+<edge source="Dl" target="Ku">
+  <data key="d2">43</data>
+</edge>
+<edge source="Dl" target="Pe">
+  <data key="d2">26</data>
+</edge>
+<edge source="Dl" target="Pk">
+  <data key="d2">58</data>
+</edge>
+<edge source="Dl" target="RK">
+  <data key="d2">282</data>
+</edge>
+<edge source="Dl" target="Nw">
+  <data key="d2">272</data>
+</edge>
+<edge source="Pi" target="Ba">
+  <data key="d2">19</data>
+</edge>
+<edge source="Pi" target="Wa">
+  <data key="d2">64</data>
+</edge>
+<edge source="Pi" target="Vt">
+  <data key="d2">11</data>
+</edge>
+<edge source="Pi" target="Ku">
+  <data key="d2">5</data>
+</edge>
+<edge source="Pi" target="Pe">
+  <data key="d2">467</data>
+</edge>
+<edge source="Pi" target="RK">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ba" target="Wa">
+  <data key="d2">191</data>
+</edge>
+<edge source="Ba" target="Vi">
+  <data key="d2">23</data>
+</edge>
+<edge source="Ba" target="Bo">
+  <data key="d2">362</data>
+</edge>
+<edge source="Ba" target="Db">
+  <data key="d2">20</data>
+</edge>
+<edge source="Ba" target="Vt">
+  <data key="d2">103</data>
+</edge>
+<edge source="Ba" target="Ku">
+  <data key="d2">88</data>
+</edge>
+<edge source="Ba" target="Pe">
+  <data key="d2">355</data>
+</edge>
+<edge source="Ba" target="Pk">
+  <data key="d2">72</data>
+</edge>
+<edge source="Ba" target="Nw">
+  <data key="d2">150</data>
+</edge>
+<edge source="Ba" target="Pl">
+  <data key="d2">7</data>
+</edge>
+<edge source="Ba" target="RK">
+  <data key="d2">299</data>
+</edge>
+<edge source="Wa" target="Vi">
+  <data key="d2">480</data>
+</edge>
+<edge source="Wa" target="Bo">
+  <data key="d2">11</data>
+</edge>
+<edge source="Wa" target="Ku">
+  <data key="d2">120</data>
+</edge>
+<edge source="Wa" target="Pe">
+  <data key="d2">131</data>
+</edge>
+<edge source="Wa" target="Pk">
+  <data key="d2">15</data>
+</edge>
+<edge source="Wa" target="RK">
+  <data key="d2">68</data>
+</edge>
+<edge source="Wa" target="Nw">
+  <data key="d2">115</data>
+</edge>
+<edge source="Ko" target="Vi">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ko" target="Ku">
+  <data key="d2">42</data>
+</edge>
+<edge source="Ko" target="Nw">
+  <data key="d2">1</data>
+</edge>
+<edge source="Vi" target="Vi">
+  <data key="d2">16</data>
+</edge>
+<edge source="Vi" target="Db">
+  <data key="d2">6</data>
+</edge>
+<edge source="Vi" target="Vn">
+  <data key="d2">8</data>
+</edge>
+<edge source="Vi" target="Vt">
+  <data key="d2">455</data>
+</edge>
+<edge source="Vi" target="Ku">
+  <data key="d2">116</data>
+</edge>
+<edge source="Vi" target="Pe">
+  <data key="d2">138</data>
+</edge>
+<edge source="Vi" target="Pk">
+  <data key="d2">45</data>
+</edge>
+<edge source="Vi" target="RK">
+  <data key="d2">25</data>
+</edge>
+<edge source="Vi" target="Nw">
+  <data key="d2">113</data>
+</edge>
+<edge source="Ki" target="Ku">
+  <data key="d2">145</data>
+</edge>
+<edge source="Ki" target="Pe">
+  <data key="d2">2</data>
+</edge>
+<edge source="Bo" target="Db">
+  <data key="d2">6</data>
+</edge>
+<edge source="Bo" target="Nw">
+  <data key="d2">4</data>
+</edge>
+<edge source="Db" target="Ku">
+  <data key="d2">2</data>
+</edge>
+<edge source="Db" target="Pe">
+  <data key="d2">10</data>
+</edge>
+<edge source="Db" target="Pk">
+  <data key="d2">5</data>
+</edge>
+<edge source="Db" target="Nw">
+  <data key="d2">2</data>
+</edge>
+<edge source="Db" target="RK">
+  <data key="d2">96</data>
+</edge>
+<edge source="Vn" target="Vt">
+  <data key="d2">17</data>
+</edge>
+<edge source="Vt" target="Vt">
+  <data key="d2">6</data>
+</edge>
+<edge source="Vt" target="Ku">
+  <data key="d2">2</data>
+</edge>
+<edge source="Vt" target="Pe">
+  <data key="d2">25</data>
+</edge>
+<edge source="Vt" target="Pk">
+  <data key="d2">10</data>
+</edge>
+<edge source="Vt" target="Nw">
+  <data key="d2">31</data>
+</edge>
+<edge source="Ku" target="Pe">
+  <data key="d2">84</data>
+</edge>
+<edge source="Ku" target="Pk">
+  <data key="d2">116</data>
+</edge>
+<edge source="Ku" target="RK">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ku" target="Nw">
+  <data key="d2">78</data>
+</edge>
+<edge source="Pe" target="Nw">
+  <data key="d2">116</data>
+</edge>
+<edge source="Pe" target="Pk">
+  <data key="d2">43</data>
+</edge>
+<edge source="Pe" target="Pl">
+  <data key="d2">33</data>
+</edge>
+<edge source="Pe" target="RK">
+  <data key="d2">68</data>
+</edge>
+<edge source="Pk" target="Nw">
+  <data key="d2">10</data>
+</edge>
+<edge source="Pk" target="RK">
+  <data key="d2">1</data>
+</edge>
+<edge source="Nw" target="RK">
+  <data key="d2">67</data>
+</edge>
+<edge source="Pl" target="RK">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

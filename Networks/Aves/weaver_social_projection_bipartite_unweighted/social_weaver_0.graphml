@@ -1,0 +1,50 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="UEM" />
+    <node id="BYEM" />
+    <node id="EMZR" />
+    <node id="EMVW" />
+    <node id="ZMRR" />
+    <node id="EMGO" />
+    <node id="EMEG" />
+    <node id="BWEM" />
+    <node id="EMWU" />
+    <node id="EMEB" />
+    <node id="EMLR" />
+    <node id="BOEM" />
+    <node id="FLEM" />
+    <node id="EMGR" />
+    <node id="EMER" />
+    <node id="EMBU" />
+    <node id="EMOU" />
+    <node id="EMZO" />
+    <edge source="UEM" target="BYEM" />
+    <edge source="UEM" target="EMZR" />
+    <edge source="BYEM" target="EMZR" />
+    <edge source="EMVW" target="EMOU" />
+    <edge source="EMVW" target="EMZO" />
+    <edge source="EMVW" target="EMBU" />
+    <edge source="EMVW" target="EMWU" />
+    <edge source="EMVW" target="EMEB" />
+    <edge source="ZMRR" target="FLEM" />
+    <edge source="ZMRR" target="EMBU" />
+    <edge source="ZMRR" target="EMGR" />
+    <edge source="EMGO" target="EMLR" />
+    <edge source="EMGO" target="FLEM" />
+    <edge source="EMGO" target="EMER" />
+    <edge source="EMEG" target="BOEM" />
+    <edge source="EMEG" target="BWEM" />
+    <edge source="EMWU" target="EMOU" />
+    <edge source="EMWU" target="EMZO" />
+    <edge source="EMWU" target="EMEB" />
+    <edge source="EMEB" target="EMOU" />
+    <edge source="EMEB" target="BOEM" />
+    <edge source="EMEB" target="EMZO" />
+    <edge source="EMLR" target="FLEM" />
+    <edge source="EMLR" target="EMGR" />
+    <edge source="EMLR" target="EMER" />
+    <edge source="FLEM" target="EMBU" />
+    <edge source="FLEM" target="EMER" />
+    <edge source="EMOU" target="EMZO" />
+  </graph>
+</graphml>

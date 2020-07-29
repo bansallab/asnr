@@ -1,0 +1,21 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="VIMLGOR" />
+    <node id="YEMEGRE" />
+    <node id="YEMVIBK" />
+    <node id="ORMURUR" />
+    <node id="YEMORUR" />
+    <node id="ORMLGOR" />
+    <edge source="VIMLGOR" target="YEMVIBK" />
+    <edge source="VIMLGOR" target="ORMURUR" />
+    <edge source="VIMLGOR" target="YEMEGRE" />
+    <edge source="VIMLGOR" target="ORMLGOR" />
+    <edge source="YEMEGRE" target="YEMVIBK" />
+    <edge source="YEMEGRE" target="ORMURUR" />
+    <edge source="YEMEGRE" target="ORMLGOR" />
+    <edge source="YEMVIBK" target="ORMURUR" />
+    <edge source="YEMVIBK" target="YEMORUR" />
+    <edge source="YEMVIBK" target="ORMLGOR" />
+    <edge source="ORMURUR" target="ORMLGOR" />
+  </graph>
+</graphml>

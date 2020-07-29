@@ -1,0 +1,830 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="3br">
+  <data key="d0">male</data>
+</node>
+<node id="Nl">
+  <data key="d0">male</data>
+</node>
+<node id="Ll">
+  <data key="d0">male</data>
+</node>
+<node id="Tr">
+  <data key="d0">male</data>
+</node>
+<node id="Tl">
+  <data key="d0">male</data>
+</node>
+<node id="7r">
+  <data key="d0">male</data>
+</node>
+<node id="Nr">
+  <data key="d0">male</data>
+</node>
+<node id="Pl">
+  <data key="d0">male</data>
+</node>
+<node id="Dl">
+  <data key="d0">male</data>
+</node>
+<node id="3r">
+  <data key="d0">male</data>
+</node>
+<node id="Jl">
+  <data key="d0">male</data>
+</node>
+<node id="3bl">
+  <data key="d0">male</data>
+</node>
+<node id="Hl">
+  <data key="d0">male</data>
+</node>
+<node id="3l">
+  <data key="d0">male</data>
+</node>
+<node id="1bl">
+  <data key="d0">male</data>
+</node>
+<node id="1l">
+  <data key="d0">male</data>
+</node>
+<node id="6l">
+  <data key="d0">male</data>
+</node>
+<node id="Fr">
+  <data key="d0">male</data>
+</node>
+<node id="Kr">
+  <data key="d0">male</data>
+</node>
+<node id="Yr&#10;"/>
+<node id="Al">
+  <data key="d0">male</data>
+</node>
+<node id="4l">
+  <data key="d0">male</data>
+</node>
+<node id="Ar">
+  <data key="d0">male</data>
+</node>
+<edge source="3br" target="Nl">
+  <data key="d1">1</data>
+</edge>
+<edge source="3br" target="Ll">
+  <data key="d1">25</data>
+</edge>
+<edge source="3br" target="Tr">
+  <data key="d1">0</data>
+</edge>
+<edge source="3br" target="Tl">
+  <data key="d1">0</data>
+</edge>
+<edge source="3br" target="7r">
+  <data key="d1">0</data>
+</edge>
+<edge source="3br" target="Nr">
+  <data key="d1">6</data>
+</edge>
+<edge source="3br" target="Pl">
+  <data key="d1">0</data>
+</edge>
+<edge source="3br" target="Dl">
+  <data key="d1">0</data>
+</edge>
+<edge source="3br" target="3r">
+  <data key="d1">1</data>
+</edge>
+<edge source="3br" target="Jl">
+  <data key="d1">8</data>
+</edge>
+<edge source="3br" target="3bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="3br" target="Hl">
+  <data key="d1">2</data>
+</edge>
+<edge source="3br" target="3l">
+  <data key="d1">1</data>
+</edge>
+<edge source="3br" target="1bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="3br" target="1l">
+  <data key="d1">3</data>
+</edge>
+<edge source="3br" target="6l">
+  <data key="d1">11</data>
+</edge>
+<edge source="3br" target="Fr">
+  <data key="d1">0</data>
+</edge>
+<edge source="3br" target="Kr">
+  <data key="d1">17</data>
+</edge>
+<edge source="3br" target="Yr&#10;">
+  <data key="d1">3</data>
+</edge>
+<edge source="3br" target="Al">
+  <data key="d1">20</data>
+</edge>
+<edge source="3br" target="4l">
+  <data key="d1">6</data>
+</edge>
+<edge source="3br" target="Ar">
+  <data key="d1">0</data>
+</edge>
+<edge source="Nl" target="Ll">
+  <data key="d1">7</data>
+</edge>
+<edge source="Nl" target="Tr">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nl" target="Tl">
+  <data key="d1">23</data>
+</edge>
+<edge source="Nl" target="7r">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nl" target="Nr">
+  <data key="d1">5</data>
+</edge>
+<edge source="Nl" target="Pl">
+  <data key="d1">5</data>
+</edge>
+<edge source="Nl" target="Dl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Nl" target="3r">
+  <data key="d1">3</data>
+</edge>
+<edge source="Nl" target="Jl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nl" target="3bl">
+  <data key="d1">4</data>
+</edge>
+<edge source="Nl" target="Hl">
+  <data key="d1">21</data>
+</edge>
+<edge source="Nl" target="3l">
+  <data key="d1">3</data>
+</edge>
+<edge source="Nl" target="1bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Nl" target="1l">
+  <data key="d1">19</data>
+</edge>
+<edge source="Nl" target="6l">
+  <data key="d1">10</data>
+</edge>
+<edge source="Nl" target="Fr">
+  <data key="d1">9</data>
+</edge>
+<edge source="Nl" target="Kr">
+  <data key="d1">8</data>
+</edge>
+<edge source="Nl" target="Yr&#10;">
+  <data key="d1">4</data>
+</edge>
+<edge source="Nl" target="Al">
+  <data key="d1">1</data>
+</edge>
+<edge source="Nl" target="4l">
+  <data key="d1">14</data>
+</edge>
+<edge source="Nl" target="Ar">
+  <data key="d1">5</data>
+</edge>
+<edge source="Ll" target="Tr">
+  <data key="d1">0</data>
+</edge>
+<edge source="Ll" target="Tl">
+  <data key="d1">3</data>
+</edge>
+<edge source="Ll" target="7r">
+  <data key="d1">0</data>
+</edge>
+<edge source="Ll" target="Nr">
+  <data key="d1">3</data>
+</edge>
+<edge source="Ll" target="Pl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Ll" target="Dl">
+  <data key="d1">10</data>
+</edge>
+<edge source="Ll" target="3r">
+  <data key="d1">19</data>
+</edge>
+<edge source="Ll" target="Jl">
+  <data key="d1">50</data>
+</edge>
+<edge source="Ll" target="3bl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Ll" target="Hl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Ll" target="3l">
+  <data key="d1">8</data>
+</edge>
+<edge source="Ll" target="1bl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Ll" target="1l">
+  <data key="d1">2</data>
+</edge>
+<edge source="Ll" target="6l">
+  <data key="d1">68</data>
+</edge>
+<edge source="Ll" target="Fr">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ll" target="Kr">
+  <data key="d1">27</data>
+</edge>
+<edge source="Ll" target="Yr&#10;">
+  <data key="d1">19</data>
+</edge>
+<edge source="Ll" target="Al">
+  <data key="d1">173</data>
+</edge>
+<edge source="Ll" target="4l">
+  <data key="d1">3</data>
+</edge>
+<edge source="Ll" target="Ar">
+  <data key="d1">2</data>
+</edge>
+<edge source="Tr" target="Tl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="7r">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="Nr">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tr" target="Pl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="Dl">
+  <data key="d1">6</data>
+</edge>
+<edge source="Tr" target="3r">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tr" target="Jl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tr" target="3bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="Hl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="3l">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tr" target="1bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="1l">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="6l">
+  <data key="d1">2</data>
+</edge>
+<edge source="Tr" target="Fr">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="Kr">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="Yr&#10;">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="Al">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="4l">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tr" target="Ar">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tl" target="7r">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tl" target="Nr">
+  <data key="d1">28</data>
+</edge>
+<edge source="Tl" target="Pl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tl" target="Dl">
+  <data key="d1">7</data>
+</edge>
+<edge source="Tl" target="3r">
+  <data key="d1">8</data>
+</edge>
+<edge source="Tl" target="Jl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tl" target="3bl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Tl" target="Hl">
+  <data key="d1">28</data>
+</edge>
+<edge source="Tl" target="3l">
+  <data key="d1">11</data>
+</edge>
+<edge source="Tl" target="1bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Tl" target="1l">
+  <data key="d1">16</data>
+</edge>
+<edge source="Tl" target="6l">
+  <data key="d1">12</data>
+</edge>
+<edge source="Tl" target="Fr">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tl" target="Kr">
+  <data key="d1">16</data>
+</edge>
+<edge source="Tl" target="Yr&#10;">
+  <data key="d1">5</data>
+</edge>
+<edge source="Tl" target="Al">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tl" target="4l">
+  <data key="d1">29</data>
+</edge>
+<edge source="Tl" target="Ar">
+  <data key="d1">5</data>
+</edge>
+<edge source="7r" target="Nr">
+  <data key="d1">0</data>
+</edge>
+<edge source="7r" target="Pl">
+  <data key="d1">1</data>
+</edge>
+<edge source="7r" target="Dl">
+  <data key="d1">6</data>
+</edge>
+<edge source="7r" target="3r">
+  <data key="d1">2</data>
+</edge>
+<edge source="7r" target="Jl">
+  <data key="d1">0</data>
+</edge>
+<edge source="7r" target="3bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="7r" target="Hl">
+  <data key="d1">0</data>
+</edge>
+<edge source="7r" target="3l">
+  <data key="d1">24</data>
+</edge>
+<edge source="7r" target="1bl">
+  <data key="d1">4</data>
+</edge>
+<edge source="7r" target="1l">
+  <data key="d1">1</data>
+</edge>
+<edge source="7r" target="6l">
+  <data key="d1">0</data>
+</edge>
+<edge source="7r" target="Fr">
+  <data key="d1">11</data>
+</edge>
+<edge source="7r" target="Kr">
+  <data key="d1">7</data>
+</edge>
+<edge source="7r" target="Yr&#10;">
+  <data key="d1">2</data>
+</edge>
+<edge source="7r" target="Al">
+  <data key="d1">0</data>
+</edge>
+<edge source="7r" target="4l">
+  <data key="d1">1</data>
+</edge>
+<edge source="7r" target="Ar">
+  <data key="d1">153</data>
+</edge>
+<edge source="Nr" target="Pl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Nr" target="Dl">
+  <data key="d1">13</data>
+</edge>
+<edge source="Nr" target="3r">
+  <data key="d1">5</data>
+</edge>
+<edge source="Nr" target="Jl">
+  <data key="d1">7</data>
+</edge>
+<edge source="Nr" target="3bl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nr" target="Hl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nr" target="3l">
+  <data key="d1">10</data>
+</edge>
+<edge source="Nr" target="1bl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nr" target="1l">
+  <data key="d1">5</data>
+</edge>
+<edge source="Nr" target="6l">
+  <data key="d1">12</data>
+</edge>
+<edge source="Nr" target="Fr">
+  <data key="d1">0</data>
+</edge>
+<edge source="Nr" target="Kr">
+  <data key="d1">59</data>
+</edge>
+<edge source="Nr" target="Yr&#10;">
+  <data key="d1">14</data>
+</edge>
+<edge source="Nr" target="Al">
+  <data key="d1">8</data>
+</edge>
+<edge source="Nr" target="4l">
+  <data key="d1">12</data>
+</edge>
+<edge source="Nr" target="Ar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pl" target="3bl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Pl" target="Dl">
+  <data key="d1">5</data>
+</edge>
+<edge source="Pl" target="3r">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pl" target="Jl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pl" target="Hl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Pl" target="3l">
+  <data key="d1">15</data>
+</edge>
+<edge source="Pl" target="1bl">
+  <data key="d1">6</data>
+</edge>
+<edge source="Pl" target="1l">
+  <data key="d1">17</data>
+</edge>
+<edge source="Pl" target="6l">
+  <data key="d1">4</data>
+</edge>
+<edge source="Pl" target="Fr">
+  <data key="d1">133</data>
+</edge>
+<edge source="Pl" target="Kr">
+  <data key="d1">4</data>
+</edge>
+<edge source="Pl" target="Yr&#10;">
+  <data key="d1">23</data>
+</edge>
+<edge source="Pl" target="Al">
+  <data key="d1">0</data>
+</edge>
+<edge source="Pl" target="4l">
+  <data key="d1">5</data>
+</edge>
+<edge source="Pl" target="Ar">
+  <data key="d1">4</data>
+</edge>
+<edge source="Dl" target="Fr">
+  <data key="d1">6</data>
+</edge>
+<edge source="Dl" target="3r">
+  <data key="d1">2</data>
+</edge>
+<edge source="Dl" target="Jl">
+  <data key="d1">3</data>
+</edge>
+<edge source="Dl" target="3bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dl" target="Hl">
+  <data key="d1">7</data>
+</edge>
+<edge source="Dl" target="3l">
+  <data key="d1">11</data>
+</edge>
+<edge source="Dl" target="1bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dl" target="1l">
+  <data key="d1">12</data>
+</edge>
+<edge source="Dl" target="6l">
+  <data key="d1">10</data>
+</edge>
+<edge source="Dl" target="Kr">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dl" target="Yr&#10;">
+  <data key="d1">0</data>
+</edge>
+<edge source="Dl" target="Al">
+  <data key="d1">9</data>
+</edge>
+<edge source="Dl" target="4l">
+  <data key="d1">5</data>
+</edge>
+<edge source="Dl" target="Ar">
+  <data key="d1">10</data>
+</edge>
+<edge source="3r" target="Jl">
+  <data key="d1">6</data>
+</edge>
+<edge source="3r" target="3bl">
+  <data key="d1">2</data>
+</edge>
+<edge source="3r" target="Hl">
+  <data key="d1">12</data>
+</edge>
+<edge source="3r" target="3l">
+  <data key="d1">7</data>
+</edge>
+<edge source="3r" target="1bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="3r" target="1l">
+  <data key="d1">4</data>
+</edge>
+<edge source="3r" target="6l">
+  <data key="d1">21</data>
+</edge>
+<edge source="3r" target="Fr">
+  <data key="d1">1</data>
+</edge>
+<edge source="3r" target="Kr">
+  <data key="d1">18</data>
+</edge>
+<edge source="3r" target="Yr&#10;">
+  <data key="d1">17</data>
+</edge>
+<edge source="3r" target="Al">
+  <data key="d1">4</data>
+</edge>
+<edge source="3r" target="4l">
+  <data key="d1">44</data>
+</edge>
+<edge source="3r" target="Ar">
+  <data key="d1">12</data>
+</edge>
+<edge source="Jl" target="3bl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Jl" target="Hl">
+  <data key="d1">2</data>
+</edge>
+<edge source="Jl" target="3l">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jl" target="1bl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jl" target="1l">
+  <data key="d1">2</data>
+</edge>
+<edge source="Jl" target="6l">
+  <data key="d1">19</data>
+</edge>
+<edge source="Jl" target="Fr">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jl" target="Kr">
+  <data key="d1">15</data>
+</edge>
+<edge source="Jl" target="Yr&#10;">
+  <data key="d1">6</data>
+</edge>
+<edge source="Jl" target="Al">
+  <data key="d1">33</data>
+</edge>
+<edge source="Jl" target="4l">
+  <data key="d1">11</data>
+</edge>
+<edge source="Jl" target="Ar">
+  <data key="d1">3</data>
+</edge>
+<edge source="3bl" target="Hl">
+  <data key="d1">5</data>
+</edge>
+<edge source="3bl" target="3l">
+  <data key="d1">2</data>
+</edge>
+<edge source="3bl" target="1bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="3bl" target="1l">
+  <data key="d1">4</data>
+</edge>
+<edge source="3bl" target="6l">
+  <data key="d1">2</data>
+</edge>
+<edge source="3bl" target="Fr">
+  <data key="d1">3</data>
+</edge>
+<edge source="3bl" target="Kr">
+  <data key="d1">2</data>
+</edge>
+<edge source="3bl" target="Yr&#10;">
+  <data key="d1">0</data>
+</edge>
+<edge source="3bl" target="Al">
+  <data key="d1">2</data>
+</edge>
+<edge source="3bl" target="4l">
+  <data key="d1">3</data>
+</edge>
+<edge source="3bl" target="Ar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hl" target="3l">
+  <data key="d1">4</data>
+</edge>
+<edge source="Hl" target="1bl">
+  <data key="d1">0</data>
+</edge>
+<edge source="Hl" target="1l">
+  <data key="d1">24</data>
+</edge>
+<edge source="Hl" target="6l">
+  <data key="d1">2</data>
+</edge>
+<edge source="Hl" target="Fr">
+  <data key="d1">3</data>
+</edge>
+<edge source="Hl" target="Kr">
+  <data key="d1">9</data>
+</edge>
+<edge source="Hl" target="Yr&#10;">
+  <data key="d1">23</data>
+</edge>
+<edge source="Hl" target="Al">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hl" target="4l">
+  <data key="d1">5</data>
+</edge>
+<edge source="Hl" target="Ar">
+  <data key="d1">0</data>
+</edge>
+<edge source="3l" target="1bl">
+  <data key="d1">9</data>
+</edge>
+<edge source="3l" target="1l">
+  <data key="d1">7</data>
+</edge>
+<edge source="3l" target="6l">
+  <data key="d1">10</data>
+</edge>
+<edge source="3l" target="Fr">
+  <data key="d1">14</data>
+</edge>
+<edge source="3l" target="Kr">
+  <data key="d1">13</data>
+</edge>
+<edge source="3l" target="Yr&#10;">
+  <data key="d1">11</data>
+</edge>
+<edge source="3l" target="Al">
+  <data key="d1">11</data>
+</edge>
+<edge source="3l" target="4l">
+  <data key="d1">21</data>
+</edge>
+<edge source="3l" target="Ar">
+  <data key="d1">26</data>
+</edge>
+<edge source="1bl" target="1l">
+  <data key="d1">0</data>
+</edge>
+<edge source="1bl" target="6l">
+  <data key="d1">1</data>
+</edge>
+<edge source="1bl" target="Fr">
+  <data key="d1">5</data>
+</edge>
+<edge source="1bl" target="Kr">
+  <data key="d1">1</data>
+</edge>
+<edge source="1bl" target="Yr&#10;">
+  <data key="d1">1</data>
+</edge>
+<edge source="1bl" target="Al">
+  <data key="d1">1</data>
+</edge>
+<edge source="1bl" target="4l">
+  <data key="d1">6</data>
+</edge>
+<edge source="1bl" target="Ar">
+  <data key="d1">5</data>
+</edge>
+<edge source="1l" target="6l">
+  <data key="d1">3</data>
+</edge>
+<edge source="1l" target="Fr">
+  <data key="d1">5</data>
+</edge>
+<edge source="1l" target="Kr">
+  <data key="d1">16</data>
+</edge>
+<edge source="1l" target="Yr&#10;">
+  <data key="d1">13</data>
+</edge>
+<edge source="1l" target="Al">
+  <data key="d1">5</data>
+</edge>
+<edge source="1l" target="4l">
+  <data key="d1">17</data>
+</edge>
+<edge source="1l" target="Ar">
+  <data key="d1">1</data>
+</edge>
+<edge source="6l" target="Fr">
+  <data key="d1">10</data>
+</edge>
+<edge source="6l" target="Kr">
+  <data key="d1">22</data>
+</edge>
+<edge source="6l" target="Yr&#10;">
+  <data key="d1">34</data>
+</edge>
+<edge source="6l" target="Al">
+  <data key="d1">20</data>
+</edge>
+<edge source="6l" target="4l">
+  <data key="d1">112</data>
+</edge>
+<edge source="6l" target="Ar">
+  <data key="d1">3</data>
+</edge>
+<edge source="Fr" target="Kr">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fr" target="Yr&#10;">
+  <data key="d1">31</data>
+</edge>
+<edge source="Fr" target="Al">
+  <data key="d1">0</data>
+</edge>
+<edge source="Fr" target="4l">
+  <data key="d1">0</data>
+</edge>
+<edge source="Fr" target="Ar">
+  <data key="d1">0</data>
+</edge>
+<edge source="Kr" target="Yr&#10;">
+  <data key="d1">16</data>
+</edge>
+<edge source="Kr" target="Al">
+  <data key="d1">16</data>
+</edge>
+<edge source="Kr" target="4l">
+  <data key="d1">29</data>
+</edge>
+<edge source="Kr" target="Ar">
+  <data key="d1">11</data>
+</edge>
+<edge source="Yr&#10;" target="Al">
+  <data key="d1">8</data>
+</edge>
+<edge source="Yr&#10;" target="4l">
+  <data key="d1">50</data>
+</edge>
+<edge source="Yr&#10;" target="Ar">
+  <data key="d1">6</data>
+</edge>
+<edge source="Al" target="4l">
+  <data key="d1">1</data>
+</edge>
+<edge source="Al" target="Ar">
+  <data key="d1">1</data>
+</edge>
+<edge source="4l" target="Ar">
+  <data key="d1">14</data>
+</edge>
+</graph></graphml>

@@ -16,13 +16,14 @@ relative modularity|0.095 - 0.939
 group cohesion|0.423 - 0.971
 network diameter|0.423 - 0.971
 **Study description**|**value**
+Attributes Available|not available
 Species|*Procyon lotor*
 Taxonomic class|Mammalia
 Population type|free-ranging
 Geographical location|Illinois, USA
 Data collection technique|logger
 Interaction type|spatial proximity
-Definition of interaction|Close proximity (within 1Ð1.5m). Any contacts <1 s in duration were excluded.
+Definition of interaction|Close proximity (within 1_1.5m). Any contacts <1 s in duration were excluded.
 Edge weight type|duration
 Total duration of data collection|7days
 Time resolution of data collection (within a day)|1 sec

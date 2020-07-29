@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Shi"/>
+<node id="Sya"/>
+<node id="Han"/>
+<node id="Ram"/>
+<node id="Hot"/>
+<node id="Htu"/>
+<node id="Yam"/>
+<node id="Yri"/>
+<edge source="Shi" target="Sya">
+  <data key="d0">1.65</data>
+</edge>
+<edge source="Shi" target="Han">
+  <data key="d0">9.19</data>
+</edge>
+<edge source="Shi" target="Ram">
+  <data key="d0">2.9</data>
+</edge>
+<edge source="Shi" target="Hot">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="Shi" target="Htu">
+  <data key="d0">0.18</data>
+</edge>
+<edge source="Shi" target="Yam">
+  <data key="d0">0.94</data>
+</edge>
+<edge source="Shi" target="Yri">
+  <data key="d0">0.19</data>
+</edge>
+<edge source="Sya" target="Han">
+  <data key="d0">3.26</data>
+</edge>
+<edge source="Sya" target="Ram">
+  <data key="d0">0.5</data>
+</edge>
+<edge source="Sya" target="Hot">
+  <data key="d0">0.34</data>
+</edge>
+<edge source="Sya" target="Htu">
+  <data key="d0">0.41</data>
+</edge>
+<edge source="Sya" target="Yam">
+  <data key="d0">1.03</data>
+</edge>
+<edge source="Sya" target="Yri">
+  <data key="d0">0.49</data>
+</edge>
+<edge source="Han" target="Ram">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="Han" target="Hot">
+  <data key="d0">0.14</data>
+</edge>
+<edge source="Han" target="Htu">
+  <data key="d0">0.11</data>
+</edge>
+<edge source="Han" target="Yam">
+  <data key="d0">0.41</data>
+</edge>
+<edge source="Han" target="Yri">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="Ram" target="Hot">
+  <data key="d0">6.79</data>
+</edge>
+<edge source="Ram" target="Htu">
+  <data key="d0">2.95</data>
+</edge>
+<edge source="Ram" target="Yam">
+  <data key="d0">4.03</data>
+</edge>
+<edge source="Ram" target="Yri">
+  <data key="d0">0.66</data>
+</edge>
+<edge source="Hot" target="Htu">
+  <data key="d0">10.34</data>
+</edge>
+<edge source="Hot" target="Yam">
+  <data key="d0">1.79</data>
+</edge>
+<edge source="Hot" target="Yri">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="Htu" target="Yam">
+  <data key="d0">0.12</data>
+</edge>
+<edge source="Htu" target="Yri">
+  <data key="d0">1.22</data>
+</edge>
+<edge source="Yam" target="Yri">
+  <data key="d0">56.25</data>
+</edge>
+</graph></graphml>

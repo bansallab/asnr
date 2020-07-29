@@ -1,21 +1,22 @@
 network attribute|range
 ---|---
-total nodes|7.0 - 183.0
+total nodes|2.0 - 181.0
 total edges|1.0 - 515.0
-network density|0.01 - 0.109
-average degree|0.133 - 5.849
-degree heterogeneity|0.466 - 2.556
+network density|0.016 - 1.0
+average degree|1.0 - 5.988
+degree heterogeneity|0.0 - 0.828
 degree assortativity|-1.0 - 1.0
-average betweenness centrality (unweighted)|0.0 - 0.084
-average betweenness centrality (weighted)|0.0 - 0.084
-average clustering coefficient (unweighted)|0.0 - 0.704
-average clustering coefficient (weighted)|0.0 - 0.25
-Newman modularity|0.0 - 0.819
-maximum modularity|0.0 - 0.896
-relative modularity|0.0 - 0.922
-group cohesion|0.073 - 1.003
-network diameter|0.073 - 1.003
+average betweenness centrality (unweighted)|0.0 - 0.333
+average betweenness centrality (weighted)|0.0 - 0.333
+average clustering coefficient (unweighted)|0.0 - 0.711
+average clustering coefficient (weighted)|0.0 - 0.667
+Newman modularity|0.0 - 0.815
+maximum modularity|0.0 - 0.908
+relative modularity|0.0 - 0.917
+group cohesion|0.073 - 1.0
+network diameter|0.073 - 1.0
 **Study description**|**value**
+Attributes Available|not available
 Species|*Microtus agrestis*
 Taxonomic class|Mammalia
 Population type|free-ranging
@@ -27,5 +28,5 @@ Edge weight type|frequency
 Total duration of data collection|6 days
 Time resolution of data collection (within a day)|12 hours
 Time span of data collection (within a day)|24 hours
-Note|Networks represent social data combined over two consecutive trapping sessions at four sites (BHP, KCS, PLJ and ROB). Populations were trapped in ‘primary’ sessions every 28 days from March to November, and every 56 days from November to March.
+Note|Networks represent social data combined over two consecutive trapping sessions at four sites (BHP, KCS, PLJ and ROB). Populations were trapped in _primary¬ê sessions every 28 days from March to November, and every 56 days from November to March.
 **Citation** | Davis, Stephen, et al. "Spatial analyses of wildlife <br> contact networks." Journal of the Royal Society <br> Interface 12.102 (2015): 20141004.

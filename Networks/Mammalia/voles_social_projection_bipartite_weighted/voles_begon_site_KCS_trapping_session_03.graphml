@@ -2,34 +2,58 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
   <key attr.name="weight" attr.type="int" for="edge" id="d0" />
   <graph edgedefault="undirected">
-    <node id="047043773" />
-    <node id="047082294" />
-    <node id="047069319" />
-    <node id="046874872" />
-    <node id="047094074" />
-    <node id="046809611" />
-    <node id="047001037" />
-    <node id="047098558" />
+    <node id="046889057" />
+    <node id="047014796" />
     <node id="047003544" />
+    <node id="047065336" />
+    <node id="047069319" />
     <node id="047070591" />
     <node id="047053838" />
-    <node id="044065796" />
-    <node id="047089355" />
-    <node id="047014796" />
-    <node id="046895340" />
-    <node id="047003118" />
-    <node id="047014068" />
-    <node id="045015003" />
-    <node id="047058849" />
-    <node id="047087775" />
-    <node id="044023047" />
-    <node id="046889057" />
-    <node id="047065336" />
-    <node id="047041289" />
     <node id="047023784" />
+    <node id="047043773" />
+    <node id="046874872" />
     <node id="047070625" />
     <node id="047001890" />
+    <node id="047041289" />
+    <node id="047094074" />
+    <node id="046809611" />
+    <node id="047098558" />
+    <node id="044065796" />
     <node id="045268606" />
+    <node id="044023047" />
+    <edge source="046889057" target="047023784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046889057" target="047070591">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="046889057" target="047053838">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047014796" target="044023047">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="047003544" target="046874872">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047065336" target="044023047">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047069319" target="044065796">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="047069319" target="047094074">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047070591" target="047023784">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="047070591" target="047053838">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="047053838" target="047023784">
+      <data key="d0">4</data>
+    </edge>
     <edge source="047043773" target="047070625">
       <data key="d0">2</data>
     </edge>
@@ -39,46 +63,13 @@
     <edge source="047043773" target="045268606">
       <data key="d0">1</data>
     </edge>
-    <edge source="047069319" target="044065796">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="047069319" target="047094074">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="046874872" target="047003544">
+    <edge source="047041289" target="044065796">
       <data key="d0">1</data>
     </edge>
     <edge source="047094074" target="044065796">
       <data key="d0">1</data>
     </edge>
     <edge source="046809611" target="047098558">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="047070591" target="046889057">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="047070591" target="047023784">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="047070591" target="047053838">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="047053838" target="046889057">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="047053838" target="047023784">
-      <data key="d0">4</data>
-    </edge>
-    <edge source="044065796" target="047041289">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="047014796" target="044023047">
-      <data key="d0">3</data>
-    </edge>
-    <edge source="044023047" target="047065336">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="046889057" target="047023784">
       <data key="d0">1</data>
     </edge>
   </graph>

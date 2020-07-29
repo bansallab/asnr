@@ -10,18 +10,15 @@
     <node id="047089340" />
     <node id="047037772" />
     <node id="047045260" />
-    <node id="047014031" />
-    <node id="043873266" />
     <node id="044882590" />
     <node id="047046050" />
-    <node id="045025592" />
+    <node id="044009869" />
     <node id="043827527" />
     <node id="047060056" />
     <node id="047093123" />
     <node id="047015879" />
     <node id="045075888" />
     <node id="045019017" />
-    <node id="046872307" />
     <node id="047020302" />
     <node id="047082082" />
     <node id="047062068" />
@@ -32,15 +29,13 @@
     <node id="046874000" />
     <node id="047090261" />
     <node id="047045813" />
-    <node id="047019095" />
     <node id="043807529" />
     <node id="047009346" />
     <node id="047020028" />
     <node id="047028035" />
     <node id="043828067" />
-    <node id="047084558" />
     <node id="047037635" />
-    <node id="044006108" />
+    <node id="043873266" />
     <node id="047050813" />
     <node id="047044612" />
     <node id="047095083" />
@@ -55,20 +50,16 @@
     <node id="047000336" />
     <node id="044885793" />
     <node id="047084817" />
-    <node id="047089587" />
     <node id="047062362" />
     <node id="046893032" />
     <node id="046853792" />
     <node id="047024350" />
     <node id="047043554" />
-    <node id="047103258" />
     <node id="047053369" />
     <node id="047069772" />
     <node id="047047018" />
     <node id="044029513" />
-    <node id="046861564" />
     <node id="046892811" />
-    <node id="044009869" />
     <edge source="046880894" target="043873266">
       <data key="d0">4</data>
     </edge>
@@ -105,12 +96,6 @@
     <edge source="047045260" target="043827527">
       <data key="d0">1</data>
     </edge>
-    <edge source="043873266" target="044009869">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="043873266" target="047043554">
-      <data key="d0">1</data>
-    </edge>
     <edge source="044882590" target="046874000">
       <data key="d0">1</data>
     </edge>
@@ -124,6 +109,15 @@
       <data key="d0">1</data>
     </edge>
     <edge source="047046050" target="047062068">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="044009869" target="043873266">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="044009869" target="047024350">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="044009869" target="047043554">
       <data key="d0">2</data>
     </edge>
     <edge source="043827527" target="044029513">
@@ -216,6 +210,9 @@
     <edge source="047037635" target="047062362">
       <data key="d0">2</data>
     </edge>
+    <edge source="043873266" target="047043554">
+      <data key="d0">1</data>
+    </edge>
     <edge source="047050813" target="046853792">
       <data key="d0">3</data>
     </edge>
@@ -250,12 +247,6 @@
       <data key="d0">2</data>
     </edge>
     <edge source="046893032" target="047069772">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="047024350" target="044009869">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="047043554" target="044009869">
       <data key="d0">2</data>
     </edge>
   </graph>

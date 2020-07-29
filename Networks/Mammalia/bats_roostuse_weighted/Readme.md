@@ -3,19 +3,20 @@ network attribute|value
 total nodes|43
 total edges|546
 network density|0.605
-average degree|25.395
-degree heterogeneity|0.465
-degree assortativity|0.229
-average betweenness centrality (unweighted)|0.012
+average degree|n/a
+degree heterogeneity|n/a
+degree assortativity|n/a
+average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.905
 average clustering coefficient (weighted)|0.115
 Newman modularity|0.061
 maximum modularity|0.634
 relative modularity|0.096
-group cohesion|0.427
+group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
+Attributes Available|reproductive status, age, sex, year observed
 Species|*Myotis sodalis*
 Taxonomic class|Mammalia
 Population type|free-ranging

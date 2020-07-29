@@ -2,23 +2,9 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
   <key attr.name="weight" attr.type="int" for="edge" id="d0" />
   <graph edgedefault="undirected">
-    <node id="066858358" />
     <node id="061789041" />
-    <node id="066800305" />
-    <node id="067084812" />
-    <node id="072801068" />
-    <node id="072837348" />
-    <node id="066869526" />
-    <node id="067063272" />
-    <node id="062325819" />
     <node id="066832052" />
-    <node id="073045866" />
-    <node id="063268287" />
-    <node id="062858347" />
-    <node id="067059850" />
     <node id="061859519" />
-    <node id="063537040" />
-    <node id="073045813" />
     <edge source="061789041" target="066832052">
       <data key="d0">1</data>
     </edge>

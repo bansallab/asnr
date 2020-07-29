@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d16" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d15" for="node" attr.name="TsCa2" attr.type="string"/>
+<key id="d14" for="node" attr.name="Carter12" attr.type="string"/>
+<key id="d13" for="node" attr.name="Carter11" attr.type="string"/>
+<key id="d12" for="node" attr.name="Carter10" attr.type="string"/>
+<key id="d11" for="node" attr.name="Carter9" attr.type="string"/>
+<key id="d10" for="node" attr.name="Carter8" attr.type="string"/>
+<key id="d9" for="node" attr.name="Carter7" attr.type="string"/>
+<key id="d8" for="node" attr.name="Carter6" attr.type="string"/>
+<key id="d7" for="node" attr.name="Carter5" attr.type="string"/>
+<key id="d6" for="node" attr.name="Carter4" attr.type="string"/>
+<key id="d5" for="node" attr.name="Carter3" attr.type="string"/>
+<key id="d4" for="node" attr.name="Carter2" attr.type="string"/>
+<key id="d3" for="node" attr.name="Carter1" attr.type="string"/>
+<key id="d2" for="node" attr.name="sex" attr.type="string"/>
+<key id="d1" for="node" attr.name="Group" attr.type="string"/>
+<key id="d0" for="node" attr.name="population" attr.type="string"/>
+<graph edgedefault="undirected"><node id="count">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">166/166</data>
+  <data key="d4">165/170</data>
+  <data key="d5">145/145</data>
+  <data key="d6">161/161</data>
+  <data key="d7">114/114</data>
+  <data key="d8">136/143</data>
+  <data key="d9">137/148</data>
+  <data key="d10">152/152</data>
+  <data key="d11">143/149</data>
+  <data key="d12">152/165</data>
+  <data key="d13">163/163</data>
+  <data key="d14">117/117</data>
+  <data key="d15">204/204</data>
+</node>
+<node id="veronica">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">166/166</data>
+  <data key="d4">165/170</data>
+  <data key="d5">145/145</data>
+  <data key="d6">163/163</data>
+  <data key="d7">114/114</data>
+  <data key="d8">136/143</data>
+  <data key="d9">137/157</data>
+  <data key="d10">152/152</data>
+  <data key="d11">143/143</data>
+  <data key="d12">150/150</data>
+  <data key="d13">163/163</data>
+  <data key="d14">117/125</data>
+  <data key="d15">198/204</data>
+</node>
+<node id="cerce">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">124/166</data>
+  <data key="d4">161/165</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/161</data>
+  <data key="d7">114/114</data>
+  <data key="d8">143/143</data>
+  <data key="d9">148/157</data>
+  <data key="d10">147/150</data>
+  <data key="d11">149/149</data>
+  <data key="d12">149/172</data>
+  <data key="d13">151/151</data>
+  <data key="d14">125/132</data>
+  <data key="d15">196/196</data>
+</node>
+<node id="vampirella">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">124/166</data>
+  <data key="d4">165/165</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/163</data>
+  <data key="d7">114/114</data>
+  <data key="d8">132/136</data>
+  <data key="d9">137/157</data>
+  <data key="d10">152/154</data>
+  <data key="d11">143/149</data>
+  <data key="d12">164/172</data>
+  <data key="d13">151/163</data>
+  <data key="d14">125/132</data>
+  <data key="d15">196/196</data>
+</node>
+<node id="thecount"/>
+<node id="vlad">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">124/166</data>
+  <data key="d4">161/169</data>
+  <data key="d5">145/145</data>
+  <data key="d6">161/161</data>
+  <data key="d7">114/114</data>
+  <data key="d8">136/143</data>
+  <data key="d9">157/157</data>
+  <data key="d10">152/156</data>
+  <data key="d11">149/149</data>
+  <data key="d12">150/150</data>
+  <data key="d13">163/172</data>
+  <data key="d14">125/125</data>
+  <data key="d15">181/198</data>
+</node>
+<node id="speedster">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">124/166</data>
+  <data key="d4">161/161</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/144</data>
+  <data key="d7">114/114</data>
+  <data key="d8">136/143</data>
+  <data key="d9">148/157</data>
+  <data key="d10">150/150</data>
+  <data key="d11">135/149</data>
+  <data key="d12">172/172</data>
+  <data key="d13">151/163</data>
+  <data key="d14">125/125</data>
+  <data key="d15">196/198</data>
+</node>
+<node id="helsing">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">138/166</data>
+  <data key="d4">161/161</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/159</data>
+  <data key="d7">114/114</data>
+  <data key="d8">132/143</data>
+  <data key="d9">157/159</data>
+  <data key="d10">147/150</data>
+  <data key="d11">145/149</data>
+  <data key="d12">172/172</data>
+  <data key="d13">163/172</data>
+  <data key="d14">132/132</data>
+  <data key="d15">196/196</data>
+</node>
+<node id="bella">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">159/166</data>
+  <data key="d4">161/173</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/161</data>
+  <data key="d7">114/114</data>
+  <data key="d8">132/143</data>
+  <data key="d9">148/148</data>
+  <data key="d10">150/152</data>
+  <data key="d11">145/149</data>
+  <data key="d12">172/172</data>
+  <data key="d13">151/163</data>
+  <data key="d14">125/132</data>
+  <data key="d15">196/196</data>
+</node>
+<node id="fuschia">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">124/138</data>
+  <data key="d4">161/161</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/161</data>
+  <data key="d7">114/114</data>
+  <data key="d8">136/143</data>
+  <data key="d9">137/157</data>
+  <data key="d10">150/152</data>
+  <data key="d11">135/149</data>
+  <data key="d12">172/172</data>
+  <data key="d13">151/172</data>
+  <data key="d14">132/132</data>
+  <data key="d15">181/198</data>
+</node>
+<node id="lucy">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">138/166</data>
+  <data key="d4">161/173</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/144</data>
+  <data key="d7">114/114</data>
+  <data key="d8">143/143</data>
+  <data key="d9">137/159</data>
+  <data key="d10">147/152</data>
+  <data key="d11">143/143</data>
+  <data key="d12">150/150</data>
+  <data key="d13">163/172</data>
+  <data key="d14">132/132</data>
+  <data key="d15">196/202</data>
+</node>
+<node id="streblick">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">124/149</data>
+  <data key="d4">165/165</data>
+  <data key="d5">145/145</data>
+  <data key="d6">163/181</data>
+  <data key="d7">114/114</data>
+  <data key="d8">134/134</data>
+  <data key="d9">157/159</data>
+  <data key="d10">152/156</data>
+  <data key="d11">135/143</data>
+  <data key="d12">164/164</data>
+  <data key="d13">151/163</data>
+  <data key="d14">125/125</data>
+  <data key="d15">177/196</data>
+</node>
+<node id="flapper">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">159/166</data>
+  <data key="d4">165/165</data>
+  <data key="d5">145/145</data>
+  <data key="d6">154/184</data>
+  <data key="d7">114/114</data>
+  <data key="d8">132/132</data>
+  <data key="d9">137/148</data>
+  <data key="d10">152/161</data>
+  <data key="d11">149/149</data>
+  <data key="d12">150/172</data>
+  <data key="d13">151/163</data>
+  <data key="d14">132/132</data>
+  <data key="d15">198/207</data>
+</node>
+<node id="maribelo">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">170/170</data>
+  <data key="d4">169/173</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/163</data>
+  <data key="d7">114/116</data>
+  <data key="d8">136/143</data>
+  <data key="d9">137/157</data>
+  <data key="d10">147/154</data>
+  <data key="d11">143/143</data>
+  <data key="d12">150/150</data>
+  <data key="d13">163/163</data>
+  <data key="d14">132/132</data>
+  <data key="d15">196/202</data>
+</node>
+<node id="mina">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">157/166</data>
+  <data key="d4">165/169</data>
+  <data key="d5">145/145</data>
+  <data key="d6">154/154</data>
+  <data key="d7">114/114</data>
+  <data key="d8">136/143</data>
+  <data key="d9">148/157</data>
+  <data key="d10">152/156</data>
+  <data key="d11">136/149</data>
+  <data key="d12">149/165</data>
+  <data key="d13">166/172</data>
+  <data key="d14">125/132</data>
+  <data key="d15">177/181</data>
+</node>
+<node id="mya">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">124/149</data>
+  <data key="d4">165/165</data>
+  <data key="d5">145/145</data>
+  <data key="d6">163/181</data>
+  <data key="d7">114/114</data>
+  <data key="d8">134/134</data>
+  <data key="d9">153/159</data>
+  <data key="d10">152/156</data>
+  <data key="d11">135/149</data>
+  <data key="d12">164/164</data>
+  <data key="d13">151/151</data>
+  <data key="d14">125/125</data>
+  <data key="d15">177/181</data>
+</node>
+<node id="gelfing">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">166/166</data>
+  <data key="d4">161/173</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/163</data>
+  <data key="d7">114/114</data>
+  <data key="d8">136/143</data>
+  <data key="d9">157/157</data>
+  <data key="d10">150/152</data>
+  <data key="d11">143/149</data>
+  <data key="d12">150/150</data>
+  <data key="d13">163/163</data>
+  <data key="d14">132/132</data>
+  <data key="d15">198/202</data>
+</node>
+<node id="gomez">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">m</data>
+  <data key="d3">166/166</data>
+  <data key="d4">161/173</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/183</data>
+  <data key="d7">114/116</data>
+  <data key="d8">143/151</data>
+  <data key="d9">148/157</data>
+  <data key="d10">147/147</data>
+  <data key="d11">143/143</data>
+  <data key="d12"> </data>
+  <data key="d13"> </data>
+  <data key="d14">132/132</data>
+  <data key="d15">196/196</data>
+</node>
+<node id="countess">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">166/166</data>
+  <data key="d4">165/170</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/184</data>
+  <data key="d7">114/114</data>
+  <data key="d8">132/132</data>
+  <data key="d9">137/153</data>
+  <data key="d10">152/154</data>
+  <data key="d11">143/149</data>
+  <data key="d12">150/150</data>
+  <data key="d13">163/163</data>
+  <data key="d14">125/132</data>
+  <data key="d15">198/200</data>
+</node>
+<node id="lucy "/>
+<node id="dot">
+  <data key="d0">Cranbrook</data>
+  <data key="d1">Cranbrook</data>
+  <data key="d2">f</data>
+  <data key="d3">159/166</data>
+  <data key="d4">161/161</data>
+  <data key="d5">145/145</data>
+  <data key="d6">144/154</data>
+  <data key="d7">114/114</data>
+  <data key="d8">136/143</data>
+  <data key="d9">148/157</data>
+  <data key="d10">150/152</data>
+  <data key="d11">149/149</data>
+  <data key="d12">172/172</data>
+  <data key="d13">151/163</data>
+  <data key="d14">125/132</data>
+  <data key="d15">196/202</data>
+</node>
+<edge source="count" target="vampirella">
+  <data key="d16">454</data>
+</edge>
+<edge source="veronica" target="flapper">
+  <data key="d16">565</data>
+</edge>
+<edge source="veronica" target="cerce">
+  <data key="d16">602</data>
+</edge>
+<edge source="veronica" target="vampirella">
+  <data key="d16">530</data>
+</edge>
+<edge source="veronica" target="thecount">
+  <data key="d16">1249</data>
+</edge>
+<edge source="veronica" target="speedster">
+  <data key="d16">14</data>
+</edge>
+<edge source="veronica" target="mina">
+  <data key="d16">1819</data>
+</edge>
+<edge source="veronica" target="bella">
+  <data key="d16">556</data>
+</edge>
+<edge source="veronica" target="fuschia">
+  <data key="d16">800</data>
+</edge>
+<edge source="veronica" target="lucy">
+  <data key="d16">1189</data>
+</edge>
+<edge source="veronica" target="mya">
+  <data key="d16">7551</data>
+</edge>
+<edge source="veronica" target="countess">
+  <data key="d16">1977</data>
+</edge>
+<edge source="veronica" target="dot">
+  <data key="d16">385</data>
+</edge>
+<edge source="cerce" target="vampirella">
+  <data key="d16">149</data>
+</edge>
+<edge source="cerce" target="thecount">
+  <data key="d16">574</data>
+</edge>
+<edge source="cerce" target="flapper">
+  <data key="d16">140</data>
+</edge>
+<edge source="cerce" target="speedster">
+  <data key="d16">1150</data>
+</edge>
+<edge source="cerce" target="mina">
+  <data key="d16">1553</data>
+</edge>
+<edge source="cerce" target="bella">
+  <data key="d16">1537</data>
+</edge>
+<edge source="cerce" target="lucy">
+  <data key="d16">115</data>
+</edge>
+<edge source="cerce" target="maribelo">
+  <data key="d16">24</data>
+</edge>
+<edge source="cerce" target="mya">
+  <data key="d16">1187</data>
+</edge>
+<edge source="cerce" target="countess">
+  <data key="d16">1613</data>
+</edge>
+<edge source="cerce" target="dot">
+  <data key="d16">21</data>
+</edge>
+<edge source="vampirella" target="bella">
+  <data key="d16">1109</data>
+</edge>
+<edge source="vampirella" target="lucy">
+  <data key="d16">1902</data>
+</edge>
+<edge source="vampirella" target="maribelo">
+  <data key="d16">675</data>
+</edge>
+<edge source="vampirella" target="mya">
+  <data key="d16">2467</data>
+</edge>
+<edge source="vampirella" target="gelfing">
+  <data key="d16">967</data>
+</edge>
+<edge source="vampirella" target="countess">
+  <data key="d16">271</data>
+</edge>
+<edge source="thecount" target="flapper">
+  <data key="d16">356</data>
+</edge>
+<edge source="thecount" target="mina">
+  <data key="d16">212</data>
+</edge>
+<edge source="thecount" target="bella">
+  <data key="d16">16</data>
+</edge>
+<edge source="thecount" target="countess">
+  <data key="d16">1061</data>
+</edge>
+<edge source="vlad" target="lucy">
+  <data key="d16">197</data>
+</edge>
+<edge source="speedster" target="flapper">
+  <data key="d16">131</data>
+</edge>
+<edge source="speedster" target="mina">
+  <data key="d16">151</data>
+</edge>
+<edge source="speedster" target="lucy">
+  <data key="d16">94</data>
+</edge>
+<edge source="speedster" target="mya">
+  <data key="d16">191</data>
+</edge>
+<edge source="speedster" target="countess">
+  <data key="d16">22</data>
+</edge>
+<edge source="speedster" target="dot">
+  <data key="d16">425</data>
+</edge>
+<edge source="helsing" target="mya">
+  <data key="d16">567</data>
+</edge>
+<edge source="helsing" target="countess">
+  <data key="d16">43</data>
+</edge>
+<edge source="helsing" target="bella">
+  <data key="d16">1583</data>
+</edge>
+<edge source="helsing" target="lucy">
+  <data key="d16">5</data>
+</edge>
+<edge source="bella" target="flapper">
+  <data key="d16">5</data>
+</edge>
+<edge source="bella" target="lucy">
+  <data key="d16">583</data>
+</edge>
+<edge source="bella" target="fuschia">
+  <data key="d16">85</data>
+</edge>
+<edge source="bella" target="maribelo">
+  <data key="d16">474</data>
+</edge>
+<edge source="bella" target="mina">
+  <data key="d16">1832</data>
+</edge>
+<edge source="bella" target="mya">
+  <data key="d16">5024</data>
+</edge>
+<edge source="bella" target="gomez">
+  <data key="d16">544</data>
+</edge>
+<edge source="bella" target="countess">
+  <data key="d16">321</data>
+</edge>
+<edge source="bella" target="dot">
+  <data key="d16">1396</data>
+</edge>
+<edge source="fuschia" target="countess">
+  <data key="d16">5</data>
+</edge>
+<edge source="lucy" target="flapper">
+  <data key="d16">12</data>
+</edge>
+<edge source="lucy" target="maribelo">
+  <data key="d16">4102</data>
+</edge>
+<edge source="lucy" target="mina">
+  <data key="d16">1774</data>
+</edge>
+<edge source="lucy" target="mya">
+  <data key="d16">3976</data>
+</edge>
+<edge source="lucy" target="countess">
+  <data key="d16">295</data>
+</edge>
+<edge source="lucy" target="dot">
+  <data key="d16">489</data>
+</edge>
+<edge source="streblick" target="mya">
+  <data key="d16">5216</data>
+</edge>
+<edge source="flapper" target="mina">
+  <data key="d16">352</data>
+</edge>
+<edge source="flapper" target="gelfing">
+  <data key="d16">179</data>
+</edge>
+<edge source="flapper" target="countess">
+  <data key="d16">1238</data>
+</edge>
+<edge source="flapper" target="dot">
+  <data key="d16">12</data>
+</edge>
+<edge source="mina" target="mya">
+  <data key="d16">778</data>
+</edge>
+<edge source="mina" target="countess">
+  <data key="d16">1893</data>
+</edge>
+<edge source="mina" target="dot">
+  <data key="d16">672</data>
+</edge>
+<edge source="mya" target="countess">
+  <data key="d16">65</data>
+</edge>
+<edge source="mya" target="lucy ">
+  <data key="d16">5</data>
+</edge>
+<edge source="countess" target="dot">
+  <data key="d16">162</data>
+</edge>
+</graph></graphml>

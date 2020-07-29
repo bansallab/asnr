@@ -3,19 +3,20 @@ network attribute|value
 total nodes|62
 total edges|1167
 network density|0.617
-average degree|37.645
-degree heterogeneity|0.197
-degree assortativity|-0.073
-average betweenness centrality (unweighted)|0.006
+average degree|n/a
+degree heterogeneity|n/a
+degree assortativity|n/a
+average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.667
 average clustering coefficient (weighted)|0.141
 Newman modularity|0.096
-maximum modularity|0.646
-relative modularity|0.149
-group cohesion|0.451
+maximum modularity|0.655
+relative modularity|0.147
+group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
+Attributes Available|not available
 Species|*Macaca fuscata*
 Taxonomic class|Mammalia
 Population type|semi-ranging

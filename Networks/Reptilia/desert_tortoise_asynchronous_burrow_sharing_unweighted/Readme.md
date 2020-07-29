@@ -10,12 +10,13 @@ average betweenness centrality (unweighted)|0.0 - 0.034
 average betweenness centrality (weighted)|0.0 - 0.034
 average clustering coefficient (unweighted)|0.0 - 0.49
 average clustering coefficient (weighted)|0.0 - 0.49
-Newman modularity|0.0 - 0.805
-maximum modularity|0.0 - 0.877
-relative modularity|0.0 - 0.918
+Newman modularity|0.0 - 0.804
+maximum modularity|0.0 - 0.88
+relative modularity|0.0 - 0.914
 group cohesion|0.063 - 0.848
 network diameter|0.063 - 0.848
 **Study description**|**value**
+Attributes Available|not available
 Species|*Gopherus agassizii*
 Taxonomic class|Reptilia
 Population type|free-ranging
@@ -27,5 +28,5 @@ Edge weight type|unweighted
 Total duration of data collection|8 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
-Note|Networks represent social data collected over different years and inactive (November–February)/active (March–October) season. 
+Note|Networks represent social data collected over different years and inactive (November_February)/active (March_October) season. 
 **Citation** | Sah, Pratha, et al. "Inferring social structure and <br> its drivers from refuge use in the <br> desert tortoise, a relatively solitary species." Behavioral <br> Ecology and Sociobiology 70.8 (2016): 1277-1289.

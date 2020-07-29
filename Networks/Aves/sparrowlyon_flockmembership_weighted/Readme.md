@@ -10,12 +10,13 @@ average betweenness centrality (unweighted)|0.017 - 0.024
 average betweenness centrality (weighted)|0.017 - 0.024
 average clustering coefficient (unweighted)|0.688 - 0.745
 average clustering coefficient (weighted)|0.082 - 0.119
-Newman modularity|0.249 - 0.26
-maximum modularity|0.495 - 0.66
-relative modularity|0.394 - 0.503
+Newman modularity|0.249 - 0.262
+maximum modularity|0.495 - 0.662
+relative modularity|0.396 - 0.503
 group cohesion|0.601 - 0.755
 network diameter|0.601 - 0.755
 **Study description**|**value**
+Attributes Available|not available
 Species|*Zonotrichia atricapilla*
 Taxonomic class|Aves
 Population type|free-ranging
@@ -27,5 +28,5 @@ Edge weight type|frequency
 Total duration of data collection|4 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
-Note|Networks represent social data collected during two non-breeding seasons: October 2010–February 2011 (Season 2) and October2011–April 2012 (Season 3).
-**Citation** | Shizuka, Daizaburo, et al. "Across‚Äêyear social stability shapes <br> network structure in wintering migrant sparrows." Ecology <br> letters 17.8 (2014): 998-1007.
+Note|Networks represent social data collected during two non-breeding seasons: October 2010_February 2011 (Season 2) and October2011_April 2012 (Season 3).
+**Citation** | Shizuka, Daizaburo, et al. "Across__¬êyear social stability shapes <br> network structure in wintering migrant sparrows." Ecology <br> letters 17.8 (2014): 998-1007.

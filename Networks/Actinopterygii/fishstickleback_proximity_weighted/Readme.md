@@ -16,6 +16,7 @@ relative modularity|0.0 - 0.0
 group cohesion|1.0 - 1.0
 network diameter|1.0 - 1.0
 **Study description**|**value**
+Attributes Available|diet
 Species|*Gasterosteus aculeatus*
 Taxonomic class|Actinopterygii
 Population type|captive

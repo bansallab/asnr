@@ -10,20 +10,20 @@ average betweenness centrality (unweighted)|0.006 - 0.13
 average betweenness centrality (weighted)|0.006 - 0.13
 average clustering coefficient (unweighted)|0.0 - 0.186
 average clustering coefficient (weighted)|0.0 - 0.02
-Newman modularity|0.319 - 0.61
-maximum modularity|0.653 - 0.836
-relative modularity|0.489 - 0.777
+Newman modularity|0.319 - 0.607
+maximum modularity|0.653 - 0.826
+relative modularity|0.481 - 0.777
 group cohesion|0.174 - 0.806
 network diameter|0.174 - 0.806
 **Study description**|**value**
+Attributes Available|
 Species|*Camponotus pennsylvanicus*
 Taxonomic class|Insecta
 Population type|captive
 Geographical location|Old Main, State College, Pennsylvania
 Data collection technique|video
 Interaction type|trophallaxis
-Definition of interaction|"
-A trophallaxis event was recorded when ants engaged in mandible-to-mandible contact for greater than 1 s"
+Definition of interaction|A trophallaxis event was recorded when ants engaged in mandible-to-mandible contact for greater than 1 s
 Edge weight type|duration
 Total duration of data collection|1 day
 Time resolution of data collection (within a day)|1sec

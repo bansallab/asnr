@@ -3,19 +3,20 @@ network attribute|value
 total nodes|28
 total edges|235
 network density|0.622
-average degree|16.786
-degree heterogeneity|0.295
-degree assortativity|-0.004
-average betweenness centrality (unweighted)|0.015
+average degree|n/a
+degree heterogeneity|n/a
+degree assortativity|n/a
+average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.717
 average clustering coefficient (weighted)|0.145
-Newman modularity|0.08
-maximum modularity|0.646
-relative modularity|0.124
-group cohesion|0.434
+Newman modularity|0.072
+maximum modularity|0.6
+relative modularity|0.12
+group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
+Attributes Available|sex
 Species|*Ovis canadensis*
 Taxonomic class|Mammalia
 Population type|semi-ranging

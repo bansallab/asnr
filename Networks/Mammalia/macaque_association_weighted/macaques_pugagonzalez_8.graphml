@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Ks"/>
+<node id="Ak"/>
+<node id="Sd"/>
+<node id="Ao"/>
+<node id="It"/>
+<node id="Sk"/>
+<node id="Aj"/>
+<edge source="Ks" target="Ak">
+  <data key="d0">3.92</data>
+</edge>
+<edge source="Ks" target="Sd">
+  <data key="d0">1.67</data>
+</edge>
+<edge source="Ks" target="Ao">
+  <data key="d0">0.25</data>
+</edge>
+<edge source="Ks" target="Sk">
+  <data key="d0">0.83</data>
+</edge>
+<edge source="Ak" target="Sd">
+  <data key="d0">0.08</data>
+</edge>
+<edge source="Ak" target="Ao">
+  <data key="d0">0.42</data>
+</edge>
+<edge source="Ak" target="It">
+  <data key="d0">0.67</data>
+</edge>
+<edge source="Sd" target="It">
+  <data key="d0">0.08</data>
+</edge>
+<edge source="Sd" target="Sk">
+  <data key="d0">0.17</data>
+</edge>
+<edge source="Ao" target="Aj">
+  <data key="d0">8.17</data>
+</edge>
+<edge source="It" target="Aj">
+  <data key="d0">0.08</data>
+</edge>
+<edge source="It" target="Sk">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Sk" target="Aj">
+  <data key="d0">0.08</data>
+</edge>
+</graph></graphml>

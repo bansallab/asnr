@@ -10,12 +10,13 @@ average betweenness centrality (unweighted)|0.009 - 0.01
 average betweenness centrality (weighted)|0.009 - 0.01
 average clustering coefficient (unweighted)|0.854 - 0.864
 average clustering coefficient (weighted)|0.038 - 0.076
-Newman modularity|0.035 - 0.045
-maximum modularity|0.449 - 0.5
-relative modularity|0.078 - 0.09
-group cohesion|0.545 - 0.586
-network diameter|0.545 - 0.586
+Newman modularity|0.032 - 0.047
+maximum modularity|0.416 - 0.444
+relative modularity|0.077 - 0.106
+group cohesion|0.603 - 0.616
+network diameter|0.603 - 0.616
 **Study description**|**value**
+Attributes Available|sex
 Species|*Branta leucopsis*
 Taxonomic class|Aves
 Population type|captive

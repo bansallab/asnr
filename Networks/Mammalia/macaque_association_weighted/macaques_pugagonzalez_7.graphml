@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Sr"/>
+<node id="Hr"/>
+<node id="Ob"/>
+<node id="Mk"/>
+<node id="Su"/>
+<node id="Mn"/>
+<node id="Be"/>
+<node id="Dk"/>
+<node id="Er"/>
+<node id="Kb"/>
+<node id="Hn"/>
+<node id="Sh"/>
+<node id="Mg"/>
+<node id="Mr"/>
+<edge source="Sr" target="Hr">
+  <data key="d0">2.55</data>
+</edge>
+<edge source="Sr" target="Mk">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="Sr" target="Su">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="Sr" target="Mn">
+  <data key="d0">0.38</data>
+</edge>
+<edge source="Hr" target="Ob">
+  <data key="d0">0.38</data>
+</edge>
+<edge source="Ob" target="Mk">
+  <data key="d0">0.54</data>
+</edge>
+<edge source="Ob" target="Be">
+  <data key="d0">5.18</data>
+</edge>
+<edge source="Ob" target="Dk">
+  <data key="d0">0.36</data>
+</edge>
+<edge source="Ob" target="Mn">
+  <data key="d0">1.54</data>
+</edge>
+<edge source="Mk" target="Be">
+  <data key="d0">0.04</data>
+</edge>
+<edge source="Mk" target="Dk">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="Mk" target="Su">
+  <data key="d0">0.54</data>
+</edge>
+<edge source="Mk" target="Mn">
+  <data key="d0">0.17</data>
+</edge>
+<edge source="Su" target="Er">
+  <data key="d0">0.05</data>
+</edge>
+<edge source="Su" target="Mg">
+  <data key="d0">0.48</data>
+</edge>
+<edge source="Su" target="Kb">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="Su" target="Hn">
+  <data key="d0">1.29</data>
+</edge>
+<edge source="Su" target="Mr">
+  <data key="d0">0.29</data>
+</edge>
+<edge source="Mn" target="Mg">
+  <data key="d0">1.32</data>
+</edge>
+<edge source="Mn" target="Hn">
+  <data key="d0">1.38</data>
+</edge>
+<edge source="Mn" target="Mr">
+  <data key="d0">5.26</data>
+</edge>
+<edge source="Be" target="Er">
+  <data key="d0">0.48</data>
+</edge>
+<edge source="Dk" target="Er">
+  <data key="d0">5.4</data>
+</edge>
+<edge source="Dk" target="Kb">
+  <data key="d0">2.13</data>
+</edge>
+<edge source="Dk" target="Hn">
+  <data key="d0">8.3</data>
+</edge>
+<edge source="Dk" target="Sh">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="Er" target="Kb">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="Kb" target="Hn">
+  <data key="d0">0.04</data>
+</edge>
+</graph></graphml>

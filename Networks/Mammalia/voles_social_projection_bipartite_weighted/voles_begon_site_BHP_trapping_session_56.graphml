@@ -4,16 +4,14 @@
   <graph edgedefault="undirected">
     <node id="" />
     <node id="096356011" />
-    <node id="095577084" />
+    <node id="096540632" />
     <node id="095594895" />
-    <node id="096372038" />
-    <node id="095565543" />
     <node id="095582831" />
     <node id="095595601" />
     <node id="095581263" />
     <node id="095581309" />
     <node id="079554268" />
-    <node id="096540632" />
+    <node id="095577084" />
     <node id="079627601" />
     <node id="096381118" />
     <node id="096535856" />
@@ -23,12 +21,12 @@
     <node id="095593788" />
     <node id="095595349" />
     <node id="095566584" />
+    <node id="095573865" />
     <node id="079621613" />
     <node id="096532637" />
-    <node id="095594829" />
     <node id="096368800" />
     <node id="096531557" />
-    <node id="079784548" />
+    <node id="096372038" />
     <node id="095573560" />
     <node id="095594883" />
     <node id="096536081" />
@@ -41,8 +39,6 @@
     <node id="095596052" />
     <node id="079621078" />
     <node id="095593555" />
-    <node id="079565531" />
-    <node id="096521836" />
     <node id="096541592" />
     <node id="096381579" />
     <node id="079570277" />
@@ -55,7 +51,7 @@
     <node id="095561304" />
     <node id="095593096" />
     <node id="095566516" />
-    <node id="095573865" />
+    <node id="079784548" />
     <edge source="" target="096381118">
       <data key="d0">1</data>
     </edge>
@@ -68,31 +64,34 @@
     <edge source="096356011" target="095573555">
       <data key="d0">1</data>
     </edge>
-    <edge source="095577084" target="096536081">
+    <edge source="096540632" target="096536081">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="096540632" target="095594895">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="096540632" target="095595353">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="096540632" target="095595601">
       <data key="d0">1</data>
     </edge>
-    <edge source="095577084" target="095594895">
-      <data key="d0">1</data>
+    <edge source="096540632" target="096381579">
+      <data key="d0">6</data>
     </edge>
-    <edge source="095577084" target="095595353">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="095577084" target="095595601">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="095577084" target="096381579">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="095577084" target="096540632">
+    <edge source="096540632" target="095577084">
       <data key="d0">3</data>
     </edge>
-    <edge source="095577084" target="095573560">
-      <data key="d0">3</data>
+    <edge source="096540632" target="095573560">
+      <data key="d0">2</data>
     </edge>
-    <edge source="095577084" target="095566516">
-      <data key="d0">1</data>
+    <edge source="096540632" target="095566516">
+      <data key="d0">2</data>
     </edge>
     <edge source="095594895" target="096536081">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="095594895" target="095577084">
       <data key="d0">1</data>
     </edge>
     <edge source="095594895" target="095595353">
@@ -107,9 +106,6 @@
     <edge source="095594895" target="096381579">
       <data key="d0">6</data>
     </edge>
-    <edge source="095594895" target="096540632">
-      <data key="d0">6</data>
-    </edge>
     <edge source="095594895" target="095573560">
       <data key="d0">2</data>
     </edge>
@@ -117,12 +113,6 @@
       <data key="d0">1</data>
     </edge>
     <edge source="095594895" target="095566516">
-      <data key="d0">2</data>
-    </edge>
-    <edge source="096372038" target="095571383">
-      <data key="d0">8</data>
-    </edge>
-    <edge source="096372038" target="095593096">
       <data key="d0">2</data>
     </edge>
     <edge source="095582831" target="096381118">
@@ -140,7 +130,7 @@
     <edge source="095595601" target="095581263">
       <data key="d0">1</data>
     </edge>
-    <edge source="095595601" target="096540632">
+    <edge source="095595601" target="095577084">
       <data key="d0">1</data>
     </edge>
     <edge source="095581263" target="095566584">
@@ -167,20 +157,20 @@
     <edge source="079554268" target="079570277">
       <data key="d0">1</data>
     </edge>
-    <edge source="096540632" target="096536081">
-      <data key="d0">2</data>
+    <edge source="095577084" target="096536081">
+      <data key="d0">1</data>
     </edge>
-    <edge source="096540632" target="095595353">
-      <data key="d0">6</data>
+    <edge source="095577084" target="095595353">
+      <data key="d0">1</data>
     </edge>
-    <edge source="096540632" target="096381579">
-      <data key="d0">6</data>
+    <edge source="095577084" target="096381579">
+      <data key="d0">1</data>
     </edge>
-    <edge source="096540632" target="095573560">
-      <data key="d0">2</data>
+    <edge source="095577084" target="095573560">
+      <data key="d0">3</data>
     </edge>
-    <edge source="096540632" target="095566516">
-      <data key="d0">2</data>
+    <edge source="095577084" target="095566516">
+      <data key="d0">1</data>
     </edge>
     <edge source="079627601" target="095570883">
       <data key="d0">2</data>
@@ -202,6 +192,9 @@
     </edge>
     <edge source="096535856" target="095566584">
       <data key="d0">1</data>
+    </edge>
+    <edge source="095571383" target="096372038">
+      <data key="d0">8</data>
     </edge>
     <edge source="095571383" target="095593096">
       <data key="d0">2</data>
@@ -233,7 +226,10 @@
     <edge source="095566584" target="079784548">
       <data key="d0">1</data>
     </edge>
-    <edge source="079621613" target="095573865">
+    <edge source="095573865" target="096369356">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="095573865" target="079621613">
       <data key="d0">1</data>
     </edge>
     <edge source="079621613" target="096531557">
@@ -242,8 +238,8 @@
     <edge source="096531557" target="096541592">
       <data key="d0">1</data>
     </edge>
-    <edge source="079784548" target="095594883">
-      <data key="d0">1</data>
+    <edge source="096372038" target="095593096">
+      <data key="d0">2</data>
     </edge>
     <edge source="095573560" target="096381579">
       <data key="d0">2</data>
@@ -253,6 +249,9 @@
     </edge>
     <edge source="095573560" target="095566516">
       <data key="d0">4</data>
+    </edge>
+    <edge source="095594883" target="079784548">
+      <data key="d0">1</data>
     </edge>
     <edge source="096536081" target="096381579">
       <data key="d0">1</data>
@@ -265,9 +264,6 @@
     </edge>
     <edge source="096369356" target="079614126">
       <data key="d0">1</data>
-    </edge>
-    <edge source="096369356" target="095573865">
-      <data key="d0">2</data>
     </edge>
     <edge source="079555046" target="095596055">
       <data key="d0">2</data>

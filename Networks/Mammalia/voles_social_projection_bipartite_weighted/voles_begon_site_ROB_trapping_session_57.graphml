@@ -2,13 +2,11 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
   <key attr.name="weight" attr.type="int" for="edge" id="d0" />
   <graph edgedefault="undirected">
-    <node id="079618257" />
     <node id="092592540" />
     <node id="095572617" />
     <node id="096536348" />
     <node id="092370621" />
     <node id="092580107" />
-    <node id="095593012" />
     <node id="095565110" />
     <node id="095595572" />
     <node id="096545016" />
@@ -23,28 +21,23 @@
     <node id="079768775" />
     <node id="079639052" />
     <node id="082320044" />
-    <node id="095594327" />
-    <node id="095566527" />
     <node id="079597118" />
     <node id="095595031" />
     <node id="092622365" />
-    <node id="095595287" />
     <node id="092581861" />
     <node id="092341593" />
     <node id="092633628" />
     <node id="096528344" />
-    <node id="079573879" />
-    <node id="082325823" />
-    <node id="095566347" />
-    <node id="092589373" />
-    <node id="092631584" />
-    <node id="096540268" />
     <node id="096517861" />
+    <node id="079573879" />
+    <node id="095566347" />
+    <node id="096540268" />
+    <node id="092281875" />
     <node id="079588127" />
     <node id="096363085" />
     <node id="082335894" />
     <node id="096523304" />
-    <node id="092281875" />
+    <node id="092631584" />
     <node id="095594009" />
     <node id="082070330" />
     <edge source="092592540" target="095594009">
@@ -149,11 +142,11 @@
     <edge source="096528344" target="092631584">
       <data key="d0">3</data>
     </edge>
-    <edge source="095566347" target="092281875">
-      <data key="d0">1</data>
-    </edge>
     <edge source="096517861" target="095594009">
       <data key="d0">2</data>
+    </edge>
+    <edge source="095566347" target="092281875">
+      <data key="d0">1</data>
     </edge>
   </graph>
 </graphml>

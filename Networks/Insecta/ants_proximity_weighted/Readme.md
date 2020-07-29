@@ -10,12 +10,13 @@ average betweenness centrality (unweighted)|0.001 - 0.009
 average betweenness centrality (weighted)|0.001 - 0.009
 average clustering coefficient (unweighted)|0.68 - 0.913
 average clustering coefficient (weighted)|0.01 - 0.136
-Newman modularity|0.025 - 0.205
-maximum modularity|0.438 - 0.71
-relative modularity|0.049 - 0.415
-group cohesion|0.369 - 0.718
-network diameter|0.369 - 0.718
+Newman modularity|0.021 - 0.205
+maximum modularity|0.429 - 0.73
+relative modularity|0.041 - 0.415
+group cohesion|0.334 - 0.71
+network diameter|0.334 - 0.71
 **Study description**|**value**
+Attributes Available|body size, age, social group, number of interactions/visits
 Species|*Camponotus fellah*
 Taxonomic class|Insecta
 Population type|captive

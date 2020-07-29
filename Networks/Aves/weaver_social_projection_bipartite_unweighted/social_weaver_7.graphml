@@ -1,0 +1,23 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="WZEM" />
+    <node id="UMYO" />
+    <node id="YMOZ" />
+    <node id="YMOY" />
+    <node id="VEYM" />
+    <node id="YMWF" />
+    <node id="OZOM" />
+    <node id="UMOU" />
+    <node id="YMBO" />
+    <edge source="WZEM" target="UMOU" />
+    <edge source="WZEM" target="YMOY" />
+    <edge source="WZEM" target="UMYO" />
+    <edge source="WZEM" target="OZOM" />
+    <edge source="UMYO" target="YMOY" />
+    <edge source="YMOZ" target="YMBO" />
+    <edge source="YMOY" target="UMOU" />
+    <edge source="YMOY" target="OZOM" />
+    <edge source="VEYM" target="YMWF" />
+    <edge source="OZOM" target="UMOU" />
+  </graph>
+</graphml>

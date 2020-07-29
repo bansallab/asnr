@@ -1,21 +1,22 @@
 network attribute|range
 ---|---
 total nodes|4.0 - 26.0
-total edges|2.0 - 41.0
-network density|0.033 - 1.0
-average degree|0.5 - 5.4
-degree heterogeneity|0.0 - 1.233
-degree assortativity|nan - nan
+total edges|6.0 - 325.0
+network density|0.0 - 0.667
+average degree|0.0 - 3.429
+degree heterogeneity|0.149 - 1.934
+degree assortativity|-1.0 - 0.394
 average betweenness centrality (unweighted)|0.0 - 0.333
 average betweenness centrality (weighted)|0.0 - 0.333
-average clustering coefficient (unweighted)|0.0 - 1.0
-average clustering coefficient (weighted)|0.0 - 0.583
-Newman modularity|0.0 - 0.458
-maximum modularity|0.0 - 0.778
-relative modularity|0.0 - 0.688
+average clustering coefficient (unweighted)|0.0 - 0.867
+average clustering coefficient (weighted)|0.0 - 0.471
+Newman modularity|0.0 - 0.535
+maximum modularity|0.0 - 0.745
+relative modularity|0.161 - 0.728
 group cohesion|0.286 - 1.0
 network diameter|0.286 - 1.0
 **Study description**|**value**
+Attributes Available|group, age, dominance rank, date of knockout, type of dispersal
 Species|*Papio cynocephalus*
 Taxonomic class|Mammalia
 Population type|free-ranging

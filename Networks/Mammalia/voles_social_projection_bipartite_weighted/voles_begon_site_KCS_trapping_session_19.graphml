@@ -2,37 +2,24 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
   <key attr.name="weight" attr.type="int" for="edge" id="d0" />
   <graph edgedefault="undirected">
-    <node id="055536056" />
     <node id="052566365" />
     <node id="053113869" />
     <node id="056000590" />
-    <node id="047084094" />
     <node id="053308797" />
-    <node id="055524051" />
     <node id="055889873" />
-    <node id="053006884" />
-    <node id="055517030" />
     <node id="056280872" />
     <node id="053318015" />
-    <node id="052877054" />
-    <node id="052524052" />
     <node id="052824810" />
-    <node id="053811315" />
-    <node id="053264846" />
+    <node id="052877054" />
     <node id="053838285" />
     <node id="056016039" />
     <node id="053076016" />
     <node id="052573778" />
-    <node id="052772812" />
     <node id="056278278" />
     <node id="053827276" />
-    <node id="052599012" />
     <node id="055516529" />
-    <node id="056284031" />
     <node id="053080856" />
-    <node id="047047808" />
     <node id="053632353" />
-    <node id="052869003" />
     <node id="055889375" />
     <node id="053262854" />
     <node id="055546381" />
@@ -43,9 +30,6 @@
     <node id="052800314" />
     <node id="053295566" />
     <node id="052811350" />
-    <node id="052605521" />
-    <node id="052854599" />
-    <node id="053076614" />
     <edge source="052566365" target="053262854">
       <data key="d0">1</data>
     </edge>

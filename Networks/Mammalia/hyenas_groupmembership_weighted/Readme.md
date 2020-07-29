@@ -10,12 +10,13 @@ average betweenness centrality (unweighted)|0.002 - 0.004
 average betweenness centrality (weighted)|0.002 - 0.004
 average clustering coefficient (unweighted)|0.899 - 0.963
 average clustering coefficient (weighted)|0.113 - 0.146
-Newman modularity|0.009 - 0.038
-maximum modularity|0.436 - 0.49
-relative modularity|0.021 - 0.078
-group cohesion|0.545 - 0.573
-network diameter|0.545 - 0.573
+Newman modularity|0.009 - 0.039
+maximum modularity|0.482 - 0.497
+relative modularity|0.019 - 0.078
+group cohesion|0.526 - 0.545
+network diameter|0.526 - 0.545
 **Study description**|**value**
+Attributes Available|sex, number of litters conceived or sired
 Species|*Crocuta crocuta*
 Taxonomic class|Mammalia
 Population type|free-ranging

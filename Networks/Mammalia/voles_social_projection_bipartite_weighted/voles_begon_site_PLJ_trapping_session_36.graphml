@@ -3,20 +3,14 @@
   <key attr.name="weight" attr.type="int" for="edge" id="d0" />
   <graph edgedefault="undirected">
     <node id="066810338" />
-    <node id="067010808" />
-    <node id="066874009" />
     <node id="066830543" />
-    <node id="066832052" />
-    <node id="067018524" />
-    <node id="067042091" />
-    <node id="067012120" />
     <node id="052837101" />
+    <node id="067042091" />
     <node id="067100612" />
-    <node id="066815870" />
+    <node id="067018524" />
     <node id="067037786" />
     <node id="066859340" />
     <node id="066835359" />
-    <node id="053609768" />
     <edge source="066810338" target="066830543">
       <data key="d0">1</data>
     </edge>
@@ -26,16 +20,16 @@
     <edge source="066830543" target="067100612">
       <data key="d0">1</data>
     </edge>
-    <edge source="067018524" target="066859340">
-      <data key="d0">1</data>
-    </edge>
-    <edge source="067018524" target="067037786">
+    <edge source="052837101" target="066835359">
       <data key="d0">1</data>
     </edge>
     <edge source="067042091" target="066835359">
       <data key="d0">1</data>
     </edge>
-    <edge source="052837101" target="066835359">
+    <edge source="067018524" target="066859340">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="067018524" target="067037786">
       <data key="d0">1</data>
     </edge>
   </graph>

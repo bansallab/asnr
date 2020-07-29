@@ -1,0 +1,1335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d7" for="node" attr.name="Rank (Nov 2008-Jun 2009)" attr.type="string"/>
+<key id="d6" for="node" attr.name="Rank (Jul 2007-Jun 2008)" attr.type="string"/>
+<key id="d5" for="node" attr.name="Rank (Nov 2006-Jun 2007)" attr.type="string"/>
+<key id="d4" for="node" attr.name="Rank (Nov 2008-Jun 2009)" attr.type="double"/>
+<key id="d3" for="node" attr.name="Rank (Jul 2007-Jun 2008)" attr.type="double"/>
+<key id="d2" for="node" attr.name="Rank (Nov 2006-Jun 2007)" attr.type="double"/>
+<key id="d1" for="node" attr.name="Sex" attr.type="string"/>
+<key id="d0" for="node" attr.name="Birth Year" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Pr">
+  <data key="d0">2002</data>
+  <data key="d1">female</data>
+  <data key="d2">6.0</data>
+  <data key="d3">4.0</data>
+  <data key="d4">7.0</data>
+</node>
+<node id="Tt">
+  <data key="d0">2006</data>
+  <data key="d1">female</data>
+  <data key="d5"> </data>
+  <data key="d6"> </data>
+  <data key="d4">17.0</data>
+</node>
+<node id="Li">
+  <data key="d0">2003</data>
+  <data key="d1">female</data>
+  <data key="d2">4.0</data>
+  <data key="d3">7.0</data>
+  <data key="d4">6.0</data>
+</node>
+<node id="Ti">
+  <data key="d0">2001</data>
+  <data key="d1">male</data>
+  <data key="d2">3.0</data>
+  <data key="d6"> </data>
+  <data key="d7"> </data>
+</node>
+<node id="Ro">
+  <data key="d0">1995</data>
+  <data key="d1">male</data>
+  <data key="d2">1.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">1.0</data>
+</node>
+<node id="Nt">
+  <data key="d0">1996</data>
+  <data key="d1">female</data>
+  <data key="d2">8.0</data>
+  <data key="d3">14.0</data>
+  <data key="d4">13.0</data>
+</node>
+<node id="Ta&#10;"/>
+<node id="We">
+  <data key="d0">1988</data>
+  <data key="d1">female</data>
+  <data key="d2">14.0</data>
+  <data key="d3">20.0</data>
+  <data key="d7"> </data>
+</node>
+<node id="Yo">
+  <data key="d0">2004</data>
+  <data key="d1">female</data>
+  <data key="d2">15.0</data>
+  <data key="d3">23.0</data>
+  <data key="d4">21.0</data>
+</node>
+<node id="Bo">
+  <data key="d0">2002</data>
+  <data key="d1">male</data>
+  <data key="d2">9.0</data>
+  <data key="d3">15.0</data>
+  <data key="d7"> </data>
+</node>
+<node id="Fa">
+  <data key="d0">2005</data>
+  <data key="d1">female</data>
+  <data key="d2">7.0</data>
+  <data key="d3">11.0</data>
+  <data key="d4">12.0</data>
+</node>
+<node id="Ha">
+  <data key="d0">2004</data>
+  <data key="d1">male</data>
+  <data key="d2">16.0</data>
+  <data key="d3">13.0</data>
+  <data key="d7"> </data>
+</node>
+<node id="Dr">
+  <data key="d0">2004</data>
+  <data key="d1">male</data>
+  <data key="d2">18.0</data>
+  <data key="d3">18.0</data>
+  <data key="d4">19.0</data>
+</node>
+<node id="Ki">
+  <data key="d0">2006</data>
+  <data key="d1">male</data>
+  <data key="d5"> </data>
+  <data key="d6"> </data>
+  <data key="d4">16.0</data>
+</node>
+<node id="Me">
+  <data key="d0">2002</data>
+  <data key="d1">male</data>
+  <data key="d2">12.0</data>
+  <data key="d3">10.0</data>
+  <data key="d4">10.0</data>
+</node>
+<node id="Ka">
+  <data key="d0">2001</data>
+  <data key="d1">male</data>
+  <data key="d2">13.0</data>
+  <data key="d3">17.0</data>
+  <data key="d4">15.0</data>
+</node>
+<node id="Ok">
+  <data key="d0">2005</data>
+  <data key="d1">male</data>
+  <data key="d5"> </data>
+  <data key="d3">9.0</data>
+  <data key="d4">5.0</data>
+</node>
+<node id="Mo">
+  <data key="d0">1996</data>
+  <data key="d1">female</data>
+  <data key="d2">2.0</data>
+  <data key="d3">2.0</data>
+  <data key="d4">2.0</data>
+</node>
+<node id="Kw">
+  <data key="d0">2005</data>
+  <data key="d1">male</data>
+  <data key="d5"> </data>
+  <data key="d3">8.0</data>
+  <data key="d4">3.0</data>
+</node>
+<node id="Sa">
+  <data key="d0">2001</data>
+  <data key="d1">female</data>
+  <data key="d2">5.0</data>
+  <data key="d3">5.0</data>
+  <data key="d4">9.0</data>
+</node>
+<node id="Zi">
+  <data key="d0">2003</data>
+  <data key="d1">male</data>
+  <data key="d2">19.0</data>
+  <data key="d3">21.0</data>
+  <data key="d7"> </data>
+</node>
+<node id="Em">
+  <data key="d0">1996</data>
+  <data key="d1">female</data>
+  <data key="d2">17.0</data>
+  <data key="d3">22.0</data>
+  <data key="d4">20.0</data>
+</node>
+<node id="Ch">
+  <data key="d0">2005</data>
+  <data key="d1">male</data>
+  <data key="d5"> </data>
+  <data key="d3">24.0</data>
+  <data key="d7"> </data>
+</node>
+<node id="Ve">
+  <data key="d0">2004</data>
+  <data key="d1">female</data>
+  <data key="d2">10.0</data>
+  <data key="d3">3.0</data>
+  <data key="d4">8.0</data>
+</node>
+<node id="Ja">
+  <data key="d0">2003</data>
+  <data key="d1">male</data>
+  <data key="d2">11.0</data>
+  <data key="d3">6.0</data>
+  <data key="d4">4.0</data>
+</node>
+<node id="Vz">
+  <data key="d0">2006</data>
+  <data key="d1">male</data>
+  <data key="d5"> </data>
+  <data key="d6"> </data>
+  <data key="d4">18.0</data>
+</node>
+<node id="Ep">
+  <data key="d0">1988</data>
+  <data key="d1">female</data>
+  <data key="d5"> </data>
+  <data key="d3">12.0</data>
+  <data key="d4">11.0</data>
+</node>
+<node id="Gi">
+  <data key="d0">2005</data>
+  <data key="d1">female</data>
+  <data key="d5"> </data>
+  <data key="d3">16.0</data>
+  <data key="d4">14.0</data>
+</node>
+<edge source="Pr" target="Tt">
+  <data key="d8">341</data>
+</edge>
+<edge source="Pr" target="Li">
+  <data key="d8">166</data>
+</edge>
+<edge source="Pr" target="Ti">
+  <data key="d8">44</data>
+</edge>
+<edge source="Pr" target="Ro">
+  <data key="d8">57</data>
+</edge>
+<edge source="Pr" target="Nt">
+  <data key="d8">141</data>
+</edge>
+<edge source="Pr" target="Ta&#10;">
+  <data key="d8">50</data>
+</edge>
+<edge source="Pr" target="We">
+  <data key="d8">91</data>
+</edge>
+<edge source="Pr" target="Yo">
+  <data key="d8">51</data>
+</edge>
+<edge source="Pr" target="Bo">
+  <data key="d8">61</data>
+</edge>
+<edge source="Pr" target="Fa">
+  <data key="d8">58</data>
+</edge>
+<edge source="Pr" target="Ha">
+  <data key="d8">28</data>
+</edge>
+<edge source="Pr" target="Dr">
+  <data key="d8">26</data>
+</edge>
+<edge source="Pr" target="Ki">
+  <data key="d8">46</data>
+</edge>
+<edge source="Pr" target="Me">
+  <data key="d8">33</data>
+</edge>
+<edge source="Pr" target="Ka">
+  <data key="d8">111</data>
+</edge>
+<edge source="Pr" target="Ok">
+  <data key="d8">337</data>
+</edge>
+<edge source="Pr" target="Mo">
+  <data key="d8">37</data>
+</edge>
+<edge source="Pr" target="Kw">
+  <data key="d8">25</data>
+</edge>
+<edge source="Pr" target="Sa">
+  <data key="d8">127</data>
+</edge>
+<edge source="Pr" target="Zi">
+  <data key="d8">27</data>
+</edge>
+<edge source="Pr" target="Em">
+  <data key="d8">37</data>
+</edge>
+<edge source="Pr" target="Ch">
+  <data key="d8">42</data>
+</edge>
+<edge source="Pr" target="Ve">
+  <data key="d8">56</data>
+</edge>
+<edge source="Pr" target="Ja">
+  <data key="d8">67</data>
+</edge>
+<edge source="Pr" target="Vz">
+  <data key="d8">108</data>
+</edge>
+<edge source="Pr" target="Ep">
+  <data key="d8">66</data>
+</edge>
+<edge source="Pr" target="Gi">
+  <data key="d8">31</data>
+</edge>
+<edge source="Tt" target="Li">
+  <data key="d8">127</data>
+</edge>
+<edge source="Tt" target="Ti">
+  <data key="d8">42</data>
+</edge>
+<edge source="Tt" target="Ro">
+  <data key="d8">328</data>
+</edge>
+<edge source="Tt" target="Nt">
+  <data key="d8">119</data>
+</edge>
+<edge source="Tt" target="Ta&#10;">
+  <data key="d8">42</data>
+</edge>
+<edge source="Tt" target="We">
+  <data key="d8">79</data>
+</edge>
+<edge source="Tt" target="Yo">
+  <data key="d8">43</data>
+</edge>
+<edge source="Tt" target="Bo">
+  <data key="d8">38</data>
+</edge>
+<edge source="Tt" target="Fa">
+  <data key="d8">192</data>
+</edge>
+<edge source="Tt" target="Ha">
+  <data key="d8">53</data>
+</edge>
+<edge source="Tt" target="Dr">
+  <data key="d8">36</data>
+</edge>
+<edge source="Tt" target="Ki">
+  <data key="d8">87</data>
+</edge>
+<edge source="Tt" target="Me">
+  <data key="d8">13</data>
+</edge>
+<edge source="Tt" target="Ka">
+  <data key="d8">67</data>
+</edge>
+<edge source="Tt" target="Ok">
+  <data key="d8">195</data>
+</edge>
+<edge source="Tt" target="Mo">
+  <data key="d8">75</data>
+</edge>
+<edge source="Tt" target="Kw">
+  <data key="d8">82</data>
+</edge>
+<edge source="Tt" target="Sa">
+  <data key="d8">87</data>
+</edge>
+<edge source="Tt" target="Zi">
+  <data key="d8">15</data>
+</edge>
+<edge source="Tt" target="Em">
+  <data key="d8">23</data>
+</edge>
+<edge source="Tt" target="Ch">
+  <data key="d8">45</data>
+</edge>
+<edge source="Tt" target="Ve">
+  <data key="d8">121</data>
+</edge>
+<edge source="Tt" target="Ja">
+  <data key="d8">94</data>
+</edge>
+<edge source="Tt" target="Vz">
+  <data key="d8">106</data>
+</edge>
+<edge source="Tt" target="Ep">
+  <data key="d8">38</data>
+</edge>
+<edge source="Tt" target="Gi">
+  <data key="d8">24</data>
+</edge>
+<edge source="Li" target="Ti">
+  <data key="d8">23</data>
+</edge>
+<edge source="Li" target="Ro">
+  <data key="d8">192</data>
+</edge>
+<edge source="Li" target="Nt">
+  <data key="d8">98</data>
+</edge>
+<edge source="Li" target="Ta&#10;">
+  <data key="d8">18</data>
+</edge>
+<edge source="Li" target="We">
+  <data key="d8">94</data>
+</edge>
+<edge source="Li" target="Yo">
+  <data key="d8">57</data>
+</edge>
+<edge source="Li" target="Bo">
+  <data key="d8">41</data>
+</edge>
+<edge source="Li" target="Fa">
+  <data key="d8">145</data>
+</edge>
+<edge source="Li" target="Ha">
+  <data key="d8">30</data>
+</edge>
+<edge source="Li" target="Dr">
+  <data key="d8">31</data>
+</edge>
+<edge source="Li" target="Ki">
+  <data key="d8">37</data>
+</edge>
+<edge source="Li" target="Me">
+  <data key="d8">54</data>
+</edge>
+<edge source="Li" target="Ka">
+  <data key="d8">61</data>
+</edge>
+<edge source="Li" target="Ok">
+  <data key="d8">74</data>
+</edge>
+<edge source="Li" target="Mo">
+  <data key="d8">251</data>
+</edge>
+<edge source="Li" target="Kw">
+  <data key="d8">137</data>
+</edge>
+<edge source="Li" target="Sa">
+  <data key="d8">115</data>
+</edge>
+<edge source="Li" target="Zi">
+  <data key="d8">16</data>
+</edge>
+<edge source="Li" target="Em">
+  <data key="d8">37</data>
+</edge>
+<edge source="Li" target="Ch">
+  <data key="d8">25</data>
+</edge>
+<edge source="Li" target="Ve">
+  <data key="d8">220</data>
+</edge>
+<edge source="Li" target="Ja">
+  <data key="d8">76</data>
+</edge>
+<edge source="Li" target="Vz">
+  <data key="d8">61</data>
+</edge>
+<edge source="Li" target="Ep">
+  <data key="d8">25</data>
+</edge>
+<edge source="Li" target="Gi">
+  <data key="d8">40</data>
+</edge>
+<edge source="Ti" target="Ro">
+  <data key="d8">5</data>
+</edge>
+<edge source="Ti" target="Nt">
+  <data key="d8">40</data>
+</edge>
+<edge source="Ti" target="Ta&#10;">
+  <data key="d8">9</data>
+</edge>
+<edge source="Ti" target="We">
+  <data key="d8">116</data>
+</edge>
+<edge source="Ti" target="Yo">
+  <data key="d8">73</data>
+</edge>
+<edge source="Ti" target="Bo">
+  <data key="d8">57</data>
+</edge>
+<edge source="Ti" target="Fa">
+  <data key="d8">7</data>
+</edge>
+<edge source="Ti" target="Ha">
+  <data key="d8">50</data>
+</edge>
+<edge source="Ti" target="Dr">
+  <data key="d8">12</data>
+</edge>
+<edge source="Ti" target="Ki">
+  <data key="d8">14</data>
+</edge>
+<edge source="Ti" target="Me">
+  <data key="d8">5</data>
+</edge>
+<edge source="Ti" target="Ka">
+  <data key="d8">21</data>
+</edge>
+<edge source="Ti" target="Ok">
+  <data key="d8">43</data>
+</edge>
+<edge source="Ti" target="Mo">
+  <data key="d8">10</data>
+</edge>
+<edge source="Ti" target="Kw">
+  <data key="d8">10</data>
+</edge>
+<edge source="Ti" target="Sa">
+  <data key="d8">14</data>
+</edge>
+<edge source="Ti" target="Zi">
+  <data key="d8">9</data>
+</edge>
+<edge source="Ti" target="Em">
+  <data key="d8">14</data>
+</edge>
+<edge source="Ti" target="Ch">
+  <data key="d8">48</data>
+</edge>
+<edge source="Ti" target="Ve">
+  <data key="d8">5</data>
+</edge>
+<edge source="Ti" target="Ja">
+  <data key="d8">51</data>
+</edge>
+<edge source="Ti" target="Vz">
+  <data key="d8">31</data>
+</edge>
+<edge source="Ti" target="Ep">
+  <data key="d8">12</data>
+</edge>
+<edge source="Ti" target="Gi">
+  <data key="d8">8</data>
+</edge>
+<edge source="Ro" target="Nt">
+  <data key="d8">182</data>
+</edge>
+<edge source="Ro" target="Ta&#10;">
+  <data key="d8">37</data>
+</edge>
+<edge source="Ro" target="We">
+  <data key="d8">71</data>
+</edge>
+<edge source="Ro" target="Yo">
+  <data key="d8">34</data>
+</edge>
+<edge source="Ro" target="Bo">
+  <data key="d8">38</data>
+</edge>
+<edge source="Ro" target="Fa">
+  <data key="d8">348</data>
+</edge>
+<edge source="Ro" target="Ha">
+  <data key="d8">75</data>
+</edge>
+<edge source="Ro" target="Dr">
+  <data key="d8">124</data>
+</edge>
+<edge source="Ro" target="Ki">
+  <data key="d8">105</data>
+</edge>
+<edge source="Ro" target="Me">
+  <data key="d8">11</data>
+</edge>
+<edge source="Ro" target="Ka">
+  <data key="d8">50</data>
+</edge>
+<edge source="Ro" target="Ok">
+  <data key="d8">52</data>
+</edge>
+<edge source="Ro" target="Mo">
+  <data key="d8">182</data>
+</edge>
+<edge source="Ro" target="Kw">
+  <data key="d8">158</data>
+</edge>
+<edge source="Ro" target="Sa">
+  <data key="d8">86</data>
+</edge>
+<edge source="Ro" target="Zi">
+  <data key="d8">19</data>
+</edge>
+<edge source="Ro" target="Em">
+  <data key="d8">10</data>
+</edge>
+<edge source="Ro" target="Ch">
+  <data key="d8">60</data>
+</edge>
+<edge source="Ro" target="Ve">
+  <data key="d8">262</data>
+</edge>
+<edge source="Ro" target="Ja">
+  <data key="d8">116</data>
+</edge>
+<edge source="Ro" target="Vz">
+  <data key="d8">118</data>
+</edge>
+<edge source="Ro" target="Ep">
+  <data key="d8">11</data>
+</edge>
+<edge source="Ro" target="Gi">
+  <data key="d8">9</data>
+</edge>
+<edge source="Nt" target="Ta&#10;">
+  <data key="d8">22</data>
+</edge>
+<edge source="Nt" target="We">
+  <data key="d8">152</data>
+</edge>
+<edge source="Nt" target="Yo">
+  <data key="d8">92</data>
+</edge>
+<edge source="Nt" target="Bo">
+  <data key="d8">100</data>
+</edge>
+<edge source="Nt" target="Fa">
+  <data key="d8">103</data>
+</edge>
+<edge source="Nt" target="Ha">
+  <data key="d8">129</data>
+</edge>
+<edge source="Nt" target="Dr">
+  <data key="d8">36</data>
+</edge>
+<edge source="Nt" target="Ki">
+  <data key="d8">44</data>
+</edge>
+<edge source="Nt" target="Me">
+  <data key="d8">49</data>
+</edge>
+<edge source="Nt" target="Ka">
+  <data key="d8">279</data>
+</edge>
+<edge source="Nt" target="Ok">
+  <data key="d8">100</data>
+</edge>
+<edge source="Nt" target="Mo">
+  <data key="d8">65</data>
+</edge>
+<edge source="Nt" target="Kw">
+  <data key="d8">54</data>
+</edge>
+<edge source="Nt" target="Sa">
+  <data key="d8">62</data>
+</edge>
+<edge source="Nt" target="Zi">
+  <data key="d8">23</data>
+</edge>
+<edge source="Nt" target="Em">
+  <data key="d8">56</data>
+</edge>
+<edge source="Nt" target="Ch">
+  <data key="d8">144</data>
+</edge>
+<edge source="Nt" target="Ve">
+  <data key="d8">66</data>
+</edge>
+<edge source="Nt" target="Ja">
+  <data key="d8">147</data>
+</edge>
+<edge source="Nt" target="Vz">
+  <data key="d8">554</data>
+</edge>
+<edge source="Nt" target="Ep">
+  <data key="d8">24</data>
+</edge>
+<edge source="Nt" target="Gi">
+  <data key="d8">38</data>
+</edge>
+<edge source="Ta&#10;" target="We">
+  <data key="d8">22</data>
+</edge>
+<edge source="Ta&#10;" target="Yo">
+  <data key="d8">34</data>
+</edge>
+<edge source="Ta&#10;" target="Bo">
+  <data key="d8">6</data>
+</edge>
+<edge source="Ta&#10;" target="Fa">
+  <data key="d8">28</data>
+</edge>
+<edge source="Ta&#10;" target="Ha">
+  <data key="d8">52</data>
+</edge>
+<edge source="Ta&#10;" target="Dr">
+  <data key="d8">201</data>
+</edge>
+<edge source="Ta&#10;" target="Ki">
+  <data key="d8">114</data>
+</edge>
+<edge source="Ta&#10;" target="Me">
+  <data key="d8">125</data>
+</edge>
+<edge source="Ta&#10;" target="Ka">
+  <data key="d8">58</data>
+</edge>
+<edge source="Ta&#10;" target="Ok">
+  <data key="d8">48</data>
+</edge>
+<edge source="Ta&#10;" target="Mo">
+  <data key="d8">2</data>
+</edge>
+<edge source="Ta&#10;" target="Kw">
+  <data key="d8">15</data>
+</edge>
+<edge source="Ta&#10;" target="Sa">
+  <data key="d8">34</data>
+</edge>
+<edge source="Ta&#10;" target="Zi">
+  <data key="d8">59</data>
+</edge>
+<edge source="Ta&#10;" target="Em">
+  <data key="d8">83</data>
+</edge>
+<edge source="Ta&#10;" target="Ch">
+  <data key="d8">17</data>
+</edge>
+<edge source="Ta&#10;" target="Ve">
+  <data key="d8">8</data>
+</edge>
+<edge source="Ta&#10;" target="Ja">
+  <data key="d8">55</data>
+</edge>
+<edge source="Ta&#10;" target="Vz">
+  <data key="d8">33</data>
+</edge>
+<edge source="Ta&#10;" target="Ep">
+  <data key="d8">422</data>
+</edge>
+<edge source="Ta&#10;" target="Gi">
+  <data key="d8">89</data>
+</edge>
+<edge source="We" target="Yo">
+  <data key="d8">336</data>
+</edge>
+<edge source="We" target="Bo">
+  <data key="d8">160</data>
+</edge>
+<edge source="We" target="Fa">
+  <data key="d8">68</data>
+</edge>
+<edge source="We" target="Ha">
+  <data key="d8">99</data>
+</edge>
+<edge source="We" target="Dr">
+  <data key="d8">56</data>
+</edge>
+<edge source="We" target="Ki">
+  <data key="d8">50</data>
+</edge>
+<edge source="We" target="Me">
+  <data key="d8">43</data>
+</edge>
+<edge source="We" target="Ka">
+  <data key="d8">109</data>
+</edge>
+<edge source="We" target="Ok">
+  <data key="d8">82</data>
+</edge>
+<edge source="We" target="Mo">
+  <data key="d8">52</data>
+</edge>
+<edge source="We" target="Kw">
+  <data key="d8">34</data>
+</edge>
+<edge source="We" target="Sa">
+  <data key="d8">62</data>
+</edge>
+<edge source="We" target="Zi">
+  <data key="d8">24</data>
+</edge>
+<edge source="We" target="Em">
+  <data key="d8">61</data>
+</edge>
+<edge source="We" target="Ch">
+  <data key="d8">123</data>
+</edge>
+<edge source="We" target="Ve">
+  <data key="d8">42</data>
+</edge>
+<edge source="We" target="Ja">
+  <data key="d8">112</data>
+</edge>
+<edge source="We" target="Vz">
+  <data key="d8">116</data>
+</edge>
+<edge source="We" target="Ep">
+  <data key="d8">21</data>
+</edge>
+<edge source="We" target="Gi">
+  <data key="d8">51</data>
+</edge>
+<edge source="Yo" target="Bo">
+  <data key="d8">67</data>
+</edge>
+<edge source="Yo" target="Fa">
+  <data key="d8">40</data>
+</edge>
+<edge source="Yo" target="Ha">
+  <data key="d8">64</data>
+</edge>
+<edge source="Yo" target="Dr">
+  <data key="d8">64</data>
+</edge>
+<edge source="Yo" target="Ki">
+  <data key="d8">42</data>
+</edge>
+<edge source="Yo" target="Me">
+  <data key="d8">77</data>
+</edge>
+<edge source="Yo" target="Ka">
+  <data key="d8">95</data>
+</edge>
+<edge source="Yo" target="Ok">
+  <data key="d8">52</data>
+</edge>
+<edge source="Yo" target="Mo">
+  <data key="d8">14</data>
+</edge>
+<edge source="Yo" target="Kw">
+  <data key="d8">8</data>
+</edge>
+<edge source="Yo" target="Sa">
+  <data key="d8">37</data>
+</edge>
+<edge source="Yo" target="Zi">
+  <data key="d8">32</data>
+</edge>
+<edge source="Yo" target="Em">
+  <data key="d8">74</data>
+</edge>
+<edge source="Yo" target="Ch">
+  <data key="d8">61</data>
+</edge>
+<edge source="Yo" target="Ve">
+  <data key="d8">23</data>
+</edge>
+<edge source="Yo" target="Ja">
+  <data key="d8">55</data>
+</edge>
+<edge source="Yo" target="Vz">
+  <data key="d8">76</data>
+</edge>
+<edge source="Yo" target="Ep">
+  <data key="d8">26</data>
+</edge>
+<edge source="Yo" target="Gi">
+  <data key="d8">97</data>
+</edge>
+<edge source="Bo" target="Fa">
+  <data key="d8">29</data>
+</edge>
+<edge source="Bo" target="Ha">
+  <data key="d8">105</data>
+</edge>
+<edge source="Bo" target="Dr">
+  <data key="d8">23</data>
+</edge>
+<edge source="Bo" target="Ki">
+  <data key="d8">29</data>
+</edge>
+<edge source="Bo" target="Me">
+  <data key="d8">9</data>
+</edge>
+<edge source="Bo" target="Ka">
+  <data key="d8">85</data>
+</edge>
+<edge source="Bo" target="Ok">
+  <data key="d8">55</data>
+</edge>
+<edge source="Bo" target="Mo">
+  <data key="d8">42</data>
+</edge>
+<edge source="Bo" target="Kw">
+  <data key="d8">35</data>
+</edge>
+<edge source="Bo" target="Sa">
+  <data key="d8">38</data>
+</edge>
+<edge source="Bo" target="Zi">
+  <data key="d8">30</data>
+</edge>
+<edge source="Bo" target="Em">
+  <data key="d8">29</data>
+</edge>
+<edge source="Bo" target="Ch">
+  <data key="d8">238</data>
+</edge>
+<edge source="Bo" target="Ve">
+  <data key="d8">26</data>
+</edge>
+<edge source="Bo" target="Ja">
+  <data key="d8">39</data>
+</edge>
+<edge source="Bo" target="Vz">
+  <data key="d8">63</data>
+</edge>
+<edge source="Bo" target="Ep">
+  <data key="d8">8</data>
+</edge>
+<edge source="Bo" target="Gi">
+  <data key="d8">16</data>
+</edge>
+<edge source="Fa" target="Ha">
+  <data key="d8">39</data>
+</edge>
+<edge source="Fa" target="Dr">
+  <data key="d8">54</data>
+</edge>
+<edge source="Fa" target="Ki">
+  <data key="d8">147</data>
+</edge>
+<edge source="Fa" target="Me">
+  <data key="d8">45</data>
+</edge>
+<edge source="Fa" target="Ka">
+  <data key="d8">45</data>
+</edge>
+<edge source="Fa" target="Ok">
+  <data key="d8">47</data>
+</edge>
+<edge source="Fa" target="Mo">
+  <data key="d8">79</data>
+</edge>
+<edge source="Fa" target="Kw">
+  <data key="d8">87</data>
+</edge>
+<edge source="Fa" target="Sa">
+  <data key="d8">242</data>
+</edge>
+<edge source="Fa" target="Zi">
+  <data key="d8">19</data>
+</edge>
+<edge source="Fa" target="Em">
+  <data key="d8">20</data>
+</edge>
+<edge source="Fa" target="Ch">
+  <data key="d8">29</data>
+</edge>
+<edge source="Fa" target="Ve">
+  <data key="d8">160</data>
+</edge>
+<edge source="Fa" target="Ja">
+  <data key="d8">93</data>
+</edge>
+<edge source="Fa" target="Vz">
+  <data key="d8">66</data>
+</edge>
+<edge source="Fa" target="Ep">
+  <data key="d8">20</data>
+</edge>
+<edge source="Fa" target="Gi">
+  <data key="d8">22</data>
+</edge>
+<edge source="Ha" target="Dr">
+  <data key="d8">70</data>
+</edge>
+<edge source="Ha" target="Ki">
+  <data key="d8">41</data>
+</edge>
+<edge source="Ha" target="Me">
+  <data key="d8">104</data>
+</edge>
+<edge source="Ha" target="Ka">
+  <data key="d8">112</data>
+</edge>
+<edge source="Ha" target="Ok">
+  <data key="d8">29</data>
+</edge>
+<edge source="Ha" target="Mo">
+  <data key="d8">20</data>
+</edge>
+<edge source="Ha" target="Kw">
+  <data key="d8">24</data>
+</edge>
+<edge source="Ha" target="Sa">
+  <data key="d8">17</data>
+</edge>
+<edge source="Ha" target="Zi">
+  <data key="d8">63</data>
+</edge>
+<edge source="Ha" target="Em">
+  <data key="d8">44</data>
+</edge>
+<edge source="Ha" target="Ch">
+  <data key="d8">130</data>
+</edge>
+<edge source="Ha" target="Ve">
+  <data key="d8">18</data>
+</edge>
+<edge source="Ha" target="Ja">
+  <data key="d8">78</data>
+</edge>
+<edge source="Ha" target="Vz">
+  <data key="d8">100</data>
+</edge>
+<edge source="Ha" target="Ep">
+  <data key="d8">60</data>
+</edge>
+<edge source="Ha" target="Gi">
+  <data key="d8">32</data>
+</edge>
+<edge source="Dr" target="Ki">
+  <data key="d8">255</data>
+</edge>
+<edge source="Dr" target="Me">
+  <data key="d8">106</data>
+</edge>
+<edge source="Dr" target="Ka">
+  <data key="d8">37</data>
+</edge>
+<edge source="Dr" target="Ok">
+  <data key="d8">43</data>
+</edge>
+<edge source="Dr" target="Mo">
+  <data key="d8">9</data>
+</edge>
+<edge source="Dr" target="Kw">
+  <data key="d8">87</data>
+</edge>
+<edge source="Dr" target="Sa">
+  <data key="d8">27</data>
+</edge>
+<edge source="Dr" target="Zi">
+  <data key="d8">15</data>
+</edge>
+<edge source="Dr" target="Em">
+  <data key="d8">56</data>
+</edge>
+<edge source="Dr" target="Ch">
+  <data key="d8">31</data>
+</edge>
+<edge source="Dr" target="Ve">
+  <data key="d8">20</data>
+</edge>
+<edge source="Dr" target="Ja">
+  <data key="d8">91</data>
+</edge>
+<edge source="Dr" target="Vz">
+  <data key="d8">43</data>
+</edge>
+<edge source="Dr" target="Ep">
+  <data key="d8">180</data>
+</edge>
+<edge source="Dr" target="Gi">
+  <data key="d8">43</data>
+</edge>
+<edge source="Ki" target="Ja">
+  <data key="d8">82</data>
+</edge>
+<edge source="Ki" target="Me">
+  <data key="d8">60</data>
+</edge>
+<edge source="Ki" target="Ka">
+  <data key="d8">37</data>
+</edge>
+<edge source="Ki" target="Ok">
+  <data key="d8">66</data>
+</edge>
+<edge source="Ki" target="Mo">
+  <data key="d8">16</data>
+</edge>
+<edge source="Ki" target="Kw">
+  <data key="d8">61</data>
+</edge>
+<edge source="Ki" target="Sa">
+  <data key="d8">310</data>
+</edge>
+<edge source="Ki" target="Zi">
+  <data key="d8">11</data>
+</edge>
+<edge source="Ki" target="Em">
+  <data key="d8">39</data>
+</edge>
+<edge source="Ki" target="Ch">
+  <data key="d8">24</data>
+</edge>
+<edge source="Ki" target="Ve">
+  <data key="d8">22</data>
+</edge>
+<edge source="Ki" target="Vz">
+  <data key="d8">53</data>
+</edge>
+<edge source="Ki" target="Ep">
+  <data key="d8">116</data>
+</edge>
+<edge source="Ki" target="Gi">
+  <data key="d8">39</data>
+</edge>
+<edge source="Me" target="Ka">
+  <data key="d8">92</data>
+</edge>
+<edge source="Me" target="Ok">
+  <data key="d8">36</data>
+</edge>
+<edge source="Me" target="Mo">
+  <data key="d8">14</data>
+</edge>
+<edge source="Me" target="Kw">
+  <data key="d8">7</data>
+</edge>
+<edge source="Me" target="Sa">
+  <data key="d8">73</data>
+</edge>
+<edge source="Me" target="Zi">
+  <data key="d8">240</data>
+</edge>
+<edge source="Me" target="Em">
+  <data key="d8">93</data>
+</edge>
+<edge source="Me" target="Ch">
+  <data key="d8">32</data>
+</edge>
+<edge source="Me" target="Ve">
+  <data key="d8">20</data>
+</edge>
+<edge source="Me" target="Ja">
+  <data key="d8">29</data>
+</edge>
+<edge source="Me" target="Vz">
+  <data key="d8">45</data>
+</edge>
+<edge source="Me" target="Ep">
+  <data key="d8">151</data>
+</edge>
+<edge source="Me" target="Gi">
+  <data key="d8">94</data>
+</edge>
+<edge source="Ka" target="Ok">
+  <data key="d8">96</data>
+</edge>
+<edge source="Ka" target="Mo">
+  <data key="d8">35</data>
+</edge>
+<edge source="Ka" target="Kw">
+  <data key="d8">29</data>
+</edge>
+<edge source="Ka" target="Sa">
+  <data key="d8">51</data>
+</edge>
+<edge source="Ka" target="Zi">
+  <data key="d8">64</data>
+</edge>
+<edge source="Ka" target="Em">
+  <data key="d8">59</data>
+</edge>
+<edge source="Ka" target="Ch">
+  <data key="d8">107</data>
+</edge>
+<edge source="Ka" target="Ve">
+  <data key="d8">24</data>
+</edge>
+<edge source="Ka" target="Ja">
+  <data key="d8">77</data>
+</edge>
+<edge source="Ka" target="Vz">
+  <data key="d8">219</data>
+</edge>
+<edge source="Ka" target="Ep">
+  <data key="d8">59</data>
+</edge>
+<edge source="Ka" target="Gi">
+  <data key="d8">40</data>
+</edge>
+<edge source="Ok" target="Mo">
+  <data key="d8">18</data>
+</edge>
+<edge source="Ok" target="Kw">
+  <data key="d8">74</data>
+</edge>
+<edge source="Ok" target="Sa">
+  <data key="d8">53</data>
+</edge>
+<edge source="Ok" target="Zi">
+  <data key="d8">28</data>
+</edge>
+<edge source="Ok" target="Em">
+  <data key="d8">26</data>
+</edge>
+<edge source="Ok" target="Ch">
+  <data key="d8">34</data>
+</edge>
+<edge source="Ok" target="Ve">
+  <data key="d8">20</data>
+</edge>
+<edge source="Ok" target="Ja">
+  <data key="d8">98</data>
+</edge>
+<edge source="Ok" target="Vz">
+  <data key="d8">93</data>
+</edge>
+<edge source="Ok" target="Ep">
+  <data key="d8">49</data>
+</edge>
+<edge source="Ok" target="Gi">
+  <data key="d8">23</data>
+</edge>
+<edge source="Mo" target="Ja">
+  <data key="d8">42</data>
+</edge>
+<edge source="Mo" target="Kw">
+  <data key="d8">268</data>
+</edge>
+<edge source="Mo" target="Sa">
+  <data key="d8">48</data>
+</edge>
+<edge source="Mo" target="Zi">
+  <data key="d8">4</data>
+</edge>
+<edge source="Mo" target="Em">
+  <data key="d8">18</data>
+</edge>
+<edge source="Mo" target="Ch">
+  <data key="d8">12</data>
+</edge>
+<edge source="Mo" target="Ve">
+  <data key="d8">325</data>
+</edge>
+<edge source="Mo" target="Vz">
+  <data key="d8">43</data>
+</edge>
+<edge source="Mo" target="Ep">
+  <data key="d8">31</data>
+</edge>
+<edge source="Mo" target="Gi">
+  <data key="d8">10</data>
+</edge>
+<edge source="Kw" target="Sa">
+  <data key="d8">25</data>
+</edge>
+<edge source="Kw" target="Zi">
+  <data key="d8">5</data>
+</edge>
+<edge source="Kw" target="Em">
+  <data key="d8">9</data>
+</edge>
+<edge source="Kw" target="Ch">
+  <data key="d8">20</data>
+</edge>
+<edge source="Kw" target="Ve">
+  <data key="d8">206</data>
+</edge>
+<edge source="Kw" target="Ja">
+  <data key="d8">154</data>
+</edge>
+<edge source="Kw" target="Vz">
+  <data key="d8">55</data>
+</edge>
+<edge source="Kw" target="Ep">
+  <data key="d8">15</data>
+</edge>
+<edge source="Kw" target="Gi">
+  <data key="d8">11</data>
+</edge>
+<edge source="Sa" target="Zi">
+  <data key="d8">7</data>
+</edge>
+<edge source="Sa" target="Em">
+  <data key="d8">42</data>
+</edge>
+<edge source="Sa" target="Ch">
+  <data key="d8">18</data>
+</edge>
+<edge source="Sa" target="Ve">
+  <data key="d8">76</data>
+</edge>
+<edge source="Sa" target="Ja">
+  <data key="d8">35</data>
+</edge>
+<edge source="Sa" target="Vz">
+  <data key="d8">43</data>
+</edge>
+<edge source="Sa" target="Ep">
+  <data key="d8">68</data>
+</edge>
+<edge source="Sa" target="Gi">
+  <data key="d8">32</data>
+</edge>
+<edge source="Zi" target="Em">
+  <data key="d8">23</data>
+</edge>
+<edge source="Zi" target="Ch">
+  <data key="d8">31</data>
+</edge>
+<edge source="Zi" target="Ve">
+  <data key="d8">8</data>
+</edge>
+<edge source="Zi" target="Ja">
+  <data key="d8">31</data>
+</edge>
+<edge source="Zi" target="Vz">
+  <data key="d8">24</data>
+</edge>
+<edge source="Zi" target="Ep">
+  <data key="d8">70</data>
+</edge>
+<edge source="Zi" target="Gi">
+  <data key="d8">25</data>
+</edge>
+<edge source="Em" target="Ch">
+  <data key="d8">23</data>
+</edge>
+<edge source="Em" target="Ve">
+  <data key="d8">20</data>
+</edge>
+<edge source="Em" target="Ja">
+  <data key="d8">21</data>
+</edge>
+<edge source="Em" target="Vz">
+  <data key="d8">44</data>
+</edge>
+<edge source="Em" target="Ep">
+  <data key="d8">68</data>
+</edge>
+<edge source="Em" target="Gi">
+  <data key="d8">442</data>
+</edge>
+<edge source="Ch" target="Ve">
+  <data key="d8">11</data>
+</edge>
+<edge source="Ch" target="Ja">
+  <data key="d8">85</data>
+</edge>
+<edge source="Ch" target="Vz">
+  <data key="d8">136</data>
+</edge>
+<edge source="Ch" target="Ep">
+  <data key="d8">17</data>
+</edge>
+<edge source="Ch" target="Gi">
+  <data key="d8">12</data>
+</edge>
+<edge source="Ve" target="Ja">
+  <data key="d8">61</data>
+</edge>
+<edge source="Ve" target="Vz">
+  <data key="d8">39</data>
+</edge>
+<edge source="Ve" target="Ep">
+  <data key="d8">6</data>
+</edge>
+<edge source="Ve" target="Gi">
+  <data key="d8">12</data>
+</edge>
+<edge source="Ja" target="Vz">
+  <data key="d8">126</data>
+</edge>
+<edge source="Ja" target="Ep">
+  <data key="d8">142</data>
+</edge>
+<edge source="Ja" target="Gi">
+  <data key="d8">17</data>
+</edge>
+<edge source="Vz" target="Ep">
+  <data key="d8">28</data>
+</edge>
+<edge source="Vz" target="Gi">
+  <data key="d8">39</data>
+</edge>
+<edge source="Ep" target="Gi">
+  <data key="d8">69</data>
+</edge>
+</graph></graphml>
