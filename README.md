@@ -34,6 +34,8 @@ Time resolution of data colllection (within a day): Resolution of data collectio
 
 Time span of data collection (within a day): Total duration of data collection within a day.
 
+Attributes Available: The node attributes provided in the study. If available, they are included in the graphml files
+
 Note: Additional notes on the dataset
 
 
