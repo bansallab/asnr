@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/mouse_lopes.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|280
 total edges|2792
 network density|0.071
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|12 hours
 Note|Network represents wild mouse encounters in barn setting
 **Citation** | Lopes, P. C., Block, P., & K_nig, B. <br> (2016). Infection-induced behavioural changes reduce connectivity and <br> the potential for disease spread in wild <br> mice contact networks. Scientific reports, 6, 31790. <br>
-![NetworkImage](/Networks/Network%20Visualizations/mouse_lopes.png)
