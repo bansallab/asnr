@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/macaque_massen_grooming_bouts.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|28.0 - 28.0
 total edges|228.0 - 378.0
 network density|0.603 - 1.0
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|1 hour
 Time span of data collection (within a day)|few minutes
 Note|Two networks represent proximity (contact sits) and grooming patterns - who was sitting in contact with whom and who was grooming whom.
 **Citation** | Massen, Jorg JM, and Elisabeth HM Sterck. "Stability <br> and durability of intra-and intersex social bonds <br> of captive rhesus macaques (Macaca mulatta)." International <br> Journal of Primatology 34.4 (2013): 770-791.
-![NetworkImage](/Networks/Network%20Visualizations/macaque_massen_grooming_bouts.png)
