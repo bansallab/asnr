@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/hens_guhl_pecking_order.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|32
 total edges|496
 network density|1.0
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|
 Note|
 **Citation** | Guhl, A. M. "Social behavior of the domestic <br> fowl." Transactions of the Kansas Academy of <br> Science (1903-) 71.3 (1968): 379-384.
-![NetworkImage](/Networks/Network%20Visualizations/hens_guhl_pecking_order.png)
