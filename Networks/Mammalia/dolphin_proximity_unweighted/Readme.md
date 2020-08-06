@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/dolphin_lusseau_social.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|62
 total edges|159
 network density|0.084
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|Not specified
 Note|
 **Citation** | Lusseau, David, et al. "The bottlenose dolphin community <br> of Doubtful Sound features a large proportion <br> of long-lasting associations." Behavioral Ecology and Sociobiology <br> 54.4 (2003): 396-405.
-![NetworkImage](/Networks/Network%20Visualizations/dolphin_lusseau_social.png)
