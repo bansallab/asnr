@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+
 total nodes|43
 total edges|226
 network density|0.25
