@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/spidermonkeys_rimbach.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|17
 total edges|70
 network density|0.515
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|15min
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
 **Citation** | Rimbach, Rebecca, et al. "Brown spider monkeys (Ateles <br> hybridus): a model for differentiating the role <br> of social networks and physical contact on <br> parasite transmission dynamics." Phil. Trans. R. Soc. <br> B 370.1669 (2015): 20140110.
-![NetworkImage](/Networks/Network%20Visualizations/spidermonkeys_rimbach.png)
