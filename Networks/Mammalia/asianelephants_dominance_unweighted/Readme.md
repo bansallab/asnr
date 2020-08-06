@@ -1,6 +1,6 @@
 network attribute|value
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/asianelephant_desilva.png) *he size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/asianelephant_desilva.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|73
 total edges|60
 network density|0.023
