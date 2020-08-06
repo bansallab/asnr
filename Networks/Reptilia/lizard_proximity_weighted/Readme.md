@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/lizard_bull_social.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|60
 total edges|318
 network density|0.18
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|10 minutes
 Time span of data collection (within a day)|24 hours
 Note|
 **Citation** | Bull, C. M., S. S. Godfrey, and D. <br> M. Gordon. "Social networks and the spread <br> of Salmonella in a sleepy lizard population." <br> Molecular Ecology 21.17 (2012): 4386-4392.
-![NetworkImage](/Networks/Network%20Visualizations/lizard_bull_social.png)
