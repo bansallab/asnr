@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/voles_begon_site_KCS_trapping_session_00.png) *KCS Group, Session 00: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|2.0 - 181.0
 total edges|1.0 - 515.0
 network density|0.016 - 1.0
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|12 hours
 Time span of data collection (within a day)|24 hours
 Note|Networks represent social data combined over two consecutive trapping sessions at four sites (BHP, KCS, PLJ and ROB). Populations were trapped in _primary sessions every 28 days from March to November, and every 56 days from November to March.
 **Citation** | Davis, Stephen, et al. "Spatial analyses of wildlife <br> contact networks." Journal of the Royal Society <br> Interface 12.102 (2015): 20141004.
-![NetworkImage](/Networks/Network%20Visualizations/voles_begon_site_KCS_trapping_session_00.png)
