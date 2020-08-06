@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-![NetworkImage](/Networks/Network%20Visualizations/stickleback_atton_group_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/stickleback_atton_group_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|10.0 - 10.0
 total edges|45.0 - 45.0
 network density|0.978 - 1.0
