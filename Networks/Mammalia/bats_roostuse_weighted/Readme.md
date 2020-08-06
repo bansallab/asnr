@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/bat_silvis_roosting.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|43
 total edges|546
 network density|0.605
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|8 hours
 Note|
 **Citation** | Silvis, Alexander, et al. "Roosting and foraging social <br> structure of the endangered Indiana bat (Myotis <br> sodalis)." PloS one 9.5 (2014): e96937.
-![NetworkImage](/Networks/Network%20Visualizations/bat_silvis_roosting.png)
