@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|10 minutes
 Time span of data collection (within a day)|7 hours
 Note|Multiple networks from same animals. Edges are different interaction types
 **Citation** | So, N., Franks, B., Lim, S., and Curley, <br> J.P. 2015. A social network approach reveals <br> associations between mouse social dominance and brain <br> gene expression. PlosOne 10(7):e0134509
+![NetworkImage](/Networks/Network%20Visualizations/mouse_so_fighting.png)

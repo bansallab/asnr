@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
 **Citation** | Dale F Lott. Dominance relations and breeding rate <br> in mature male American bison. Zeitschrift f_r <br> Tierpsychologie, 49(4):418-432, 1979.
+![NetworkImage](/Networks/Network%20Visualizations/bison_lott_dominance.png)

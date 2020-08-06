@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|0.5 sec
 Time span of data collection (within a day)|24 hours
 Note|Networks represent six separate colonies of the ant. The authors recorded the position and orientation of all individuals twice per second to reconstruct spatial movement and infer all social interactions occurring over the 41 days of the experiment.
 **Citation** | Mersch, Danielle P., Alessandro Crespi, and Laurent Keller. <br> "Tracking individuals shows spatial fidelity is a <br> key regulator of ant social organization."Science 340.6136 <br> (2013): 1090-1093.
+![NetworkImage](/Networks/Network%20Visualizations/ant_mersch_col1_day04.png)

@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|Not specified
 Note|
 **Citation** | Lusseau, David, et al. "The bottlenose dolphin community <br> of Doubtful Sound features a large proportion <br> of long-lasting associations." Behavioral Ecology and Sociobiology <br> 54.4 (2003): 396-405.
+![NetworkImage](/Networks/Network%20Visualizations/dolphin_lusseau_social.png)

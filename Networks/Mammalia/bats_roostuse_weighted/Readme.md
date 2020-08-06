@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|8 hours
 Note|
 **Citation** | Silvis, Alexander, et al. "Roosting and foraging social <br> structure of the endangered Indiana bat (Myotis <br> sodalis)." PloS one 9.5 (2014): e96937.
+![NetworkImage](/Networks/Network%20Visualizations/bat_silvis_roosting.png)

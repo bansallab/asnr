@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
 **Citation** | Farine, Damien R., and Peter J. Milburn. "Social <br> organisation of thornbill-dominated mixed-species flocks using social <br> network analysis." Behavioral Ecology and Sociobiology 67.2 <br> (2013): 321-330.
+![NetworkImage](/Networks/Network%20Visualizations/thornbills_farine.png)

@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|2 hours
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
 **Citation** | Takahata, Yukio. "Diachronic changes in the dominance relations <br> of adult female Japanese monkeys of the <br> Arashiyama B group." The monkeys of Arashiyama. <br> State University of New York Press, Albany <br> (1991): 123-139.
+![NetworkImage](/Networks/Network%20Visualizations/macaque_takahata_dominance.png)

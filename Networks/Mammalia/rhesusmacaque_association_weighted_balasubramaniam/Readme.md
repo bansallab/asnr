@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|6 hours
 Note|Networks of social structure from 3 different groups of macaque. One group was observed in the fall, the other two were observed in spring
 **Citation** | Balasubramaniam, K., Beisner, B., Guan, J., Vandeleest, J., <br> Fushing, H., Atwill, E., & McCowan, B. <br> (2018). Social network community structure and the <br> contact-mediated sharing of commensal E. coli among <br> captive rhesus macaques (Macaca mulatta). PeerJ, 6, <br> e4271.
+![NetworkImage](/Networks/Network%20Visualizations/macaque_balasubramaniam_grooming2.png)

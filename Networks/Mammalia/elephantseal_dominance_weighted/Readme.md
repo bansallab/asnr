@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Network represent interactions collected over different years and/or in different colonies
 **Citation** | Casey, Caroline, et al. "Rival assessment among northern <br> elephant seals: evidence of associative learning during <br> male___male contests." Royal Society open science 2.8 <br> (2015): 150228.
+![NetworkImage](/Networks/Network%20Visualizations/elephantseals_casey_dominance_phys_contact_2011_2012.png)

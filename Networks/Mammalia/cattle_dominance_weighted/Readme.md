@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|1 hour
 Note|
 **Citation** | Martin W. Schein and Milton H. Fohrman. Social <br> dominance relationships in a herd of dairy <br> cattle. The British J. of Animal Behaviour, <br> 3(2):45-55, 1955.
+![NetworkImage](/Networks/Network%20Visualizations/cattle_schein_dominance.png)

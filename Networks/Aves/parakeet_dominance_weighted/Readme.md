@@ -30,3 +30,4 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|not specified
 Note|Network of social structure of captive birds in newly-formed groups after one week
 **Citation** | Hobson, E. A., & DeDeo, S. (2015). Social <br> feedback and the emergence of rank in <br> animal society. PLoS Comput Biol, 11(9), e1004411. <br>
+![NetworkImage](/Networks/Network%20Visualizations/parakeet_hobson_G2_D2.png)
