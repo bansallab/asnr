@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/baboon_franz_association_group_01.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|4.0 - 26.0
 total edges|6.0 - 325.0
 network density|0.0 - 0.667
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent grooming interaction or association between five social groups of baboons. Each network  summarizes data collected within 30 days before and 90 days after each knockout. A natural knockout was considered to have occurred when a given alpha or beta male was present in the group for at least three months prior to his disappearance, and then he disappeared permanently from the group.
 **Citation** | Franz, Mathias, Jeanne Altmann, and Susan C. Alberts. <br> "Knockouts of high-ranking males have limited impact <br> on baboon social networks." Current zoology 61.1 <br> (2015): 107-113.
-![NetworkImage](/Networks/Network%20Visualizations/baboon_franz_association_group_01.png)
