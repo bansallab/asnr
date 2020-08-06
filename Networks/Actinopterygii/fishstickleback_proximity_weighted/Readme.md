@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/stickleback_atton_group_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|10.0 - 10.0
 total edges|45.0 - 45.0
 network density|0.978 - 1.0
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|6 min
 Time span of data collection (within a day)|120 min
 Note|Networks represent social data collected from seven replicate groups of fish
 **Citation** | Atton, N., et al. "Familiarity affects social network <br> structure and discovery of prey patch locations <br> in foraging stickleback shoals." Proceedings of the <br> Royal Society of London B: Biological Sciences <br> 281.1789 (2014): 20140579.
-![NetworkImage](/Networks/Network%20Visualizations/stickleback_atton_group_1.png)
