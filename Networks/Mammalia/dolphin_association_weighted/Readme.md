@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/dolphin_gazda_TRAVEL.png) *Travel Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|151.0 - 291.0
 total edges|1032.0 - 3182.0
 network density|0.059 - 0.137
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|5min
 Note|Four networks: an overall network that does not take behaviour into account, and the socialize network, the travel network and the forage network that correspond to their respective behaviours.
 **Citation** | Gazda, Stefanie, et al. "The importance of delineating <br> networks by activity type in bottlenose dolphins <br> (Tursiops truncatus) in Cedar Key, Florida." Royal <br> Society open science 2.3 (2015): 140263.
-![NetworkImage](/Networks/Network%20Visualizations/dolphin_gazda_TRAVEL.png)
