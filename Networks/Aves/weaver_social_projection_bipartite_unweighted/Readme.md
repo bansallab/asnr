@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/weaver_dijk_social_00.png) *Group 00: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|5.0 - 64.0
 total edges|9.0 - 177.0
 network density|0.088 - 1.0
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent social data collected from 23 colonies of sociable weavers
 **Citation** | Dijk, Ren© E., et al. "Cooperative investment in <br> public goods is kin directed in communal <br> nests of social birds." Ecology letters 17.9 <br> (2014): 1141-1148.
-![NetworkImage](/Networks/Network%20Visualizations/weaver_dijk_social_00.png)
