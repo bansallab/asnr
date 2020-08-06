@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/sparrow_shizuka_flock_season3.png) *Season 3 Group: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|27.0 - 46.0
 total edges|163.0 - 348.0
 network density|0.336 - 0.464
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent social data collected during two non-breeding seasons: October 2010_February 2011 (Season 2) and October2011_April 2012 (Season 3).
 **Citation** | Shizuka, Daizaburo, et al. "Across__year social stability shapes <br> network structure in wintering migrant sparrows." Ecology <br> letters 17.8 (2014): 998-1007.
-![NetworkImage](/Networks/Network%20Visualizations/sparrow_shizuka_flock_season3.png)
