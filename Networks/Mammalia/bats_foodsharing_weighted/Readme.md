@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/vampirebats_carter_mouth_licking.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|21
 total edges|72
 network density|0.343
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|2 hours
 Note|
 **Citation** | Carter, Gerald G., and Gerald S. Wilkinson. "Food <br> sharing in vampire bats: reciprocal help predicts <br> donations more than relatedness or harassment."Proceedings of <br> the Royal Society of London B: Biological <br> Sciences 280.1753 (2013): 20122573.
-![NetworkImage](/Networks/Network%20Visualizations/vampirebats_carter_mouth_licking.png)
