@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/kangaroo_grant_interactions.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|17
 total edges|91
 network density|0.669
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
 **Citation** | TR Grant. Dominance and association among members of <br> a captive and a free-ranging group of <br> grey kangaroos (Macropus giganteus). Animal Behaviour, 21(3):449-456, <br> 1973.
-![NetworkImage](/Networks/Network%20Visualizations/kangaroo_grant.png)
