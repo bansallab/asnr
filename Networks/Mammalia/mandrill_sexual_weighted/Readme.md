@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/mandrill_wickings_sexual_network.png) *The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|16
 total edges|20
 network density|0.167
