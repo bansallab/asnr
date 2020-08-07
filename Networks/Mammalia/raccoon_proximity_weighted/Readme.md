@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/raccoon_reynolds_matrix_01.png) *Matrix 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/raccoon_reynolds_matrix_01.png) *Matrix 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|8.0 - 24.0
 total edges|17.0 - 100.0
 network density|0.144 - 0.679
@@ -30,8 +30,4 @@ Total duration of data collection|7days
 Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|24 hours
 Note|Networks represents adjacency matrices constructed for each week of the year
-<<<<<<< HEAD
 **Citation** | Reynolds, Jennifer JH, et al. "Raccoon contact networks <br> predict seasonal susceptibility to rabies outbreaks and <br> limitations of vaccination." Journal of Animal Ecology <br> 84.6 (2015): 1720-1731.
-=======
-**Citation** | Reynolds, Jennifer JH, et al. "Raccoon contact networks <br> predict seasonal susceptibility to rabies outbreaks and <br> limitations of vaccination." Journal of Animal Ecology <br> 84.6 (2015): 1720-1731.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
