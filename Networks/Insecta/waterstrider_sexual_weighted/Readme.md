@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2000> Network Visualization | ![NetworkImage](/Networks/Visualizations/waterstrider_montigillio_sexual_network_group1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|46.0 - 63.0
 total edges|85.0 - 139.0
 network density|0.051 - 0.109
