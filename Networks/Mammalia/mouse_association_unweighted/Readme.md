@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/mouse_so_fighting.png) *Fighting Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/mouse_so_fighting.png) *Fighting Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|12.0 - 12.0
 total edges|24.0 - 57.0
 network density|0.364 - 0.864
@@ -30,8 +30,4 @@ Total duration of data collection|21 days
 Time resolution of data collection (within a day)|10 minutes
 Time span of data collection (within a day)|7 hours
 Note|Multiple networks from same animals. Edges are different interaction types
-<<<<<<< HEAD
 **Citation** | So, N., Franks, B., Lim, S., and Curley, <br> J.P. 2015. A social network approach reveals <br> associations between mouse social dominance and brain <br> gene expression. PlosOne 10(7):e0134509
-=======
-**Citation** | So, N., Franks, B., Lim, S., and Curley, <br> J.P. 2015. A social network approach reveals <br> associations between mouse social dominance and brain <br> gene expression. PlosOne 10(7):e0134509
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
