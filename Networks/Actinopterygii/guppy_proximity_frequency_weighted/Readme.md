@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-<img width=1000> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/guppy_hasenjager_familiar_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=1000> Network Visualization | ![NetworkImage](/Networks/Visualizations/guppy_hasenjager_familiar_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|6.0 - 6.0
 total edges|15.0 - 15.0
 network density|1.0 - 1.0
@@ -30,8 +30,5 @@ Total duration of data collection|90min
 Time resolution of data collection (within a day)|10 seconds
 Time span of data collection (within a day)|90min
 Note|Networks represent 10 independed replicates of grourp of 5 guppies that were familiar with each other
-<<<<<<< HEAD
-**Citation** | Hasenjager, Matthew J., and Lee Alan Dugatkin. "Familiarity <br> affects network structure and information flow in <br> guppy (Poecilia reticulata) shoals." Behavioral Ecology (2016): <br> arw152.
-=======
 **Citation** | Hasenjager, Matthew J., and Lee Alan Dugatkin. "Familiarity <br> affects network structure and information flow in <br> guppy (Poecilia reticulata) shoals." Behavioral Ecology (2016): <br> arw152.
 >>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
