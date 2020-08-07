@@ -1,6 +1,6 @@
 network attribute|value
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/sheep_hass_dominance.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/sheep_hass_dominance.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|28
 total edges|235
 network density|0.622
@@ -30,8 +30,4 @@ Total duration of data collection|15 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
-<<<<<<< HEAD
 **Citation** | Christine C Hass. Social status in female bighorn <br> sheep (Ovis canadensis): Expression, development and reproductive <br> correlates. J. of Zoology, 225(3):509-523, 1991.
-=======
-**Citation** | Christine C Hass. Social status in female bighorn <br> sheep (Ovis canadensis): Expression, development and reproductive <br> correlates. J. of Zoology, 225(3):509-523, 1991.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
