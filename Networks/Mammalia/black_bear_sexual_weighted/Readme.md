@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/black_bear_schenk_sexual_network.png) *The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|7
 total edges|5
 network density|0.238
