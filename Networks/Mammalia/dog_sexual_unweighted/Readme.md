@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/dog_pal_sexual_network_2006.png) *2006 Network: The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|12.0 - 17.0
 total edges|13.0 - 13.0
 network density|0.096 - 0.197
