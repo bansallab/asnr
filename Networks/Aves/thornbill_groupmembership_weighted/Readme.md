@@ -1,6 +1,6 @@
 network attribute|value
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/thornbills_farine.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/thornbills_farine.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|62
 total edges|1151
 network density|0.609
@@ -30,8 +30,4 @@ Total duration of data collection|2 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
-<<<<<<< HEAD
 **Citation** | Farine, Damien R., and Peter J. Milburn. "Social <br> organisation of thornbill-dominated mixed-species flocks using social <br> network analysis." Behavioral Ecology and Sociobiology 67.2 <br> (2013): 321-330.
-=======
-**Citation** | Farine, Damien R., and Peter J. Milburn. "Social <br> organisation of thornbill-dominated mixed-species flocks using social <br> network analysis." Behavioral Ecology and Sociobiology 67.2 <br> (2013): 321-330.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
