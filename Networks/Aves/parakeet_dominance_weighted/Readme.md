@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/parakeet_hobson_G2_D2.png) *Group G2_D2: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/parakeet_hobson_G2_D2.png) *Group G2_D2: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|19.0 - 21.0
 total edges|98.0 - 131.0
 network density|0.467 - 0.737
@@ -30,8 +30,4 @@ Total duration of data collection|24 days
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|not specified
 Note|Network of social structure of captive birds in newly-formed groups after one week
-<<<<<<< HEAD
-**Citation** | Hobson, E. A., & DeDeo, S. (2015). Social <br> feedback and the emergence of rank in <br> animal society. PLoS Comput Biol, 11(9), e1004411. <br>
-=======
-**Citation** | Hobson, E. A., & DeDeo, S. (2015). Social <br> feedback and the emergence of rank in <br> animal society. PLoS Comput Biol, 11(9), e1004411. <br>
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
+**Citation** | Hobson, E. A., & DeDeo, S. (2015). Social <br> feedback and the emergence of rank in <br> animal society. PLoS Comput Biol, 11(9), e1004411.
