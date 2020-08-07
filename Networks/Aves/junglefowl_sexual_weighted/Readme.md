@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2000> Network Visualization | ![NetworkImage](/Networks/Visualizations/junglefowl_mcdonald_sexual_network_group1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|20.0 - 22.0
 total edges|34.0 - 93.0
 network density|0.179 - 0.403
