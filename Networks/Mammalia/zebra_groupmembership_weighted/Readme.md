@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/zebra_sunderesan_interaction.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|27
 total edges|111
 network density|0.316
@@ -29,4 +30,8 @@ Total duration of data collection|3 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
+<<<<<<< HEAD
 **Citation** | Siva R Sundaresan, Ilya R Fischhoff, Jonathan Dushoff, <br> and Daniel I Rubenstein. Network metrics reveal <br> differences in social organization between two fission-fusion <br> species, Grevy's zebra and onager. Oecologia, 151(1):140-149, <br> 2007.
+=======
+**Citation** | Siva R Sundaresan, Ilya R Fischhoff, Jonathan Dushoff, <br> and Daniel I Rubenstein. Network metrics reveal <br> differences in social organization between two fission-fusion <br> species, Grevy's zebra and onager. Oecologia, 151(1):140-149, <br> 2007.
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b

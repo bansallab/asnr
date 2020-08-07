@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2000> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/geese_kurvers_male_foraging.png) *Male network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|20.0 - 23.0
 total edges|190.0 - 253.0
 network density|0.802 - 0.821
@@ -29,4 +30,8 @@ Total duration of data collection|15 days
 Time resolution of data collection (within a day)|4min
 Time span of data collection (within a day)|4 hours
 Note|Networks represent male and female only network
+<<<<<<< HEAD
 **Citation** | Kurvers, Ralf HJM, et al. "Contrasting context dependence <br> of familiarity and kinship in animal social <br> networks." Animal Behaviour 86.5 (2013): 993-1001.
+=======
+**Citation** | Kurvers, Ralf HJM, et al. "Contrasting context dependence <br> of familiarity and kinship in animal social <br> networks." Animal Behaviour 86.5 (2013): 993-1001.
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b

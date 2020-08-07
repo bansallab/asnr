@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/sparrow_arnberg_social_2009.png) *Group 2009: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|31.0 - 40.0
 total edges|211.0 - 305.0
 network density|0.391 - 0.454
@@ -29,4 +30,8 @@ Total duration of data collection|3 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Two networks collected over two consecutive years
+<<<<<<< HEAD
 **Citation** | Arnberg, Nina N., et al. "Social network structure <br> in wintering golden__crowned sparrows is not correlated <br> with kinship." Molecular ecology 24.19 (2015): 5034-5044. <br>
+=======
+**Citation** | Arnberg, Nina N., et al. "Social network structure <br> in wintering golden__crowned sparrows is not correlated <br> with kinship." Molecular ecology 24.19 (2015): 5034-5044. <br>
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b

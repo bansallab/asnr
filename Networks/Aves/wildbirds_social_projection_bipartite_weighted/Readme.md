@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/wildbird_firth_network_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|126.0 - 149.0
 total edges|1444.0 - 2837.0
 network density|0.164 - 0.257
@@ -29,4 +30,8 @@ Total duration of data collection|6 days
 Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|12 hours
 Note|Each network represents social data collected for consecutive 6-day time window.
+<<<<<<< HEAD
 **Citation** | Firth, Josh A., and Ben C. Sheldon. "Experimental <br> manipulation of avian social structure reveals segregation <br> is carried over across contexts." Proceedings of <br> the Royal Society of London B: Biological <br> Sciences 282.1802 (2015): 20142350.
+=======
+**Citation** | Firth, Josh A., and Ben C. Sheldon. "Experimental <br> manipulation of avian social structure reveals segregation <br> is carried over across contexts." Proceedings of <br> the Royal Society of London B: Biological <br> Sciences 282.1802 (2015): 20142350.
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b

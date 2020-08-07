@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/songbird_adelman.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|117
 total edges|1027
 network density|0.151
@@ -29,4 +30,8 @@ Total duration of data collection|137 days
 Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|24 hours
 Note|
+<<<<<<< HEAD
 **Citation** | Adelman, James S., et al. "Feeder use predicts <br> both acquisition and transmission of a contagious <br> pathogen in a North American songbird." Proc. <br> R. Soc. B. Vol. 282. No. 1815. <br> The Royal Society, 2015.
+=======
+**Citation** | Adelman, James S., et al. "Feeder use predicts <br> both acquisition and transmission of a contagious <br> pathogen in a North American songbird." Proc. <br> R. Soc. B. Vol. 282. No. 1815. <br> The Royal Society, 2015.
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b

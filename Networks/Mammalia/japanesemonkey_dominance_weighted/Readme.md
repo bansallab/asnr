@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/japanese_monkey_takahata.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|62
 total edges|1167
 network density|0.617
@@ -29,4 +30,8 @@ Total duration of data collection|7 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|10 hours
 Note|Network representing social data of ten kin groups during nonmating season
+<<<<<<< HEAD
 **Citation** | Takahata, Y. (1991). Diachronic changes in the dominance <br> relations of adult female Japanese monkeys of <br> the Arashiyama B group. The monkeys of <br> Arashiyama. State University of New York Press, <br> Albany, 123-139.
+=======
+**Citation** | Takahata, Y. (1991). Diachronic changes in the dominance <br> relations of adult female Japanese monkeys of <br> the Arashiyama B group. The monkeys of <br> Arashiyama. State University of New York Press, <br> Albany, 123-139.
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b

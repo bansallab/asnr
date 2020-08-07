@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/beetle_fomica_group_C4_period_1.png) *C4 Group, Period 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|27.0 - 30.0
 total edges|117.0 - 207.0
 network density|0.317 - 0.476
@@ -28,5 +29,10 @@ Edge weight type|simple_ratio_index
 Total duration of data collection|12 days
 Time resolution of data collection (within a day)|3.5 hours
 Time span of data collection (within a day)|few minutes
+<<<<<<< HEAD
 Note|Networks represent four control (C)  and four treatment (T) groups recorded during _undisturbedî phase where individuals were allowed to interact with each other freely.
 **Citation** | Formica, Vincent, et al. "Consistency of animal social <br> networks after disturbance." Behavioral Ecology (2016): arw128. <br>
+=======
+Note|Networks represent four control (C)  and four treatment (T) groups recorded during _undisturbedÓ phase where individuals were allowed to interact with each other freely.
+**Citation** | Formica, Vincent, et al. "Consistency of animal social <br> networks after disturbance." Behavioral Ecology (2016): arw128. <br>
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b

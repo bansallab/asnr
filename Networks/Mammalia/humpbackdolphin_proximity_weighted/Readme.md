@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/humpback_dolphin_hunt.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|50
 total edges|901
 network density|0.736
@@ -29,4 +30,8 @@ Total duration of data collection|2.5 years
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|2.5 years
 Note|Network represents social data collected by boat-surveys over 2.5 years
+<<<<<<< HEAD
 **Citation** | Hunt, T. N., Allen, S. J., Bejder, L., <br> & Parra, G. J. (2019). Assortative interactions <br> revealed in a fission_fusion society of Australian <br> humpback dolphins. Behavioral Ecology, 30(4), 914-927.
+=======
+**Citation** | Hunt, T. N., Allen, S. J., Bejder, L., <br> & Parra, G. J. (2019). Assortative interactions <br> revealed in a fission_fusion society of Australian <br> humpback dolphins. Behavioral Ecology, 30(4), 914-927.
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b

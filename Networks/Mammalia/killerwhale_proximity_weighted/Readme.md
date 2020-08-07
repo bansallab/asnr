@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/killer_whale_guimaraes.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|43
 total edges|226
 network density|0.25
@@ -29,4 +30,8 @@ Total duration of data collection|12 years
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Network representing social data from systematic observations from 1984-1996
+<<<<<<< HEAD
 **Citation** | Guimares Jr, P. R., de Menezes, M. A., <br> Baird, R. W., Lusseau, D., Guimaraes, P., <br> & Dos Reis, S. F. (2007). Vulnerability <br> of a killer whale social network to <br> disease outbreaks. Physical Review E, 76(4), 042901. <br>
+=======
+**Citation** | GuimarÜes Jr, P. R., de Menezes, M. A., <br> Baird, R. W., Lusseau, D., Guimaraes, P., <br> & Dos Reis, S. F. (2007). Vulnerability <br> of a killer whale social network to <br> disease outbreaks. Physical Review E, 76(4), 042901. <br>
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
