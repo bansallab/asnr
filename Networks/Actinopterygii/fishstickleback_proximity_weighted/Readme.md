@@ -34,4 +34,3 @@ Note|Networks represent social data collected from seven replicate groups of fis
 **Citation** | Atton, N., et al. "Familiarity affects social network <br> structure and discovery of prey patch locations <br> in foraging stickleback shoals." Proceedings of the <br> Royal Society of London B: Biological Sciences <br> 281.1789 (2014): 20140579.
 =======
 **Citation** | Atton, N., et al. "Familiarity affects social network <br> structure and discovery of prey patch locations <br> in foraging stickleback shoals." Proceedings of the <br> Royal Society of London B: Biological Sciences <br> 281.1789 (2014): 20140579.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
