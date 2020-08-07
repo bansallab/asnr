@@ -10,11 +10,11 @@ average betweenness centrality (unweighted)|0.005 - 0.017
 average betweenness centrality (weighted)|0.005 - 0.017
 average clustering coefficient (unweighted)|0.23 - 0.68
 average clustering coefficient (weighted)|0.013 - 0.084
-Newman modularity|0.055 - 0.352
-maximum modularity|0.711 - 0.831
-relative modularity|0.066 - 0.43
-group cohesion|0.224 - 0.532
-network diameter|0.224 - 0.532
+Newman modularity|0.055 - 0.349
+maximum modularity|0.72 - 0.817
+relative modularity|0.07 - 0.427
+group cohesion|0.27 - 0.532
+network diameter|0.27 - 0.532
 **Study description**|**value**
 Attributes Available|not available
 Species|*Macaca mulatta*
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|6 hours
 Note|Networks of social structure from 3 different groups of macaque. One group was observed in the fall, the other two were observed in spring
 **Citation** | Balasubramaniam, K., Beisner, B., Guan, J., Vandeleest, J., <br> Fushing, H., Atwill, E., & McCowan, B. <br> (2018). Social network community structure and the <br> contact-mediated sharing of commensal E. coli among <br> captive rhesus macaques (Macaca mulatta). PeerJ, 6, <br> e4271.
-![NetworkImage](/Networks/Network%20Visualizations/macaque_balasubramaniam_grooming2.png)

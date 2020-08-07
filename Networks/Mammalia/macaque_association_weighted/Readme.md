@@ -10,11 +10,11 @@ average betweenness centrality (unweighted)|0.0 - 0.076
 average betweenness centrality (weighted)|0.0 - 0.076
 average clustering coefficient (unweighted)|0.222 - 1.0
 average clustering coefficient (weighted)|0.013 - 0.402
-Newman modularity|0.0 - 0.238
-maximum modularity|0.0 - 0.635
-relative modularity|0.083 - 0.377
-group cohesion|0.577 - 1.0
-network diameter|0.577 - 1.0
+Newman modularity|0.0 - 0.237
+maximum modularity|0.0 - 0.665
+relative modularity|0.083 - 0.356
+group cohesion|0.433 - 1.0
+network diameter|0.433 - 1.0
 **Study description**|**value**
 Attributes Available|sex, rank (in 2006, 2007, 2008)
 Species|*Macaca mulatta*
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|1 hour
 Time span of data collection (within a day)|few minutes
 Note|Two networks represent proximity (contact sits) and grooming patterns - who was sitting in contact with whom and who was grooming whom.
 **Citation** | Massen, Jorg JM, and Elisabeth HM Sterck. "Stability <br> and durability of intra-and intersex social bonds <br> of captive rhesus macaques (Macaca mulatta)." International <br> Journal of Primatology 34.4 (2013): 770-791.
-![NetworkImage](/Networks/Network%20Visualizations/macaque_massen_grooming_bouts.png)

@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Two networks collected over two consecutive years
 **Citation** | Arnberg, Nina N., et al. "Social network structure <br> in wintering golden__crowned sparrows is not correlated <br> with kinship." Molecular ecology 24.19 (2015): 5034-5044. <br>
-![NetworkImage](/Networks/Network%20Visualizations/sparrow_arnberg_social_2009.png)

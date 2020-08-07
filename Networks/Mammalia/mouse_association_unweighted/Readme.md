@@ -11,10 +11,10 @@ average betweenness centrality (weighted)|0.014 - 0.079
 average clustering coefficient (unweighted)|0.5 - 0.872
 average clustering coefficient (weighted)|nan - nan
 Newman modularity|0.026 - 0.286
-maximum modularity|0.485 - 0.661
+maximum modularity|0.442 - 0.661
 relative modularity|0.052 - 0.433
-group cohesion|0.526 - 0.625
-network diameter|0.526 - 0.625
+group cohesion|0.457 - 0.625
+network diameter|0.457 - 0.625
 **Study description**|**value**
 Attributes Available|not available
 Species|*Mus musculus*
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|10 minutes
 Time span of data collection (within a day)|7 hours
 Note|Multiple networks from same animals. Edges are different interaction types
 **Citation** | So, N., Franks, B., Lim, S., and Curley, <br> J.P. 2015. A social network approach reveals <br> associations between mouse social dominance and brain <br> gene expression. PlosOne 10(7):e0134509
-![NetworkImage](/Networks/Network%20Visualizations/mouse_so_fighting.png)

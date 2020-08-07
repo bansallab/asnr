@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.813
 average clustering coefficient (weighted)|0.126
-Newman modularity|0.077
-maximum modularity|0.5
-relative modularity|0.154
+Newman modularity|0.083
+maximum modularity|0.633
+relative modularity|0.131
 group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
 **Citation** | Dale F Lott. Dominance relations and breeding rate <br> in mature male American bison. Zeitschrift f_r <br> Tierpsychologie, 49(4):418-432, 1979.
-![NetworkImage](/Networks/Network%20Visualizations/bison_lott_dominance.png)

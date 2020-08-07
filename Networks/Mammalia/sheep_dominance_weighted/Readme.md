@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.717
 average clustering coefficient (weighted)|0.145
-Newman modularity|0.072
-maximum modularity|0.6
-relative modularity|0.12
+Newman modularity|0.074
+maximum modularity|0.5
+relative modularity|0.148
 group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
 **Citation** | Christine C Hass. Social status in female bighorn <br> sheep (Ovis canadensis): Expression, development and reproductive <br> correlates. J. of Zoology, 225(3):509-523, 1991.
-![NetworkImage](/Networks/Network%20Visualizations/sheep_hass_dominance.png)

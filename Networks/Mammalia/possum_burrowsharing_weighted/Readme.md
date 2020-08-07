@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|24 hours
 Note|
 **Citation** | Banks, Sam C., et al. "Adaptive responses and <br> disruptive effects: how major wildfire influences kinship__based <br> social interactions in a forest marsupial." Molecular <br> ecology 21.3 (2012): 673-684.
-![NetworkImage](/Networks/Network%20Visualizations/possum_banks_burrow_sharing_before_fire_weight=freq.png)

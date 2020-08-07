@@ -10,11 +10,11 @@ average betweenness centrality (unweighted)|0.009 - 0.01
 average betweenness centrality (weighted)|0.009 - 0.01
 average clustering coefficient (unweighted)|0.854 - 0.864
 average clustering coefficient (weighted)|0.038 - 0.076
-Newman modularity|0.032 - 0.047
-maximum modularity|0.416 - 0.444
-relative modularity|0.077 - 0.106
-group cohesion|0.603 - 0.616
-network diameter|0.603 - 0.616
+Newman modularity|0.032 - 0.045
+maximum modularity|0.5 - 0.658
+relative modularity|0.049 - 0.09
+group cohesion|0.374 - 0.545
+network diameter|0.374 - 0.545
 **Study description**|**value**
 Attributes Available|sex
 Species|*Branta leucopsis*
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|4min
 Time span of data collection (within a day)|4 hours
 Note|Networks represent male and female only network
 **Citation** | Kurvers, Ralf HJM, et al. "Contrasting context dependence <br> of familiarity and kinship in animal social <br> networks." Animal Behaviour 86.5 (2013): 993-1001.
-![NetworkImage](/Networks/Network%20Visualizations/geese_kurvers_male_foraging.png)

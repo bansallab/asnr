@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="node" attr.name="Singing effort" attr.type="double"/>
+<key id="d2" for="node" attr.name="Male dry weight (g)" attr.type="double"/>
+<key id="d1" for="node" attr.name="Male body length (mm)" attr.type="double"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="BWBM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.3</data>
+  <data key="d2">0.0075</data>
+  <data key="d3">0.279245283</data>
+</node>
+<node id="BGB">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GYG">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="RBR">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="RYR">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="WRW">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="WWW">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GGGM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.71</data>
+  <data key="d2">0.00715</data>
+  <data key="d3">0.30370370399999996</data>
+</node>
+<node id="GWG">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="YGY">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="YWY">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GRGM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.63</data>
+  <data key="d2">0.00715</data>
+  <data key="d3">0.281124498</data>
+</node>
+<node id="GBG">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GGG">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="WGW">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="YYY">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GWGM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.57</data>
+  <data key="d2">0.0062</data>
+  <data key="d3">0.17578125</data>
+</node>
+<node id="BBB">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GRG">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="YBY">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GYGM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.85</data>
+  <data key="d2">0.0078</data>
+  <data key="d3">0.27099236600000004</data>
+</node>
+<node id="WBW">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="RGRM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.84</data>
+  <data key="d2">0.008233591</data>
+  <data key="d3">0.301204819</data>
+</node>
+<node id="RWRM">
+  <data key="d0">MALE</data>
+  <data key="d1">7.83</data>
+  <data key="d2">0.00465</data>
+  <data key="d3">0.256916996</data>
+</node>
+<node id="WGWM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.83</data>
+  <data key="d2">0.00685</data>
+  <data key="d3">0.146616541</data>
+</node>
+<node id="AAA">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="WRWM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.04</data>
+  <data key="d2">0.00675</data>
+  <data key="d3">0.290322581</data>
+</node>
+<node id="WWWM">
+  <data key="d0">MALE</data>
+  <data key="d1">9.07</data>
+  <data key="d2">0.0067</data>
+  <data key="d3">0.347328244</data>
+</node>
+<node id="BYB">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="WYWM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.41</data>
+  <data key="d2">0.00685</data>
+  <data key="d3">0.35658914700000005</data>
+</node>
+<node id="YGYM">
+  <data key="d0">MALE</data>
+  <data key="d1">7.94</data>
+  <data key="d2">0.0058</data>
+  <data key="d3">0.357976654</data>
+</node>
+<node id="RGR">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="YRYM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.88</data>
+  <data key="d2">0.009000000000000001</data>
+  <data key="d3">0.317647059</data>
+</node>
+<node id="RWR">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="YWYM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.62</data>
+  <data key="d2">0.0064</data>
+  <data key="d3">0.324626866</data>
+</node>
+<node id="YYYM">
+  <data key="d0">MALE</data>
+  <data key="d1">8.26</data>
+  <data key="d2">0.00705</data>
+  <data key="d3">0.30798479100000004</data>
+</node>
+<edge source="BWBM" target="BGB">
+  <data key="d4">1</data>
+</edge>
+<edge source="BWBM" target="GYG">
+  <data key="d4">1</data>
+</edge>
+<edge source="BWBM" target="RBR">
+  <data key="d4">1</data>
+</edge>
+<edge source="BWBM" target="RYR">
+  <data key="d4">1</data>
+</edge>
+<edge source="BWBM" target="WRW">
+  <data key="d4">1</data>
+</edge>
+<edge source="BWBM" target="WWW">
+  <data key="d4">1</data>
+</edge>
+<edge source="BGB" target="GGGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="BGB" target="GRGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="BGB" target="RGRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="BGB" target="YWYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GYG" target="GRGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GYG" target="RGRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GYG" target="RWRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GYG" target="YGYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RBR" target="GWGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RBR" target="RGRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RBR" target="RWRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RBR" target="WYWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RBR" target="YWYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RBR" target="YYYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RYR" target="GYGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RYR" target="RGRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="RYR" target="RWRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WRW" target="GRGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WRW" target="GYGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WRW" target="RGRM">
+  <data key="d4">2</data>
+</edge>
+<edge source="WRW" target="RWRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WRW" target="YRYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WWW" target="GGGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WWW" target="GRGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WWW" target="GYGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WWW" target="RGRM">
+  <data key="d4">2</data>
+</edge>
+<edge source="WWW" target="WWWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WWW" target="YGYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WWW" target="YRYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WWW" target="YYYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GGGM" target="GWG">
+  <data key="d4">1</data>
+</edge>
+<edge source="GGGM" target="YGY">
+  <data key="d4">1</data>
+</edge>
+<edge source="GGGM" target="YWY">
+  <data key="d4">1</data>
+</edge>
+<edge source="GWG" target="GWGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GWG" target="WYWM">
+  <data key="d4">2</data>
+</edge>
+<edge source="YGY" target="GWGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="YWY" target="GRGM">
+  <data key="d4">1</data>
+</edge>
+<edge source="YWY" target="RGRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="YWY" target="RWRM">
+  <data key="d4">2</data>
+</edge>
+<edge source="YWY" target="WGWM">
+  <data key="d4">2</data>
+</edge>
+<edge source="YWY" target="WYWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="YWY" target="YGYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="YWY" target="YYYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRGM" target="GBG">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRGM" target="GGG">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRGM" target="WGW">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRGM" target="YYY">
+  <data key="d4">1</data>
+</edge>
+<edge source="GBG" target="WGWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GBG" target="WYWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GBG" target="YWYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GBG" target="YYYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GGG" target="RWRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GGG" target="YYYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WGW" target="WGWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WGW" target="WYWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WGW" target="YGYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WGW" target="YWYM">
+  <data key="d4">2</data>
+</edge>
+<edge source="WGW" target="YYYM">
+  <data key="d4">2</data>
+</edge>
+<edge source="YYY" target="WGWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="YYY" target="WWWM">
+  <data key="d4">2</data>
+</edge>
+<edge source="YYY" target="WYWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GWGM" target="BBB">
+  <data key="d4">1</data>
+</edge>
+<edge source="GWGM" target="GRG">
+  <data key="d4">1</data>
+</edge>
+<edge source="GWGM" target="YBY">
+  <data key="d4">1</data>
+</edge>
+<edge source="BBB" target="RWRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="BBB" target="YGYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="BBB" target="YRYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRG" target="RWRM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRG" target="WYWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="YBY" target="WRWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="YBY" target="WWWM">
+  <data key="d4">2</data>
+</edge>
+<edge source="YBY" target="YGYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="GYGM" target="WBW">
+  <data key="d4">1</data>
+</edge>
+<edge source="WBW" target="WWWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WBW" target="YRYM">
+  <data key="d4">2</data>
+</edge>
+<edge source="WGWM" target="AAA">
+  <data key="d4">1</data>
+</edge>
+<edge source="AAA" target="WRWM">
+  <data key="d4">1</data>
+</edge>
+<edge source="AAA" target="YGYM">
+  <data key="d4">1</data>
+</edge>
+<edge source="WWWM" target="BYB">
+  <data key="d4">1</data>
+</edge>
+<edge source="YGYM" target="RGR">
+  <data key="d4">1</data>
+</edge>
+<edge source="RGR" target="YRYM">
+  <data key="d4">2</data>
+</edge>
+<edge source="YRYM" target="RWR">
+  <data key="d4">1</data>
+</edge>
+<edge source="RWR" target="YYYM">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

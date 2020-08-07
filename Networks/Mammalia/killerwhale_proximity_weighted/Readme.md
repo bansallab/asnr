@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.625
 average clustering coefficient (weighted)|0.625
-Newman modularity|0.393
-maximum modularity|0.729
-relative modularity|0.539
+Newman modularity|0.387
+maximum modularity|0.723
+relative modularity|0.535
 group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
@@ -29,5 +29,4 @@ Total duration of data collection|12 years
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Network representing social data from systematic observations from 1984-1996
-**Citation** | GuimarÜes Jr, P. R., de Menezes, M. A., <br> Baird, R. W., Lusseau, D., Guimaraes, P., <br> & Dos Reis, S. F. (2007). Vulnerability <br> of a killer whale social network to <br> disease outbreaks. Physical Review E, 76(4), 042901. <br>
-![NetworkImage](/Networks/Network%20Visualizations/killer_whale_guimaraes.png)
+**Citation** | Guimares Jr, P. R., de Menezes, M. A., <br> Baird, R. W., Lusseau, D., Guimaraes, P., <br> & Dos Reis, S. F. (2007). Vulnerability <br> of a killer whale social network to <br> disease outbreaks. Physical Review E, 76(4), 042901. <br>

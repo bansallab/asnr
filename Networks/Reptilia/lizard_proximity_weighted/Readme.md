@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.566
 average clustering coefficient (weighted)|0.011
-Newman modularity|0.458
-maximum modularity|0.729
-relative modularity|0.628
+Newman modularity|0.439
+maximum modularity|0.744
+relative modularity|0.59
 group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|10 minutes
 Time span of data collection (within a day)|24 hours
 Note|
 **Citation** | Bull, C. M., S. S. Godfrey, and D. <br> M. Gordon. "Social networks and the spread <br> of Salmonella in a sleepy lizard population." <br> Molecular Ecology 21.17 (2012): 4386-4392.
-![NetworkImage](/Networks/Network%20Visualizations/lizard_bull_social.png)

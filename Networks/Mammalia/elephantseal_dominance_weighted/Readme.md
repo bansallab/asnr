@@ -10,11 +10,11 @@ average betweenness centrality (unweighted)|0.001 - 0.054
 average betweenness centrality (weighted)|0.001 - 0.054
 average clustering coefficient (unweighted)|0.0 - 0.107
 average clustering coefficient (weighted)|0.0 - 0.107
-Newman modularity|0.0 - 0.572
-maximum modularity|0.0 - 0.768
-relative modularity|0.614 - 0.745
-group cohesion|0.13 - 0.776
-network diameter|0.13 - 0.776
+Newman modularity|0.0 - 0.58
+maximum modularity|0.0 - 0.794
+relative modularity|0.614 - 0.73
+group cohesion|0.13 - 0.759
+network diameter|0.13 - 0.759
 **Study description**|**value**
 Attributes Available|not available
 Species|*Mirounga angustirostris*
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Network represent interactions collected over different years and/or in different colonies
 **Citation** | Casey, Caroline, et al. "Rival assessment among northern <br> elephant seals: evidence of associative learning during <br> male___male contests." Royal Society open science 2.8 <br> (2015): 150228.
-![NetworkImage](/Networks/Network%20Visualizations/elephantseals_casey_dominance_phys_contact_2011_2012.png)

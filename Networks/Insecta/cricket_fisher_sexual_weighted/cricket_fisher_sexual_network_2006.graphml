@@ -1,0 +1,517 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="3M">
+  <data key="d0">MALE</data>
+</node>
+<node id="77F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="31M">
+  <data key="d0">MALE</data>
+</node>
+<node id="79F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="34M">
+  <data key="d0">MALE</data>
+</node>
+<node id="41M">
+  <data key="d0">MALE</data>
+</node>
+<node id="65M">
+  <data key="d0">MALE</data>
+</node>
+<node id="66M">
+  <data key="d0">MALE</data>
+</node>
+<node id="68M">
+  <data key="d0">MALE</data>
+</node>
+<node id="75M">
+  <data key="d0">MALE</data>
+</node>
+<node id="83F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="4M">
+  <data key="d0">MALE</data>
+</node>
+<node id="56M">
+  <data key="d0">MALE</data>
+</node>
+<node id="74M">
+  <data key="d0">MALE</data>
+</node>
+<node id="16M">
+  <data key="d0">MALE</data>
+</node>
+<node id="87F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="27M">
+  <data key="d0">MALE</data>
+</node>
+<node id="39M">
+  <data key="d0">MALE</data>
+</node>
+<node id="43M">
+  <data key="d0">MALE</data>
+</node>
+<node id="12M">
+  <data key="d0">MALE</data>
+</node>
+<node id="88F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="46M">
+  <data key="d0">MALE</data>
+</node>
+<node id="67M">
+  <data key="d0">MALE</data>
+</node>
+<node id="22M">
+  <data key="d0">MALE</data>
+</node>
+<node id="90F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="37M">
+  <data key="d0">MALE</data>
+</node>
+<node id="36M">
+  <data key="d0">MALE</data>
+</node>
+<node id="93F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="1M">
+  <data key="d0">MALE</data>
+</node>
+<node id="95F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="51M">
+  <data key="d0">MALE</data>
+</node>
+<node id="62M">
+  <data key="d0">MALE</data>
+</node>
+<node id="63M">
+  <data key="d0">MALE</data>
+</node>
+<node id="97F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="6M">
+  <data key="d0">MALE</data>
+</node>
+<node id="103F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="105F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="15M">
+  <data key="d0">MALE</data>
+</node>
+<node id="111F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="18M">
+  <data key="d0">MALE</data>
+</node>
+<node id="47M">
+  <data key="d0">MALE</data>
+</node>
+<node id="113F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="17M">
+  <data key="d0">MALE</data>
+</node>
+<node id="115F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="117F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="35M">
+  <data key="d0">MALE</data>
+</node>
+<node id="59M">
+  <data key="d0">MALE</data>
+</node>
+<node id="2M">
+  <data key="d0">MALE</data>
+</node>
+<node id="123F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="55M">
+  <data key="d0">MALE</data>
+</node>
+<node id="54M">
+  <data key="d0">MALE</data>
+</node>
+<node id="124F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="127F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="129F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="133F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="10M">
+  <data key="d0">MALE</data>
+</node>
+<node id="135F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="26M">
+  <data key="d0">MALE</data>
+</node>
+<node id="7M">
+  <data key="d0">MALE</data>
+</node>
+<node id="139F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="73M">
+  <data key="d0">MALE</data>
+</node>
+<node id="140F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="141F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="143F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="144F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="145F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="146F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="149F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="76M">
+  <data key="d0">MALE</data>
+</node>
+<edge source="3M" target="77F">
+  <data key="d1">1</data>
+</edge>
+<edge source="3M" target="83F">
+  <data key="d1">1</data>
+</edge>
+<edge source="31M" target="79F">
+  <data key="d1">5</data>
+</edge>
+<edge source="31M" target="97F">
+  <data key="d1">4</data>
+</edge>
+<edge source="79F" target="34M">
+  <data key="d1">1</data>
+</edge>
+<edge source="79F" target="41M">
+  <data key="d1">1</data>
+</edge>
+<edge source="79F" target="65M">
+  <data key="d1">20</data>
+</edge>
+<edge source="79F" target="66M">
+  <data key="d1">35</data>
+</edge>
+<edge source="79F" target="68M">
+  <data key="d1">1</data>
+</edge>
+<edge source="79F" target="75M">
+  <data key="d1">7</data>
+</edge>
+<edge source="34M" target="97F">
+  <data key="d1">1</data>
+</edge>
+<edge source="34M" target="103F">
+  <data key="d1">12</data>
+</edge>
+<edge source="34M" target="111F">
+  <data key="d1">3</data>
+</edge>
+<edge source="34M" target="144F">
+  <data key="d1">5</data>
+</edge>
+<edge source="34M" target="146F">
+  <data key="d1">2</data>
+</edge>
+<edge source="34M" target="149F">
+  <data key="d1">2</data>
+</edge>
+<edge source="41M" target="87F">
+  <data key="d1">9</data>
+</edge>
+<edge source="41M" target="146F">
+  <data key="d1">1</data>
+</edge>
+<edge source="65M" target="129F">
+  <data key="d1">11</data>
+</edge>
+<edge source="65M" target="144F">
+  <data key="d1">7</data>
+</edge>
+<edge source="66M" target="103F">
+  <data key="d1">3</data>
+</edge>
+<edge source="66M" target="135F">
+  <data key="d1">1</data>
+</edge>
+<edge source="75M" target="129F">
+  <data key="d1">7</data>
+</edge>
+<edge source="75M" target="143F">
+  <data key="d1">2</data>
+</edge>
+<edge source="83F" target="4M">
+  <data key="d1">4</data>
+</edge>
+<edge source="83F" target="56M">
+  <data key="d1">1</data>
+</edge>
+<edge source="83F" target="74M">
+  <data key="d1">1</data>
+</edge>
+<edge source="56M" target="87F">
+  <data key="d1">1</data>
+</edge>
+<edge source="56M" target="103F">
+  <data key="d1">2</data>
+</edge>
+<edge source="56M" target="135F">
+  <data key="d1">3</data>
+</edge>
+<edge source="56M" target="145F">
+  <data key="d1">1</data>
+</edge>
+<edge source="74M" target="135F">
+  <data key="d1">3</data>
+</edge>
+<edge source="74M" target="139F">
+  <data key="d1">5</data>
+</edge>
+<edge source="16M" target="87F">
+  <data key="d1">2</data>
+</edge>
+<edge source="16M" target="105F">
+  <data key="d1">1</data>
+</edge>
+<edge source="87F" target="27M">
+  <data key="d1">7</data>
+</edge>
+<edge source="87F" target="39M">
+  <data key="d1">3</data>
+</edge>
+<edge source="87F" target="43M">
+  <data key="d1">3</data>
+</edge>
+<edge source="27M" target="90F">
+  <data key="d1">2</data>
+</edge>
+<edge source="27M" target="103F">
+  <data key="d1">1</data>
+</edge>
+<edge source="27M" target="111F">
+  <data key="d1">1</data>
+</edge>
+<edge source="27M" target="117F">
+  <data key="d1">4</data>
+</edge>
+<edge source="27M" target="135F">
+  <data key="d1">1</data>
+</edge>
+<edge source="27M" target="139F">
+  <data key="d1">13</data>
+</edge>
+<edge source="27M" target="146F">
+  <data key="d1">3</data>
+</edge>
+<edge source="43M" target="90F">
+  <data key="d1">2</data>
+</edge>
+<edge source="43M" target="133F">
+  <data key="d1">1</data>
+</edge>
+<edge source="12M" target="88F">
+  <data key="d1">4</data>
+</edge>
+<edge source="12M" target="113F">
+  <data key="d1">1</data>
+</edge>
+<edge source="12M" target="144F">
+  <data key="d1">1</data>
+</edge>
+<edge source="88F" target="46M">
+  <data key="d1">2</data>
+</edge>
+<edge source="88F" target="67M">
+  <data key="d1">3</data>
+</edge>
+<edge source="46M" target="103F">
+  <data key="d1">13</data>
+</edge>
+<edge source="46M" target="144F">
+  <data key="d1">1</data>
+</edge>
+<edge source="67M" target="113F">
+  <data key="d1">13</data>
+</edge>
+<edge source="22M" target="90F">
+  <data key="d1">2</data>
+</edge>
+<edge source="22M" target="133F">
+  <data key="d1">7</data>
+</edge>
+<edge source="90F" target="37M">
+  <data key="d1">1</data>
+</edge>
+<edge source="37M" target="117F">
+  <data key="d1">6</data>
+</edge>
+<edge source="37M" target="135F">
+  <data key="d1">2</data>
+</edge>
+<edge source="37M" target="139F">
+  <data key="d1">6</data>
+</edge>
+<edge source="36M" target="93F">
+  <data key="d1">1</data>
+</edge>
+<edge source="36M" target="103F">
+  <data key="d1">11</data>
+</edge>
+<edge source="36M" target="117F">
+  <data key="d1">3</data>
+</edge>
+<edge source="36M" target="129F">
+  <data key="d1">2</data>
+</edge>
+<edge source="36M" target="135F">
+  <data key="d1">29</data>
+</edge>
+<edge source="36M" target="144F">
+  <data key="d1">7</data>
+</edge>
+<edge source="1M" target="95F">
+  <data key="d1">1</data>
+</edge>
+<edge source="95F" target="51M">
+  <data key="d1">19</data>
+</edge>
+<edge source="95F" target="62M">
+  <data key="d1">5</data>
+</edge>
+<edge source="95F" target="63M">
+  <data key="d1">37</data>
+</edge>
+<edge source="51M" target="115F">
+  <data key="d1">1</data>
+</edge>
+<edge source="62M" target="117F">
+  <data key="d1">3</data>
+</edge>
+<edge source="62M" target="124F">
+  <data key="d1">1</data>
+</edge>
+<edge source="63M" target="123F">
+  <data key="d1">1</data>
+</edge>
+<edge source="6M" target="103F">
+  <data key="d1">1</data>
+</edge>
+<edge source="6M" target="129F">
+  <data key="d1">2</data>
+</edge>
+<edge source="6M" target="140F">
+  <data key="d1">1</data>
+</edge>
+<edge source="6M" target="144F">
+  <data key="d1">25</data>
+</edge>
+<edge source="6M" target="146F">
+  <data key="d1">2</data>
+</edge>
+<edge source="15M" target="111F">
+  <data key="d1">6</data>
+</edge>
+<edge source="15M" target="139F">
+  <data key="d1">4</data>
+</edge>
+<edge source="15M" target="141F">
+  <data key="d1">1</data>
+</edge>
+<edge source="15M" target="143F">
+  <data key="d1">2</data>
+</edge>
+<edge source="111F" target="18M">
+  <data key="d1">1</data>
+</edge>
+<edge source="111F" target="47M">
+  <data key="d1">1</data>
+</edge>
+<edge source="18M" target="135F">
+  <data key="d1">1</data>
+</edge>
+<edge source="18M" target="139F">
+  <data key="d1">4</data>
+</edge>
+<edge source="113F" target="17M">
+  <data key="d1">2</data>
+</edge>
+<edge source="117F" target="35M">
+  <data key="d1">2</data>
+</edge>
+<edge source="117F" target="59M">
+  <data key="d1">1</data>
+</edge>
+<edge source="2M" target="123F">
+  <data key="d1">56</data>
+</edge>
+<edge source="2M" target="127F">
+  <data key="d1">1</data>
+</edge>
+<edge source="123F" target="55M">
+  <data key="d1">2</data>
+</edge>
+<edge source="54M" target="124F">
+  <data key="d1">3</data>
+</edge>
+<edge source="10M" target="135F">
+  <data key="d1">7</data>
+</edge>
+<edge source="10M" target="143F">
+  <data key="d1">1</data>
+</edge>
+<edge source="135F" target="26M">
+  <data key="d1">2</data>
+</edge>
+<edge source="7M" target="139F">
+  <data key="d1">3</data>
+</edge>
+<edge source="139F" target="73M">
+  <data key="d1">4</data>
+</edge>
+<edge source="73M" target="143F">
+  <data key="d1">1</data>
+</edge>
+<edge source="149F" target="76M">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>

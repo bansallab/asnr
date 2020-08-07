@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.04
 average clustering coefficient (weighted)|0.04
-Newman modularity|0.503
-maximum modularity|0.685
-relative modularity|0.734
+Newman modularity|0.501
+maximum modularity|0.592
+relative modularity|0.846
 group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|5.5 hours
 Note|
 **Citation** | de Silva, Shermin, Volker Schmid, and George Wittemyer. <br> "Fission___fusion processes weaken dominance networks of female <br> Asian elephants in a productive habitat." Behavioral <br> Ecology (2016): arw153.
-![NetworkImage](/Networks/Network%20Visualizations/asianelephant_desilva.png)

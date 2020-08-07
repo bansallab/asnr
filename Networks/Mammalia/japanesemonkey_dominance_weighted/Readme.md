@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|10 hours
 Note|Network representing social data of ten kin groups during nonmating season
 **Citation** | Takahata, Y. (1991). Diachronic changes in the dominance <br> relations of adult female Japanese monkeys of <br> the Arashiyama B group. The monkeys of <br> Arashiyama. State University of New York Press, <br> Albany, 123-139.
-![NetworkImage](/Networks/Network%20Visualizations/japanese_monkey_takahata.png)

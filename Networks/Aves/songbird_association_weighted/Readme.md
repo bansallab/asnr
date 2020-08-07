@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.604
 average clustering coefficient (weighted)|0.025
-Newman modularity|0.393
-maximum modularity|0.652
-relative modularity|0.603
+Newman modularity|0.394
+maximum modularity|0.66
+relative modularity|0.597
 group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|24 hours
 Note|
 **Citation** | Adelman, James S., et al. "Feeder use predicts <br> both acquisition and transmission of a contagious <br> pathogen in a North American songbird." Proc. <br> R. Soc. B. Vol. 282. No. 1815. <br> The Royal Society, 2015.
-![NetworkImage](/Networks/Network%20Visualizations/songbird_adelman.png)

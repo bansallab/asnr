@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|12 hours
 Note|Network representing social data based on animal co-occurrences from 1997 to 2014
 **Citation** | Schakner, Z. A., Petelle, M. B., Tennis, M. <br> J., Van der Leeuw, B. K., Stansell, <br> R. T., & Blumstein, D. T. (2017). <br> Social associations between California sea lions influence <br> the use of a novel foraging ground. <br> Royal Society open science, 4(5), 160820.
-![NetworkImage](/Networks/Network%20Visualizations/sea_lion_shakner.png)

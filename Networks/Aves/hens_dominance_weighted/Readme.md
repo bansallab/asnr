@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|
 Note|
 **Citation** | Guhl, A. M. "Social behavior of the domestic <br> fowl." Transactions of the Kansas Academy of <br> Science (1903-) 71.3 (1968): 379-384.
-![NetworkImage](/Networks/Network%20Visualizations/hens_guhl_pecking_order.png)

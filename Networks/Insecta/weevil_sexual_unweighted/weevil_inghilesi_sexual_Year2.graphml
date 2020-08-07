@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="double" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="1M">
+  <data key="d0">MALE</data>
+</node>
+<node id="1F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="2M">
+  <data key="d0">MALE</data>
+</node>
+<node id="2F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="1F1FF">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="1F2FF">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="4F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="3M">
+  <data key="d0">MALE</data>
+</node>
+<node id="5F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="6F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="3F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="4M">
+  <data key="d0">MALE</data>
+</node>
+<node id="5M">
+  <data key="d0">MALE</data>
+</node>
+<node id="7F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="6M">
+  <data key="d0">MALE</data>
+</node>
+<node id="8F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="7M">
+  <data key="d0">MALE</data>
+</node>
+<node id="8M">
+  <data key="d0">MALE</data>
+</node>
+<node id="9F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="9M">
+  <data key="d0">MALE</data>
+</node>
+<node id="1F0F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="1M0M">
+  <data key="d0">MALE</data>
+</node>
+<node id="1M1MM">
+  <data key="d0">MALE</data>
+</node>
+<edge source="1M" target="1F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F" target="2M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F" target="7M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F" target="1M0M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F" target="1M1MM">
+  <data key="d1">nan</data>
+</edge>
+<edge source="2M" target="2F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="2M" target="1F1FF">
+  <data key="d1">nan</data>
+</edge>
+<edge source="2M" target="1F2FF">
+  <data key="d1">nan</data>
+</edge>
+<edge source="2M" target="4F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="2F" target="3M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="2F" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="2F" target="1M0M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="2F" target="1M1MM">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F1FF" target="3M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F1FF" target="7M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F1FF" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F1FF" target="9M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F1FF" target="1M0M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F2FF" target="3M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F2FF" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F2FF" target="9M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F2FF" target="1M1MM">
+  <data key="d1">nan</data>
+</edge>
+<edge source="4F" target="3M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="4F" target="4M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="4F" target="7M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="4F" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="3M" target="5F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="3M" target="6F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="3M" target="3F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="5F" target="5M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6F" target="4M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6F" target="5M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6F" target="6M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6F" target="7M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6F" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6F" target="9M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="3F" target="7M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="3F" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="3F" target="1M1MM">
+  <data key="d1">nan</data>
+</edge>
+<edge source="5M" target="7F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="7F" target="7M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="7F" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="7F" target="9M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6M" target="8F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="8F" target="8M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="8F" target="9M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="8F" target="1M0M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="8M" target="9F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="9F" target="9M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="9F" target="1M0M">
+  <data key="d1">nan</data>
+</edge>
+<edge source="9F" target="1M1MM">
+  <data key="d1">nan</data>
+</edge>
+<edge source="9M" target="1F0F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="1F0F" target="1M1MM">
+  <data key="d1">nan</data>
+</edge>
+</graph></graphml>

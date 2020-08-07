@@ -10,9 +10,9 @@ average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.646
 average clustering coefficient (weighted)|0.106
-Newman modularity|0.096
-maximum modularity|0.662
-relative modularity|0.145
+Newman modularity|0.102
+maximum modularity|0.614
+relative modularity|0.166
 group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|1 hour
 Note|
 **Citation** | Martin W. Schein and Milton H. Fohrman. Social <br> dominance relationships in a herd of dairy <br> cattle. The British J. of Animal Behaviour, <br> 3(2):45-55, 1955.
-![NetworkImage](/Networks/Network%20Visualizations/cattle_schein_dominance.png)

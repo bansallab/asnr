@@ -11,7 +11,7 @@ average betweenness centrality (weighted)|0.002 - 0.013
 average clustering coefficient (unweighted)|0.754 - 0.821
 average clustering coefficient (weighted)|0.04 - 0.108
 Newman modularity|0.144 - 0.552
-maximum modularity|0.526 - 0.7
+maximum modularity|0.525 - 0.7
 relative modularity|0.264 - 0.789
 group cohesion|0.503 - 0.851
 network diameter|0.503 - 0.851
@@ -30,4 +30,3 @@ Time resolution of data collection (within a day)|1 sec
 Time span of data collection (within a day)|12 hours
 Note|Each network represents social data collected for consecutive 6-day time window.
 **Citation** | Firth, Josh A., and Ben C. Sheldon. "Experimental <br> manipulation of avian social structure reveals segregation <br> is carried over across contexts." Proceedings of <br> the Royal Society of London B: Biological <br> Sciences 282.1802 (2015): 20142350.
-![NetworkImage](/Networks/Network%20Visualizations/wildbird_firth_network_1.png)

@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="No. of courting males (young adult)" attr.type="string"/>
+<key id="d4" for="node" attr.name="No. of courting males (old adult)" attr.type="string"/>
+<key id="d3" for="node" attr.name="No. of courting associations" attr.type="string"/>
+<key id="d2" for="node" attr.name="Age" attr.type="string"/>
+<key id="d1" for="node" attr.name="Group" attr.type="string"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Lm1">
+  <data key="d0">MALE</data>
+  <data key="d1">LIG</data>
+  <data key="d2">old adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Lf1">
+  <data key="d0">FEMALE</data>
+  <data key="d1">LIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3">12</data>
+  <data key="d4">45</data>
+  <data key="d5">13</data>
+</node>
+<node id="Lf2">
+  <data key="d0">FEMALE</data>
+  <data key="d1">LIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3">13</data>
+  <data key="d4">45</data>
+  <data key="d5">15</data>
+</node>
+<node id="Lm2">
+  <data key="d0">MALE</data>
+  <data key="d1">LIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Lf3">
+  <data key="d0">FEMALE</data>
+  <data key="d1">LIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3">8</data>
+  <data key="d4">31</data>
+  <data key="d5">8</data>
+</node>
+<node id="Lm3">
+  <data key="d0">MALE</data>
+  <data key="d1">LIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Bm1">
+  <data key="d0">MALE</data>
+  <data key="d1">BS</data>
+  <data key="d2">old adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Bf1">
+  <data key="d0">FEMALE</data>
+  <data key="d1">BS</data>
+  <data key="d2">young adult</data>
+  <data key="d3">6</data>
+  <data key="d4">19</data>
+  <data key="d5">7</data>
+</node>
+<node id="Bf2">
+  <data key="d0">FEMALE</data>
+  <data key="d1">BS</data>
+  <data key="d2">young adult</data>
+  <data key="d3">9</data>
+  <data key="d4">27</data>
+  <data key="d5">14</data>
+</node>
+<node id="Bf3">
+  <data key="d0">FEMALE</data>
+  <data key="d1">BS</data>
+  <data key="d2">young adult</data>
+  <data key="d3">5</data>
+  <data key="d4">10</data>
+  <data key="d5">1</data>
+</node>
+<node id="Bm2">
+  <data key="d0">MALE</data>
+  <data key="d1">BS</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Bm3">
+  <data key="d0">MALE</data>
+  <data key="d1">BS</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<edge source="Lm1" target="Lf1">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Lm1" target="Lf2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Lf2" target="Lm2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Lf2" target="Lm3">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Lm2" target="Lf3">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Lf3" target="Lm3">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Bm1" target="Bf1">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Bm1" target="Bf2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Bm1" target="Bf3">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Bf2" target="Bm2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Bf2" target="Bm3">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Bf3" target="Bm2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Bf3" target="Bm3">
+  <data key="d6">nan</data>
+</edge>
+</graph></graphml>
