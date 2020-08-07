@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/primate_griffin_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/primate_griffin_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|5.0 - 25.0
 total edges|10.0 - 181.0
 network density|0.286 - 1.0
@@ -29,10 +29,5 @@ Edge weight type|frequency
 Total duration of data collection|3 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
-<<<<<<< HEAD
-Note|Networks represent four control (C)  and four treatment (T) groups recorded during _undisturbedî phase where individuals were allowed to interact with each other freely.
-**Citation** | Griffin, Randi H., and Charles L. Nunn. "Community <br> structure and the spread of infectious disease <br> in primate social networks." Evolutionary Ecology 26.4 <br> (2012): 779-800.
-=======
 Note|Networks represent four control (C)  and four treatment (T) groups recorded during _undisturbedÓ phase where individuals were allowed to interact with each other freely.
 **Citation** | Griffin, Randi H., and Charles L. Nunn. "Community <br> structure and the spread of infectious disease <br> in primate social networks." Evolutionary Ecology 26.4 <br> (2012): 779-800.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
