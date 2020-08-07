@@ -1,6 +1,6 @@
 network attribute|value
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/asianelephant_desilva.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/asianelephant_desilva.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|73
 total edges|60
 network density|0.023
@@ -30,8 +30,4 @@ Total duration of data collection|206days
 Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|5.5 hours
 Note|
-<<<<<<< HEAD
 **Citation** | de Silva, Shermin, Volker Schmid, and George Wittemyer. <br> "Fission___fusion processes weaken dominance networks of female <br> Asian elephants in a productive habitat." Behavioral <br> Ecology (2016): arw153.
-=======
-**Citation** | de Silva, Shermin, Volker Schmid, and George Wittemyer. <br> "Fission___fusion processes weaken dominance networks of female <br> Asian elephants in a productive habitat." Behavioral <br> Ecology (2016): arw153.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
