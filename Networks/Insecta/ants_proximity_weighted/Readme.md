@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/ant_mersch_col1_day04.png) *Colony 1, Day 4 Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/ant_mersch_col1_day04.png) *Colony 1, Day 4 Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|35.0 - 164.0
 total edges|480.0 - 11139.0
 network density|0.537 - 0.876
@@ -30,8 +30,4 @@ Total duration of data collection|1day
 Time resolution of data collection (within a day)|0.5 sec
 Time span of data collection (within a day)|24 hours
 Note|Networks represent six separate colonies of the ant. The authors recorded the position and orientation of all individuals twice per second to reconstruct spatial movement and infer all social interactions occurring over the 41 days of the experiment.
-<<<<<<< HEAD
 **Citation** | Mersch, Danielle P., Alessandro Crespi, and Laurent Keller. <br> "Tracking individuals shows spatial fidelity is a <br> key regulator of ant social organization."Science 340.6136 <br> (2013): 1090-1093.
-=======
-**Citation** | Mersch, Danielle P., Alessandro Crespi, and Laurent Keller. <br> "Tracking individuals shows spatial fidelity is a <br> key regulator of ant social organization."Science 340.6136 <br> (2013): 1090-1093.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
