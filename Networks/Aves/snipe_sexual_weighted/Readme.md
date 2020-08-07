@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2000> Network Visualization | ![NetworkImage](/Networks/Visualizations/snipe_fiske_sexual_network_1990.png) *1990 Network: The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|6.0 - 15.0
 total edges|3.0 - 10.0
 network density|0.077 - 0.2
