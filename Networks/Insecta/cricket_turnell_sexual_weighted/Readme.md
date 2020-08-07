@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2000> Network Visualization | ![NetworkImage](/Networks/Visualizations/cricket_turnell_sexual_network.png) *The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|36
 total edges|89
 network density|0.141
