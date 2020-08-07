@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2000> Network Visualization | ![NetworkImage](/Networks/Visualizations/weevil_inghilesi_sexual_Year1.png) *Year 1: The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|23.0 - 24.0
 total edges|30.0 - 54.0
 network density|0.109 - 0.213
