@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/tortoise_sah_network_CS_aggregate_year_2008_season_active.png) *CS 2008 active Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/tortoise_sah_network_CS_aggregate_year_2008_season_active.png) *CS 2008 active Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|12.0 - 1100.0
 total edges|5.0 - 479.0
 network density|0.0 - 0.124
@@ -30,8 +30,4 @@ Total duration of data collection|8 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent social data collected over different years and inactive (November_February)/active (March_October) season. 
-<<<<<<< HEAD
 **Citation** | Sah, Pratha, et al. "Inferring social structure and <br> its drivers from refuge use in the <br> desert tortoise, a relatively solitary species." Behavioral <br> Ecology and Sociobiology 70.8 (2016): 1277-1289.
-=======
-**Citation** | Sah, Pratha, et al. "Inferring social structure and <br> its drivers from refuge use in the <br> desert tortoise, a relatively solitary species." Behavioral <br> Ecology and Sociobiology 70.8 (2016): 1277-1289.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
