@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/howler_monkey_oklander_sexual_network_autumn.png) *Autumn Network: The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|4.0 - 11.0
 total edges|3.0 - 11.0
 network density|0.179 - 0.5
