@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/kangaroo_rat_randall_sexual_network.png) *The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|19
 total edges|13
 network density|0.076
