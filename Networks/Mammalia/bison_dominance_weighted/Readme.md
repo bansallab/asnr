@@ -1,6 +1,6 @@
 network attribute|value
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/bison_lott_dominance.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/bison_lott_dominance.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|26
 total edges|222
 network density|0.683
@@ -30,8 +30,4 @@ Total duration of data collection|2 months
 Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|
-<<<<<<< HEAD
 **Citation** | Dale F Lott. Dominance relations and breeding rate <br> in mature male American bison. Zeitschrift f_r <br> Tierpsychologie, 49(4):418-432, 1979.
-=======
-**Citation** | Dale F Lott. Dominance relations and breeding rate <br> in mature male American bison. Zeitschrift f_r <br> Tierpsychologie, 49(4):418-432, 1979.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
