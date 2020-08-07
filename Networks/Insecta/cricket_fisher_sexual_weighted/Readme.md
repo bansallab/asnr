@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2000> Network Visualization | ![NetworkImage](/Networks/Visualizations/cricket_fisher_sexual_network_2006.png) *2006 Network: The size of the nodes corresponds to it's degree, and the color corresponds to sex*
 total nodes|69.0 - 161.0
 total edges|102.0 - 249.0
 network density|0.019 - 0.043
