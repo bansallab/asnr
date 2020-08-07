@@ -1,6 +1,6 @@
 network attribute|range
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/ground_squirrel_smith_2017a.png) *2017a Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/ground_squirrel_smith_2017a.png) *2017a Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|59.0 - 61.0
 total edges|265.0 - 844.0
 network density|0.145 - 0.461
@@ -30,8 +30,4 @@ Total duration of data collection|2 years
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|6 hours
 Note|Networks represents aboveground (a) and belowground (b) social structure
-<<<<<<< HEAD
-**Citation** | Smith, J. E., Gamboa, D. A., Spencer, J. <br> M., Travenick, S. J., Ortiz, C. A., <br> Hunter, R. D., & Sih, A. (2018). <br> Split between two worlds: automated sensing reveals <br> links between above-and belowground social networks in <br> a free-living mammal. Philosophical Transactions of the <br> Royal Society B: Biological Sciences, 373(1753), 20170249. <br>
-=======
-**Citation** | Smith, J. E., Gamboa, D. A., Spencer, J. <br> M., Travenick, S. J., Ortiz, C. A., <br> Hunter, R. D., & Sih, A. (2018). <br> Split between two worlds: automated sensing reveals <br> links between above-and belowground social networks in <br> a free-living mammal. Philosophical Transactions of the <br> Royal Society B: Biological Sciences, 373(1753), 20170249. <br>
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
+**Citation** | Smith, J. E., Gamboa, D. A., Spencer, J. <br> M., Travenick, S. J., Ortiz, C. A., <br> Hunter, R. D., & Sih, A. (2018). <br> Split between two worlds: automated sensing reveals <br> links between above-and belowground social networks in <br> a free-living mammal. Philosophical Transactions of the <br> Royal Society B: Biological Sciences, 373(1753), 20170249.
