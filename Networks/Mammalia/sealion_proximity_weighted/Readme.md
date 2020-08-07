@@ -1,6 +1,6 @@
 network attribute|value
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/sea_lion_shakner.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/sea_lion_shakner.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|1007
 total edges|131351
 network density|0.259
@@ -30,8 +30,4 @@ Total duration of data collection|17 years
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|12 hours
 Note|Network representing social data based on animal co-occurrences from 1997 to 2014
-<<<<<<< HEAD
 **Citation** | Schakner, Z. A., Petelle, M. B., Tennis, M. <br> J., Van der Leeuw, B. K., Stansell, <br> R. T., & Blumstein, D. T. (2017). <br> Social associations between California sea lions influence <br> the use of a novel foraging ground. <br> Royal Society open science, 4(5), 160820.
-=======
-**Citation** | Schakner, Z. A., Petelle, M. B., Tennis, M. <br> J., Van der Leeuw, B. K., Stansell, <br> R. T., & Blumstein, D. T. (2017). <br> Social associations between California sea lions influence <br> the use of a novel foraging ground. <br> Royal Society open science, 4(5), 160820.
->>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
