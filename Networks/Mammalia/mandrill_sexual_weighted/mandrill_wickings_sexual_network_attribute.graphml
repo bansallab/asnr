@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d12" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d11" for="node" attr.name="Rank (in respective fatted/non-fatted group)" attr.type="string"/>
+<key id="d10" for="node" attr.name="Plasma testosterone (ng/mL)" attr.type="string"/>
+<key id="d9" for="node" attr.name="Vol. left testis (mL)" attr.type="string"/>
+<key id="d8" for="node" attr.name="Body weight (kg)" attr.type="string"/>
+<key id="d7" for="node" attr.name="Age" attr.type="string"/>
+<key id="d6" for="node" attr.name="Rank (in respective fatted/non-fatted group)" attr.type="double"/>
+<key id="d5" for="node" attr.name="Plasma testosterone (ng/mL)" attr.type="double"/>
+<key id="d4" for="node" attr.name="Vol. left testis (mL)" attr.type="double"/>
+<key id="d3" for="node" attr.name="Body weight (kg)" attr.type="double"/>
+<key id="d2" for="node" attr.name="Age" attr.type="double"/>
+<key id="d1" for="node" attr.name="Male type" attr.type="string"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="14M">
+  <data key="d0">MALE</data>
+  <data key="d1">fatted</data>
+  <data key="d2">10.0</data>
+  <data key="d3">37.0</data>
+  <data key="d4">31.4</data>
+  <data key="d5">16.3</data>
+  <data key="d6">1.0</data>
+</node>
+<node id="2F">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="2CF">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="7M">
+  <data key="d0">MALE</data>
+  <data key="d1">fatted</data>
+  <data key="d2">11.0</data>
+  <data key="d3">23.5</data>
+  <data key="d4">26.2</data>
+  <data key="d5">5.2</data>
+  <data key="d6">2.0</data>
+</node>
+<node id="5F">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="13M">
+  <data key="d0">MALE</data>
+  <data key="d1">non-fatted</data>
+  <data key="d2">10.0</data>
+  <data key="d3">33.3</data>
+  <data key="d4">46.2</data>
+  <data key="d5">15.0</data>
+  <data key="d6">1.0</data>
+</node>
+<node id="2DF">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="10F">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="12F">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="5BM">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="12DF">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="12AF">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="12CF">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="17AF">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="16F">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<node id="6F">
+  <data key="d0">FEMALE</data>
+  <data key="d1"> </data>
+  <data key="d7"> </data>
+  <data key="d8"> </data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d11"> </data>
+</node>
+<edge source="14M" target="2F">
+  <data key="d12">3</data>
+</edge>
+<edge source="14M" target="2CF">
+  <data key="d12">2</data>
+</edge>
+<edge source="14M" target="5F">
+  <data key="d12">2</data>
+</edge>
+<edge source="14M" target="2DF">
+  <data key="d12">1</data>
+</edge>
+<edge source="14M" target="10F">
+  <data key="d12">2</data>
+</edge>
+<edge source="14M" target="12F">
+  <data key="d12">2</data>
+</edge>
+<edge source="14M" target="12DF">
+  <data key="d12">3</data>
+</edge>
+<edge source="14M" target="12AF">
+  <data key="d12">2</data>
+</edge>
+<edge source="14M" target="12CF">
+  <data key="d12">1</data>
+</edge>
+<edge source="14M" target="17AF">
+  <data key="d12">3</data>
+</edge>
+<edge source="14M" target="16F">
+  <data key="d12">3</data>
+</edge>
+<edge source="14M" target="6F">
+  <data key="d12">4</data>
+</edge>
+<edge source="2CF" target="7M">
+  <data key="d12">1</data>
+</edge>
+<edge source="7M" target="5F">
+  <data key="d12">1</data>
+</edge>
+<edge source="7M" target="12F">
+  <data key="d12">1</data>
+</edge>
+<edge source="7M" target="16F">
+  <data key="d12">2</data>
+</edge>
+<edge source="7M" target="6F">
+  <data key="d12">1</data>
+</edge>
+<edge source="13M" target="2DF">
+  <data key="d12">1</data>
+</edge>
+<edge source="13M" target="17AF">
+  <data key="d12">1</data>
+</edge>
+<edge source="12F" target="5BM">
+  <data key="d12">1</data>
+</edge>
+</graph></graphml>

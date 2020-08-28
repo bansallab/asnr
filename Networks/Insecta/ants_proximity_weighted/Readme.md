@@ -1,21 +1,23 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/ant_mersch_col1_day04.png) *Colony 1, Day 4 Network: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|35.0 - 164.0
 total edges|480.0 - 11139.0
-network density|0.532 - 0.876
+network density|0.537 - 0.876
 average degree|27.429 - 139.238
 degree heterogeneity|0.105 - 0.325
 degree assortativity|-0.123 - 0.232
-average betweenness centrality (unweighted)|0.001 - 0.009
-average betweenness centrality (weighted)|0.001 - 0.009
+average betweenness centrality (unweighted)|0.001 - 0.008
+average betweenness centrality (weighted)|0.001 - 0.008
 average clustering coefficient (unweighted)|0.68 - 0.913
 average clustering coefficient (weighted)|0.01 - 0.136
 Newman modularity|0.025 - 0.205
-maximum modularity|0.438 - 0.71
+maximum modularity|0.456 - 0.742
 relative modularity|0.049 - 0.415
-group cohesion|0.369 - 0.718
-network diameter|0.369 - 0.718
+group cohesion|0.322 - 0.71
+network diameter|0.322 - 0.71
 **Study description**|**value**
+Attributes Available|body size, age, social group, number of interactions/visits
 Species|*Camponotus fellah*
 Taxonomic class|Insecta
 Population type|captive

@@ -1,21 +1,39 @@
 network attribute|range
 ---|---
-total nodes|4.0 - 26.0
-total edges|2.0 - 41.0
-network density|0.033 - 1.0
-average degree|0.5 - 5.4
-degree heterogeneity|0.0 - 1.233
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/baboon_franz_association_group_20.png) *Group 20: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+total nodes|4.0 - 25.0
+total edges|4.0 - 33.0
+network density|0.087 - 1.0
+average degree|1.273 - 5.4
+degree heterogeneity|0.0 - 0.619
 degree assortativity|nan - nan
-average betweenness centrality (unweighted)|0.0 - 0.333
-average betweenness centrality (weighted)|0.0 - 0.333
+average betweenness centrality (unweighted)|0.0 - 0.239
+average betweenness centrality (weighted)|0.0 - 0.239
 average clustering coefficient (unweighted)|0.0 - 1.0
 average clustering coefficient (weighted)|0.0 - 0.583
-Newman modularity|0.0 - 0.458
-maximum modularity|0.0 - 0.778
-relative modularity|0.0 - 0.688
+Newman modularity|0.0 - 0.413
+maximum modularity|0.0 - 0.78
+relative modularity|0.0 - 0.658
+=======
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Network%20Visualizations/baboon_franz_association_group_01.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+total nodes|4.0 - 26.0
+total edges|6.0 - 325.0
+network density|0.0 - 0.667
+average degree|0.0 - 3.429
+degree heterogeneity|0.149 - 1.934
+degree assortativity|-1.0 - 0.394
+average betweenness centrality (unweighted)|0.0 - 0.333
+average betweenness centrality (weighted)|0.0 - 0.333
+average clustering coefficient (unweighted)|0.0 - 0.867
+average clustering coefficient (weighted)|0.0 - 0.471
+Newman modularity|0.0 - 0.535
+maximum modularity|0.0 - 0.745
+relative modularity|0.161 - 0.728
+>>>>>>> 8e5892dbaf273566e456c4d5d1b8be5290ebe06b
 group cohesion|0.286 - 1.0
 network diameter|0.286 - 1.0
 **Study description**|**value**
+Attributes Available|group, age, dominance rank, date of knockout, type of dispersal
 Species|*Papio cynocephalus*
 Taxonomic class|Mammalia
 Population type|free-ranging

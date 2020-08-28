@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="M"/>
+<node id="Sn"/>
+<node id="Ji"/>
+<node id="E"/>
+<node id="Jt"/>
+<node id="Sp"/>
+<node id="C"/>
+<node id="I"/>
+<node id="Ch"/>
+<edge source="M" target="Sn">
+  <data key="d0">244</data>
+</edge>
+<edge source="M" target="Ji">
+  <data key="d0">22</data>
+</edge>
+<edge source="M" target="E">
+  <data key="d0">8</data>
+</edge>
+<edge source="M" target="Jt">
+  <data key="d0">10</data>
+</edge>
+<edge source="M" target="Ch">
+  <data key="d0">1</data>
+</edge>
+<edge source="M" target="Sp">
+  <data key="d0">5</data>
+</edge>
+<edge source="M" target="C">
+  <data key="d0">1</data>
+</edge>
+<edge source="M" target="I">
+  <data key="d0">12</data>
+</edge>
+<edge source="Sn" target="Ji">
+  <data key="d0">6</data>
+</edge>
+<edge source="Sn" target="E">
+  <data key="d0">31</data>
+</edge>
+<edge source="Sn" target="Jt">
+  <data key="d0">17</data>
+</edge>
+<edge source="Sn" target="Sp">
+  <data key="d0">12</data>
+</edge>
+<edge source="Sn" target="C">
+  <data key="d0">15</data>
+</edge>
+<edge source="Sn" target="I">
+  <data key="d0">19</data>
+</edge>
+<edge source="Ji" target="E">
+  <data key="d0">33</data>
+</edge>
+<edge source="Ji" target="Jt">
+  <data key="d0">22</data>
+</edge>
+<edge source="Ji" target="Ch">
+  <data key="d0">22</data>
+</edge>
+<edge source="Ji" target="Sp">
+  <data key="d0">6</data>
+</edge>
+<edge source="Ji" target="C">
+  <data key="d0">37</data>
+</edge>
+<edge source="Ji" target="I">
+  <data key="d0">36</data>
+</edge>
+<edge source="E" target="I">
+  <data key="d0">1</data>
+</edge>
+<edge source="E" target="Ch">
+  <data key="d0">2</data>
+</edge>
+<edge source="E" target="Sp">
+  <data key="d0">6</data>
+</edge>
+<edge source="E" target="C">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jt" target="Ch">
+  <data key="d0">7</data>
+</edge>
+<edge source="Jt" target="C">
+  <data key="d0">11</data>
+</edge>
+<edge source="Jt" target="I">
+  <data key="d0">21</data>
+</edge>
+<edge source="Jt" target="Sp">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sp" target="Ch">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sp" target="C">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sp" target="I">
+  <data key="d0">13</data>
+</edge>
+<edge source="C" target="Ch">
+  <data key="d0">49</data>
+</edge>
+<edge source="C" target="I">
+  <data key="d0">58</data>
+</edge>
+<edge source="I" target="Ch">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

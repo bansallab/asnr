@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d10" for="node" attr.name="Male rank" attr.type="string"/>
+<key id="d9" for="node" attr.name="Female rank" attr.type="double"/>
+<key id="d8" for="node" attr.name="Male solicitations MOD (*p&lt;0.05)" attr.type="double"/>
+<key id="d7" for="node" attr.name="Female solicitations MOD (*p&lt;0.05)" attr.type="double"/>
+<key id="d6" for="node" attr.name="Female hormonal implant" attr.type="string"/>
+<key id="d5" for="node" attr.name="Male origin" attr.type="string"/>
+<key id="d4" for="node" attr.name="Female reproductive status" attr.type="string"/>
+<key id="d3" for="node" attr.name="Male rank" attr.type="double"/>
+<key id="d2" for="node" attr.name="Female rank" attr.type="string"/>
+<key id="d1" for="node" attr.name="Age (years)" attr.type="double"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Nac">
+  <data key="d0">MALE</data>
+  <data key="d1">13.5</data>
+  <data key="d2"> </data>
+  <data key="d3">1.0</data>
+  <data key="d4"> </data>
+  <data key="d5">non-natal</data>
+  <data key="d6"> </data>
+  <data key="d7">0.068</data>
+  <data key="d8">0.149</data>
+</node>
+<node id="Riv">
+  <data key="d0">FEMALE</data>
+  <data key="d1">8.0</data>
+  <data key="d9">5.0</data>
+  <data key="d10"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+  <data key="d6">No</data>
+  <data key="d7">0.04</data>
+  <data key="d8">0.106</data>
+</node>
+<node id="Foe">
+  <data key="d0">FEMALE</data>
+  <data key="d1">11.0</data>
+  <data key="d9">8.0</data>
+  <data key="d10"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+  <data key="d6">Yes</data>
+  <data key="d7">0.068</data>
+  <data key="d8">0.053</data>
+</node>
+<node id="Tai">
+  <data key="d0">FEMALE</data>
+  <data key="d1">10.1</data>
+  <data key="d9">12.0</data>
+  <data key="d10"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+  <data key="d6">Yes</data>
+  <data key="d7">0.062</data>
+  <data key="d8">0.113</data>
+</node>
+<node id="Yuk">
+  <data key="d0">FEMALE</data>
+  <data key="d1">15.9</data>
+  <data key="d9">13.0</data>
+  <data key="d10"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+  <data key="d6">No</data>
+  <data key="d7">0.08</data>
+  <data key="d8">0.08199999999999999</data>
+</node>
+<node id="Bol">
+  <data key="d0">MALE</data>
+  <data key="d1">13.6</data>
+  <data key="d2"> </data>
+  <data key="d3">2.0</data>
+  <data key="d4"> </data>
+  <data key="d5">non-natal</data>
+  <data key="d6"> </data>
+  <data key="d7">0.048</data>
+  <data key="d8">0.113</data>
+</node>
+<node id="Sep">
+  <data key="d0">FEMALE</data>
+  <data key="d1">12.0</data>
+  <data key="d9">4.0</data>
+  <data key="d10"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+  <data key="d6">Yes</data>
+  <data key="d7">0.07</data>
+  <data key="d8">0.071</data>
+</node>
+<node id="Goa">
+  <data key="d0">FEMALE</data>
+  <data key="d1">15.1</data>
+  <data key="d9">11.0</data>
+  <data key="d10"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+  <data key="d6">Yes</data>
+  <data key="d7">0.231</data>
+  <data key="d8">0.09</data>
+</node>
+<node id="Pot">
+  <data key="d0">MALE</data>
+  <data key="d1">26.6</data>
+  <data key="d2"> </data>
+  <data key="d3">3.0</data>
+  <data key="d4"> </data>
+  <data key="d5">natal</data>
+  <data key="d6"> </data>
+  <data key="d7">0.013000000000000001</data>
+  <data key="d8">-0.015</data>
+</node>
+<node id="Pes">
+  <data key="d0">MALE</data>
+  <data key="d1">6.8</data>
+  <data key="d2"> </data>
+  <data key="d3">4.0</data>
+  <data key="d4"> </data>
+  <data key="d5">natal</data>
+  <data key="d6"> </data>
+  <data key="d7">0.025</data>
+  <data key="d8">-0.004</data>
+</node>
+<node id="Rok">
+  <data key="d0">MALE</data>
+  <data key="d1">6.5</data>
+  <data key="d2"> </data>
+  <data key="d3">5.0</data>
+  <data key="d4"> </data>
+  <data key="d5">natal</data>
+  <data key="d6"> </data>
+  <data key="d7">0.028999999999999998</data>
+  <data key="d8">0.08199999999999999</data>
+</node>
+<node id="Voo">
+  <data key="d0">MALE</data>
+  <data key="d1">7.11</data>
+  <data key="d2"> </data>
+  <data key="d3">6.0</data>
+  <data key="d4"> </data>
+  <data key="d5">non-natal</data>
+  <data key="d6"> </data>
+  <data key="d7">0.028999999999999998</data>
+  <data key="d8">0.08199999999999999</data>
+</node>
+<node id="Bam">
+  <data key="d0">MALE</data>
+  <data key="d1">15.1</data>
+  <data key="d2"> </data>
+  <data key="d3">7.0</data>
+  <data key="d4"> </data>
+  <data key="d5">non-natal</data>
+  <data key="d6"> </data>
+  <data key="d7">0.022000000000000002</data>
+  <data key="d8">0.062</data>
+</node>
+<edge source="Nac" target="Riv">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Nac" target="Foe">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Nac" target="Tai">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Nac" target="Yuk">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Riv" target="Pot">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Foe" target="Bol">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Tai" target="Bol">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Yuk" target="Bol">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Yuk" target="Pot">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Yuk" target="Pes">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Yuk" target="Rok">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Yuk" target="Bam">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Bol" target="Sep">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Bol" target="Goa">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Sep" target="Voo">
+  <data key="d11">nan</data>
+</edge>
+<edge source="Sep" target="Bam">
+  <data key="d11">nan</data>
+</edge>
+</graph></graphml>

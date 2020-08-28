@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Lil"/>
+<node id="Ver"/>
+<node id="Mar"/>
+<node id="Jul"/>
+<node id="Dil"/>
+<node id="Veo"/>
+<node id="Bou"/>
+<node id="Elo"/>
+<node id="Gem"/>
+<node id="Kal"/>
+<node id="Dai"/>
+<node id="Fan"/>
+<edge source="Lil" target="Ver">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lil" target="Elo">
+  <data key="d0">6</data>
+</edge>
+<edge source="Lil" target="Dil">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lil" target="Gem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lil" target="Fan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lil" target="Jul">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ver" target="Mar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ver" target="Jul">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ver" target="Dil">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ver" target="Veo">
+  <data key="d0">5</data>
+</edge>
+<edge source="Ver" target="Bou">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ver" target="Gem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mar" target="Veo">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mar" target="Bou">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mar" target="Elo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mar" target="Kal">
+  <data key="d0">3</data>
+</edge>
+<edge source="Mar" target="Gem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mar" target="Dai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mar" target="Jul">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mar" target="Dil">
+  <data key="d0">5</data>
+</edge>
+<edge source="Mar" target="Fan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jul" target="Veo">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jul" target="Bou">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jul" target="Elo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jul" target="Fan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jul" target="Kal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jul" target="Dai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jul" target="Dil">
+  <data key="d0">3</data>
+</edge>
+<edge source="Dil" target="Veo">
+  <data key="d0">4</data>
+</edge>
+<edge source="Dil" target="Bou">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dil" target="Elo">
+  <data key="d0">4</data>
+</edge>
+<edge source="Dil" target="Gem">
+  <data key="d0">4</data>
+</edge>
+<edge source="Dil" target="Kal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dil" target="Dai">
+  <data key="d0">3</data>
+</edge>
+<edge source="Dil" target="Fan">
+  <data key="d0">7</data>
+</edge>
+<edge source="Veo" target="Bou">
+  <data key="d0">9</data>
+</edge>
+<edge source="Veo" target="Elo">
+  <data key="d0">4</data>
+</edge>
+<edge source="Veo" target="Gem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Veo" target="Kal">
+  <data key="d0">4</data>
+</edge>
+<edge source="Veo" target="Dai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Veo" target="Fan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bou" target="Elo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bou" target="Gem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bou" target="Kal">
+  <data key="d0">2</data>
+</edge>
+<edge source="Bou" target="Fan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Elo" target="Gem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Elo" target="Kal">
+  <data key="d0">4</data>
+</edge>
+<edge source="Elo" target="Dai">
+  <data key="d0">3</data>
+</edge>
+<edge source="Elo" target="Fan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gem" target="Kal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gem" target="Dai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kal" target="Dai">
+  <data key="d0">4</data>
+</edge>
+<edge source="Kal" target="Fan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dai" target="Fan">
+  <data key="d0">4</data>
+</edge>
+</graph></graphml>

@@ -1,5 +1,6 @@
-network attribute|range
+network attribute| range
 ---|---
+<img width=2000> Network Visualization | ![NetworkImage](/Networks/Visualizations/stickleback_atton_group_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|10.0 - 10.0
 total edges|45.0 - 45.0
 network density|0.978 - 1.0
@@ -16,6 +17,7 @@ relative modularity|0.0 - 0.0
 group cohesion|1.0 - 1.0
 network diameter|1.0 - 1.0
 **Study description**|**value**
+Attributes Available|diet
 Species|*Gasterosteus aculeatus*
 Taxonomic class|Actinopterygii
 Population type|captive

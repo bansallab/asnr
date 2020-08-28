@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="residence status" attr.type="string"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="A">
+  <data key="d0">MALE</data>
+  <data key="d1">immigrant</data>
+</node>
+<node id="TR">
+  <data key="d0">FEMALE</data>
+  <data key="d1">resident</data>
+</node>
+<node id="G">
+  <data key="d0">MALE</data>
+</node>
+<node id="CN">
+  <data key="d0">FEMALE</data>
+  <data key="d1">resident</data>
+</node>
+<node id="LY">
+  <data key="d0">FEMALE</data>
+  <data key="d1">resident</data>
+</node>
+<node id="N">
+  <data key="d0">MALE</data>
+  <data key="d1">immigrant</data>
+</node>
+<node id="BC">
+  <data key="d0">FEMALE</data>
+  <data key="d1">resident</data>
+</node>
+<node id="O">
+  <data key="d0">MALE</data>
+  <data key="d1">immigrant</data>
+</node>
+<node id="NM">
+  <data key="d0">FEMALE</data>
+  <data key="d1">resident</data>
+</node>
+<edge source="A" target="TR">
+  <data key="d2">1</data>
+</edge>
+<edge source="G" target="CN">
+  <data key="d2">1</data>
+</edge>
+<edge source="G" target="LY">
+  <data key="d2">1</data>
+</edge>
+<edge source="CN" target="O">
+  <data key="d2">1</data>
+</edge>
+<edge source="N" target="BC">
+  <data key="d2">1</data>
+</edge>
+<edge source="BC" target="O">
+  <data key="d2">1</data>
+</edge>
+<edge source="O" target="NM">
+  <data key="d2">2</data>
+</edge>
+</graph></graphml>

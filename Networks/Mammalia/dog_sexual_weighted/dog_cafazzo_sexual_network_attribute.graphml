@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d8" for="node" attr.name="Denning site location" attr.type="string"/>
+<key id="d7" for="node" attr.name="Male mating/Female reproductive success" attr.type="long"/>
+<key id="d6" for="node" attr.name="Mating partners (number of observed copulations)" attr.type="string"/>
+<key id="d5" for="node" attr.name="Leadership score" attr.type="string"/>
+<key id="d4" for="node" attr.name="Standardized Rank" attr.type="string"/>
+<key id="d3" for="node" attr.name="Full Oestrous period" attr.type="string"/>
+<key id="d2" for="node" attr.name="Pack membership" attr.type="string"/>
+<key id="d1" for="node" attr.name="Age class-Gender" attr.type="string"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="MER">
+  <data key="d0">MALE</data>
+  <data key="d1">Adult male</data>
+  <data key="d2">Resident</data>
+  <data key="d3">-</data>
+  <data key="d4">1,000</data>
+  <data key="d5">1,000</data>
+  <data key="d6">MAY(4),ISO(1),BAG(1),GIN(1)</data>
+  <data key="d7">7</data>
+  <data key="d8">-</data>
+</node>
+<node id="MAY">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Adult female</data>
+  <data key="d2">Resident</data>
+  <data key="d3">Early May 2005</data>
+  <data key="d4">0,520</data>
+  <data key="d5">0,800</data>
+  <data key="d6">MER (4)</data>
+  <data key="d7">7</data>
+  <data key="d8">Core area</data>
+</node>
+<node id="ISO">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Adult female</data>
+  <data key="d2">Resident</data>
+  <data key="d3">Early July 2005</data>
+  <data key="d4">0,360</data>
+  <data key="d5">0,647</data>
+  <data key="d6">MER(1), MSI(1)</data>
+  <data key="d7">2</data>
+  <data key="d8">Core area</data>
+</node>
+<node id="BAG">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Adult female</data>
+  <data key="d2">Dispersed</data>
+  <data key="d3">Late July 2005</data>
+  <data key="d4">-</data>
+  <data key="d5">-</data>
+  <data key="d6">MER(1),SIR(1)</data>
+  <data key="d7">3</data>
+  <data key="d8">Other place</data>
+</node>
+<node id="GIN">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Adult female</data>
+  <data key="d2">Dispersed</data>
+  <data key="d3">Mid-Sept. 2005</data>
+  <data key="d4">-</data>
+  <data key="d5">-</data>
+  <data key="d6">MER(1)</data>
+  <data key="d7">2</data>
+  <data key="d8">Other place</data>
+</node>
+<node id="GAS">
+  <data key="d0">MALE</data>
+  <data key="d1">Adult male</data>
+  <data key="d2">Resident</data>
+  <data key="d3">-</data>
+  <data key="d4">0,920</data>
+  <data key="d5">0,667</data>
+  <data key="d6">MOR(2), PIS(1)</data>
+  <data key="d7">3</data>
+  <data key="d8">-</data>
+</node>
+<node id="MOR">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Subadult female</data>
+  <data key="d2">Resident</data>
+  <data key="d3">Late Jan. 2006</data>
+  <data key="d4">-0,120</data>
+  <data key="d5">0,176</data>
+  <data key="d6">PIP(1), GAS(2)</data>
+  <data key="d7">1</data>
+  <data key="d8">Home range</data>
+</node>
+<node id="PIS">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Young female</data>
+  <data key="d2">Resident</data>
+  <data key="d3">Mid-Apr. 2006</data>
+  <data key="d4">-1,000</data>
+  <data key="d5">0,000</data>
+  <data key="d6">GOL(1), GAS(1)</data>
+  <data key="d7">1</data>
+  <data key="d8">Home range</data>
+</node>
+<node id="PIP">
+  <data key="d0">MALE</data>
+  <data key="d1">Adult male</data>
+  <data key="d2">Resident</data>
+  <data key="d3">-</data>
+  <data key="d4">0,840</data>
+  <data key="d5">0,421</data>
+  <data key="d6">MOR(1), CUC(2)</data>
+  <data key="d7">3</data>
+  <data key="d8">-</data>
+</node>
+<node id="CUC">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Young female</data>
+  <data key="d2">Resident</data>
+  <data key="d3">Mid-Mar. 2006</data>
+  <data key="d4">-0,280</data>
+  <data key="d5">0,000</data>
+  <data key="d6">PIP(2), PTE(1)</data>
+  <data key="d7">0</data>
+  <data key="d8">Home range</data>
+</node>
+<node id="GOL">
+  <data key="d0">MALE</data>
+  <data key="d1">Adult male</data>
+  <data key="d2">Resident</data>
+  <data key="d3">-</data>
+  <data key="d4">0,680</data>
+  <data key="d5">0,524</data>
+  <data key="d6">PIS(1)</data>
+  <data key="d7">1</data>
+  <data key="d8">-</data>
+</node>
+<node id="SIM">
+  <data key="d0">MALE</data>
+  <data key="d1">Subadult male</data>
+  <data key="d2">Resident</data>
+  <data key="d3">-</data>
+  <data key="d4">0,200</data>
+  <data key="d5">0,250</data>
+  <data key="d6">DIA(1)</data>
+  <data key="d7">1</data>
+  <data key="d8"> </data>
+</node>
+<node id="DIA">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Adult female</data>
+  <data key="d2">Resident</data>
+  <data key="d3">Mid-Jan. 2006</data>
+  <data key="d4">0,280</data>
+  <data key="d5">0,500</data>
+  <data key="d6">SIM(1)</data>
+  <data key="d7">0</data>
+  <data key="d8"> </data>
+</node>
+<node id="TRU">
+  <data key="d0">MALE</data>
+  <data key="d1">Adult male</data>
+  <data key="d2">Non-pack</data>
+  <data key="d3">-</data>
+  <data key="d4">-</data>
+  <data key="d5">-</data>
+  <data key="d6">MOL(1)</data>
+  <data key="d7">1</data>
+  <data key="d8"> </data>
+</node>
+<node id="MOL">
+  <data key="d0">FEMALE</data>
+  <data key="d1">Adult female</data>
+  <data key="d2">Dispersed</data>
+  <data key="d3">Mid-Nov. 2005</data>
+  <data key="d4">-</data>
+  <data key="d5">-</data>
+  <data key="d6">-</data>
+  <data key="d7">0</data>
+  <data key="d8"> </data>
+</node>
+<node id="MSI">
+  <data key="d0">MALE</data>
+  <data key="d1">Adult male</data>
+  <data key="d2">Non-pack</data>
+  <data key="d3">-</data>
+  <data key="d4">-</data>
+  <data key="d5">-</data>
+  <data key="d6">ISO(1)</data>
+  <data key="d7">1</data>
+  <data key="d8"> </data>
+</node>
+<node id="SIR">
+  <data key="d0">MALE</data>
+  <data key="d1">Adult male</data>
+  <data key="d2">Non-pack</data>
+  <data key="d3">-</data>
+  <data key="d4">-</data>
+  <data key="d5">-</data>
+  <data key="d6">BAG(1)</data>
+  <data key="d7">1</data>
+  <data key="d8"> </data>
+</node>
+<node id="PTE">
+  <data key="d0">MALE</data>
+  <data key="d1">Adult male</data>
+  <data key="d2">Non-pack</data>
+  <data key="d3">-</data>
+  <data key="d4">-</data>
+  <data key="d5">-</data>
+  <data key="d6">CUC(1)</data>
+  <data key="d7">1</data>
+  <data key="d8"> </data>
+</node>
+<edge source="MER" target="MAY">
+  <data key="d9">4</data>
+</edge>
+<edge source="MER" target="ISO">
+  <data key="d9">1</data>
+</edge>
+<edge source="MER" target="BAG">
+  <data key="d9">1</data>
+</edge>
+<edge source="MER" target="GIN">
+  <data key="d9">1</data>
+</edge>
+<edge source="ISO" target="MSI">
+  <data key="d9">1</data>
+</edge>
+<edge source="BAG" target="SIR">
+  <data key="d9">1</data>
+</edge>
+<edge source="GAS" target="MOR">
+  <data key="d9">2</data>
+</edge>
+<edge source="GAS" target="PIS">
+  <data key="d9">1</data>
+</edge>
+<edge source="MOR" target="PIP">
+  <data key="d9">1</data>
+</edge>
+<edge source="PIS" target="GOL">
+  <data key="d9">1</data>
+</edge>
+<edge source="PIP" target="CUC">
+  <data key="d9">2</data>
+</edge>
+<edge source="CUC" target="PTE">
+  <data key="d9">1</data>
+</edge>
+<edge source="SIM" target="DIA">
+  <data key="d9">1</data>
+</edge>
+<edge source="TRU" target="MOL">
+  <data key="d9">1</data>
+</edge>
+</graph></graphml>

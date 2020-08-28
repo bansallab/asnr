@@ -1,21 +1,23 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/lizard_bull_social.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|60
 total edges|318
 network density|0.18
-average degree|10.6
-degree heterogeneity|0.4
-degree assortativity|0.35
-average betweenness centrality (unweighted)|0.027
+average degree|n/a
+degree heterogeneity|n/a
+degree assortativity|n/a
+average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.566
 average clustering coefficient (weighted)|0.011
-Newman modularity|0.454
-maximum modularity|0.737
-relative modularity|0.616
-group cohesion|0.717
+Newman modularity|0.439
+maximum modularity|0.744
+relative modularity|0.59
+group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
+Attributes Available|not available
 Species|*Tiliqua rugosa*
 Taxonomic class|Reptilia
 Population type|free-ranging

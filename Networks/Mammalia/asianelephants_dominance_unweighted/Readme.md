@@ -1,21 +1,23 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/asianelephant_desilva.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|73
 total edges|60
 network density|0.023
-average degree|1.644
-degree heterogeneity|0.64
-degree assortativity|0.09
-average betweenness centrality (unweighted)|0.004
+average degree|n/a
+degree heterogeneity|n/a
+degree assortativity|n/a
+average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.04
 average clustering coefficient (weighted)|0.04
-Newman modularity|0.503
-maximum modularity|0.685
-relative modularity|0.734
-group cohesion|0.3
+Newman modularity|0.501
+maximum modularity|0.592
+relative modularity|0.846
+group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
+Attributes Available|age class, social unit
 Species|*Elephas maximus*
 Taxonomic class|Mammalia
 Population type|free-ranging
@@ -28,4 +30,4 @@ Total duration of data collection|206days
 Time resolution of data collection (within a day)|1sec
 Time span of data collection (within a day)|5.5 hours
 Note|
-**Citation** | de Silva, Shermin, Volker Schmid, and George Wittemyer. <br> "Fission–fusion processes weaken dominance networks of female <br> Asian elephants in a productive habitat." Behavioral <br> Ecology (2016): arw153.
+**Citation** | de Silva, Shermin, Volker Schmid, and George Wittemyer. <br> "Fission___fusion processes weaken dominance networks of female <br> Asian elephants in a productive habitat." Behavioral <br> Ecology (2016): arw153.

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="208M">
+  <data key="d0">MALE</data>
+</node>
+<node id="42F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="2M">
+  <data key="d0">MALE</data>
+</node>
+<node id="157F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="180M">
+  <data key="d0">MALE</data>
+</node>
+<node id="192M">
+  <data key="d0">MALE</data>
+</node>
+<node id="190F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="202M">
+  <data key="d0">MALE</data>
+</node>
+<node id="219F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="?M">
+  <data key="d0">MALE</data>
+</node>
+<node id="234M">
+  <data key="d0">MALE</data>
+</node>
+<node id="242F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="243F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="48M">
+  <data key="d0">MALE</data>
+</node>
+<node id="215M">
+  <data key="d0">MALE</data>
+</node>
+<node id="82M">
+  <data key="d0">MALE</data>
+</node>
+<node id="297M">
+  <data key="d0">MALE</data>
+</node>
+<node id="224M">
+  <data key="d0">MALE</data>
+</node>
+<node id="377M">
+  <data key="d0">MALE</data>
+</node>
+<node id="276F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="341F">
+  <data key="d0">FEMALE</data>
+</node>
+<edge source="208M" target="42F">
+  <data key="d1">1</data>
+</edge>
+<edge source="208M" target="242F">
+  <data key="d1">1</data>
+</edge>
+<edge source="208M" target="243F">
+  <data key="d1">1</data>
+</edge>
+<edge source="2M" target="157F">
+  <data key="d1">1</data>
+</edge>
+<edge source="157F" target="180M">
+  <data key="d1">1</data>
+</edge>
+<edge source="192M" target="190F">
+  <data key="d1">1</data>
+</edge>
+<edge source="192M" target="276F">
+  <data key="d1">1</data>
+</edge>
+<edge source="202M" target="219F">
+  <data key="d1">1</data>
+</edge>
+<edge source="219F" target="?M">
+  <data key="d1">1</data>
+</edge>
+<edge source="219F" target="234M">
+  <data key="d1">1</data>
+</edge>
+<edge source="243F" target="48M">
+  <data key="d1">3</data>
+</edge>
+<edge source="243F" target="215M">
+  <data key="d1">1</data>
+</edge>
+<edge source="243F" target="82M">
+  <data key="d1">1</data>
+</edge>
+<edge source="243F" target="297M">
+  <data key="d1">1</data>
+</edge>
+<edge source="243F" target="224M">
+  <data key="d1">1</data>
+</edge>
+<edge source="243F" target="377M">
+  <data key="d1">1</data>
+</edge>
+<edge source="48M" target="276F">
+  <data key="d1">1</data>
+</edge>
+<edge source="48M" target="341F">
+  <data key="d1">2</data>
+</edge>
+</graph></graphml>

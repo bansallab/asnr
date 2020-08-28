@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="37M">
+  <data key="d0">MALE</data>
+</node>
+<node id="M">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="5M">
+  <data key="d0">MALE</data>
+</node>
+<node id="N">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="40M">
+  <data key="d0">MALE</data>
+</node>
+<node id="28M">
+  <data key="d0">MALE</data>
+</node>
+<node id="O">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="45M">
+  <data key="d0">MALE</data>
+</node>
+<node id="P">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="Q">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="14M">
+  <data key="d0">MALE</data>
+</node>
+<node id="R">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="31M">
+  <data key="d0">MALE</data>
+</node>
+<node id="S">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="T">
+  <data key="d0">FEMALE</data>
+</node>
+<edge source="37M" target="M">
+  <data key="d1">1</data>
+</edge>
+<edge source="37M" target="O">
+  <data key="d1">1</data>
+</edge>
+<edge source="37M" target="T">
+  <data key="d1">1</data>
+</edge>
+<edge source="5M" target="N">
+  <data key="d1">1</data>
+</edge>
+<edge source="N" target="40M">
+  <data key="d1">3</data>
+</edge>
+<edge source="40M" target="Q">
+  <data key="d1">1</data>
+</edge>
+<edge source="28M" target="O">
+  <data key="d1">1</data>
+</edge>
+<edge source="45M" target="P">
+  <data key="d1">1</data>
+</edge>
+<edge source="14M" target="R">
+  <data key="d1">1</data>
+</edge>
+<edge source="31M" target="S">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>

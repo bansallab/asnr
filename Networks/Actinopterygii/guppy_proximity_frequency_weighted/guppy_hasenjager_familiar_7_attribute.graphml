@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="Shoaling" attr.type="double"/>
+<key id="d4" for="node" attr.name="Active" attr.type="double"/>
+<key id="d3" for="node" attr.name="Habituation" attr.type="double"/>
+<key id="d2" for="node" attr.name="StandardLength" attr.type="double"/>
+<key id="d1" for="node" attr.name="Block" attr.type="double"/>
+<key id="d0" for="node" attr.name="Group" attr.type="string"/>
+<graph edgedefault="undirected"><node id="1">
+  <data key="d0">F7</data>
+  <data key="d1">2.0</data>
+  <data key="d2">1.574</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.9027777779999999</data>
+  <data key="d5">0.791666667</data>
+</node>
+<node id="3">
+  <data key="d0">F7</data>
+  <data key="d1">2.0</data>
+  <data key="d2">1.568</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.875</data>
+  <data key="d5">0.7361111109999999</data>
+</node>
+<node id="2">
+  <data key="d0">F7</data>
+  <data key="d1">2.0</data>
+  <data key="d2">1.626</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.638888889</data>
+  <data key="d5">0.9722222220000001</data>
+</node>
+<node id="5">
+  <data key="d0">F7</data>
+  <data key="d1">2.0</data>
+  <data key="d2">1.5019999999999998</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.819444444</data>
+  <data key="d5">0.819444444</data>
+</node>
+<node id="4">
+  <data key="d0">F7</data>
+  <data key="d1">2.0</data>
+  <data key="d2">1.516</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.666666667</data>
+  <data key="d5">0.8888888890000001</data>
+</node>
+<node id="6">
+  <data key="d0">F7</data>
+  <data key="d1">2.0</data>
+  <data key="d2">1.518</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.75</data>
+  <data key="d5">0.7222222220000001</data>
+</node>
+<edge source="1" target="3">
+  <data key="d6">14.0</data>
+</edge>
+<edge source="1" target="2">
+  <data key="d6">10.0</data>
+</edge>
+<edge source="1" target="5">
+  <data key="d6">15.0</data>
+</edge>
+<edge source="1" target="4">
+  <data key="d6">18.0</data>
+</edge>
+<edge source="1" target="6">
+  <data key="d6">15.0</data>
+</edge>
+<edge source="3" target="2">
+  <data key="d6">9.0</data>
+</edge>
+<edge source="3" target="5">
+  <data key="d6">17.0</data>
+</edge>
+<edge source="3" target="4">
+  <data key="d6">14.0</data>
+</edge>
+<edge source="3" target="6">
+  <data key="d6">12.0</data>
+</edge>
+<edge source="2" target="5">
+  <data key="d6">20.0</data>
+</edge>
+<edge source="2" target="4">
+  <data key="d6">20.0</data>
+</edge>
+<edge source="2" target="6">
+  <data key="d6">19.0</data>
+</edge>
+<edge source="5" target="4">
+  <data key="d6">18.0</data>
+</edge>
+<edge source="5" target="6">
+  <data key="d6">19.0</data>
+</edge>
+<edge source="4" target="6">
+  <data key="d6">17.0</data>
+</edge>
+</graph></graphml>

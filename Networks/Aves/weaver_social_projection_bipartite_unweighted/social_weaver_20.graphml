@@ -1,0 +1,80 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="YMYE" />
+    <node id="GMWY" />
+    <node id="YMEZ" />
+    <node id="RMVV" />
+    <node id="ULRM" />
+    <node id="RMBZ" />
+    <node id="EMWY" />
+    <node id="RMFR" />
+    <node id="UMUY" />
+    <node id="VMRL" />
+    <node id="ZFRM" />
+    <node id="URVM" />
+    <node id="RMRR" />
+    <node id="RMFV" />
+    <edge source="YMYE" target="RMVV" />
+    <edge source="YMYE" target="ULRM" />
+    <edge source="YMYE" target="RMBZ" />
+    <edge source="YMYE" target="EMWY" />
+    <edge source="YMYE" target="RMFR" />
+    <edge source="YMYE" target="VMRL" />
+    <edge source="YMYE" target="ZFRM" />
+    <edge source="YMYE" target="URVM" />
+    <edge source="GMWY" target="RMVV" />
+    <edge source="GMWY" target="ULRM" />
+    <edge source="GMWY" target="ZFRM" />
+    <edge source="GMWY" target="RMFR" />
+    <edge source="GMWY" target="UMUY" />
+    <edge source="GMWY" target="VMRL" />
+    <edge source="GMWY" target="RMFV" />
+    <edge source="GMWY" target="RMBZ" />
+    <edge source="GMWY" target="URVM" />
+    <edge source="GMWY" target="YMEZ" />
+    <edge source="GMWY" target="RMRR" />
+    <edge source="YMEZ" target="RMVV" />
+    <edge source="YMEZ" target="ULRM" />
+    <edge source="YMEZ" target="ZFRM" />
+    <edge source="YMEZ" target="RMFR" />
+    <edge source="YMEZ" target="UMUY" />
+    <edge source="YMEZ" target="VMRL" />
+    <edge source="YMEZ" target="RMFV" />
+    <edge source="YMEZ" target="RMRR" />
+    <edge source="RMVV" target="RMBZ" />
+    <edge source="RMVV" target="ULRM" />
+    <edge source="RMVV" target="EMWY" />
+    <edge source="RMVV" target="RMFR" />
+    <edge source="RMVV" target="UMUY" />
+    <edge source="RMVV" target="VMRL" />
+    <edge source="RMVV" target="ZFRM" />
+    <edge source="RMVV" target="URVM" />
+    <edge source="ULRM" target="RMBZ" />
+    <edge source="ULRM" target="EMWY" />
+    <edge source="ULRM" target="RMFR" />
+    <edge source="ULRM" target="VMRL" />
+    <edge source="ULRM" target="ZFRM" />
+    <edge source="ULRM" target="URVM" />
+    <edge source="RMBZ" target="EMWY" />
+    <edge source="RMBZ" target="RMFR" />
+    <edge source="RMBZ" target="VMRL" />
+    <edge source="RMBZ" target="ZFRM" />
+    <edge source="RMBZ" target="URVM" />
+    <edge source="EMWY" target="RMFR" />
+    <edge source="EMWY" target="VMRL" />
+    <edge source="EMWY" target="ZFRM" />
+    <edge source="EMWY" target="URVM" />
+    <edge source="RMFR" target="RMFV" />
+    <edge source="RMFR" target="UMUY" />
+    <edge source="RMFR" target="VMRL" />
+    <edge source="RMFR" target="ZFRM" />
+    <edge source="RMFR" target="URVM" />
+    <edge source="RMFR" target="RMRR" />
+    <edge source="VMRL" target="ZFRM" />
+    <edge source="VMRL" target="URVM" />
+    <edge source="ZFRM" target="RMFV" />
+    <edge source="ZFRM" target="URVM" />
+    <edge source="ZFRM" target="RMRR" />
+    <edge source="RMRR" target="RMFV" />
+  </graph>
+</graphml>

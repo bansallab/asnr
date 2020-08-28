@@ -1,0 +1,914 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d12" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d11" for="node" attr.name="Clustering coefficient " attr.type="string"/>
+<key id="d10" for="node" attr.name="Number of observations" attr.type="long"/>
+<key id="d9" for="node" attr.name="Elytra" attr.type="double"/>
+<key id="d8" for="node" attr.name="Tub" attr.type="string"/>
+<key id="d7" for="node" attr.name="Sex" attr.type="string"/>
+<key id="d6" for="node" attr.name="Treatment" attr.type="string"/>
+<key id="d5" for="node" attr.name="Period" attr.type="long"/>
+<key id="d4" for="node" attr.name="Clustering coefficient " attr.type="double"/>
+<key id="d3" for="node" attr.name="betweenness" attr.type="double"/>
+<key id="d2" for="node" attr.name="strength" attr.type="double"/>
+<key id="d1" for="node" attr.name="node" attr.type="double"/>
+<key id="d0" for="node" attr.name="TubPeriod" attr.type="string"/>
+<graph edgedefault="undirected"><node id="EM">
+  <data key="d0">C3_2</data>
+  <data key="d1">7.0</data>
+  <data key="d2">3.32798425</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.462485459</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.291</data>
+  <data key="d10">31</data>
+</node>
+<node id="EL">
+  <data key="d0">C3_2</data>
+  <data key="d1">6.0</data>
+  <data key="d2">4.041367578</data>
+  <data key="d3">34.0</data>
+  <data key="d4">0.497988224</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.1</data>
+  <data key="d10">36</data>
+</node>
+<node id="EK">
+  <data key="d0">C3_2</data>
+  <data key="d1">5.0</data>
+  <data key="d2">3.1058525789999996</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.494027813</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.955</data>
+  <data key="d10">30</data>
+</node>
+<node id="EE">
+  <data key="d0">C3_2</data>
+  <data key="d1">4.0</data>
+  <data key="d2">0.489513944</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.33526816800000003</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.641</data>
+  <data key="d10">21</data>
+</node>
+<node id="ED">
+  <data key="d0">C3_2</data>
+  <data key="d1">3.0</data>
+  <data key="d2">1.258064583</data>
+  <data key="d3">2.0</data>
+  <data key="d4">0.7761157740000001</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.065</data>
+  <data key="d10">17</data>
+</node>
+<node id="EA">
+  <data key="d0">C3_2</data>
+  <data key="d1">1.0</data>
+  <data key="d2">2.2540460380000003</data>
+  <data key="d3">5.0</data>
+  <data key="d4">0.509803793</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.957999999999999</data>
+  <data key="d10">23</data>
+</node>
+<node id="EC">
+  <data key="d0">C3_2</data>
+  <data key="d1">2.0</data>
+  <data key="d2">2.7473352280000003</data>
+  <data key="d3">14.0</data>
+  <data key="d4">0.623617624</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">7.502999999999999</data>
+  <data key="d10">27</data>
+</node>
+<node id="EX">
+  <data key="d0">C3_2</data>
+  <data key="d1">13.0</data>
+  <data key="d2">3.351480819</data>
+  <data key="d3">18.0</data>
+  <data key="d4">0.627929525</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">7.556</data>
+  <data key="d10">42</data>
+</node>
+<node id="EZ">
+  <data key="d0">C3_2</data>
+  <data key="d1">14.0</data>
+  <data key="d2">4.195783756</data>
+  <data key="d3">23.0</data>
+  <data key="d4">0.615502994</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">7.006</data>
+  <data key="d10">32</data>
+</node>
+<node id="EU">
+  <data key="d0">C3_2</data>
+  <data key="d1">11.0</data>
+  <data key="d2">3.9801339469999997</data>
+  <data key="d3">73.0</data>
+  <data key="d4">0.5967031279999999</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">7.942</data>
+  <data key="d10">42</data>
+</node>
+<node id="ET">
+  <data key="d0">C3_2</data>
+  <data key="d1">10.0</data>
+  <data key="d2">2.2625005259999997</data>
+  <data key="d3">17.0</data>
+  <data key="d4">0.71003482</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.718</data>
+  <data key="d10">30</data>
+</node>
+<node id="EV">
+  <data key="d0">C3_2</data>
+  <data key="d1">12.0</data>
+  <data key="d2">2.576894278</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.47371593100000003</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.603</data>
+  <data key="d10">19</data>
+</node>
+<node id="EP">
+  <data key="d0">C3_2</data>
+  <data key="d1">8.0</data>
+  <data key="d2">2.719413328</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.500066525</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.643</data>
+  <data key="d10">34</data>
+</node>
+<node id="ES">
+  <data key="d0">C3_2</data>
+  <data key="d1">9.0</data>
+  <data key="d2">3.3716455639999996</data>
+  <data key="d3">32.0</data>
+  <data key="d4">0.52743472</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">M</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.382999999999999</data>
+  <data key="d10">20</data>
+</node>
+<node id="OO">
+  <data key="d0">C3_2</data>
+  <data key="d1">22.0</data>
+  <data key="d2">3.37510609</data>
+  <data key="d3">46.0</data>
+  <data key="d4">0.496167997</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.836</data>
+  <data key="d10">39</data>
+</node>
+<node id="OM">
+  <data key="d0">C3_2</data>
+  <data key="d1">21.0</data>
+  <data key="d2">2.8341722710000004</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.5512825720000001</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.652</data>
+  <data key="d10">19</data>
+</node>
+<node id="OL">
+  <data key="d0">C3_2</data>
+  <data key="d1">20.0</data>
+  <data key="d2">4.504437322</data>
+  <data key="d3">53.0</data>
+  <data key="d4">0.6252695189999999</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">7.829</data>
+  <data key="d10">35</data>
+</node>
+<node id="OK">
+  <data key="d0">C3_2</data>
+  <data key="d1">19.0</data>
+  <data key="d2">3.137458169</data>
+  <data key="d3">3.0</data>
+  <data key="d4">0.562109593</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.968</data>
+  <data key="d10">18</data>
+</node>
+<node id="OH">
+  <data key="d0">C3_2</data>
+  <data key="d1">18.0</data>
+  <data key="d2">4.130424977</data>
+  <data key="d3">34.0</data>
+  <data key="d4">0.567942035</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">7.377999999999999</data>
+  <data key="d10">36</data>
+</node>
+<node id="OD">
+  <data key="d0">C3_2</data>
+  <data key="d1">17.0</data>
+  <data key="d2">0.8969862340000001</data>
+  <data key="d3">0.0</data>
+  <data key="d4">1.0</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.619</data>
+  <data key="d10">21</data>
+</node>
+<node id="OC">
+  <data key="d0">C3_2</data>
+  <data key="d1">16.0</data>
+  <data key="d2">2.850996336</data>
+  <data key="d3">16.0</data>
+  <data key="d4">0.5847555879999999</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">7.1979999999999995</data>
+  <data key="d10">25</data>
+</node>
+<node id="OA">
+  <data key="d0">C3_2</data>
+  <data key="d1">15.0</data>
+  <data key="d2">2.6044823790000002</data>
+  <data key="d3">22.0</data>
+  <data key="d4">0.6612622260000001</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.496</data>
+  <data key="d10">22</data>
+</node>
+<node id="OZ">
+  <data key="d0">C3_2</data>
+  <data key="d1">29.0</data>
+  <data key="d2">3.702372612</data>
+  <data key="d3">46.0</data>
+  <data key="d4">0.634210364</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.251</data>
+  <data key="d10">25</data>
+</node>
+<node id="OX">
+  <data key="d0">C3_2</data>
+  <data key="d1">28.0</data>
+  <data key="d2">1.826325566</data>
+  <data key="d3">8.0</data>
+  <data key="d4">0.49185415</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.605</data>
+  <data key="d10">22</data>
+</node>
+<node id="OV">
+  <data key="d0">C3_2</data>
+  <data key="d1">27.0</data>
+  <data key="d2">0.158113883</data>
+  <data key="d3">0.0</data>
+  <data key="d11"> </data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">5.997999999999999</data>
+  <data key="d10">25</data>
+</node>
+<node id="OU">
+  <data key="d0">C3_2</data>
+  <data key="d1">26.0</data>
+  <data key="d2">4.241790729</data>
+  <data key="d3">74.0</data>
+  <data key="d4">0.618105143</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.7410000000000005</data>
+  <data key="d10">31</data>
+</node>
+<node id="OT">
+  <data key="d0">C3_2</data>
+  <data key="d1">25.0</data>
+  <data key="d2">2.142700164</data>
+  <data key="d3">7.0</data>
+  <data key="d4">0.525332616</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.415</data>
+  <data key="d10">10</data>
+</node>
+<node id="OS">
+  <data key="d0">C3_2</data>
+  <data key="d1">24.0</data>
+  <data key="d2">4.006711958</data>
+  <data key="d3">28.0</data>
+  <data key="d4">0.5042876270000001</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">7.132999999999999</data>
+  <data key="d10">28</data>
+</node>
+<node id="OP">
+  <data key="d0">C3_2</data>
+  <data key="d1">23.0</data>
+  <data key="d2">1.306434823</data>
+  <data key="d3">0.0</data>
+  <data key="d4">0.7086001540000001</data>
+  <data key="d5">2</data>
+  <data key="d6">C</data>
+  <data key="d7">F</data>
+  <data key="d8">C3</data>
+  <data key="d9">6.9079999999999995</data>
+  <data key="d10">13</data>
+</node>
+<edge source="EM" target="OO">
+  <data key="d12">0.086956522</data>
+</edge>
+<edge source="EM" target="EL">
+  <data key="d12">0.045454546</data>
+</edge>
+<edge source="EM" target="OD">
+  <data key="d12">0.055555556</data>
+</edge>
+<edge source="EM" target="OH">
+  <data key="d12">0.133333334</data>
+</edge>
+<edge source="EM" target="ED">
+  <data key="d12">0.055555556</data>
+</edge>
+<edge source="EM" target="OC">
+  <data key="d12">0.09090909</data>
+</edge>
+<edge source="EM" target="EA">
+  <data key="d12">0.09090909</data>
+</edge>
+<edge source="EM" target="OX">
+  <data key="d12">0.095238096</data>
+</edge>
+<edge source="EM" target="EC">
+  <data key="d12">0.048780488</data>
+</edge>
+<edge source="EM" target="OL">
+  <data key="d12">0.133333334</data>
+</edge>
+<edge source="EM" target="EX">
+  <data key="d12">0.042553192</data>
+</edge>
+<edge source="EM" target="EZ">
+  <data key="d12">0.045454546</data>
+</edge>
+<edge source="EM" target="EU">
+  <data key="d12">0.020833333</data>
+</edge>
+<edge source="EM" target="OU">
+  <data key="d12">0.146341464</data>
+</edge>
+<edge source="EM" target="OA">
+  <data key="d12">0.1</data>
+</edge>
+<edge source="EM" target="EP">
+  <data key="d12">0.044444444</data>
+</edge>
+<edge source="EM" target="OZ">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="EL" target="OC">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="EL" target="OM">
+  <data key="d12">0.142857142</data>
+</edge>
+<edge source="EL" target="OL">
+  <data key="d12">0.130434782</data>
+</edge>
+<edge source="EL" target="EK">
+  <data key="d12">0.045454546</data>
+</edge>
+<edge source="EL" target="OH">
+  <data key="d12">0.085106382</data>
+</edge>
+<edge source="EL" target="ED">
+  <data key="d12">0.051282052</data>
+</edge>
+<edge source="EL" target="OD">
+  <data key="d12">0.25</data>
+</edge>
+<edge source="EL" target="EA">
+  <data key="d12">0.088888888</data>
+</edge>
+<edge source="EL" target="EC">
+  <data key="d12">0.047619048</data>
+</edge>
+<edge source="EL" target="OZ">
+  <data key="d12">0.09090909</data>
+</edge>
+<edge source="EL" target="EZ">
+  <data key="d12">0.088888888</data>
+</edge>
+<edge source="EL" target="EU">
+  <data key="d12">0.042553192</data>
+</edge>
+<edge source="EL" target="ET">
+  <data key="d12">0.048780488</data>
+</edge>
+<edge source="EL" target="OU">
+  <data key="d12">0.279069768</data>
+</edge>
+<edge source="EL" target="EV">
+  <data key="d12">0.048780488</data>
+</edge>
+<edge source="EL" target="OS">
+  <data key="d12">0.09090909</data>
+</edge>
+<edge source="EL" target="EP">
+  <data key="d12">0.044444444</data>
+</edge>
+<edge source="EL" target="OP">
+  <data key="d12">0.051282052</data>
+</edge>
+<edge source="EK" target="OO">
+  <data key="d12">0.088888888</data>
+</edge>
+<edge source="EK" target="OL">
+  <data key="d12">0.044444444</data>
+</edge>
+<edge source="EK" target="OK">
+  <data key="d12">0.055555556</data>
+</edge>
+<edge source="EK" target="OH">
+  <data key="d12">0.04347826</data>
+</edge>
+<edge source="EK" target="ED">
+  <data key="d12">0.052631578</data>
+</edge>
+<edge source="EK" target="OC">
+  <data key="d12">0.051282052</data>
+</edge>
+<edge source="EK" target="EA">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="EK" target="OA">
+  <data key="d12">0.263157894</data>
+</edge>
+<edge source="EK" target="EX">
+  <data key="d12">0.130434782</data>
+</edge>
+<edge source="EK" target="EZ">
+  <data key="d12">0.047619048</data>
+</edge>
+<edge source="EK" target="EU">
+  <data key="d12">0.04347826</data>
+</edge>
+<edge source="EK" target="OS">
+  <data key="d12">0.097560976</data>
+</edge>
+<edge source="EK" target="EP">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="EK" target="ES">
+  <data key="d12">0.048780488</data>
+</edge>
+<edge source="EK" target="OZ">
+  <data key="d12">0.1</data>
+</edge>
+<edge source="EE" target="OO">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="EE" target="ET">
+  <data key="d12">0.052631578</data>
+</edge>
+<edge source="EE" target="OX">
+  <data key="d12">0.06060606</data>
+</edge>
+<edge source="ED" target="OH">
+  <data key="d12">0.139534884</data>
+</edge>
+<edge source="ED" target="EA">
+  <data key="d12">0.114285714</data>
+</edge>
+<edge source="ED" target="OZ">
+  <data key="d12">0.114285714</data>
+</edge>
+<edge source="EA" target="OT">
+  <data key="d12">0.05882353</data>
+</edge>
+<edge source="EA" target="OC">
+  <data key="d12">0.216216216</data>
+</edge>
+<edge source="EA" target="OX">
+  <data key="d12">0.052631578</data>
+</edge>
+<edge source="EA" target="OU">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="EA" target="EV">
+  <data key="d12">0.05882353</data>
+</edge>
+<edge source="EA" target="EP">
+  <data key="d12">0.093023256</data>
+</edge>
+<edge source="EA" target="ES">
+  <data key="d12">0.057142858</data>
+</edge>
+<edge source="EC" target="OM">
+  <data key="d12">0.222222222</data>
+</edge>
+<edge source="EC" target="OK">
+  <data key="d12">0.111111112</data>
+</edge>
+<edge source="EC" target="OC">
+  <data key="d12">0.051282052</data>
+</edge>
+<edge source="EC" target="OZ">
+  <data key="d12">0.05</data>
+</edge>
+<edge source="EC" target="OU">
+  <data key="d12">0.153846154</data>
+</edge>
+<edge source="EC" target="EV">
+  <data key="d12">0.114285714</data>
+</edge>
+<edge source="EC" target="OS">
+  <data key="d12">0.315789474</data>
+</edge>
+<edge source="EC" target="EP">
+  <data key="d12">0.095238096</data>
+</edge>
+<edge source="EC" target="ES">
+  <data key="d12">0.162162162</data>
+</edge>
+<edge source="EX" target="OO">
+  <data key="d12">0.520833333</data>
+</edge>
+<edge source="EX" target="OL">
+  <data key="d12">0.083333334</data>
+</edge>
+<edge source="EX" target="OK">
+  <data key="d12">0.04347826</data>
+</edge>
+<edge source="EX" target="OH">
+  <data key="d12">0.083333334</data>
+</edge>
+<edge source="EX" target="OC">
+  <data key="d12">0.04347826</data>
+</edge>
+<edge source="EX" target="OA">
+  <data key="d12">0.391304348</data>
+</edge>
+<edge source="EX" target="OU">
+  <data key="d12">0.086956522</data>
+</edge>
+<edge source="EX" target="OT">
+  <data key="d12">0.170212766</data>
+</edge>
+<edge source="EX" target="OS">
+  <data key="d12">0.170212766</data>
+</edge>
+<edge source="EX" target="EP">
+  <data key="d12">0.085106382</data>
+</edge>
+<edge source="EZ" target="OM">
+  <data key="d12">0.102564102</data>
+</edge>
+<edge source="EZ" target="OL">
+  <data key="d12">0.222222222</data>
+</edge>
+<edge source="EZ" target="OK">
+  <data key="d12">0.205128206</data>
+</edge>
+<edge source="EZ" target="OH">
+  <data key="d12">0.260869566</data>
+</edge>
+<edge source="EZ" target="OC">
+  <data key="d12">0.102564102</data>
+</edge>
+<edge source="EZ" target="OZ">
+  <data key="d12">0.25</data>
+</edge>
+<edge source="EZ" target="OX">
+  <data key="d12">0.139534884</data>
+</edge>
+<edge source="EZ" target="EU">
+  <data key="d12">0.170212766</data>
+</edge>
+<edge source="EZ" target="ET">
+  <data key="d12">0.044444444</data>
+</edge>
+<edge source="EZ" target="OU">
+  <data key="d12">0.136363636</data>
+</edge>
+<edge source="EZ" target="OT">
+  <data key="d12">0.052631578</data>
+</edge>
+<edge source="EZ" target="OS">
+  <data key="d12">0.1</data>
+</edge>
+<edge source="EZ" target="ES">
+  <data key="d12">0.05</data>
+</edge>
+<edge source="EZ" target="OP">
+  <data key="d12">0.052631578</data>
+</edge>
+<edge source="EU" target="OM">
+  <data key="d12">0.04347826</data>
+</edge>
+<edge source="EU" target="OL">
+  <data key="d12">0.574468085</data>
+</edge>
+<edge source="EU" target="OH">
+  <data key="d12">0.020833333</data>
+</edge>
+<edge source="EU" target="OX">
+  <data key="d12">0.127659574</data>
+</edge>
+<edge source="EU" target="OZ">
+  <data key="d12">0.347826086</data>
+</edge>
+<edge source="EU" target="OO">
+  <data key="d12">0.291666666</data>
+</edge>
+<edge source="EU" target="ET">
+  <data key="d12">0.086956522</data>
+</edge>
+<edge source="EU" target="OU">
+  <data key="d12">0.170212766</data>
+</edge>
+<edge source="EU" target="EV">
+  <data key="d12">0.042553192</data>
+</edge>
+<edge source="EU" target="OP">
+  <data key="d12">0.217391304</data>
+</edge>
+<edge source="ET" target="OM">
+  <data key="d12">0.222222222</data>
+</edge>
+<edge source="ET" target="OL">
+  <data key="d12">0.045454546</data>
+</edge>
+<edge source="ET" target="OH">
+  <data key="d12">0.130434782</data>
+</edge>
+<edge source="ET" target="OZ">
+  <data key="d12">0.125</data>
+</edge>
+<edge source="ET" target="OU">
+  <data key="d12">0.142857142</data>
+</edge>
+<edge source="ET" target="OS">
+  <data key="d12">0.1</data>
+</edge>
+<edge source="EV" target="OM">
+  <data key="d12">0.0625</data>
+</edge>
+<edge source="EV" target="OL">
+  <data key="d12">0.09090909</data>
+</edge>
+<edge source="EV" target="OC">
+  <data key="d12">0.052631578</data>
+</edge>
+<edge source="EV" target="OA">
+  <data key="d12">0.0625</data>
+</edge>
+<edge source="EV" target="OT">
+  <data key="d12">0.307692308</data>
+</edge>
+<edge source="EV" target="OS">
+  <data key="d12">0.166666666</data>
+</edge>
+<edge source="EV" target="ES">
+  <data key="d12">0.2</data>
+</edge>
+<edge source="EP" target="OM">
+  <data key="d12">0.097560976</data>
+</edge>
+<edge source="EP" target="OL">
+  <data key="d12">0.130434782</data>
+</edge>
+<edge source="EP" target="OK">
+  <data key="d12">0.097560976</data>
+</edge>
+<edge source="EP" target="OH">
+  <data key="d12">0.044444444</data>
+</edge>
+<edge source="EP" target="OD">
+  <data key="d12">0.051282052</data>
+</edge>
+<edge source="EP" target="OX">
+  <data key="d12">0.047619048</data>
+</edge>
+<edge source="EP" target="OO">
+  <data key="d12">0.111111111</data>
+</edge>
+<edge source="EP" target="OU">
+  <data key="d12">0.045454546</data>
+</edge>
+<edge source="ES" target="OO">
+  <data key="d12">0.044444444</data>
+</edge>
+<edge source="ES" target="OM">
+  <data key="d12">0.066666666</data>
+</edge>
+<edge source="ES" target="OT">
+  <data key="d12">0.153846154</data>
+</edge>
+<edge source="ES" target="OK">
+  <data key="d12">0.057142858</data>
+</edge>
+<edge source="ES" target="OH">
+  <data key="d12">0.186046512</data>
+</edge>
+<edge source="ES" target="OX">
+  <data key="d12">0.0625</data>
+</edge>
+<edge source="ES" target="OC">
+  <data key="d12">0.27027027</data>
+</edge>
+<edge source="ES" target="OU">
+  <data key="d12">0.048780488</data>
+</edge>
+<edge source="ES" target="OS">
+  <data key="d12">0.216216216</data>
+</edge>
+<edge source="OO" target="OL">
+  <data key="d12">0.136363636</data>
+</edge>
+<edge source="OO" target="OA">
+  <data key="d12">0.304347826</data>
+</edge>
+<edge source="OO" target="OX">
+  <data key="d12">0.09090909</data>
+</edge>
+<edge source="OO" target="OT">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="OO" target="OS">
+  <data key="d12">0.086956522</data>
+</edge>
+<edge source="OM" target="OL">
+  <data key="d12">0.048780488</data>
+</edge>
+<edge source="OM" target="OK">
+  <data key="d12">0.057142858</data>
+</edge>
+<edge source="OM" target="OX">
+  <data key="d12">0.06451613</data>
+</edge>
+<edge source="OM" target="OC">
+  <data key="d12">0.052631578</data>
+</edge>
+<edge source="OM" target="OZ">
+  <data key="d12">0.052631578</data>
+</edge>
+<edge source="OL" target="OK">
+  <data key="d12">0.1</data>
+</edge>
+<edge source="OL" target="OH">
+  <data key="d12">0.063829787</data>
+</edge>
+<edge source="OL" target="OD">
+  <data key="d12">0.045454546</data>
+</edge>
+<edge source="OL" target="OU">
+  <data key="d12">0.363636364</data>
+</edge>
+<edge source="OL" target="OS">
+  <data key="d12">0.044444444</data>
+</edge>
+<edge source="OL" target="OZ">
+  <data key="d12">0.086956522</data>
+</edge>
+<edge source="OK" target="OH">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="OK" target="OS">
+  <data key="d12">0.102564102</data>
+</edge>
+<edge source="OK" target="OC">
+  <data key="d12">0.125</data>
+</edge>
+<edge source="OK" target="OZ">
+  <data key="d12">0.055555556</data>
+</edge>
+<edge source="OK" target="OU">
+  <data key="d12">0.054054054</data>
+</edge>
+<edge source="OK" target="OA">
+  <data key="d12">0.05882353</data>
+</edge>
+<edge source="OK" target="OP">
+  <data key="d12">0.142857142</data>
+</edge>
+<edge source="OH" target="OC">
+  <data key="d12">0.088888888</data>
+</edge>
+<edge source="OH" target="OA">
+  <data key="d12">0.044444444</data>
+</edge>
+<edge source="OH" target="OZ">
+  <data key="d12">0.130434782</data>
+</edge>
+<edge source="OH" target="OU">
+  <data key="d12">0.217391304</data>
+</edge>
+<edge source="OH" target="OS">
+  <data key="d12">0.086956522</data>
+</edge>
+<edge source="OH" target="OP">
+  <data key="d12">0.047619048</data>
+</edge>
+<edge source="OC" target="OT">
+  <data key="d12">0.05882353</data>
+</edge>
+<edge source="OA" target="OT">
+  <data key="d12">0.06060606</data>
+</edge>
+<edge source="OA" target="OS">
+  <data key="d12">0.222222222</data>
+</edge>
+<edge source="OZ" target="OV">
+  <data key="d12">0.05</data>
+</edge>
+<edge source="OZ" target="OU">
+  <data key="d12">0.2</data>
+</edge>
+<edge source="OZ" target="OS">
+  <data key="d12">0.102564102</data>
+</edge>
+<edge source="OU" target="OT">
+  <data key="d12">0.111111112</data>
+</edge>
+<edge source="OU" target="OS">
+  <data key="d12">0.046511628</data>
+</edge>
+<edge source="OS" target="OP">
+  <data key="d12">0.057142858</data>
+</edge>
+</graph></graphml>

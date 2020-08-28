@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d4" for="node" attr.name="Age in years at time of knockout" attr.type="double"/>
+<key id="d3" for="node" attr.name="Type of dispersal" attr.type="string"/>
+<key id="d2" for="node" attr.name="Dominance rank at time of knockout" attr.type="double"/>
+<key id="d1" for="node" attr.name="Group ID" attr.type="double"/>
+<key id="d0" for="node" attr.name="Date of knockout" attr.type="string"/>
+<graph edgedefault="undirected"><node id="0"/>
+<node id="3">
+  <data key="d0">7/30/10</data>
+  <data key="d1">1.1</data>
+  <data key="d2">1.0</data>
+  <data key="d3">dispersal</data>
+  <data key="d4">11.4</data>
+</node>
+<node id="4">
+  <data key="d0">4/9/09</data>
+  <data key="d1">1.21</data>
+  <data key="d2">1.0</data>
+  <data key="d3">unknown</data>
+  <data key="d4">9.6</data>
+</node>
+<node id="5">
+  <data key="d0">9/23/09</data>
+  <data key="d1">1.21</data>
+  <data key="d2">1.0</data>
+  <data key="d3">death</data>
+  <data key="d4">10.3</data>
+</node>
+<node id="7">
+  <data key="d0">4/20/08</data>
+  <data key="d1">2.1</data>
+  <data key="d2">2.0</data>
+  <data key="d3">dispersal</data>
+  <data key="d4">10.2</data>
+</node>
+<node id="10">
+  <data key="d0">12/5/05</data>
+  <data key="d1">2.1</data>
+  <data key="d2">1.0</data>
+  <data key="d3">dispersal</data>
+  <data key="d4">8.0</data>
+</node>
+<node id="11">
+  <data key="d0">8/13/05</data>
+  <data key="d1">2.1</data>
+  <data key="d2">1.0</data>
+  <data key="d3">unknown</data>
+  <data key="d4">10.5</data>
+</node>
+<node id="15">
+  <data key="d0">5/16/01</data>
+  <data key="d1">1.21</data>
+  <data key="d2">2.0</data>
+  <data key="d3">unknown</data>
+  <data key="d4">6.0</data>
+</node>
+<node id="16">
+  <data key="d0">10/2/00</data>
+  <data key="d1">1.21</data>
+  <data key="d2">2.0</data>
+  <data key="d3">unknown</data>
+  <data key="d4">14.0</data>
+</node>
+<node id="18">
+  <data key="d0">8/23/00</data>
+  <data key="d1">1.22</data>
+  <data key="d2">1.0</data>
+  <data key="d3">unknown</data>
+  <data key="d4">8.2</data>
+</node>
+<node id="20">
+  <data key="d0">11/17/97</data>
+  <data key="d1">1.2</data>
+  <data key="d2">1.0</data>
+  <data key="d3">unknown</data>
+  <data key="d4">9.3</data>
+</node>
+<edge source="0" target="18">
+  <data key="d5">1</data>
+</edge>
+<edge source="3" target="4">
+  <data key="d5">1</data>
+</edge>
+<edge source="4" target="10">
+  <data key="d5">1</data>
+</edge>
+<edge source="5" target="10">
+  <data key="d5">1</data>
+</edge>
+<edge source="7" target="11">
+  <data key="d5">1</data>
+</edge>
+<edge source="15" target="20">
+  <data key="d5">1</data>
+</edge>
+<edge source="16" target="20">
+  <data key="d5">1</data>
+</edge>
+</graph></graphml>

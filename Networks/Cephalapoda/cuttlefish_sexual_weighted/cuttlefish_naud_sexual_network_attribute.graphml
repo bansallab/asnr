@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="m1">
+  <data key="d0">MALE</data>
+</node>
+<node id="A">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m2">
+  <data key="d0">MALE</data>
+</node>
+<node id="?m1">
+  <data key="d0">MALE</data>
+</node>
+<node id="m3">
+  <data key="d0">MALE</data>
+</node>
+<node id="?f1">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="?m2">
+  <data key="d0">MALE</data>
+</node>
+<node id="m4">
+  <data key="d0">MALE</data>
+</node>
+<node id="?m3">
+  <data key="d0">MALE</data>
+</node>
+<node id="B">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m6">
+  <data key="d0">MALE</data>
+</node>
+<node id="C">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m7">
+  <data key="d0">MALE</data>
+</node>
+<node id="D">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="?m4">
+  <data key="d0">MALE</data>
+</node>
+<node id="m8">
+  <data key="d0">MALE</data>
+</node>
+<node id="?f2">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m9">
+  <data key="d0">MALE</data>
+</node>
+<node id="m10">
+  <data key="d0">MALE</data>
+</node>
+<node id="E">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m11">
+  <data key="d0">MALE</data>
+</node>
+<node id="m12">
+  <data key="d0">MALE</data>
+</node>
+<node id="F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m13">
+  <data key="d0">MALE</data>
+</node>
+<node id="G">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="?m5">
+  <data key="d0">MALE</data>
+</node>
+<node id="m14">
+  <data key="d0">MALE</data>
+</node>
+<node id="H">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m15">
+  <data key="d0">MALE</data>
+</node>
+<node id="?m6">
+  <data key="d0">MALE</data>
+</node>
+<node id="?f3">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m17">
+  <data key="d0">MALE</data>
+</node>
+<node id="I">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="?m7">
+  <data key="d0">MALE</data>
+</node>
+<node id="?f4">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m19">
+  <data key="d0">MALE</data>
+</node>
+<node id="J">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m20">
+  <data key="d0">MALE</data>
+</node>
+<node id="K">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m21">
+  <data key="d0">MALE</data>
+</node>
+<node id="m22">
+  <data key="d0">MALE</data>
+</node>
+<node id="L">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="m23">
+  <data key="d0">MALE</data>
+</node>
+<node id="m24">
+  <data key="d0">MALE</data>
+</node>
+<node id="m25">
+  <data key="d0">MALE</data>
+</node>
+<node id="m26">
+  <data key="d0">MALE</data>
+</node>
+<node id="m27">
+  <data key="d0">MALE</data>
+</node>
+<node id="?m8">
+  <data key="d0">MALE</data>
+</node>
+<node id="m28">
+  <data key="d0">MALE</data>
+</node>
+<node id="M">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="?m9">
+  <data key="d0">MALE</data>
+</node>
+<node id="m29">
+  <data key="d0">MALE</data>
+</node>
+<node id="N">
+  <data key="d0">FEMALE</data>
+</node>
+<edge source="m1" target="A">
+  <data key="d1">0</data>
+</edge>
+<edge source="A" target="m2">
+  <data key="d1">0</data>
+</edge>
+<edge source="A" target="?m1">
+  <data key="d1">1</data>
+</edge>
+<edge source="m3" target="?f1">
+  <data key="d1">0</data>
+</edge>
+<edge source="?f1" target="?m2">
+  <data key="d1">0</data>
+</edge>
+<edge source="?f1" target="m4">
+  <data key="d1">1</data>
+</edge>
+<edge source="?m3" target="B">
+  <data key="d1">1</data>
+</edge>
+<edge source="m6" target="C">
+  <data key="d1">1</data>
+</edge>
+<edge source="m7" target="D">
+  <data key="d1">0</data>
+</edge>
+<edge source="D" target="?m4">
+  <data key="d1">1</data>
+</edge>
+<edge source="m8" target="?f2">
+  <data key="d1">0</data>
+</edge>
+<edge source="?f2" target="m9">
+  <data key="d1">2</data>
+</edge>
+<edge source="m10" target="E">
+  <data key="d1">1</data>
+</edge>
+<edge source="E" target="m11">
+  <data key="d1">1</data>
+</edge>
+<edge source="m12" target="F">
+  <data key="d1">2</data>
+</edge>
+<edge source="m13" target="G">
+  <data key="d1">0</data>
+</edge>
+<edge source="G" target="?m5">
+  <data key="d1">2</data>
+</edge>
+<edge source="m14" target="H">
+  <data key="d1">1</data>
+</edge>
+<edge source="m14" target="?f3">
+  <data key="d1">1</data>
+</edge>
+<edge source="H" target="m15">
+  <data key="d1">0</data>
+</edge>
+<edge source="H" target="?m6">
+  <data key="d1">2</data>
+</edge>
+<edge source="?m6" target="I">
+  <data key="d1">2</data>
+</edge>
+<edge source="m17" target="I">
+  <data key="d1">3</data>
+</edge>
+<edge source="?m7" target="?f4">
+  <data key="d1">1</data>
+</edge>
+<edge source="?m7" target="J">
+  <data key="d1">1</data>
+</edge>
+<edge source="m19" target="J">
+  <data key="d1">1</data>
+</edge>
+<edge source="m20" target="K">
+  <data key="d1">1</data>
+</edge>
+<edge source="K" target="m21">
+  <data key="d1">0</data>
+</edge>
+<edge source="m22" target="L">
+  <data key="d1">4</data>
+</edge>
+<edge source="L" target="m23">
+  <data key="d1">0</data>
+</edge>
+<edge source="L" target="m24">
+  <data key="d1">0</data>
+</edge>
+<edge source="L" target="m25">
+  <data key="d1">1</data>
+</edge>
+<edge source="L" target="m26">
+  <data key="d1">0</data>
+</edge>
+<edge source="L" target="m27">
+  <data key="d1">0</data>
+</edge>
+<edge source="L" target="?m8">
+  <data key="d1">1</data>
+</edge>
+<edge source="m28" target="M">
+  <data key="d1">1</data>
+</edge>
+<edge source="M" target="?m9">
+  <data key="d1">5</data>
+</edge>
+<edge source="m29" target="N">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>

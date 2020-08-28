@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=1000> Network Visualization | ![NetworkImage](/Networks/Visualizations/guppy_hasenjager_familiar_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|6.0 - 6.0
 total edges|15.0 - 15.0
 network density|1.0 - 1.0
@@ -16,6 +17,7 @@ relative modularity|0.0 - 0.0
 group cohesion|1.0 - 1.0
 network diameter|1.0 - 1.0
 **Study description**|**value**
+Attributes Available|group, experimental block, standard length, the proportion of time spent active, the proportion of time engaged in shoaling, the number of elapsed days since that individual's last habituation session
 Species|*Poecilia reticulata*
 Taxonomic class|Actinopterygii
 Population type|captive

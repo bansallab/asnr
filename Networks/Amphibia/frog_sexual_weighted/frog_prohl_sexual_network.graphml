@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="M10">
+  <data key="d0">MALE</data>
+</node>
+<node id="F1">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="M11">
+  <data key="d0">MALE</data>
+</node>
+<node id="F6">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="M12">
+  <data key="d0">MALE</data>
+</node>
+<node id="F13">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="M2">
+  <data key="d0">MALE</data>
+</node>
+<node id="F12">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="F9">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="M3">
+  <data key="d0">MALE</data>
+</node>
+<node id="M5">
+  <data key="d0">MALE</data>
+</node>
+<node id="F17">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="F3">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="F4">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="M6">
+  <data key="d0">MALE</data>
+</node>
+<node id="M8">
+  <data key="d0">MALE</data>
+</node>
+<node id="F10">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="F19">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="M9">
+  <data key="d0">MALE</data>
+</node>
+<node id="F16">
+  <data key="d0">FEMALE</data>
+</node>
+<edge source="M10" target="F1">
+  <data key="d1">1</data>
+</edge>
+<edge source="F1" target="M3">
+  <data key="d1">1</data>
+</edge>
+<edge source="F1" target="M8">
+  <data key="d1">1</data>
+</edge>
+<edge source="M11" target="F6">
+  <data key="d1">1</data>
+</edge>
+<edge source="F6" target="M2">
+  <data key="d1">3</data>
+</edge>
+<edge source="M12" target="F13">
+  <data key="d1">3</data>
+</edge>
+<edge source="M2" target="F12">
+  <data key="d1">1</data>
+</edge>
+<edge source="M2" target="F9">
+  <data key="d1">2</data>
+</edge>
+<edge source="M5" target="F17">
+  <data key="d1">1</data>
+</edge>
+<edge source="M5" target="F3">
+  <data key="d1">1</data>
+</edge>
+<edge source="M5" target="F4">
+  <data key="d1">1</data>
+</edge>
+<edge source="F3" target="M6">
+  <data key="d1">2</data>
+</edge>
+<edge source="M8" target="F10">
+  <data key="d1">4</data>
+</edge>
+<edge source="M8" target="F19">
+  <data key="d1">5</data>
+</edge>
+<edge source="M9" target="F16">
+  <data key="d1">2</data>
+</edge>
+</graph></graphml>

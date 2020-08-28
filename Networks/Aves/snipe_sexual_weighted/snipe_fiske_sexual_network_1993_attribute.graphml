@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="37M">
+  <data key="d0">MALE</data>
+</node>
+<node id="U">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="49M">
+  <data key="d0">MALE</data>
+</node>
+<node id="V">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="53M">
+  <data key="d0">MALE</data>
+</node>
+<node id="W">
+  <data key="d0">FEMALE</data>
+</node>
+<edge source="37M" target="U">
+  <data key="d1">1</data>
+</edge>
+<edge source="49M" target="V">
+  <data key="d1">1</data>
+</edge>
+<edge source="53M" target="W">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
