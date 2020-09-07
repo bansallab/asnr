@@ -1,6 +1,6 @@
 network attribute|value
 ---|---
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/sea_lion_shakner.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/sea_lion_shakner.png) *The size of the nodes corresponds to it's degree*
 total nodes|1007
 total edges|131351
 network density|0.259
