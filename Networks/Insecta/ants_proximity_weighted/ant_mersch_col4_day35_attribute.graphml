@@ -1,0 +1,2118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d16" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d15" for="node" attr.name="nb_interaction_queen" attr.type="double"/>
+<key id="d14" for="node" attr.name="nb_interaction_foragers" attr.type="double"/>
+<key id="d13" for="node" attr.name="nb_interaction_cleaners" attr.type="double"/>
+<key id="d12" for="node" attr.name="nb_interaction_nurses" attr.type="double"/>
+<key id="d11" for="node" attr.name="visits_to_rubbishpile" attr.type="double"/>
+<key id="d10" for="node" attr.name="visits_to_nest_entrance" attr.type="double"/>
+<key id="d9" for="node" attr.name="visits_to_brood" attr.type="double"/>
+<key id="d8" for="node" attr.name="group_period4" attr.type="string"/>
+<key id="d7" for="node" attr.name="group_period3" attr.type="string"/>
+<key id="d6" for="node" attr.name="group_period2" attr.type="string"/>
+<key id="d5" for="node" attr.name="group_period1" attr.type="string"/>
+<key id="d4" for="node" attr.name="nb_foraging_events" attr.type="long"/>
+<key id="d3" for="node" attr.name="age(days)" attr.type="long"/>
+<key id="d2" for="node" attr.name="body_size" attr.type="double"/>
+<key id="d1" for="node" attr.name="tag_id" attr.type="long"/>
+<key id="d0" for="node" attr.name="colony" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Ant242">
+  <data key="d0">29</data>
+  <data key="d1">242</data>
+  <data key="d2">142.899</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">544.091</data>
+  <data key="d10">0.727273</data>
+  <data key="d11">8.090910000000001</data>
+  <data key="d12">281.27272999999997</data>
+  <data key="d13">201.0</data>
+  <data key="d14">101.0</data>
+  <data key="d15">5.727</data>
+</node>
+<node id="Ant954"/>
+<node id="Ant263">
+  <data key="d0">29</data>
+  <data key="d1">263</data>
+  <data key="d2">159.928</data>
+  <data key="d3">40</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">164.727</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.545455</data>
+  <data key="d12">193.0</data>
+  <data key="d13">142.36364</data>
+  <data key="d14">56.727273</data>
+  <data key="d15">8.182</data>
+</node>
+<node id="Ant262">
+  <data key="d0">29</data>
+  <data key="d1">262</data>
+  <data key="d2">151.16899999999998</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">C</data>
+  <data key="d9">10.9091</data>
+  <data key="d10">0.636364</data>
+  <data key="d11">2.54545</data>
+  <data key="d12">134.63636</data>
+  <data key="d13">158.09091</data>
+  <data key="d14">154.54545</data>
+  <data key="d15">6.091</data>
+</node>
+<node id="Ant264">
+  <data key="d0">29</data>
+  <data key="d1">264</data>
+  <data key="d2">171.418</data>
+  <data key="d3">19</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">321.182</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.363636</data>
+  <data key="d12">390.27272999999997</data>
+  <data key="d13">128.90909</data>
+  <data key="d14">56.18181800000001</data>
+  <data key="d15">10.55</data>
+</node>
+<node id="Ant170">
+  <data key="d0">29</data>
+  <data key="d1">170</data>
+  <data key="d2">167.58599999999998</data>
+  <data key="d3">64</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">263.0</data>
+  <data key="d10">0.818182</data>
+  <data key="d11">0.636364</data>
+  <data key="d12">252.72727000000003</data>
+  <data key="d13">125.27273000000001</data>
+  <data key="d14">56.727273</data>
+  <data key="d15">10.73</data>
+</node>
+<node id="Ant176">
+  <data key="d0">29</data>
+  <data key="d1">176</data>
+  <data key="d2">181.33900000000003</data>
+  <data key="d3">50</data>
+  <data key="d4">0</data>
+  <data key="d5">F</data>
+  <data key="d6">F</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">36.4545</data>
+  <data key="d10">2.45455</data>
+  <data key="d11">3.8181800000000004</data>
+  <data key="d12">162.0</data>
+  <data key="d13">282.54545</data>
+  <data key="d14">203.72727</data>
+  <data key="d15">4.8180000000000005</data>
+</node>
+<node id="Ant391">
+  <data key="d0">29</data>
+  <data key="d1">391</data>
+  <data key="d2">156.605</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">543.727</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.181818</data>
+  <data key="d12">367.0</data>
+  <data key="d13">86.818182</data>
+  <data key="d14">26.909090999999997</data>
+  <data key="d15">20.64</data>
+</node>
+<node id="Ant227">
+  <data key="d0">29</data>
+  <data key="d1">227</data>
+  <data key="d2">159.063</data>
+  <data key="d3">113</data>
+  <data key="d4">41</data>
+  <data key="d5">F</data>
+  <data key="d6">C</data>
+  <data key="d7">C</data>
+  <data key="d8">C</data>
+  <data key="d9">111.63600000000001</data>
+  <data key="d10">382.545</data>
+  <data key="d11">102.09100000000001</data>
+  <data key="d12">52.0</data>
+  <data key="d13">133.81818</data>
+  <data key="d14">182.90909</data>
+  <data key="d15">1.636</data>
+</node>
+<node id="Ant117">
+  <data key="d0">29</data>
+  <data key="d1">117</data>
+  <data key="d2">213.15</data>
+  <data key="d3">50</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">64.2727</data>
+  <data key="d10">6.45455</data>
+  <data key="d11">1.9090900000000002</data>
+  <data key="d12">304.18182</data>
+  <data key="d13">362.63636</data>
+  <data key="d14">260.0</data>
+  <data key="d15">3.545</data>
+</node>
+<node id="Ant6">
+  <data key="d0">29</data>
+  <data key="d1">6</data>
+  <data key="d2">184.55599999999998</data>
+  <data key="d3">57</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">256.63599999999997</data>
+  <data key="d10">3.27273</data>
+  <data key="d11">3.18182</data>
+  <data key="d12">338.0</data>
+  <data key="d13">124.72726999999999</data>
+  <data key="d14">46.272727</data>
+  <data key="d15">11.27</data>
+</node>
+<node id="Ant2">
+  <data key="d0">29</data>
+  <data key="d1">2</data>
+  <data key="d2">177.53900000000002</data>
+  <data key="d3">134</data>
+  <data key="d4">0</data>
+  <data key="d5">F</data>
+  <data key="d6">F</data>
+  <data key="d7">F</data>
+  <data key="d8">F</data>
+  <data key="d9">4.45455</data>
+  <data key="d10">19.0</data>
+  <data key="d11">2.18182</data>
+  <data key="d12">128.72727</data>
+  <data key="d13">375.09091</data>
+  <data key="d14">405.45455</data>
+  <data key="d15">2.273</data>
+</node>
+<node id="Ant51">
+  <data key="d0">29</data>
+  <data key="d1">51</data>
+  <data key="d2">175.636</data>
+  <data key="d3">71</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">F</data>
+  <data key="d7">C</data>
+  <data key="d8">C</data>
+  <data key="d9">43.1818</data>
+  <data key="d10">2.0</data>
+  <data key="d11">1.63636</data>
+  <data key="d12">196.18182</data>
+  <data key="d13">251.54545</data>
+  <data key="d14">186.0</data>
+  <data key="d15">6.727</data>
+</node>
+<node id="Ant191">
+  <data key="d0">29</data>
+  <data key="d1">191</data>
+  <data key="d2">239.50799999999998</data>
+  <data key="d3">40</data>
+  <data key="d4">3</data>
+  <data key="d5">C</data>
+  <data key="d6">C</data>
+  <data key="d7">C</data>
+  <data key="d8">C</data>
+  <data key="d9">7.0</data>
+  <data key="d10">9.727269999999999</data>
+  <data key="d11">1.09091</data>
+  <data key="d12">29.272727000000003</data>
+  <data key="d13">78.818182</data>
+  <data key="d14">91.0</data>
+  <data key="d15">1.273</data>
+</node>
+<node id="Ant73">
+  <data key="d0">29</data>
+  <data key="d1">73</data>
+  <data key="d2">162.049</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">107.0</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">350.54545</data>
+  <data key="d13">119.18182</data>
+  <data key="d14">39.727273</data>
+  <data key="d15">14.91</data>
+</node>
+<node id="Ant593">
+  <data key="d0">29</data>
+  <data key="d1">593</data>
+  <data key="d2">214.84900000000002</data>
+  <data key="d3">50</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">F</data>
+  <data key="d7">C</data>
+  <data key="d8">C</data>
+  <data key="d9">27.0909</data>
+  <data key="d10">0.0</data>
+  <data key="d11">2.54545</data>
+  <data key="d12">205.27273</data>
+  <data key="d13">249.09091</data>
+  <data key="d14">165.63636</data>
+  <data key="d15">5.727</data>
+</node>
+<node id="Ant592">
+  <data key="d0">29</data>
+  <data key="d1">592</data>
+  <data key="d2">204.012</data>
+  <data key="d3">50</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">F</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">35.9091</data>
+  <data key="d10">0.545455</data>
+  <data key="d11">0.272727</data>
+  <data key="d12">202.18182</data>
+  <data key="d13">222.72727000000003</data>
+  <data key="d14">143.0</data>
+  <data key="d15">4.455</data>
+</node>
+<node id="Ant638">
+  <data key="d0">29</data>
+  <data key="d1">638</data>
+  <data key="d2">196.705</data>
+  <data key="d3">85</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">F</data>
+  <data key="d7">F</data>
+  <data key="d8">F</data>
+  <data key="d9">34.0909</data>
+  <data key="d10">71.8182</data>
+  <data key="d11">1.18182</data>
+  <data key="d12">101.27273000000001</data>
+  <data key="d13">224.0</data>
+  <data key="d14">273.27272999999997</data>
+  <data key="d15">0.9091</data>
+</node>
+<node id="Ant599">
+  <data key="d0">29</data>
+  <data key="d1">599</data>
+  <data key="d2">143.59</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">49.0</data>
+  <data key="d10">2.27273</data>
+  <data key="d11">8.63636</data>
+  <data key="d12">162.81818</data>
+  <data key="d13">155.63636</data>
+  <data key="d14">142.27273</data>
+  <data key="d15">2.636</data>
+</node>
+<node id="Ant502">
+  <data key="d0">29</data>
+  <data key="d1">502</data>
+  <data key="d2">284.318</data>
+  <data key="d3">1453</data>
+  <data key="d4">0</data>
+  <data key="d5">Q</data>
+  <data key="d6">Q</data>
+  <data key="d7">Q</data>
+  <data key="d8">Q</data>
+  <data key="d9">38.4545</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">430.45455</data>
+  <data key="d13">158.90909</data>
+  <data key="d14">52.090909</data>
+  <data key="d15">0.0</data>
+</node>
+<node id="Ant97">
+  <data key="d0">29</data>
+  <data key="d1">97</data>
+  <data key="d2">144.9</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">F</data>
+  <data key="d7">F</data>
+  <data key="d8">F</data>
+  <data key="d9">428.455</data>
+  <data key="d10">5.54545</data>
+  <data key="d11">6.27273</data>
+  <data key="d12">249.0</data>
+  <data key="d13">151.81818</data>
+  <data key="d14">108.90908999999999</data>
+  <data key="d15">6.727</data>
+</node>
+<node id="Ant299">
+  <data key="d0">29</data>
+  <data key="d1">299</data>
+  <data key="d2">159.906</data>
+  <data key="d3">50</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">395.63599999999997</data>
+  <data key="d10">3.09091</data>
+  <data key="d11">0.272727</data>
+  <data key="d12">428.45455</data>
+  <data key="d13">200.63636</data>
+  <data key="d14">84.818182</data>
+  <data key="d15">26.36</data>
+</node>
+<node id="Ant305">
+  <data key="d0">29</data>
+  <data key="d1">305</data>
+  <data key="d2">132.231</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">C</data>
+  <data key="d8">C</data>
+  <data key="d9">372.36400000000003</data>
+  <data key="d10">0.0</data>
+  <data key="d11">1.27273</data>
+  <data key="d12">289.27272999999997</data>
+  <data key="d13">144.09091</data>
+  <data key="d14">71.545455</data>
+  <data key="d15">7.091</data>
+</node>
+<node id="Ant148">
+  <data key="d0">29</data>
+  <data key="d1">148</data>
+  <data key="d2">146.10299999999998</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">F</data>
+  <data key="d7">F</data>
+  <data key="d8">F</data>
+  <data key="d9">70.3636</data>
+  <data key="d10">0.636364</data>
+  <data key="d11">2.63636</data>
+  <data key="d12">275.18182</data>
+  <data key="d13">279.72727000000003</data>
+  <data key="d14">182.09091</data>
+  <data key="d15">10.55</data>
+</node>
+<node id="Ant650"/>
+<node id="Ant476">
+  <data key="d0">29</data>
+  <data key="d1">476</data>
+  <data key="d2">135.326</data>
+  <data key="d3">19</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">F</data>
+  <data key="d7">F</data>
+  <data key="d8">F</data>
+  <data key="d9">155.091</data>
+  <data key="d10">0.0909091</data>
+  <data key="d11">0.0909091</data>
+  <data key="d12">79.454545</data>
+  <data key="d13">79.090909</data>
+  <data key="d14">41.272727</data>
+  <data key="d15">3.818</data>
+</node>
+<node id="Ant475">
+  <data key="d0">29</data>
+  <data key="d1">475</data>
+  <data key="d2">165.52900000000002</data>
+  <data key="d3">106</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">496.727</data>
+  <data key="d10">0.181818</data>
+  <data key="d11">0.454545</data>
+  <data key="d12">335.18182</data>
+  <data key="d13">219.90909</data>
+  <data key="d14">84.181818</data>
+  <data key="d15">17.55</data>
+</node>
+<node id="Ant356">
+  <data key="d0">29</data>
+  <data key="d1">356</data>
+  <data key="d2">130.392</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">398.36400000000003</data>
+  <data key="d10">0.272727</data>
+  <data key="d11">0.181818</data>
+  <data key="d12">302.27272999999997</data>
+  <data key="d13">151.72727</data>
+  <data key="d14">72.0</data>
+  <data key="d15">6.455</data>
+</node>
+<node id="Ant252">
+  <data key="d0">29</data>
+  <data key="d1">252</data>
+  <data key="d2">165.412</data>
+  <data key="d3">50</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">465.091</data>
+  <data key="d10">2.72727</data>
+  <data key="d11">2.90909</data>
+  <data key="d12">426.09090999999995</data>
+  <data key="d13">132.54545</data>
+  <data key="d14">47.545455</data>
+  <data key="d15">21.45</data>
+</node>
+<node id="Ant256">
+  <data key="d0">29</data>
+  <data key="d1">256</data>
+  <data key="d2">185.715</data>
+  <data key="d3">134</data>
+  <data key="d4">42</data>
+  <data key="d5">F</data>
+  <data key="d6">C</data>
+  <data key="d7">C</data>
+  <data key="d8">C</data>
+  <data key="d9">0.545455</data>
+  <data key="d10">88.7273</data>
+  <data key="d11">0.272727</data>
+  <data key="d12">35.272727</data>
+  <data key="d13">166.09091</data>
+  <data key="d14">224.0</data>
+  <data key="d15">0.5455</data>
+</node>
+<node id="Ant24">
+  <data key="d0">29</data>
+  <data key="d1">24</data>
+  <data key="d2">149.482</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">507.0</data>
+  <data key="d10">0.272727</data>
+  <data key="d11">1.0</data>
+  <data key="d12">208.0</data>
+  <data key="d13">108.18182</data>
+  <data key="d14">48.181818</data>
+  <data key="d15">8.727</data>
+</node>
+<node id="Ant25">
+  <data key="d0">29</data>
+  <data key="d1">25</data>
+  <data key="d2">145.437</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">F</data>
+  <data key="d6">F</data>
+  <data key="d7">C</data>
+  <data key="d8">F</data>
+  <data key="d9">18.4545</data>
+  <data key="d10">1.72727</data>
+  <data key="d11">2.81818</data>
+  <data key="d12">145.18182</data>
+  <data key="d13">235.90909</data>
+  <data key="d14">221.0</data>
+  <data key="d15">4.0</data>
+</node>
+<node id="Ant27">
+  <data key="d0">29</data>
+  <data key="d1">27</data>
+  <data key="d2">154.379</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">F</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">34.8182</data>
+  <data key="d10">2.36364</data>
+  <data key="d11">1.36364</data>
+  <data key="d12">140.09091</data>
+  <data key="d13">263.54545</data>
+  <data key="d14">250.18182000000002</data>
+  <data key="d15">2.0</data>
+</node>
+<node id="Ant44">
+  <data key="d0">29</data>
+  <data key="d1">44</data>
+  <data key="d2">225.4</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">N</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">515.636</data>
+  <data key="d10">0.454545</data>
+  <data key="d11">2.27273</data>
+  <data key="d12">647.72727</data>
+  <data key="d13">283.45455</data>
+  <data key="d14">113.63636000000001</data>
+  <data key="d15">46.09</data>
+</node>
+<node id="Ant49">
+  <data key="d0">29</data>
+  <data key="d1">49</data>
+  <data key="d2">136.69299999999998</data>
+  <data key="d3">14</data>
+  <data key="d4">0</data>
+  <data key="d5">C</data>
+  <data key="d6">N</data>
+  <data key="d7">N</data>
+  <data key="d8">N</data>
+  <data key="d9">80.9091</data>
+  <data key="d10">1.9090900000000002</data>
+  <data key="d11">2.09091</data>
+  <data key="d12">189.90909</data>
+  <data key="d13">178.63636</data>
+  <data key="d14">136.18182</data>
+  <data key="d15">18.18</data>
+</node>
+<edge source="Ant242" target="Ant954">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant242" target="Ant263">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant242" target="Ant356">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant242" target="Ant264">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant242" target="Ant170">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant242" target="Ant176">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant242" target="Ant391">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant242" target="Ant227">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant242" target="Ant117">
+  <data key="d16">31</data>
+</edge>
+<edge source="Ant242" target="Ant6">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant242" target="Ant51">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant242" target="Ant73">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant242" target="Ant593">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant242" target="Ant592">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant242" target="Ant599">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant242" target="Ant502">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant242" target="Ant97">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant242" target="Ant299">
+  <data key="d16">14</data>
+</edge>
+<edge source="Ant242" target="Ant305">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant242" target="Ant475">
+  <data key="d16">20</data>
+</edge>
+<edge source="Ant242" target="Ant262">
+  <data key="d16">20</data>
+</edge>
+<edge source="Ant242" target="Ant252">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant242" target="Ant256">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant242" target="Ant24">
+  <data key="d16">22</data>
+</edge>
+<edge source="Ant242" target="Ant25">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant242" target="Ant27">
+  <data key="d16">30</data>
+</edge>
+<edge source="Ant242" target="Ant44">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant242" target="Ant49">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant954" target="Ant6">
+  <data key="d16">20</data>
+</edge>
+<edge source="Ant954" target="Ant263">
+  <data key="d16">14</data>
+</edge>
+<edge source="Ant954" target="Ant262">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant954" target="Ant264">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant954" target="Ant170">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant954" target="Ant176">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant954" target="Ant391">
+  <data key="d16">14</data>
+</edge>
+<edge source="Ant954" target="Ant227">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant954" target="Ant117">
+  <data key="d16">18</data>
+</edge>
+<edge source="Ant954" target="Ant51">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant954" target="Ant191">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant954" target="Ant73">
+  <data key="d16">18</data>
+</edge>
+<edge source="Ant954" target="Ant593">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant954" target="Ant592">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant954" target="Ant638">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant954" target="Ant599">
+  <data key="d16">26</data>
+</edge>
+<edge source="Ant954" target="Ant502">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant954" target="Ant97">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant954" target="Ant299">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant954" target="Ant305">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant954" target="Ant650">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant954" target="Ant476">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant954" target="Ant475">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant954" target="Ant356">
+  <data key="d16">21</data>
+</edge>
+<edge source="Ant954" target="Ant252">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant954" target="Ant256">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant954" target="Ant24">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant954" target="Ant25">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant954" target="Ant27">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant954" target="Ant44">
+  <data key="d16">32</data>
+</edge>
+<edge source="Ant954" target="Ant49">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant263" target="Ant6">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant263" target="Ant262">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant263" target="Ant264">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant263" target="Ant170">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant263" target="Ant176">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant263" target="Ant391">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant263" target="Ant227">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant263" target="Ant117">
+  <data key="d16">21</data>
+</edge>
+<edge source="Ant263" target="Ant2">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant263" target="Ant51">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant263" target="Ant73">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant263" target="Ant593">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant263" target="Ant592">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant263" target="Ant638">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant263" target="Ant599">
+  <data key="d16">19</data>
+</edge>
+<edge source="Ant263" target="Ant502">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant263" target="Ant97">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant263" target="Ant299">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant263" target="Ant305">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant263" target="Ant650">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant263" target="Ant475">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant263" target="Ant356">
+  <data key="d16">18</data>
+</edge>
+<edge source="Ant263" target="Ant252">
+  <data key="d16">29</data>
+</edge>
+<edge source="Ant263" target="Ant256">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant263" target="Ant24">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant263" target="Ant25">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant263" target="Ant27">
+  <data key="d16">24</data>
+</edge>
+<edge source="Ant263" target="Ant44">
+  <data key="d16">35</data>
+</edge>
+<edge source="Ant263" target="Ant49">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant262" target="Ant6">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant262" target="Ant356">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant262" target="Ant264">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant262" target="Ant170">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant262" target="Ant176">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant262" target="Ant391">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant262" target="Ant227">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant262" target="Ant117">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant262" target="Ant2">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant262" target="Ant51">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant262" target="Ant73">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant262" target="Ant593">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant262" target="Ant592">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant262" target="Ant638">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant262" target="Ant599">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant262" target="Ant502">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant262" target="Ant97">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant262" target="Ant299">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant262" target="Ant305">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant262" target="Ant650">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant262" target="Ant475">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant262" target="Ant252">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant262" target="Ant256">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant262" target="Ant24">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant262" target="Ant25">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant262" target="Ant27">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant262" target="Ant44">
+  <data key="d16">14</data>
+</edge>
+<edge source="Ant262" target="Ant49">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant264" target="Ant6">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant264" target="Ant170">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant264" target="Ant176">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant264" target="Ant391">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant264" target="Ant227">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant264" target="Ant117">
+  <data key="d16">20</data>
+</edge>
+<edge source="Ant264" target="Ant2">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant264" target="Ant51">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant264" target="Ant73">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant264" target="Ant593">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant264" target="Ant592">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant264" target="Ant638">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant264" target="Ant599">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant264" target="Ant502">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant264" target="Ant97">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant264" target="Ant299">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant264" target="Ant305">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant264" target="Ant650">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant264" target="Ant476">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant264" target="Ant475">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant264" target="Ant356">
+  <data key="d16">29</data>
+</edge>
+<edge source="Ant264" target="Ant252">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant264" target="Ant256">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant264" target="Ant24">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant264" target="Ant25">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant264" target="Ant27">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant264" target="Ant44">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant264" target="Ant49">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant170" target="Ant6">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant170" target="Ant356">
+  <data key="d16">20</data>
+</edge>
+<edge source="Ant170" target="Ant176">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant170" target="Ant391">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant170" target="Ant227">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant170" target="Ant117">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant170" target="Ant2">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant170" target="Ant51">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant170" target="Ant73">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant170" target="Ant593">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant170" target="Ant592">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant170" target="Ant638">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant170" target="Ant599">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant170" target="Ant502">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant170" target="Ant97">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant170" target="Ant299">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant170" target="Ant305">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant170" target="Ant650">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant170" target="Ant476">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant170" target="Ant475">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant170" target="Ant252">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant170" target="Ant24">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant170" target="Ant25">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant170" target="Ant27">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant170" target="Ant44">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant170" target="Ant49">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant176" target="Ant6">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant176" target="Ant391">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant176" target="Ant502">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant176" target="Ant117">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant176" target="Ant2">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant176" target="Ant51">
+  <data key="d16">28</data>
+</edge>
+<edge source="Ant176" target="Ant73">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant176" target="Ant593">
+  <data key="d16">26</data>
+</edge>
+<edge source="Ant176" target="Ant592">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant176" target="Ant638">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant176" target="Ant599">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant176" target="Ant97">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant176" target="Ant299">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant176" target="Ant305">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant176" target="Ant148">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant176" target="Ant650">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant176" target="Ant476">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant176" target="Ant475">
+  <data key="d16">18</data>
+</edge>
+<edge source="Ant176" target="Ant356">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant176" target="Ant252">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant176" target="Ant256">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant176" target="Ant24">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant176" target="Ant25">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant176" target="Ant27">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant176" target="Ant44">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant176" target="Ant49">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant391" target="Ant6">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant391" target="Ant227">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant391" target="Ant117">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant391" target="Ant2">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant391" target="Ant51">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant391" target="Ant73">
+  <data key="d16">54</data>
+</edge>
+<edge source="Ant391" target="Ant593">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant391" target="Ant638">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant391" target="Ant599">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant391" target="Ant502">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant391" target="Ant97">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant391" target="Ant299">
+  <data key="d16">23</data>
+</edge>
+<edge source="Ant391" target="Ant305">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant391" target="Ant475">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant391" target="Ant356">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant391" target="Ant252">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant391" target="Ant24">
+  <data key="d16">25</data>
+</edge>
+<edge source="Ant391" target="Ant25">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant391" target="Ant27">
+  <data key="d16">35</data>
+</edge>
+<edge source="Ant391" target="Ant44">
+  <data key="d16">34</data>
+</edge>
+<edge source="Ant391" target="Ant49">
+  <data key="d16">28</data>
+</edge>
+<edge source="Ant227" target="Ant6">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant227" target="Ant356">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant227" target="Ant117">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant227" target="Ant2">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant227" target="Ant51">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant227" target="Ant191">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant227" target="Ant73">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant227" target="Ant593">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant227" target="Ant638">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant227" target="Ant599">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant227" target="Ant97">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant227" target="Ant299">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant227" target="Ant305">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant227" target="Ant475">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant227" target="Ant252">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant227" target="Ant256">
+  <data key="d16">17</data>
+</edge>
+<edge source="Ant227" target="Ant24">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant227" target="Ant25">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant227" target="Ant27">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant227" target="Ant44">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant117" target="Ant6">
+  <data key="d16">32</data>
+</edge>
+<edge source="Ant117" target="Ant2">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant117" target="Ant51">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant117" target="Ant191">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant117" target="Ant73">
+  <data key="d16">35</data>
+</edge>
+<edge source="Ant117" target="Ant593">
+  <data key="d16">28</data>
+</edge>
+<edge source="Ant117" target="Ant592">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant117" target="Ant638">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant117" target="Ant599">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant117" target="Ant502">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant117" target="Ant97">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant117" target="Ant299">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant117" target="Ant305">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant117" target="Ant650">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant117" target="Ant476">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant117" target="Ant475">
+  <data key="d16">22</data>
+</edge>
+<edge source="Ant117" target="Ant356">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant117" target="Ant252">
+  <data key="d16">19</data>
+</edge>
+<edge source="Ant117" target="Ant256">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant117" target="Ant24">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant117" target="Ant25">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant117" target="Ant27">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant117" target="Ant44">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant117" target="Ant49">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant6" target="Ant356">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant6" target="Ant2">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant6" target="Ant51">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant6" target="Ant73">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant6" target="Ant593">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant6" target="Ant592">
+  <data key="d16">18</data>
+</edge>
+<edge source="Ant6" target="Ant638">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant6" target="Ant599">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant6" target="Ant502">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant6" target="Ant97">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant6" target="Ant299">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant6" target="Ant650">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant6" target="Ant475">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant6" target="Ant252">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant6" target="Ant24">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant6" target="Ant25">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant6" target="Ant27">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant6" target="Ant44">
+  <data key="d16">36</data>
+</edge>
+<edge source="Ant6" target="Ant49">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant2" target="Ant356">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant2" target="Ant51">
+  <data key="d16">18</data>
+</edge>
+<edge source="Ant2" target="Ant191">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant2" target="Ant73">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant2" target="Ant593">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant2" target="Ant592">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant2" target="Ant638">
+  <data key="d16">54</data>
+</edge>
+<edge source="Ant2" target="Ant599">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant2" target="Ant97">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant2" target="Ant299">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant2" target="Ant305">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant2" target="Ant148">
+  <data key="d16">14</data>
+</edge>
+<edge source="Ant2" target="Ant650">
+  <data key="d16">51</data>
+</edge>
+<edge source="Ant2" target="Ant476">
+  <data key="d16">17</data>
+</edge>
+<edge source="Ant2" target="Ant475">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant2" target="Ant252">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant2" target="Ant256">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant2" target="Ant25">
+  <data key="d16">25</data>
+</edge>
+<edge source="Ant2" target="Ant27">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant2" target="Ant44">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant2" target="Ant49">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant51" target="Ant356">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant51" target="Ant73">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant51" target="Ant593">
+  <data key="d16">30</data>
+</edge>
+<edge source="Ant51" target="Ant592">
+  <data key="d16">20</data>
+</edge>
+<edge source="Ant51" target="Ant638">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant51" target="Ant599">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant51" target="Ant502">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant51" target="Ant97">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant51" target="Ant299">
+  <data key="d16">17</data>
+</edge>
+<edge source="Ant51" target="Ant305">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant51" target="Ant650">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant51" target="Ant476">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant51" target="Ant475">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant51" target="Ant252">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant51" target="Ant24">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant51" target="Ant25">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant51" target="Ant27">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant51" target="Ant44">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant51" target="Ant49">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant191" target="Ant475">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant191" target="Ant256">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant191" target="Ant44">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant191" target="Ant305">
+  <data key="d16">32</data>
+</edge>
+<edge source="Ant191" target="Ant650">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant73" target="Ant593">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant73" target="Ant592">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant73" target="Ant638">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant73" target="Ant599">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant73" target="Ant502">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant73" target="Ant97">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant73" target="Ant299">
+  <data key="d16">19</data>
+</edge>
+<edge source="Ant73" target="Ant305">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant73" target="Ant650">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant73" target="Ant476">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant73" target="Ant475">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant73" target="Ant356">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant73" target="Ant252">
+  <data key="d16">21</data>
+</edge>
+<edge source="Ant73" target="Ant256">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant73" target="Ant24">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant73" target="Ant25">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant73" target="Ant27">
+  <data key="d16">17</data>
+</edge>
+<edge source="Ant73" target="Ant44">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant73" target="Ant49">
+  <data key="d16">47</data>
+</edge>
+<edge source="Ant593" target="Ant592">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant593" target="Ant638">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant593" target="Ant599">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant593" target="Ant97">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant593" target="Ant299">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant593" target="Ant305">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant593" target="Ant148">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant593" target="Ant650">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant593" target="Ant476">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant593" target="Ant475">
+  <data key="d16">20</data>
+</edge>
+<edge source="Ant593" target="Ant356">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant593" target="Ant252">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant593" target="Ant256">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant593" target="Ant24">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant593" target="Ant25">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant593" target="Ant27">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant593" target="Ant44">
+  <data key="d16">12</data>
+</edge>
+<edge source="Ant593" target="Ant49">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant592" target="Ant356">
+  <data key="d16">23</data>
+</edge>
+<edge source="Ant592" target="Ant502">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant592" target="Ant638">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant592" target="Ant599">
+  <data key="d16">19</data>
+</edge>
+<edge source="Ant592" target="Ant97">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant592" target="Ant299">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant592" target="Ant305">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant592" target="Ant650">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant592" target="Ant476">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant592" target="Ant475">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant592" target="Ant252">
+  <data key="d16">19</data>
+</edge>
+<edge source="Ant592" target="Ant24">
+  <data key="d16">17</data>
+</edge>
+<edge source="Ant592" target="Ant25">
+  <data key="d16">24</data>
+</edge>
+<edge source="Ant592" target="Ant44">
+  <data key="d16">42</data>
+</edge>
+<edge source="Ant592" target="Ant49">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant638" target="Ant599">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant638" target="Ant97">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant638" target="Ant299">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant638" target="Ant305">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant638" target="Ant148">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant638" target="Ant650">
+  <data key="d16">25</data>
+</edge>
+<edge source="Ant638" target="Ant476">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant638" target="Ant475">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant638" target="Ant356">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant638" target="Ant252">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant638" target="Ant256">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant638" target="Ant24">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant638" target="Ant25">
+  <data key="d16">19</data>
+</edge>
+<edge source="Ant638" target="Ant27">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant638" target="Ant44">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant599" target="Ant502">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant599" target="Ant97">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant599" target="Ant299">
+  <data key="d16">24</data>
+</edge>
+<edge source="Ant599" target="Ant650">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant599" target="Ant476">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant599" target="Ant475">
+  <data key="d16">14</data>
+</edge>
+<edge source="Ant599" target="Ant356">
+  <data key="d16">14</data>
+</edge>
+<edge source="Ant599" target="Ant252">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant599" target="Ant256">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant599" target="Ant24">
+  <data key="d16">27</data>
+</edge>
+<edge source="Ant599" target="Ant25">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant599" target="Ant27">
+  <data key="d16">29</data>
+</edge>
+<edge source="Ant599" target="Ant44">
+  <data key="d16">22</data>
+</edge>
+<edge source="Ant599" target="Ant49">
+  <data key="d16">13</data>
+</edge>
+<edge source="Ant502" target="Ant356">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant502" target="Ant97">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant502" target="Ant299">
+  <data key="d16">19</data>
+</edge>
+<edge source="Ant502" target="Ant650">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant502" target="Ant475">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant502" target="Ant252">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant502" target="Ant24">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant502" target="Ant25">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant502" target="Ant27">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant502" target="Ant44">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant502" target="Ant49">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant97" target="Ant299">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant97" target="Ant305">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant97" target="Ant148">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant97" target="Ant650">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant97" target="Ant476">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant97" target="Ant475">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant97" target="Ant356">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant97" target="Ant252">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant97" target="Ant256">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant97" target="Ant25">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant97" target="Ant27">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant97" target="Ant44">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant97" target="Ant49">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant299" target="Ant305">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant299" target="Ant476">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant299" target="Ant475">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant299" target="Ant356">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant299" target="Ant252">
+  <data key="d16">25</data>
+</edge>
+<edge source="Ant299" target="Ant256">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant299" target="Ant24">
+  <data key="d16">31</data>
+</edge>
+<edge source="Ant299" target="Ant25">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant299" target="Ant27">
+  <data key="d16">37</data>
+</edge>
+<edge source="Ant299" target="Ant44">
+  <data key="d16">45</data>
+</edge>
+<edge source="Ant299" target="Ant49">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant305" target="Ant356">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant305" target="Ant475">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant305" target="Ant252">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant305" target="Ant256">
+  <data key="d16">17</data>
+</edge>
+<edge source="Ant305" target="Ant25">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant305" target="Ant27">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant305" target="Ant44">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant148" target="Ant356">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant148" target="Ant24">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant148" target="Ant25">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant148" target="Ant49">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant148" target="Ant650">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant650" target="Ant356">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant650" target="Ant476">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant650" target="Ant475">
+  <data key="d16">10</data>
+</edge>
+<edge source="Ant650" target="Ant252">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant650" target="Ant256">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant650" target="Ant25">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant650" target="Ant27">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant476" target="Ant356">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant476" target="Ant256">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant476" target="Ant24">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant476" target="Ant25">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant476" target="Ant27">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant476" target="Ant44">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant476" target="Ant49">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant475" target="Ant356">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant475" target="Ant252">
+  <data key="d16">15</data>
+</edge>
+<edge source="Ant475" target="Ant256">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant475" target="Ant24">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant475" target="Ant25">
+  <data key="d16">11</data>
+</edge>
+<edge source="Ant475" target="Ant27">
+  <data key="d16">28</data>
+</edge>
+<edge source="Ant475" target="Ant44">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant475" target="Ant49">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant356" target="Ant252">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant356" target="Ant24">
+  <data key="d16">21</data>
+</edge>
+<edge source="Ant356" target="Ant25">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant356" target="Ant27">
+  <data key="d16">19</data>
+</edge>
+<edge source="Ant356" target="Ant44">
+  <data key="d16">23</data>
+</edge>
+<edge source="Ant356" target="Ant49">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant252" target="Ant256">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant252" target="Ant24">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant252" target="Ant25">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant252" target="Ant27">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant252" target="Ant44">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant252" target="Ant49">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant256" target="Ant24">
+  <data key="d16">1</data>
+</edge>
+<edge source="Ant256" target="Ant25">
+  <data key="d16">4</data>
+</edge>
+<edge source="Ant256" target="Ant27">
+  <data key="d16">5</data>
+</edge>
+<edge source="Ant256" target="Ant44">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant24" target="Ant25">
+  <data key="d16">2</data>
+</edge>
+<edge source="Ant24" target="Ant27">
+  <data key="d16">18</data>
+</edge>
+<edge source="Ant24" target="Ant44">
+  <data key="d16">18</data>
+</edge>
+<edge source="Ant24" target="Ant49">
+  <data key="d16">16</data>
+</edge>
+<edge source="Ant25" target="Ant27">
+  <data key="d16">7</data>
+</edge>
+<edge source="Ant25" target="Ant44">
+  <data key="d16">3</data>
+</edge>
+<edge source="Ant25" target="Ant49">
+  <data key="d16">8</data>
+</edge>
+<edge source="Ant27" target="Ant44">
+  <data key="d16">9</data>
+</edge>
+<edge source="Ant27" target="Ant49">
+  <data key="d16">6</data>
+</edge>
+<edge source="Ant44" target="Ant49">
+  <data key="d16">14</data>
+</edge>
+</graph></graphml>

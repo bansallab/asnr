@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/hyena_holekamp_networkA.png) *Network A: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|35.0 - 36.0
 total edges|509.0 - 585.0
 network density|0.855 - 0.929
@@ -11,11 +12,12 @@ average betweenness centrality (weighted)|0.002 - 0.004
 average clustering coefficient (unweighted)|0.899 - 0.963
 average clustering coefficient (weighted)|0.113 - 0.146
 Newman modularity|0.009 - 0.038
-maximum modularity|0.436 - 0.49
+maximum modularity|0.436 - 0.499
 relative modularity|0.021 - 0.078
-group cohesion|0.545 - 0.573
-network diameter|0.545 - 0.573
+group cohesion|0.528 - 0.573
+network diameter|0.528 - 0.573
 **Study description**|**value**
+Attributes Available|sex, number of litters conceived or sired
 Species|*Crocuta crocuta*
 Taxonomic class|Mammalia
 Population type|free-ranging

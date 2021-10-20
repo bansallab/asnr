@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="X65"/>
+<node id="X4"/>
+<node id="X22"/>
+<node id="X76"/>
+<node id="AC"/>
+<node id="EK"/>
+<node id="DL"/>
+<node id="KE"/>
+<node id="KD"/>
+<edge source="X65" target="X4">
+  <data key="d0">22.11235955</data>
+</edge>
+<edge source="X65" target="X22">
+  <data key="d0">2.078651685</data>
+</edge>
+<edge source="X65" target="X76">
+  <data key="d0">0.415730337</data>
+</edge>
+<edge source="X65" target="AC">
+  <data key="d0">3.741573034</data>
+</edge>
+<edge source="X65" target="EK">
+  <data key="d0">0.831460674</data>
+</edge>
+<edge source="X65" target="DL">
+  <data key="d0">8.730337079</data>
+</edge>
+<edge source="X65" target="KD">
+  <data key="d0">0.831460674</data>
+</edge>
+<edge source="X65" target="KE">
+  <data key="d0">0.25842696600000004</data>
+</edge>
+<edge source="X4" target="X22">
+  <data key="d0">1.6179775280000002</data>
+</edge>
+<edge source="X4" target="X76">
+  <data key="d0">1.078651685</data>
+</edge>
+<edge source="X4" target="AC">
+  <data key="d0">0.539325843</data>
+</edge>
+<edge source="X4" target="EK">
+  <data key="d0">3.2359550560000003</data>
+</edge>
+<edge source="X4" target="DL">
+  <data key="d0">4.853932584</data>
+</edge>
+<edge source="X4" target="KE">
+  <data key="d0">0.25842696600000004</data>
+</edge>
+<edge source="X22" target="X76">
+  <data key="d0">0.921348315</data>
+</edge>
+<edge source="X22" target="AC">
+  <data key="d0">1.213483146</data>
+</edge>
+<edge source="X22" target="KD">
+  <data key="d0">0.606741573</data>
+</edge>
+<edge source="X22" target="KE">
+  <data key="d0">1.820224719</data>
+</edge>
+<edge source="X22" target="DL">
+  <data key="d0">0.303370787</data>
+</edge>
+<edge source="X76" target="AC">
+  <data key="d0">3.685393258</data>
+</edge>
+<edge source="X76" target="EK">
+  <data key="d0">2.303370787</data>
+</edge>
+<edge source="X76" target="DL">
+  <data key="d0">5.06741573</data>
+</edge>
+<edge source="X76" target="KD">
+  <data key="d0">7.370786517000001</data>
+</edge>
+<edge source="X76" target="KE">
+  <data key="d0">0.25842696600000004</data>
+</edge>
+<edge source="AC" target="EK">
+  <data key="d0">2.5280898880000002</data>
+</edge>
+<edge source="AC" target="DL">
+  <data key="d0">4.831460674</data>
+</edge>
+<edge source="AC" target="KD">
+  <data key="d0">0.483146067</data>
+</edge>
+<edge source="EK" target="DL">
+  <data key="d0">12.64044944</data>
+</edge>
+<edge source="EK" target="KD">
+  <data key="d0">1.011235955</data>
+</edge>
+<edge source="EK" target="KE">
+  <data key="d0">0.505617978</data>
+</edge>
+<edge source="DL" target="KD">
+  <data key="d0">1.91011236</data>
+</edge>
+<edge source="DL" target="KE">
+  <data key="d0">0.449438202</data>
+</edge>
+<edge source="KE" target="KD">
+  <data key="d0">0.25842696600000004</data>
+</edge>
+</graph></graphml>

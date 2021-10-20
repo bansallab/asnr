@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="bnn"/>
+<node id="gnr"/>
+<node id="nbb"/>
+<node id="ngn"/>
+<node id="nnb"/>
+<node id="nnr"/>
+<node id="nrg"/>
+<node id="bnr"/>
+<node id="gnb"/>
+<node id="nbn"/>
+<node id="ngb"/>
+<node id="ngg"/>
+<node id="ngr"/>
+<node id="nrn"/>
+<node id="nrr"/>
+<node id="rnr"/>
+<node id="gnn"/>
+<node id="nbr"/>
+<node id="nng"/>
+<edge source="bnn" target="gnr">
+  <data key="d0">2</data>
+</edge>
+<edge source="bnn" target="nbb">
+  <data key="d0">1</data>
+</edge>
+<edge source="bnn" target="ngn">
+  <data key="d0">2</data>
+</edge>
+<edge source="bnn" target="nnb">
+  <data key="d0">2</data>
+</edge>
+<edge source="bnn" target="nnr">
+  <data key="d0">3</data>
+</edge>
+<edge source="bnn" target="nrg">
+  <data key="d0">3</data>
+</edge>
+<edge source="bnn" target="gnb">
+  <data key="d0">3</data>
+</edge>
+<edge source="bnn" target="nbr">
+  <data key="d0">2</data>
+</edge>
+<edge source="bnn" target="ngb">
+  <data key="d0">4</data>
+</edge>
+<edge source="bnn" target="ngg">
+  <data key="d0">2</data>
+</edge>
+<edge source="bnn" target="nng">
+  <data key="d0">1</data>
+</edge>
+<edge source="bnn" target="nrn">
+  <data key="d0">6</data>
+</edge>
+<edge source="bnn" target="rnr">
+  <data key="d0">2</data>
+</edge>
+<edge source="gnr" target="gnn">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnr" target="nbb">
+  <data key="d0">5</data>
+</edge>
+<edge source="gnr" target="nbr">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnr" target="ngg">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnr" target="ngr">
+  <data key="d0">2</data>
+</edge>
+<edge source="gnr" target="nng">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnr" target="nnr">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnr" target="nrr">
+  <data key="d0">3</data>
+</edge>
+<edge source="nbb" target="gnb">
+  <data key="d0">1</data>
+</edge>
+<edge source="nbb" target="gnn">
+  <data key="d0">7</data>
+</edge>
+<edge source="nbb" target="ngn">
+  <data key="d0">3</data>
+</edge>
+<edge source="nbb" target="ngr">
+  <data key="d0">3</data>
+</edge>
+<edge source="nbb" target="nbn">
+  <data key="d0">1</data>
+</edge>
+<edge source="nbb" target="nbr">
+  <data key="d0">2</data>
+</edge>
+<edge source="nbb" target="ngb">
+  <data key="d0">4</data>
+</edge>
+<edge source="nbb" target="ngg">
+  <data key="d0">7</data>
+</edge>
+<edge source="nbb" target="nnb">
+  <data key="d0">3</data>
+</edge>
+<edge source="nbb" target="nng">
+  <data key="d0">13</data>
+</edge>
+<edge source="nbb" target="nrn">
+  <data key="d0">5</data>
+</edge>
+<edge source="nbb" target="rnr">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngn" target="gnn">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngn" target="nbn">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngn" target="nbr">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngn" target="ngb">
+  <data key="d0">5</data>
+</edge>
+<edge source="ngn" target="bnr">
+  <data key="d0">2</data>
+</edge>
+<edge source="ngn" target="ngr">
+  <data key="d0">3</data>
+</edge>
+<edge source="ngn" target="nnb">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngn" target="nng">
+  <data key="d0">2</data>
+</edge>
+<edge source="ngn" target="nnr">
+  <data key="d0">5</data>
+</edge>
+<edge source="ngn" target="nrg">
+  <data key="d0">6</data>
+</edge>
+<edge source="ngn" target="nrr">
+  <data key="d0">3</data>
+</edge>
+<edge source="ngn" target="rnr">
+  <data key="d0">1</data>
+</edge>
+<edge source="nnb" target="bnr">
+  <data key="d0">1</data>
+</edge>
+<edge source="nnb" target="gnb">
+  <data key="d0">1</data>
+</edge>
+<edge source="nnb" target="gnn">
+  <data key="d0">3</data>
+</edge>
+<edge source="nnb" target="nbn">
+  <data key="d0">2</data>
+</edge>
+<edge source="nnb" target="nbr">
+  <data key="d0">1</data>
+</edge>
+<edge source="nnb" target="ngb">
+  <data key="d0">1</data>
+</edge>
+<edge source="nnb" target="nrn">
+  <data key="d0">4</data>
+</edge>
+<edge source="nnb" target="nrr">
+  <data key="d0">4</data>
+</edge>
+<edge source="nnb" target="nng">
+  <data key="d0">1</data>
+</edge>
+<edge source="nnb" target="rnr">
+  <data key="d0">2</data>
+</edge>
+<edge source="nnr" target="bnr">
+  <data key="d0">2</data>
+</edge>
+<edge source="nnr" target="gnb">
+  <data key="d0">1</data>
+</edge>
+<edge source="nnr" target="gnn">
+  <data key="d0">3</data>
+</edge>
+<edge source="nnr" target="nbr">
+  <data key="d0">7</data>
+</edge>
+<edge source="nnr" target="ngb">
+  <data key="d0">2</data>
+</edge>
+<edge source="nnr" target="nrn">
+  <data key="d0">4</data>
+</edge>
+<edge source="nnr" target="rnr">
+  <data key="d0">2</data>
+</edge>
+<edge source="nrg" target="bnr">
+  <data key="d0">1</data>
+</edge>
+<edge source="nrg" target="gnb">
+  <data key="d0">4</data>
+</edge>
+<edge source="nrg" target="gnn">
+  <data key="d0">1</data>
+</edge>
+<edge source="nrg" target="nbr">
+  <data key="d0">5</data>
+</edge>
+<edge source="nrg" target="ngb">
+  <data key="d0">1</data>
+</edge>
+<edge source="nrg" target="ngg">
+  <data key="d0">2</data>
+</edge>
+<edge source="nrg" target="ngr">
+  <data key="d0">2</data>
+</edge>
+<edge source="nrg" target="nng">
+  <data key="d0">1</data>
+</edge>
+<edge source="nrg" target="nbn">
+  <data key="d0">1</data>
+</edge>
+<edge source="nrg" target="nrn">
+  <data key="d0">8</data>
+</edge>
+<edge source="nrg" target="nrr">
+  <data key="d0">3</data>
+</edge>
+<edge source="bnr" target="gnb">
+  <data key="d0">1</data>
+</edge>
+<edge source="bnr" target="nbn">
+  <data key="d0">6</data>
+</edge>
+<edge source="bnr" target="gnn">
+  <data key="d0">3</data>
+</edge>
+<edge source="bnr" target="ngb">
+  <data key="d0">3</data>
+</edge>
+<edge source="bnr" target="ngg">
+  <data key="d0">2</data>
+</edge>
+<edge source="bnr" target="ngr">
+  <data key="d0">1</data>
+</edge>
+<edge source="bnr" target="nng">
+  <data key="d0">1</data>
+</edge>
+<edge source="bnr" target="nrn">
+  <data key="d0">11</data>
+</edge>
+<edge source="bnr" target="nrr">
+  <data key="d0">3</data>
+</edge>
+<edge source="bnr" target="rnr">
+  <data key="d0">3</data>
+</edge>
+<edge source="gnb" target="nbn">
+  <data key="d0">3</data>
+</edge>
+<edge source="gnb" target="ngb">
+  <data key="d0">11</data>
+</edge>
+<edge source="gnb" target="ngg">
+  <data key="d0">4</data>
+</edge>
+<edge source="gnb" target="ngr">
+  <data key="d0">11</data>
+</edge>
+<edge source="gnb" target="nrn">
+  <data key="d0">2</data>
+</edge>
+<edge source="gnb" target="nrr">
+  <data key="d0">4</data>
+</edge>
+<edge source="gnb" target="rnr">
+  <data key="d0">8</data>
+</edge>
+<edge source="gnb" target="nbr">
+  <data key="d0">10</data>
+</edge>
+<edge source="gnb" target="nng">
+  <data key="d0">4</data>
+</edge>
+<edge source="nbn" target="gnn">
+  <data key="d0">1</data>
+</edge>
+<edge source="nbn" target="nbr">
+  <data key="d0">1</data>
+</edge>
+<edge source="nbn" target="nrn">
+  <data key="d0">4</data>
+</edge>
+<edge source="nbn" target="nrr">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngb" target="gnn">
+  <data key="d0">7</data>
+</edge>
+<edge source="ngb" target="nrn">
+  <data key="d0">3</data>
+</edge>
+<edge source="ngb" target="ngg">
+  <data key="d0">4</data>
+</edge>
+<edge source="ngb" target="nng">
+  <data key="d0">2</data>
+</edge>
+<edge source="ngb" target="nrr">
+  <data key="d0">6</data>
+</edge>
+<edge source="ngg" target="gnn">
+  <data key="d0">3</data>
+</edge>
+<edge source="ngg" target="nbr">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngg" target="ngr">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngg" target="nng">
+  <data key="d0">2</data>
+</edge>
+<edge source="ngg" target="rnr">
+  <data key="d0">1</data>
+</edge>
+<edge source="ngr" target="gnn">
+  <data key="d0">3</data>
+</edge>
+<edge source="ngr" target="nbr">
+  <data key="d0">3</data>
+</edge>
+<edge source="ngr" target="nrn">
+  <data key="d0">2</data>
+</edge>
+<edge source="ngr" target="nng">
+  <data key="d0">5</data>
+</edge>
+<edge source="ngr" target="nrr">
+  <data key="d0">11</data>
+</edge>
+<edge source="nrn" target="gnn">
+  <data key="d0">4</data>
+</edge>
+<edge source="nrn" target="nbr">
+  <data key="d0">2</data>
+</edge>
+<edge source="nrn" target="nng">
+  <data key="d0">1</data>
+</edge>
+<edge source="nrn" target="nrr">
+  <data key="d0">7</data>
+</edge>
+<edge source="nrn" target="rnr">
+  <data key="d0">1</data>
+</edge>
+<edge source="nrr" target="gnn">
+  <data key="d0">9</data>
+</edge>
+<edge source="nrr" target="nbr">
+  <data key="d0">5</data>
+</edge>
+<edge source="nrr" target="nng">
+  <data key="d0">4</data>
+</edge>
+<edge source="nrr" target="rnr">
+  <data key="d0">12</data>
+</edge>
+<edge source="rnr" target="gnn">
+  <data key="d0">4</data>
+</edge>
+<edge source="rnr" target="nbr">
+  <data key="d0">1</data>
+</edge>
+<edge source="rnr" target="nng">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnn" target="nbr">
+  <data key="d0">9</data>
+</edge>
+<edge source="gnn" target="nng">
+  <data key="d0">8</data>
+</edge>
+<edge source="nbr" target="nng">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

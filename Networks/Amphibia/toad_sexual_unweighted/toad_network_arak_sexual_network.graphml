@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="no. males that visted female" attr.type="double"/>
+<key id="d5" for="node" attr.name="male SPL rank" attr.type="string"/>
+<key id="d4" for="node" attr.name="male frequency rank (1=lowest)" attr.type="string"/>
+<key id="d3" for="node" attr.name="male mass rank (1=heaviest)" attr.type="string"/>
+<key id="d2" for="node" attr.name="male snout-vent length rank (1=largest)" attr.type="string"/>
+<key id="d1" for="node" attr.name="no. males that visted female" attr.type="string"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ML">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">1</data>
+  <data key="d3">2</data>
+  <data key="d4">2</data>
+  <data key="d5">1</data>
+</node>
+<node id="1F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">2.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="3HL">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">1</data>
+  <data key="d3">2</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+</node>
+<node id="2F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">2.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="BG">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">2, 2</data>
+  <data key="d3">2, 1</data>
+  <data key="d4">1, 1</data>
+  <data key="d5">1, 2</data>
+</node>
+<node id="3F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">2.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="BBE">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+</node>
+<node id="4F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">2.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="5F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">3.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="ZZ">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">2</data>
+  <data key="d5">2</data>
+</node>
+<node id="6F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">3.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="HD">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+</node>
+<node id="7F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">3.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="SC">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">3</data>
+  <data key="d3">3</data>
+  <data key="d4">3</data>
+  <data key="d5">3</data>
+</node>
+<node id="8F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">3.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="BK">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">2</data>
+  <data key="d3">2</data>
+  <data key="d4">2</data>
+  <data key="d5">2</data>
+</node>
+<node id="9F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">3.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="6L">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">1, 1</data>
+  <data key="d3">2, 3</data>
+  <data key="d4">1, 1</data>
+  <data key="d5">1, 2</data>
+</node>
+<node id="10F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">3.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="CD">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2">3</data>
+  <data key="d3">3</data>
+  <data key="d4">2.5</data>
+  <data key="d5">4</data>
+</node>
+<node id="11F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">4.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="12F">
+  <data key="d0">FEMALE</data>
+  <data key="d6">6.0</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<edge source="ML" target="1F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="3HL" target="2F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="BG" target="3F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="BG" target="5F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="BBE" target="4F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="ZZ" target="6F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="HD" target="7F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="SC" target="8F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="BK" target="9F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="6L" target="10F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="6L" target="12F">
+  <data key="d7">nan</data>
+</edge>
+<edge source="CD" target="11F">
+  <data key="d7">nan</data>
+</edge>
+</graph></graphml>

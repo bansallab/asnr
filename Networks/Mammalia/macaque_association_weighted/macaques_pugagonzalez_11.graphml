@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Ann"/>
+<node id="Ani"/>
+<node id="Eli"/>
+<node id="Elz"/>
+<node id="Fum"/>
+<node id="Jun"/>
+<node id="Liv"/>
+<node id="Oli"/>
+<node id="Kik"/>
+<node id="Zaz"/>
+<node id="Bla"/>
+<node id="Dor"/>
+<node id="Hnn"/>
+<node id="Miy"/>
+<node id="Nob"/>
+<node id="Raf"/>
+<node id="Zin"/>
+<node id="Cho"/>
+<node id="Chi"/>
+<node id="Sar"/>
+<edge source="Ann" target="Ani">
+  <data key="d0">0.03</data>
+</edge>
+<edge source="Ann" target="Fum">
+  <data key="d0">5.23</data>
+</edge>
+<edge source="Ann" target="Kik">
+  <data key="d0">12.6</data>
+</edge>
+<edge source="Ann" target="Liv">
+  <data key="d0">0.15</data>
+</edge>
+<edge source="Ann" target="Oli">
+  <data key="d0">7.96</data>
+</edge>
+<edge source="Ann" target="Zaz">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="Ani" target="Eli">
+  <data key="d0">1.48</data>
+</edge>
+<edge source="Ani" target="Elz">
+  <data key="d0">0.24</data>
+</edge>
+<edge source="Ani" target="Fum">
+  <data key="d0">5.02</data>
+</edge>
+<edge source="Ani" target="Jun">
+  <data key="d0">1.7</data>
+</edge>
+<edge source="Ani" target="Liv">
+  <data key="d0">0.12</data>
+</edge>
+<edge source="Ani" target="Oli">
+  <data key="d0">1.24</data>
+</edge>
+<edge source="Ani" target="Bla">
+  <data key="d0">2.4</data>
+</edge>
+<edge source="Ani" target="Kik">
+  <data key="d0">0.45</data>
+</edge>
+<edge source="Eli" target="Cho">
+  <data key="d0">9.49</data>
+</edge>
+<edge source="Eli" target="Dor">
+  <data key="d0">0.92</data>
+</edge>
+<edge source="Eli" target="Elz">
+  <data key="d0">2.83</data>
+</edge>
+<edge source="Eli" target="Kik">
+  <data key="d0">0.88</data>
+</edge>
+<edge source="Eli" target="Liv">
+  <data key="d0">0.01</data>
+</edge>
+<edge source="Eli" target="Nob">
+  <data key="d0">0.41</data>
+</edge>
+<edge source="Eli" target="Oli">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="Eli" target="Raf">
+  <data key="d0">1.12</data>
+</edge>
+<edge source="Eli" target="Sar">
+  <data key="d0">0.19</data>
+</edge>
+<edge source="Eli" target="Zaz">
+  <data key="d0">0.05</data>
+</edge>
+<edge source="Elz" target="Chi">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="Elz" target="Cho">
+  <data key="d0">8.41</data>
+</edge>
+<edge source="Elz" target="Kik">
+  <data key="d0">0.12</data>
+</edge>
+<edge source="Elz" target="Jun">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="Fum" target="Bla">
+  <data key="d0">1.89</data>
+</edge>
+<edge source="Fum" target="Dor">
+  <data key="d0">0.34</data>
+</edge>
+<edge source="Fum" target="Kik">
+  <data key="d0">5.09</data>
+</edge>
+<edge source="Jun" target="Cho">
+  <data key="d0">0.89</data>
+</edge>
+<edge source="Jun" target="Dor">
+  <data key="d0">2.75</data>
+</edge>
+<edge source="Jun" target="Hnn">
+  <data key="d0">2.05</data>
+</edge>
+<edge source="Jun" target="Liv">
+  <data key="d0">10.54</data>
+</edge>
+<edge source="Jun" target="Nob">
+  <data key="d0">0.05</data>
+</edge>
+<edge source="Jun" target="Raf">
+  <data key="d0">1.13</data>
+</edge>
+<edge source="Jun" target="Sar">
+  <data key="d0">0.31</data>
+</edge>
+<edge source="Jun" target="Zaz">
+  <data key="d0">1.8</data>
+</edge>
+<edge source="Jun" target="Zin">
+  <data key="d0">2.33</data>
+</edge>
+<edge source="Liv" target="Cho">
+  <data key="d0">0.57</data>
+</edge>
+<edge source="Liv" target="Dor">
+  <data key="d0">1.76</data>
+</edge>
+<edge source="Liv" target="Nob">
+  <data key="d0">0.39</data>
+</edge>
+<edge source="Liv" target="Raf">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="Liv" target="Sar">
+  <data key="d0">1.18</data>
+</edge>
+<edge source="Liv" target="Zaz">
+  <data key="d0">1.26</data>
+</edge>
+<edge source="Liv" target="Zin">
+  <data key="d0">2.55</data>
+</edge>
+<edge source="Liv" target="Oli">
+  <data key="d0">0.51</data>
+</edge>
+<edge source="Oli" target="Kik">
+  <data key="d0">3.49</data>
+</edge>
+<edge source="Oli" target="Nob">
+  <data key="d0">0.62</data>
+</edge>
+<edge source="Oli" target="Bla">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="Kik" target="Dor">
+  <data key="d0">0.303</data>
+</edge>
+<edge source="Kik" target="Nob">
+  <data key="d0">0.74</data>
+</edge>
+<edge source="Zaz" target="Chi">
+  <data key="d0">0.11</data>
+</edge>
+<edge source="Zaz" target="Cho">
+  <data key="d0">0.57</data>
+</edge>
+<edge source="Zaz" target="Dor">
+  <data key="d0">4.15</data>
+</edge>
+<edge source="Zaz" target="Nob">
+  <data key="d0">3.72</data>
+</edge>
+<edge source="Zaz" target="Sar">
+  <data key="d0">1.18</data>
+</edge>
+<edge source="Zaz" target="Zin">
+  <data key="d0">4.52</data>
+</edge>
+<edge source="Bla" target="Dor">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="Bla" target="Hnn">
+  <data key="d0">6.95</data>
+</edge>
+<edge source="Bla" target="Miy">
+  <data key="d0">5.37</data>
+</edge>
+<edge source="Bla" target="Nob">
+  <data key="d0">0.57</data>
+</edge>
+<edge source="Bla" target="Raf">
+  <data key="d0">7.41</data>
+</edge>
+<edge source="Bla" target="Zin">
+  <data key="d0">0.12</data>
+</edge>
+<edge source="Bla" target="Cho">
+  <data key="d0">0.65</data>
+</edge>
+<edge source="Dor" target="Cho">
+  <data key="d0">1.6</data>
+</edge>
+<edge source="Dor" target="Hnn">
+  <data key="d0">0.08</data>
+</edge>
+<edge source="Dor" target="Miy">
+  <data key="d0">0.04</data>
+</edge>
+<edge source="Dor" target="Nob">
+  <data key="d0">3.31</data>
+</edge>
+<edge source="Dor" target="Raf">
+  <data key="d0">0.57</data>
+</edge>
+<edge source="Dor" target="Sar">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="Dor" target="Zin">
+  <data key="d0">3.95</data>
+</edge>
+<edge source="Hnn" target="Miy">
+  <data key="d0">10.44</data>
+</edge>
+<edge source="Hnn" target="Raf">
+  <data key="d0">2.35</data>
+</edge>
+<edge source="Nob" target="Chi">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="Nob" target="Cho">
+  <data key="d0">1.24</data>
+</edge>
+<edge source="Nob" target="Raf">
+  <data key="d0">5.19</data>
+</edge>
+<edge source="Nob" target="Sar">
+  <data key="d0">3.24</data>
+</edge>
+<edge source="Nob" target="Zin">
+  <data key="d0">0.08</data>
+</edge>
+<edge source="Zin" target="Chi">
+  <data key="d0">13.05</data>
+</edge>
+<edge source="Zin" target="Cho">
+  <data key="d0">0.78</data>
+</edge>
+<edge source="Zin" target="Sar">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="Cho" target="Chi">
+  <data key="d0">0.77</data>
+</edge>
+<edge source="Cho" target="Sar">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="Chi" target="Sar">
+  <data key="d0">12.22</data>
+</edge>
+</graph></graphml>

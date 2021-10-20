@@ -193,8 +193,11 @@ for mydir in directories:
 			df = pd.DataFrame(columns=index_col)
 			for (attr, val) in zip(attr_list, val_list):
 				if len(val)==1:
-					if type(val[0]) is float: value = round(val[0],3)
+					if type(val[0]) is float :  value = round(val[0],3)
+					elif type(val[0]) is int: value = val[0]
 					else: value = 'n/a'
+					
+					
 				else: value = 'n/a'					
 				row = [attr, value]
 				df_row = pd.DataFrame([row], columns = index_col) 
@@ -214,7 +217,7 @@ for mydir in directories:
 				#if attr =="total nodes": print row
 				df_row = pd.DataFrame([row], columns = index_col) 
 				df = pd.concat([df, df_row])
-	
+		
 		######################################################################################		
 		# Get column names
 		cols = df.columns
@@ -243,6 +246,7 @@ for mydir in directories:
 
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
 		    file1.write('**Citation** | '+cit2)
+		
 		"""
 		with open(os.path.abspath('../Networks/'+mydir+'/'+subdir+'/'+base_filename), 'a') as file1:
 		    file1.write('**Species**| ' + taxa +'\n')

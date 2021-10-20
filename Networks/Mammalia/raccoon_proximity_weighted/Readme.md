@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/raccoon_reynolds_matrix_01.png) *Matrix 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|8.0 - 24.0
 total edges|17.0 - 100.0
 network density|0.144 - 0.679
@@ -16,13 +17,14 @@ relative modularity|0.095 - 0.939
 group cohesion|0.423 - 0.971
 network diameter|0.423 - 0.971
 **Study description**|**value**
+Attributes Available|not available
 Species|*Procyon lotor*
 Taxonomic class|Mammalia
 Population type|free-ranging
 Geographical location|Illinois, USA
 Data collection technique|logger
 Interaction type|spatial proximity
-Definition of interaction|Close proximity (within 1Ð1.5m). Any contacts <1 s in duration were excluded.
+Definition of interaction|Close proximity (within 1_1.5m). Any contacts <1 s in duration were excluded.
 Edge weight type|duration
 Total duration of data collection|7days
 Time resolution of data collection (within a day)|1 sec

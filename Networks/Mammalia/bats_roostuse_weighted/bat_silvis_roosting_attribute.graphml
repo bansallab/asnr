@@ -1,0 +1,1941 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d4" for="node" attr.name="Sex" attr.type="string"/>
+<key id="d3" for="node" attr.name="Age (2010)" attr.type="string"/>
+<key id="d2" for="node" attr.name="Repro (2010)" attr.type="string"/>
+<key id="d1" for="node" attr.name="Age (2009)" attr.type="string"/>
+<key id="d0" for="node" attr.name="Repro (2009)" attr.type="string"/>
+<graph edgedefault="undirected"><node id="18951">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">non reproductive</data>
+  <data key="d3">juv</data>
+  <data key="d4">f</data>
+</node>
+<node id="18952">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">non reproductive</data>
+  <data key="d3">juv</data>
+  <data key="d4">m</data>
+</node>
+<node id="15241">
+  <data key="d0"> </data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="18954">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">non reproductive</data>
+  <data key="d3">juv</data>
+  <data key="d4">f</data>
+</node>
+<node id="13452">
+  <data key="d0">non reproductive</data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="18702">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2"> </data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="18703">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2"> </data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="15504">
+  <data key="d0">non reproductive</data>
+  <data key="d1">juv</data>
+  <data key="d2">lactating</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="15381">
+  <data key="d0">lactating</data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="18715">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">non reproductive</data>
+  <data key="d3">adult</data>
+  <data key="d4">m</data>
+</node>
+<node id="18716">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2"> </data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="18971">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">non reproductive</data>
+  <data key="d3">juv</data>
+  <data key="d4">m</data>
+</node>
+<node id="18854">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">lactating</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="8270">
+  <data key="d0">post lactation</data>
+  <data key="d1">adult</data>
+  <data key="d2">post lactation</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="18871">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">non reproductive</data>
+  <data key="d3">juv</data>
+  <data key="d4">f</data>
+</node>
+<node id="15290">
+  <data key="d0">lactating</data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="15429">
+  <data key="d0">non reproductive</data>
+  <data key="d1">juv</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">m</data>
+</node>
+<node id="18633">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2"> </data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="15307">
+  <data key="d0"> </data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="15372">
+  <data key="d0">lactating</data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="15442">
+  <data key="d0">lactating</data>
+  <data key="d1">adult</data>
+  <data key="d2">pregnant</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="18771">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">pregnant</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="18772">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">pregnant</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="15374">
+  <data key="d0">non reproductive</data>
+  <data key="d1">juv</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="15446">
+  <data key="d0">lactating</data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="15481">
+  <data key="d0">non reproductive</data>
+  <data key="d1">juv</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">m</data>
+</node>
+<node id="15449">
+  <data key="d0">lactating</data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="13456">
+  <data key="d0">post lactation</data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="18889">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">lactating</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="15203">
+  <data key="d0"> </data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="15204">
+  <data key="d0"> </data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="15205">
+  <data key="d0"> </data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="15462">
+  <data key="d0">non reproductive</data>
+  <data key="d1">juv</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="18663"/>
+<node id="18670">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2"> </data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="18801">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">lactating</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="18802">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">lactating</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="15348">
+  <data key="d0">lactating</data>
+  <data key="d1">adult</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="18805">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">lactating</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="15480">
+  <data key="d0">non reproductive</data>
+  <data key="d1">juv</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">m</data>
+</node>
+<node id="15444">
+  <data key="d0">non reproductive</data>
+  <data key="d1">juv</data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+  <data key="d4">f</data>
+</node>
+<node id="18938">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">post lactation</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<node id="18860">
+  <data key="d0"> </data>
+  <data key="d1"> </data>
+  <data key="d2">lactating</data>
+  <data key="d3">adult</data>
+  <data key="d4">f</data>
+</node>
+<edge source="18951" target="15241">
+  <data key="d5">34</data>
+</edge>
+<edge source="18951" target="18954">
+  <data key="d5">56</data>
+</edge>
+<edge source="18951" target="13452">
+  <data key="d5">111</data>
+</edge>
+<edge source="18951" target="18702">
+  <data key="d5">144</data>
+</edge>
+<edge source="18951" target="18703">
+  <data key="d5">89</data>
+</edge>
+<edge source="18951" target="15504">
+  <data key="d5">100</data>
+</edge>
+<edge source="18951" target="18715">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="18716">
+  <data key="d5">78</data>
+</edge>
+<edge source="18951" target="18971">
+  <data key="d5">67</data>
+</edge>
+<edge source="18951" target="18854">
+  <data key="d5">67</data>
+</edge>
+<edge source="18951" target="8270">
+  <data key="d5">67</data>
+</edge>
+<edge source="18951" target="18871">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="18633">
+  <data key="d5">100</data>
+</edge>
+<edge source="18951" target="15307">
+  <data key="d5">45</data>
+</edge>
+<edge source="18951" target="15372">
+  <data key="d5">23</data>
+</edge>
+<edge source="18951" target="15442">
+  <data key="d5">111</data>
+</edge>
+<edge source="18951" target="18771">
+  <data key="d5">122</data>
+</edge>
+<edge source="18951" target="18772">
+  <data key="d5">56</data>
+</edge>
+<edge source="18951" target="15374">
+  <data key="d5">34</data>
+</edge>
+<edge source="18951" target="13456">
+  <data key="d5">56</data>
+</edge>
+<edge source="18951" target="18889">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="15203">
+  <data key="d5">56</data>
+</edge>
+<edge source="18951" target="15204">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="15205">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="18663">
+  <data key="d5">177</data>
+</edge>
+<edge source="18951" target="18670">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="18801">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="18802">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="15348">
+  <data key="d5">45</data>
+</edge>
+<edge source="18951" target="18805">
+  <data key="d5">12</data>
+</edge>
+<edge source="18951" target="18938">
+  <data key="d5">78</data>
+</edge>
+<edge source="18952" target="18938">
+  <data key="d5">5</data>
+</edge>
+<edge source="18952" target="18871">
+  <data key="d5">6</data>
+</edge>
+<edge source="15241" target="18954">
+  <data key="d5">16</data>
+</edge>
+<edge source="15241" target="13452">
+  <data key="d5">31</data>
+</edge>
+<edge source="15241" target="18702">
+  <data key="d5">40</data>
+</edge>
+<edge source="15241" target="18703">
+  <data key="d5">25</data>
+</edge>
+<edge source="15241" target="15504">
+  <data key="d5">28</data>
+</edge>
+<edge source="15241" target="18715">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="18716">
+  <data key="d5">22</data>
+</edge>
+<edge source="15241" target="18971">
+  <data key="d5">19</data>
+</edge>
+<edge source="15241" target="18854">
+  <data key="d5">19</data>
+</edge>
+<edge source="15241" target="8270">
+  <data key="d5">19</data>
+</edge>
+<edge source="15241" target="18871">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="18633">
+  <data key="d5">28</data>
+</edge>
+<edge source="15241" target="15307">
+  <data key="d5">13</data>
+</edge>
+<edge source="15241" target="15372">
+  <data key="d5">7</data>
+</edge>
+<edge source="15241" target="15442">
+  <data key="d5">31</data>
+</edge>
+<edge source="15241" target="18771">
+  <data key="d5">34</data>
+</edge>
+<edge source="15241" target="18772">
+  <data key="d5">16</data>
+</edge>
+<edge source="15241" target="15374">
+  <data key="d5">10</data>
+</edge>
+<edge source="15241" target="13456">
+  <data key="d5">16</data>
+</edge>
+<edge source="15241" target="18889">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="15203">
+  <data key="d5">16</data>
+</edge>
+<edge source="15241" target="15204">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="15205">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="18663">
+  <data key="d5">49</data>
+</edge>
+<edge source="15241" target="18670">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="18801">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="18802">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="15348">
+  <data key="d5">13</data>
+</edge>
+<edge source="15241" target="18805">
+  <data key="d5">4</data>
+</edge>
+<edge source="15241" target="18938">
+  <data key="d5">22</data>
+</edge>
+<edge source="18954" target="13452">
+  <data key="d5">51</data>
+</edge>
+<edge source="18954" target="18702">
+  <data key="d5">66</data>
+</edge>
+<edge source="18954" target="18703">
+  <data key="d5">41</data>
+</edge>
+<edge source="18954" target="15504">
+  <data key="d5">46</data>
+</edge>
+<edge source="18954" target="18715">
+  <data key="d5">10</data>
+</edge>
+<edge source="18954" target="18716">
+  <data key="d5">36</data>
+</edge>
+<edge source="18954" target="18971">
+  <data key="d5">31</data>
+</edge>
+<edge source="18954" target="18854">
+  <data key="d5">31</data>
+</edge>
+<edge source="18954" target="8270">
+  <data key="d5">31</data>
+</edge>
+<edge source="18954" target="18871">
+  <data key="d5">6</data>
+</edge>
+<edge source="18954" target="18633">
+  <data key="d5">46</data>
+</edge>
+<edge source="18954" target="15307">
+  <data key="d5">21</data>
+</edge>
+<edge source="18954" target="15372">
+  <data key="d5">11</data>
+</edge>
+<edge source="18954" target="15442">
+  <data key="d5">51</data>
+</edge>
+<edge source="18954" target="18771">
+  <data key="d5">56</data>
+</edge>
+<edge source="18954" target="18772">
+  <data key="d5">26</data>
+</edge>
+<edge source="18954" target="15374">
+  <data key="d5">16</data>
+</edge>
+<edge source="18954" target="13456">
+  <data key="d5">26</data>
+</edge>
+<edge source="18954" target="18889">
+  <data key="d5">6</data>
+</edge>
+<edge source="18954" target="15203">
+  <data key="d5">26</data>
+</edge>
+<edge source="18954" target="15204">
+  <data key="d5">6</data>
+</edge>
+<edge source="18954" target="15205">
+  <data key="d5">6</data>
+</edge>
+<edge source="18954" target="18663">
+  <data key="d5">81</data>
+</edge>
+<edge source="18954" target="18670">
+  <data key="d5">6</data>
+</edge>
+<edge source="18954" target="18801">
+  <data key="d5">6</data>
+</edge>
+<edge source="18954" target="18802">
+  <data key="d5">6</data>
+</edge>
+<edge source="18954" target="15348">
+  <data key="d5">21</data>
+</edge>
+<edge source="18954" target="18805">
+  <data key="d5">6</data>
+</edge>
+<edge source="18954" target="18938">
+  <data key="d5">36</data>
+</edge>
+<edge source="13452" target="15372">
+  <data key="d5">21</data>
+</edge>
+<edge source="13452" target="18702">
+  <data key="d5">131</data>
+</edge>
+<edge source="13452" target="18703">
+  <data key="d5">81</data>
+</edge>
+<edge source="13452" target="15504">
+  <data key="d5">91</data>
+</edge>
+<edge source="13452" target="18715">
+  <data key="d5">11</data>
+</edge>
+<edge source="13452" target="18716">
+  <data key="d5">71</data>
+</edge>
+<edge source="13452" target="18971">
+  <data key="d5">61</data>
+</edge>
+<edge source="13452" target="18854">
+  <data key="d5">61</data>
+</edge>
+<edge source="13452" target="18871">
+  <data key="d5">11</data>
+</edge>
+<edge source="13452" target="15429">
+  <data key="d5">8</data>
+</edge>
+<edge source="13452" target="18633">
+  <data key="d5">95</data>
+</edge>
+<edge source="13452" target="15307">
+  <data key="d5">41</data>
+</edge>
+<edge source="13452" target="8270">
+  <data key="d5">61</data>
+</edge>
+<edge source="13452" target="15442">
+  <data key="d5">101</data>
+</edge>
+<edge source="13452" target="18771">
+  <data key="d5">111</data>
+</edge>
+<edge source="13452" target="18772">
+  <data key="d5">51</data>
+</edge>
+<edge source="13452" target="15374">
+  <data key="d5">36</data>
+</edge>
+<edge source="13452" target="13456">
+  <data key="d5">51</data>
+</edge>
+<edge source="13452" target="18889">
+  <data key="d5">11</data>
+</edge>
+<edge source="13452" target="15203">
+  <data key="d5">54</data>
+</edge>
+<edge source="13452" target="15204">
+  <data key="d5">12</data>
+</edge>
+<edge source="13452" target="15205">
+  <data key="d5">14</data>
+</edge>
+<edge source="13452" target="18663">
+  <data key="d5">161</data>
+</edge>
+<edge source="13452" target="18670">
+  <data key="d5">11</data>
+</edge>
+<edge source="13452" target="18801">
+  <data key="d5">11</data>
+</edge>
+<edge source="13452" target="18802">
+  <data key="d5">11</data>
+</edge>
+<edge source="13452" target="15348">
+  <data key="d5">47</data>
+</edge>
+<edge source="13452" target="18805">
+  <data key="d5">11</data>
+</edge>
+<edge source="13452" target="15444">
+  <data key="d5">13</data>
+</edge>
+<edge source="13452" target="18938">
+  <data key="d5">71</data>
+</edge>
+<edge source="18702" target="15374">
+  <data key="d5">40</data>
+</edge>
+<edge source="18702" target="18703">
+  <data key="d5">105</data>
+</edge>
+<edge source="18702" target="15504">
+  <data key="d5">118</data>
+</edge>
+<edge source="18702" target="18715">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="18716">
+  <data key="d5">92</data>
+</edge>
+<edge source="18702" target="18971">
+  <data key="d5">79</data>
+</edge>
+<edge source="18702" target="18854">
+  <data key="d5">79</data>
+</edge>
+<edge source="18702" target="18871">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="18633">
+  <data key="d5">118</data>
+</edge>
+<edge source="18702" target="15307">
+  <data key="d5">53</data>
+</edge>
+<edge source="18702" target="15372">
+  <data key="d5">27</data>
+</edge>
+<edge source="18702" target="15442">
+  <data key="d5">131</data>
+</edge>
+<edge source="18702" target="18771">
+  <data key="d5">144</data>
+</edge>
+<edge source="18702" target="18772">
+  <data key="d5">66</data>
+</edge>
+<edge source="18702" target="8270">
+  <data key="d5">79</data>
+</edge>
+<edge source="18702" target="13456">
+  <data key="d5">66</data>
+</edge>
+<edge source="18702" target="18889">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="15203">
+  <data key="d5">66</data>
+</edge>
+<edge source="18702" target="15204">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="15205">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="18663">
+  <data key="d5">209</data>
+</edge>
+<edge source="18702" target="18670">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="18801">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="18802">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="15348">
+  <data key="d5">53</data>
+</edge>
+<edge source="18702" target="18805">
+  <data key="d5">14</data>
+</edge>
+<edge source="18702" target="18938">
+  <data key="d5">92</data>
+</edge>
+<edge source="18703" target="15504">
+  <data key="d5">73</data>
+</edge>
+<edge source="18703" target="15381">
+  <data key="d5">5</data>
+</edge>
+<edge source="18703" target="18715">
+  <data key="d5">9</data>
+</edge>
+<edge source="18703" target="18716">
+  <data key="d5">57</data>
+</edge>
+<edge source="18703" target="18971">
+  <data key="d5">49</data>
+</edge>
+<edge source="18703" target="18854">
+  <data key="d5">49</data>
+</edge>
+<edge source="18703" target="8270">
+  <data key="d5">49</data>
+</edge>
+<edge source="18703" target="18871">
+  <data key="d5">9</data>
+</edge>
+<edge source="18703" target="18633">
+  <data key="d5">73</data>
+</edge>
+<edge source="18703" target="15307">
+  <data key="d5">33</data>
+</edge>
+<edge source="18703" target="15372">
+  <data key="d5">17</data>
+</edge>
+<edge source="18703" target="15442">
+  <data key="d5">81</data>
+</edge>
+<edge source="18703" target="18771">
+  <data key="d5">89</data>
+</edge>
+<edge source="18703" target="18772">
+  <data key="d5">41</data>
+</edge>
+<edge source="18703" target="15374">
+  <data key="d5">25</data>
+</edge>
+<edge source="18703" target="13456">
+  <data key="d5">41</data>
+</edge>
+<edge source="18703" target="18889">
+  <data key="d5">9</data>
+</edge>
+<edge source="18703" target="15203">
+  <data key="d5">41</data>
+</edge>
+<edge source="18703" target="15204">
+  <data key="d5">9</data>
+</edge>
+<edge source="18703" target="15205">
+  <data key="d5">9</data>
+</edge>
+<edge source="18703" target="18663">
+  <data key="d5">131</data>
+</edge>
+<edge source="18703" target="18670">
+  <data key="d5">9</data>
+</edge>
+<edge source="18703" target="18801">
+  <data key="d5">11</data>
+</edge>
+<edge source="18703" target="18802">
+  <data key="d5">13</data>
+</edge>
+<edge source="18703" target="15348">
+  <data key="d5">33</data>
+</edge>
+<edge source="18703" target="18805">
+  <data key="d5">9</data>
+</edge>
+<edge source="18703" target="15480">
+  <data key="d5">3</data>
+</edge>
+<edge source="18703" target="18938">
+  <data key="d5">57</data>
+</edge>
+<edge source="18703" target="18860">
+  <data key="d5">3</data>
+</edge>
+<edge source="15504" target="13456">
+  <data key="d5">46</data>
+</edge>
+<edge source="15504" target="18715">
+  <data key="d5">10</data>
+</edge>
+<edge source="15504" target="18716">
+  <data key="d5">64</data>
+</edge>
+<edge source="15504" target="18971">
+  <data key="d5">55</data>
+</edge>
+<edge source="15504" target="18854">
+  <data key="d5">55</data>
+</edge>
+<edge source="15504" target="8270">
+  <data key="d5">55</data>
+</edge>
+<edge source="15504" target="18871">
+  <data key="d5">10</data>
+</edge>
+<edge source="15504" target="18633">
+  <data key="d5">82</data>
+</edge>
+<edge source="15504" target="15307">
+  <data key="d5">37</data>
+</edge>
+<edge source="15504" target="15372">
+  <data key="d5">19</data>
+</edge>
+<edge source="15504" target="15442">
+  <data key="d5">91</data>
+</edge>
+<edge source="15504" target="18771">
+  <data key="d5">100</data>
+</edge>
+<edge source="15504" target="18772">
+  <data key="d5">46</data>
+</edge>
+<edge source="15504" target="15374">
+  <data key="d5">28</data>
+</edge>
+<edge source="15504" target="18889">
+  <data key="d5">16</data>
+</edge>
+<edge source="15504" target="15203">
+  <data key="d5">46</data>
+</edge>
+<edge source="15504" target="15204">
+  <data key="d5">10</data>
+</edge>
+<edge source="15504" target="15205">
+  <data key="d5">10</data>
+</edge>
+<edge source="15504" target="18663">
+  <data key="d5">145</data>
+</edge>
+<edge source="15504" target="18670">
+  <data key="d5">10</data>
+</edge>
+<edge source="15504" target="18801">
+  <data key="d5">10</data>
+</edge>
+<edge source="15504" target="18802">
+  <data key="d5">10</data>
+</edge>
+<edge source="15504" target="15348">
+  <data key="d5">37</data>
+</edge>
+<edge source="15504" target="18805">
+  <data key="d5">10</data>
+</edge>
+<edge source="15504" target="18938">
+  <data key="d5">64</data>
+</edge>
+<edge source="15381" target="18663">
+  <data key="d5">15</data>
+</edge>
+<edge source="15381" target="18860">
+  <data key="d5">3</data>
+</edge>
+<edge source="15381" target="18801">
+  <data key="d5">10</data>
+</edge>
+<edge source="15381" target="18802">
+  <data key="d5">12</data>
+</edge>
+<edge source="15381" target="15348">
+  <data key="d5">8</data>
+</edge>
+<edge source="15381" target="18805">
+  <data key="d5">15</data>
+</edge>
+<edge source="15381" target="15480">
+  <data key="d5">3</data>
+</edge>
+<edge source="18715" target="18971">
+  <data key="d5">7</data>
+</edge>
+<edge source="18715" target="18716">
+  <data key="d5">8</data>
+</edge>
+<edge source="18715" target="18854">
+  <data key="d5">7</data>
+</edge>
+<edge source="18715" target="8270">
+  <data key="d5">7</data>
+</edge>
+<edge source="18715" target="18871">
+  <data key="d5">2</data>
+</edge>
+<edge source="18715" target="18633">
+  <data key="d5">10</data>
+</edge>
+<edge source="18715" target="15307">
+  <data key="d5">5</data>
+</edge>
+<edge source="18715" target="15372">
+  <data key="d5">3</data>
+</edge>
+<edge source="18715" target="15442">
+  <data key="d5">11</data>
+</edge>
+<edge source="18715" target="18771">
+  <data key="d5">12</data>
+</edge>
+<edge source="18715" target="18772">
+  <data key="d5">6</data>
+</edge>
+<edge source="18715" target="15374">
+  <data key="d5">4</data>
+</edge>
+<edge source="18715" target="13456">
+  <data key="d5">6</data>
+</edge>
+<edge source="18715" target="18889">
+  <data key="d5">2</data>
+</edge>
+<edge source="18715" target="15203">
+  <data key="d5">6</data>
+</edge>
+<edge source="18715" target="15204">
+  <data key="d5">2</data>
+</edge>
+<edge source="18715" target="15205">
+  <data key="d5">2</data>
+</edge>
+<edge source="18715" target="18663">
+  <data key="d5">17</data>
+</edge>
+<edge source="18715" target="18670">
+  <data key="d5">2</data>
+</edge>
+<edge source="18715" target="18801">
+  <data key="d5">2</data>
+</edge>
+<edge source="18715" target="18802">
+  <data key="d5">2</data>
+</edge>
+<edge source="18715" target="15348">
+  <data key="d5">5</data>
+</edge>
+<edge source="18715" target="18805">
+  <data key="d5">2</data>
+</edge>
+<edge source="18715" target="18938">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="18971">
+  <data key="d5">43</data>
+</edge>
+<edge source="18716" target="18854">
+  <data key="d5">43</data>
+</edge>
+<edge source="18716" target="8270">
+  <data key="d5">43</data>
+</edge>
+<edge source="18716" target="18871">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="18633">
+  <data key="d5">64</data>
+</edge>
+<edge source="18716" target="15307">
+  <data key="d5">29</data>
+</edge>
+<edge source="18716" target="15372">
+  <data key="d5">15</data>
+</edge>
+<edge source="18716" target="15442">
+  <data key="d5">71</data>
+</edge>
+<edge source="18716" target="18771">
+  <data key="d5">78</data>
+</edge>
+<edge source="18716" target="18772">
+  <data key="d5">36</data>
+</edge>
+<edge source="18716" target="15374">
+  <data key="d5">22</data>
+</edge>
+<edge source="18716" target="13456">
+  <data key="d5">36</data>
+</edge>
+<edge source="18716" target="18889">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="15203">
+  <data key="d5">36</data>
+</edge>
+<edge source="18716" target="15204">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="15205">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="18663">
+  <data key="d5">113</data>
+</edge>
+<edge source="18716" target="18670">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="18801">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="18802">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="15348">
+  <data key="d5">29</data>
+</edge>
+<edge source="18716" target="18805">
+  <data key="d5">8</data>
+</edge>
+<edge source="18716" target="18938">
+  <data key="d5">50</data>
+</edge>
+<edge source="18971" target="18854">
+  <data key="d5">37</data>
+</edge>
+<edge source="18971" target="8270">
+  <data key="d5">37</data>
+</edge>
+<edge source="18971" target="18871">
+  <data key="d5">7</data>
+</edge>
+<edge source="18971" target="18633">
+  <data key="d5">55</data>
+</edge>
+<edge source="18971" target="15307">
+  <data key="d5">25</data>
+</edge>
+<edge source="18971" target="15372">
+  <data key="d5">13</data>
+</edge>
+<edge source="18971" target="15442">
+  <data key="d5">61</data>
+</edge>
+<edge source="18971" target="18771">
+  <data key="d5">67</data>
+</edge>
+<edge source="18971" target="18772">
+  <data key="d5">31</data>
+</edge>
+<edge source="18971" target="15374">
+  <data key="d5">19</data>
+</edge>
+<edge source="18971" target="13456">
+  <data key="d5">31</data>
+</edge>
+<edge source="18971" target="18889">
+  <data key="d5">7</data>
+</edge>
+<edge source="18971" target="15203">
+  <data key="d5">31</data>
+</edge>
+<edge source="18971" target="15204">
+  <data key="d5">7</data>
+</edge>
+<edge source="18971" target="15205">
+  <data key="d5">7</data>
+</edge>
+<edge source="18971" target="18663">
+  <data key="d5">97</data>
+</edge>
+<edge source="18971" target="18670">
+  <data key="d5">7</data>
+</edge>
+<edge source="18971" target="18801">
+  <data key="d5">7</data>
+</edge>
+<edge source="18971" target="18802">
+  <data key="d5">7</data>
+</edge>
+<edge source="18971" target="15348">
+  <data key="d5">25</data>
+</edge>
+<edge source="18971" target="18805">
+  <data key="d5">7</data>
+</edge>
+<edge source="18971" target="18938">
+  <data key="d5">45</data>
+</edge>
+<edge source="18854" target="8270">
+  <data key="d5">42</data>
+</edge>
+<edge source="18854" target="18871">
+  <data key="d5">7</data>
+</edge>
+<edge source="18854" target="18633">
+  <data key="d5">55</data>
+</edge>
+<edge source="18854" target="15307">
+  <data key="d5">25</data>
+</edge>
+<edge source="18854" target="15372">
+  <data key="d5">13</data>
+</edge>
+<edge source="18854" target="15442">
+  <data key="d5">61</data>
+</edge>
+<edge source="18854" target="18771">
+  <data key="d5">67</data>
+</edge>
+<edge source="18854" target="18772">
+  <data key="d5">31</data>
+</edge>
+<edge source="18854" target="15374">
+  <data key="d5">19</data>
+</edge>
+<edge source="18854" target="13456">
+  <data key="d5">31</data>
+</edge>
+<edge source="18854" target="18889">
+  <data key="d5">12</data>
+</edge>
+<edge source="18854" target="15203">
+  <data key="d5">36</data>
+</edge>
+<edge source="18854" target="15204">
+  <data key="d5">7</data>
+</edge>
+<edge source="18854" target="15205">
+  <data key="d5">12</data>
+</edge>
+<edge source="18854" target="18663">
+  <data key="d5">97</data>
+</edge>
+<edge source="18854" target="18670">
+  <data key="d5">7</data>
+</edge>
+<edge source="18854" target="18801">
+  <data key="d5">7</data>
+</edge>
+<edge source="18854" target="18802">
+  <data key="d5">7</data>
+</edge>
+<edge source="18854" target="15348">
+  <data key="d5">25</data>
+</edge>
+<edge source="18854" target="18805">
+  <data key="d5">7</data>
+</edge>
+<edge source="18854" target="18938">
+  <data key="d5">43</data>
+</edge>
+<edge source="8270" target="18871">
+  <data key="d5">11</data>
+</edge>
+<edge source="8270" target="18633">
+  <data key="d5">55</data>
+</edge>
+<edge source="8270" target="15307">
+  <data key="d5">25</data>
+</edge>
+<edge source="8270" target="15372">
+  <data key="d5">13</data>
+</edge>
+<edge source="8270" target="15442">
+  <data key="d5">67</data>
+</edge>
+<edge source="8270" target="18771">
+  <data key="d5">73</data>
+</edge>
+<edge source="8270" target="18772">
+  <data key="d5">31</data>
+</edge>
+<edge source="8270" target="15374">
+  <data key="d5">19</data>
+</edge>
+<edge source="8270" target="13456">
+  <data key="d5">31</data>
+</edge>
+<edge source="8270" target="18889">
+  <data key="d5">22</data>
+</edge>
+<edge source="8270" target="15203">
+  <data key="d5">32</data>
+</edge>
+<edge source="8270" target="15204">
+  <data key="d5">7</data>
+</edge>
+<edge source="8270" target="15205">
+  <data key="d5">8</data>
+</edge>
+<edge source="8270" target="18663">
+  <data key="d5">97</data>
+</edge>
+<edge source="8270" target="18670">
+  <data key="d5">7</data>
+</edge>
+<edge source="8270" target="18801">
+  <data key="d5">11</data>
+</edge>
+<edge source="8270" target="18802">
+  <data key="d5">11</data>
+</edge>
+<edge source="8270" target="15348">
+  <data key="d5">25</data>
+</edge>
+<edge source="8270" target="18805">
+  <data key="d5">9</data>
+</edge>
+<edge source="8270" target="18938">
+  <data key="d5">47</data>
+</edge>
+<edge source="18871" target="18889">
+  <data key="d5">16</data>
+</edge>
+<edge source="18871" target="18633">
+  <data key="d5">18</data>
+</edge>
+<edge source="18871" target="15307">
+  <data key="d5">5</data>
+</edge>
+<edge source="18871" target="15372">
+  <data key="d5">3</data>
+</edge>
+<edge source="18871" target="15442">
+  <data key="d5">19</data>
+</edge>
+<edge source="18871" target="18771">
+  <data key="d5">18</data>
+</edge>
+<edge source="18871" target="18772">
+  <data key="d5">13</data>
+</edge>
+<edge source="18871" target="15374">
+  <data key="d5">4</data>
+</edge>
+<edge source="18871" target="15446">
+  <data key="d5">5</data>
+</edge>
+<edge source="18871" target="15449">
+  <data key="d5">3</data>
+</edge>
+<edge source="18871" target="13456">
+  <data key="d5">6</data>
+</edge>
+<edge source="18871" target="15203">
+  <data key="d5">6</data>
+</edge>
+<edge source="18871" target="15204">
+  <data key="d5">2</data>
+</edge>
+<edge source="18871" target="15205">
+  <data key="d5">6</data>
+</edge>
+<edge source="18871" target="18663">
+  <data key="d5">17</data>
+</edge>
+<edge source="18871" target="18670">
+  <data key="d5">2</data>
+</edge>
+<edge source="18871" target="18801">
+  <data key="d5">6</data>
+</edge>
+<edge source="18871" target="18802">
+  <data key="d5">6</data>
+</edge>
+<edge source="18871" target="15348">
+  <data key="d5">6</data>
+</edge>
+<edge source="18871" target="18805">
+  <data key="d5">4</data>
+</edge>
+<edge source="18871" target="18938">
+  <data key="d5">32</data>
+</edge>
+<edge source="15290" target="15204">
+  <data key="d5">2</data>
+</edge>
+<edge source="15429" target="15203">
+  <data key="d5">22</data>
+</edge>
+<edge source="15429" target="15204">
+  <data key="d5">8</data>
+</edge>
+<edge source="15429" target="15205">
+  <data key="d5">22</data>
+</edge>
+<edge source="15429" target="15462">
+  <data key="d5">45</data>
+</edge>
+<edge source="15429" target="18633">
+  <data key="d5">29</data>
+</edge>
+<edge source="15429" target="15374">
+  <data key="d5">36</data>
+</edge>
+<edge source="15429" target="15348">
+  <data key="d5">43</data>
+</edge>
+<edge source="15429" target="15481">
+  <data key="d5">41</data>
+</edge>
+<edge source="15429" target="15480">
+  <data key="d5">41</data>
+</edge>
+<edge source="15429" target="15444">
+  <data key="d5">85</data>
+</edge>
+<edge source="18633" target="15372">
+  <data key="d5">19</data>
+</edge>
+<edge source="18633" target="15307">
+  <data key="d5">37</data>
+</edge>
+<edge source="18633" target="15442">
+  <data key="d5">91</data>
+</edge>
+<edge source="18633" target="18771">
+  <data key="d5">100</data>
+</edge>
+<edge source="18633" target="18772">
+  <data key="d5">46</data>
+</edge>
+<edge source="18633" target="15374">
+  <data key="d5">48</data>
+</edge>
+<edge source="18633" target="13456">
+  <data key="d5">46</data>
+</edge>
+<edge source="18633" target="18889">
+  <data key="d5">10</data>
+</edge>
+<edge source="18633" target="15203">
+  <data key="d5">58</data>
+</edge>
+<edge source="18633" target="15204">
+  <data key="d5">14</data>
+</edge>
+<edge source="18633" target="15205">
+  <data key="d5">22</data>
+</edge>
+<edge source="18633" target="18663">
+  <data key="d5">145</data>
+</edge>
+<edge source="18633" target="18670">
+  <data key="d5">10</data>
+</edge>
+<edge source="18633" target="18801">
+  <data key="d5">10</data>
+</edge>
+<edge source="18633" target="18802">
+  <data key="d5">10</data>
+</edge>
+<edge source="18633" target="15348">
+  <data key="d5">61</data>
+</edge>
+<edge source="18633" target="18805">
+  <data key="d5">10</data>
+</edge>
+<edge source="18633" target="15444">
+  <data key="d5">49</data>
+</edge>
+<edge source="18633" target="18938">
+  <data key="d5">64</data>
+</edge>
+<edge source="15307" target="15372">
+  <data key="d5">9</data>
+</edge>
+<edge source="15307" target="15442">
+  <data key="d5">41</data>
+</edge>
+<edge source="15307" target="18771">
+  <data key="d5">45</data>
+</edge>
+<edge source="15307" target="18772">
+  <data key="d5">21</data>
+</edge>
+<edge source="15307" target="15374">
+  <data key="d5">13</data>
+</edge>
+<edge source="15307" target="13456">
+  <data key="d5">21</data>
+</edge>
+<edge source="15307" target="18889">
+  <data key="d5">5</data>
+</edge>
+<edge source="15307" target="15203">
+  <data key="d5">21</data>
+</edge>
+<edge source="15307" target="15204">
+  <data key="d5">5</data>
+</edge>
+<edge source="15307" target="15205">
+  <data key="d5">5</data>
+</edge>
+<edge source="15307" target="18663">
+  <data key="d5">65</data>
+</edge>
+<edge source="15307" target="18670">
+  <data key="d5">5</data>
+</edge>
+<edge source="15307" target="18801">
+  <data key="d5">5</data>
+</edge>
+<edge source="15307" target="18802">
+  <data key="d5">5</data>
+</edge>
+<edge source="15307" target="15348">
+  <data key="d5">17</data>
+</edge>
+<edge source="15307" target="18805">
+  <data key="d5">5</data>
+</edge>
+<edge source="15307" target="18938">
+  <data key="d5">29</data>
+</edge>
+<edge source="15372" target="15442">
+  <data key="d5">21</data>
+</edge>
+<edge source="15372" target="18771">
+  <data key="d5">23</data>
+</edge>
+<edge source="15372" target="18772">
+  <data key="d5">11</data>
+</edge>
+<edge source="15372" target="15374">
+  <data key="d5">7</data>
+</edge>
+<edge source="15372" target="13456">
+  <data key="d5">11</data>
+</edge>
+<edge source="15372" target="18889">
+  <data key="d5">3</data>
+</edge>
+<edge source="15372" target="15203">
+  <data key="d5">11</data>
+</edge>
+<edge source="15372" target="15204">
+  <data key="d5">3</data>
+</edge>
+<edge source="15372" target="15205">
+  <data key="d5">3</data>
+</edge>
+<edge source="15372" target="18663">
+  <data key="d5">33</data>
+</edge>
+<edge source="15372" target="18670">
+  <data key="d5">3</data>
+</edge>
+<edge source="15372" target="18801">
+  <data key="d5">3</data>
+</edge>
+<edge source="15372" target="18802">
+  <data key="d5">3</data>
+</edge>
+<edge source="15372" target="15348">
+  <data key="d5">9</data>
+</edge>
+<edge source="15372" target="18805">
+  <data key="d5">3</data>
+</edge>
+<edge source="15372" target="18938">
+  <data key="d5">15</data>
+</edge>
+<edge source="15442" target="18771">
+  <data key="d5">120</data>
+</edge>
+<edge source="15442" target="18772">
+  <data key="d5">65</data>
+</edge>
+<edge source="15442" target="15374">
+  <data key="d5">31</data>
+</edge>
+<edge source="15442" target="15446">
+  <data key="d5">9</data>
+</edge>
+<edge source="15442" target="15449">
+  <data key="d5">5</data>
+</edge>
+<edge source="15442" target="13456">
+  <data key="d5">51</data>
+</edge>
+<edge source="15442" target="18889">
+  <data key="d5">32</data>
+</edge>
+<edge source="15442" target="15203">
+  <data key="d5">51</data>
+</edge>
+<edge source="15442" target="15204">
+  <data key="d5">11</data>
+</edge>
+<edge source="15442" target="15205">
+  <data key="d5">19</data>
+</edge>
+<edge source="15442" target="18663">
+  <data key="d5">161</data>
+</edge>
+<edge source="15442" target="18670">
+  <data key="d5">11</data>
+</edge>
+<edge source="15442" target="18801">
+  <data key="d5">17</data>
+</edge>
+<edge source="15442" target="18802">
+  <data key="d5">17</data>
+</edge>
+<edge source="15442" target="15348">
+  <data key="d5">43</data>
+</edge>
+<edge source="15442" target="18805">
+  <data key="d5">14</data>
+</edge>
+<edge source="15442" target="18938">
+  <data key="d5">77</data>
+</edge>
+<edge source="18771" target="18772">
+  <data key="d5">56</data>
+</edge>
+<edge source="18771" target="15374">
+  <data key="d5">34</data>
+</edge>
+<edge source="18771" target="13456">
+  <data key="d5">56</data>
+</edge>
+<edge source="18771" target="18889">
+  <data key="d5">33</data>
+</edge>
+<edge source="18771" target="15203">
+  <data key="d5">56</data>
+</edge>
+<edge source="18771" target="15204">
+  <data key="d5">12</data>
+</edge>
+<edge source="18771" target="15205">
+  <data key="d5">12</data>
+</edge>
+<edge source="18771" target="18663">
+  <data key="d5">177</data>
+</edge>
+<edge source="18771" target="18670">
+  <data key="d5">12</data>
+</edge>
+<edge source="18771" target="18801">
+  <data key="d5">18</data>
+</edge>
+<edge source="18771" target="18802">
+  <data key="d5">18</data>
+</edge>
+<edge source="18771" target="15348">
+  <data key="d5">45</data>
+</edge>
+<edge source="18771" target="18805">
+  <data key="d5">15</data>
+</edge>
+<edge source="18771" target="18938">
+  <data key="d5">84</data>
+</edge>
+<edge source="18772" target="15374">
+  <data key="d5">16</data>
+</edge>
+<edge source="18772" target="15446">
+  <data key="d5">29</data>
+</edge>
+<edge source="18772" target="15449">
+  <data key="d5">15</data>
+</edge>
+<edge source="18772" target="13456">
+  <data key="d5">26</data>
+</edge>
+<edge source="18772" target="18889">
+  <data key="d5">6</data>
+</edge>
+<edge source="18772" target="15203">
+  <data key="d5">26</data>
+</edge>
+<edge source="18772" target="15204">
+  <data key="d5">6</data>
+</edge>
+<edge source="18772" target="15205">
+  <data key="d5">34</data>
+</edge>
+<edge source="18772" target="18663">
+  <data key="d5">81</data>
+</edge>
+<edge source="18772" target="18670">
+  <data key="d5">6</data>
+</edge>
+<edge source="18772" target="18801">
+  <data key="d5">6</data>
+</edge>
+<edge source="18772" target="18802">
+  <data key="d5">6</data>
+</edge>
+<edge source="18772" target="15348">
+  <data key="d5">28</data>
+</edge>
+<edge source="18772" target="18805">
+  <data key="d5">6</data>
+</edge>
+<edge source="18772" target="18938">
+  <data key="d5">36</data>
+</edge>
+<edge source="15374" target="13456">
+  <data key="d5">16</data>
+</edge>
+<edge source="15374" target="18889">
+  <data key="d5">4</data>
+</edge>
+<edge source="15374" target="15203">
+  <data key="d5">31</data>
+</edge>
+<edge source="15374" target="15204">
+  <data key="d5">9</data>
+</edge>
+<edge source="15374" target="15205">
+  <data key="d5">19</data>
+</edge>
+<edge source="15374" target="18663">
+  <data key="d5">49</data>
+</edge>
+<edge source="15374" target="18670">
+  <data key="d5">4</data>
+</edge>
+<edge source="15374" target="18801">
+  <data key="d5">4</data>
+</edge>
+<edge source="15374" target="18802">
+  <data key="d5">4</data>
+</edge>
+<edge source="15374" target="15348">
+  <data key="d5">43</data>
+</edge>
+<edge source="15374" target="18805">
+  <data key="d5">4</data>
+</edge>
+<edge source="15374" target="15444">
+  <data key="d5">61</data>
+</edge>
+<edge source="15374" target="18938">
+  <data key="d5">22</data>
+</edge>
+<edge source="15446" target="15205">
+  <data key="d5">17</data>
+</edge>
+<edge source="15446" target="15348">
+  <data key="d5">5</data>
+</edge>
+<edge source="15446" target="15449">
+  <data key="d5">9</data>
+</edge>
+<edge source="15481" target="15480">
+  <data key="d5">91</data>
+</edge>
+<edge source="15481" target="15462">
+  <data key="d5">100</data>
+</edge>
+<edge source="15449" target="15205">
+  <data key="d5">9</data>
+</edge>
+<edge source="15449" target="15348">
+  <data key="d5">3</data>
+</edge>
+<edge source="13456" target="18889">
+  <data key="d5">6</data>
+</edge>
+<edge source="13456" target="15203">
+  <data key="d5">26</data>
+</edge>
+<edge source="13456" target="15204">
+  <data key="d5">6</data>
+</edge>
+<edge source="13456" target="15205">
+  <data key="d5">6</data>
+</edge>
+<edge source="13456" target="18663">
+  <data key="d5">81</data>
+</edge>
+<edge source="13456" target="18670">
+  <data key="d5">6</data>
+</edge>
+<edge source="13456" target="18801">
+  <data key="d5">6</data>
+</edge>
+<edge source="13456" target="18802">
+  <data key="d5">6</data>
+</edge>
+<edge source="13456" target="15348">
+  <data key="d5">21</data>
+</edge>
+<edge source="13456" target="18805">
+  <data key="d5">6</data>
+</edge>
+<edge source="13456" target="18938">
+  <data key="d5">36</data>
+</edge>
+<edge source="18889" target="15203">
+  <data key="d5">7</data>
+</edge>
+<edge source="18889" target="15204">
+  <data key="d5">2</data>
+</edge>
+<edge source="18889" target="15205">
+  <data key="d5">3</data>
+</edge>
+<edge source="18889" target="18663">
+  <data key="d5">17</data>
+</edge>
+<edge source="18889" target="18670">
+  <data key="d5">2</data>
+</edge>
+<edge source="18889" target="18801">
+  <data key="d5">16</data>
+</edge>
+<edge source="18889" target="18802">
+  <data key="d5">16</data>
+</edge>
+<edge source="18889" target="15348">
+  <data key="d5">5</data>
+</edge>
+<edge source="18889" target="18805">
+  <data key="d5">9</data>
+</edge>
+<edge source="18889" target="18938">
+  <data key="d5">22</data>
+</edge>
+<edge source="15203" target="15204">
+  <data key="d5">9</data>
+</edge>
+<edge source="15203" target="15205">
+  <data key="d5">16</data>
+</edge>
+<edge source="15203" target="18663">
+  <data key="d5">81</data>
+</edge>
+<edge source="15203" target="18670">
+  <data key="d5">6</data>
+</edge>
+<edge source="15203" target="18801">
+  <data key="d5">6</data>
+</edge>
+<edge source="15203" target="18802">
+  <data key="d5">6</data>
+</edge>
+<edge source="15203" target="15348">
+  <data key="d5">39</data>
+</edge>
+<edge source="15203" target="18805">
+  <data key="d5">6</data>
+</edge>
+<edge source="15203" target="15444">
+  <data key="d5">39</data>
+</edge>
+<edge source="15203" target="18938">
+  <data key="d5">36</data>
+</edge>
+<edge source="15204" target="15205">
+  <data key="d5">6</data>
+</edge>
+<edge source="15204" target="18663">
+  <data key="d5">17</data>
+</edge>
+<edge source="15204" target="18670">
+  <data key="d5">2</data>
+</edge>
+<edge source="15204" target="18801">
+  <data key="d5">2</data>
+</edge>
+<edge source="15204" target="18802">
+  <data key="d5">2</data>
+</edge>
+<edge source="15204" target="15348">
+  <data key="d5">11</data>
+</edge>
+<edge source="15204" target="18805">
+  <data key="d5">2</data>
+</edge>
+<edge source="15204" target="15444">
+  <data key="d5">16</data>
+</edge>
+<edge source="15204" target="18938">
+  <data key="d5">8</data>
+</edge>
+<edge source="15205" target="18663">
+  <data key="d5">17</data>
+</edge>
+<edge source="15205" target="18670">
+  <data key="d5">2</data>
+</edge>
+<edge source="15205" target="18801">
+  <data key="d5">2</data>
+</edge>
+<edge source="15205" target="18802">
+  <data key="d5">2</data>
+</edge>
+<edge source="15205" target="15348">
+  <data key="d5">27</data>
+</edge>
+<edge source="15205" target="18805">
+  <data key="d5">2</data>
+</edge>
+<edge source="15205" target="15444">
+  <data key="d5">40</data>
+</edge>
+<edge source="15205" target="18938">
+  <data key="d5">8</data>
+</edge>
+<edge source="15462" target="15480">
+  <data key="d5">111</data>
+</edge>
+<edge source="18663" target="18670">
+  <data key="d5">17</data>
+</edge>
+<edge source="18663" target="18801">
+  <data key="d5">19</data>
+</edge>
+<edge source="18663" target="18802">
+  <data key="d5">19</data>
+</edge>
+<edge source="18663" target="15348">
+  <data key="d5">67</data>
+</edge>
+<edge source="18663" target="18805">
+  <data key="d5">21</data>
+</edge>
+<edge source="18663" target="18938">
+  <data key="d5">113</data>
+</edge>
+<edge source="18670" target="18801">
+  <data key="d5">2</data>
+</edge>
+<edge source="18670" target="18802">
+  <data key="d5">2</data>
+</edge>
+<edge source="18670" target="15348">
+  <data key="d5">5</data>
+</edge>
+<edge source="18670" target="18805">
+  <data key="d5">2</data>
+</edge>
+<edge source="18670" target="18938">
+  <data key="d5">8</data>
+</edge>
+<edge source="18801" target="18802">
+  <data key="d5">9</data>
+</edge>
+<edge source="18801" target="15348">
+  <data key="d5">6</data>
+</edge>
+<edge source="18801" target="18805">
+  <data key="d5">6</data>
+</edge>
+<edge source="18801" target="15480">
+  <data key="d5">2</data>
+</edge>
+<edge source="18801" target="18938">
+  <data key="d5">12</data>
+</edge>
+<edge source="18801" target="18860">
+  <data key="d5">2</data>
+</edge>
+<edge source="18802" target="15348">
+  <data key="d5">6</data>
+</edge>
+<edge source="18802" target="18805">
+  <data key="d5">6</data>
+</edge>
+<edge source="18802" target="15480">
+  <data key="d5">3</data>
+</edge>
+<edge source="18802" target="18938">
+  <data key="d5">12</data>
+</edge>
+<edge source="18802" target="18860">
+  <data key="d5">3</data>
+</edge>
+<edge source="15348" target="18805">
+  <data key="d5">7</data>
+</edge>
+<edge source="15348" target="15444">
+  <data key="d5">73</data>
+</edge>
+<edge source="15348" target="18938">
+  <data key="d5">29</data>
+</edge>
+<edge source="18805" target="18938">
+  <data key="d5">10</data>
+</edge>
+<edge source="15480" target="18860">
+  <data key="d5">2</data>
+</edge>
+</graph></graphml>

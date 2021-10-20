@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="A1"/>
+<node id="F1"/>
+<node id="G1"/>
+<node id="A2"/>
+<node id="H1"/>
+<node id="B4"/>
+<node id="D3"/>
+<node id="I1"/>
+<node id="E1"/>
+<node id="L1"/>
+<node id="G2"/>
+<node id="B1"/>
+<node id="D1"/>
+<node id="C2"/>
+<node id="J1"/>
+<node id="F2"/>
+<node id="K1"/>
+<node id="I"/>
+<edge source="A1" target="F1">
+  <data key="d0">1</data>
+</edge>
+<edge source="A1" target="I1">
+  <data key="d0">12</data>
+</edge>
+<edge source="A1" target="E1">
+  <data key="d0">2</data>
+</edge>
+<edge source="A1" target="A2">
+  <data key="d0">4</data>
+</edge>
+<edge source="A1" target="H1">
+  <data key="d0">13</data>
+</edge>
+<edge source="A1" target="L1">
+  <data key="d0">2</data>
+</edge>
+<edge source="A1" target="D3">
+  <data key="d0">3</data>
+</edge>
+<edge source="A1" target="G2">
+  <data key="d0">1</data>
+</edge>
+<edge source="A1" target="B1">
+  <data key="d0">3</data>
+</edge>
+<edge source="A1" target="C2">
+  <data key="d0">5</data>
+</edge>
+<edge source="A1" target="K1">
+  <data key="d0">2</data>
+</edge>
+<edge source="F1" target="G1">
+  <data key="d0">5</data>
+</edge>
+<edge source="F1" target="A2">
+  <data key="d0">6</data>
+</edge>
+<edge source="F1" target="H1">
+  <data key="d0">9</data>
+</edge>
+<edge source="F1" target="B4">
+  <data key="d0">23</data>
+</edge>
+<edge source="F1" target="D3">
+  <data key="d0">3</data>
+</edge>
+<edge source="F1" target="E1">
+  <data key="d0">1</data>
+</edge>
+<edge source="F1" target="B1">
+  <data key="d0">1</data>
+</edge>
+<edge source="G1" target="B1">
+  <data key="d0">3</data>
+</edge>
+<edge source="G1" target="H1">
+  <data key="d0">1</data>
+</edge>
+<edge source="G1" target="B4">
+  <data key="d0">1</data>
+</edge>
+<edge source="G1" target="D3">
+  <data key="d0">2</data>
+</edge>
+<edge source="G1" target="G2">
+  <data key="d0">3</data>
+</edge>
+<edge source="G1" target="D1">
+  <data key="d0">1</data>
+</edge>
+<edge source="G1" target="A2">
+  <data key="d0">2</data>
+</edge>
+<edge source="G1" target="C2">
+  <data key="d0">2</data>
+</edge>
+<edge source="A2" target="D1">
+  <data key="d0">5</data>
+</edge>
+<edge source="A2" target="I1">
+  <data key="d0">4</data>
+</edge>
+<edge source="A2" target="B1">
+  <data key="d0">1</data>
+</edge>
+<edge source="A2" target="H1">
+  <data key="d0">6</data>
+</edge>
+<edge source="A2" target="B4">
+  <data key="d0">2</data>
+</edge>
+<edge source="A2" target="C2">
+  <data key="d0">2</data>
+</edge>
+<edge source="A2" target="J1">
+  <data key="d0">3</data>
+</edge>
+<edge source="A2" target="K1">
+  <data key="d0">3</data>
+</edge>
+<edge source="A2" target="L1">
+  <data key="d0">1</data>
+</edge>
+<edge source="A2" target="F2">
+  <data key="d0">1</data>
+</edge>
+<edge source="H1" target="D1">
+  <data key="d0">2</data>
+</edge>
+<edge source="H1" target="B1">
+  <data key="d0">4</data>
+</edge>
+<edge source="H1" target="I1">
+  <data key="d0">3</data>
+</edge>
+<edge source="H1" target="C2">
+  <data key="d0">10</data>
+</edge>
+<edge source="H1" target="D3">
+  <data key="d0">5</data>
+</edge>
+<edge source="H1" target="B4">
+  <data key="d0">2</data>
+</edge>
+<edge source="H1" target="I">
+  <data key="d0">3</data>
+</edge>
+<edge source="H1" target="J1">
+  <data key="d0">5</data>
+</edge>
+<edge source="H1" target="K1">
+  <data key="d0">4</data>
+</edge>
+<edge source="H1" target="F2">
+  <data key="d0">1</data>
+</edge>
+<edge source="H1" target="L1">
+  <data key="d0">3</data>
+</edge>
+<edge source="B4" target="D1">
+  <data key="d0">2</data>
+</edge>
+<edge source="B4" target="I1">
+  <data key="d0">1</data>
+</edge>
+<edge source="B4" target="B1">
+  <data key="d0">2</data>
+</edge>
+<edge source="B4" target="C2">
+  <data key="d0">2</data>
+</edge>
+<edge source="B4" target="I">
+  <data key="d0">2</data>
+</edge>
+<edge source="B4" target="J1">
+  <data key="d0">5</data>
+</edge>
+<edge source="B4" target="K1">
+  <data key="d0">7</data>
+</edge>
+<edge source="B4" target="F2">
+  <data key="d0">5</data>
+</edge>
+<edge source="B4" target="G2">
+  <data key="d0">2</data>
+</edge>
+<edge source="D3" target="E1">
+  <data key="d0">11</data>
+</edge>
+<edge source="D3" target="C2">
+  <data key="d0">4</data>
+</edge>
+<edge source="D3" target="J1">
+  <data key="d0">1</data>
+</edge>
+<edge source="D3" target="K1">
+  <data key="d0">5</data>
+</edge>
+<edge source="D3" target="F2">
+  <data key="d0">5</data>
+</edge>
+<edge source="D3" target="L1">
+  <data key="d0">3</data>
+</edge>
+<edge source="D3" target="D1">
+  <data key="d0">1</data>
+</edge>
+<edge source="D3" target="I1">
+  <data key="d0">3</data>
+</edge>
+<edge source="D3" target="B1">
+  <data key="d0">1</data>
+</edge>
+<edge source="D3" target="G2">
+  <data key="d0">3</data>
+</edge>
+<edge source="I1" target="D1">
+  <data key="d0">4</data>
+</edge>
+<edge source="I1" target="E1">
+  <data key="d0">7</data>
+</edge>
+<edge source="I1" target="B1">
+  <data key="d0">1</data>
+</edge>
+<edge source="I1" target="J1">
+  <data key="d0">2</data>
+</edge>
+<edge source="I1" target="F2">
+  <data key="d0">4</data>
+</edge>
+<edge source="I1" target="L1">
+  <data key="d0">1</data>
+</edge>
+<edge source="I1" target="G2">
+  <data key="d0">3</data>
+</edge>
+<edge source="I1" target="K1">
+  <data key="d0">3</data>
+</edge>
+<edge source="E1" target="D1">
+  <data key="d0">1</data>
+</edge>
+<edge source="E1" target="L1">
+  <data key="d0">2</data>
+</edge>
+<edge source="E1" target="C2">
+  <data key="d0">1</data>
+</edge>
+<edge source="E1" target="K1">
+  <data key="d0">1</data>
+</edge>
+<edge source="E1" target="F2">
+  <data key="d0">2</data>
+</edge>
+<edge source="L1" target="D1">
+  <data key="d0">1</data>
+</edge>
+<edge source="L1" target="B1">
+  <data key="d0">1</data>
+</edge>
+<edge source="L1" target="C2">
+  <data key="d0">4</data>
+</edge>
+<edge source="L1" target="F2">
+  <data key="d0">3</data>
+</edge>
+<edge source="L1" target="I">
+  <data key="d0">1</data>
+</edge>
+<edge source="L1" target="K1">
+  <data key="d0">4</data>
+</edge>
+<edge source="L1" target="G2">
+  <data key="d0">1</data>
+</edge>
+<edge source="G2" target="I">
+  <data key="d0">2</data>
+</edge>
+<edge source="B1" target="C2">
+  <data key="d0">2</data>
+</edge>
+<edge source="B1" target="J1">
+  <data key="d0">13</data>
+</edge>
+<edge source="B1" target="F2">
+  <data key="d0">2</data>
+</edge>
+<edge source="B1" target="I">
+  <data key="d0">1</data>
+</edge>
+<edge source="D1" target="C2">
+  <data key="d0">25</data>
+</edge>
+<edge source="C2" target="K1">
+  <data key="d0">3</data>
+</edge>
+<edge source="J1" target="I">
+  <data key="d0">1</data>
+</edge>
+<edge source="J1" target="K1">
+  <data key="d0">2</data>
+</edge>
+<edge source="J1" target="F2">
+  <data key="d0">3</data>
+</edge>
+<edge source="K1" target="I">
+  <data key="d0">25</data>
+</edge>
+</graph></graphml>

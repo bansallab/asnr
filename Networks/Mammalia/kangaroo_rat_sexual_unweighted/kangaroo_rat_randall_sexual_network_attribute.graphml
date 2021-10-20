@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="double" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="C">
+  <data key="d0">MALE</data>
+</node>
+<node id="1F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="2F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="E">
+  <data key="d0">MALE</data>
+</node>
+<node id="3F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="F">
+  <data key="d0">MALE</data>
+</node>
+<node id="4F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="5F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="G">
+  <data key="d0">MALE</data>
+</node>
+<node id="8F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="9F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="H">
+  <data key="d0">MALE</data>
+</node>
+<node id="I">
+  <data key="d0">MALE</data>
+</node>
+<node id="J">
+  <data key="d0">MALE</data>
+</node>
+<node id="7F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="M">
+  <data key="d0">MALE</data>
+</node>
+<node id="6F">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="N">
+  <data key="d0">MALE</data>
+</node>
+<node id="O">
+  <data key="d0">MALE</data>
+</node>
+<edge source="C" target="1F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="C" target="2F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="E" target="3F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="F" target="4F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="F" target="5F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="G" target="8F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="G" target="9F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="8F" target="H">
+  <data key="d1">nan</data>
+</edge>
+<edge source="8F" target="I">
+  <data key="d1">nan</data>
+</edge>
+<edge source="J" target="7F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="M" target="6F">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6F" target="N">
+  <data key="d1">nan</data>
+</edge>
+<edge source="6F" target="O">
+  <data key="d1">nan</data>
+</edge>
+</graph></graphml>

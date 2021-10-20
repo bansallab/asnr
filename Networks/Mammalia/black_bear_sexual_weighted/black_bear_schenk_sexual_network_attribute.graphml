@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d4" for="node" attr.name="Year cubs born" attr.type="double"/>
+<key id="d3" for="node" attr.name="Year cubs born" attr.type="string"/>
+<key id="d2" for="node" attr.name="Cub ID" attr.type="string"/>
+<key id="d1" for="node" attr.name="Family group" attr.type="string"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="1M">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+</node>
+<node id="27F">
+  <data key="d0">FEMALE</data>
+  <data key="d1">2</data>
+  <data key="d2">568, 569</data>
+  <data key="d4">1992.0</data>
+</node>
+<node id="54M">
+  <data key="d0">MALE</data>
+  <data key="d1">3, 4</data>
+  <data key="d2">563, 564, 557</data>
+  <data key="d4">1992.0</data>
+</node>
+<node id="33F">
+  <data key="d0">FEMALE</data>
+  <data key="d1">3</data>
+  <data key="d2">563, 564</data>
+  <data key="d4">1992.0</data>
+</node>
+<node id="8M">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+</node>
+<node id="72F">
+  <data key="d0">FEMALE</data>
+  <data key="d1">4</data>
+  <data key="d2">557, 558, 559</data>
+  <data key="d4">1992.0</data>
+</node>
+<node id="0M">
+  <data key="d0">MALE</data>
+  <data key="d1"> </data>
+  <data key="d2"> </data>
+  <data key="d3"> </data>
+</node>
+<edge source="1M" target="27F">
+  <data key="d5">1</data>
+</edge>
+<edge source="54M" target="33F">
+  <data key="d5">1</data>
+</edge>
+<edge source="54M" target="72F">
+  <data key="d5">1</data>
+</edge>
+<edge source="8M" target="72F">
+  <data key="d5">3</data>
+</edge>
+<edge source="72F" target="0M">
+  <data key="d5">1</data>
+</edge>
+</graph></graphml>

@@ -1,28 +1,30 @@
 network attribute|value
 ---|---
-total nodes|n/a
-total edges|n/a
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/thornbills_farine.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+total nodes|62
+total edges|1151
 network density|0.609
-average degree|37.129
-degree heterogeneity|0.331
-degree assortativity|-0.052
-average betweenness centrality (unweighted)|0.007
+average degree|n/a
+degree heterogeneity|n/a
+degree assortativity|n/a
+average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.781
 average clustering coefficient (weighted)|0.079
-Newman modularity|0.078
-maximum modularity|0.697
-relative modularity|0.112
-group cohesion|0.381
+Newman modularity|0.089
+maximum modularity|0.613
+relative modularity|0.145
+group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
+Attributes Available|not available
 Species|*Acanthiza N/A*
 Taxonomic class|Aves
 Population type|free-ranging
 Geographical location|Canberra, Australia
 Data collection technique|survey scan
 Interaction type|group membership
-Definition of interaction|Flock membership was identified based on frequent interactions between (such as ‘beating’ for insects) flocks and large gaps between flocks. Association strength of each dyad was calculated using the simple ratio index.
+Definition of interaction|Flock membership was identified based on frequent interactions between (such as _beating¬ê for insects) flocks and large gaps between flocks. Association strength of each dyad was calculated using the simple ratio index.
 Edge weight type|frequency
 Total duration of data collection|2 months
 Time resolution of data collection (within a day)|

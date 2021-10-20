@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="SEX" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="1M">
+  <data key="d0">MALE</data>
+</node>
+<node id="A">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="3M">
+  <data key="d0">MALE</data>
+</node>
+<node id="B">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="7M">
+  <data key="d0">MALE</data>
+</node>
+<node id="8M">
+  <data key="d0">MALE</data>
+</node>
+<node id="C">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="16M">
+  <data key="d0">MALE</data>
+</node>
+<node id="E">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="11M">
+  <data key="d0">MALE</data>
+</node>
+<node id="F">
+  <data key="d0">FEMALE</data>
+</node>
+<edge source="1M" target="A">
+  <data key="d1">1</data>
+</edge>
+<edge source="3M" target="B">
+  <data key="d1">1</data>
+</edge>
+<edge source="3M" target="D">
+  <data key="d1">1</data>
+</edge>
+<edge source="B" target="7M">
+  <data key="d1">1</data>
+</edge>
+<edge source="8M" target="C">
+  <data key="d1">1</data>
+</edge>
+<edge source="16M" target="E">
+  <data key="d1">1</data>
+</edge>
+<edge source="11M" target="F">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>

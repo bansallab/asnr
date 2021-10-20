@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d10" for="node" attr.name="male dominance index" attr.type="string"/>
+<key id="d9" for="node" attr.name="male rank in group" attr.type="string"/>
+<key id="d8" for="node" attr.name="no. copulations" attr.type="long"/>
+<key id="d7" for="node" attr.name="male dominance index" attr.type="double"/>
+<key id="d6" for="node" attr.name="male rank in group" attr.type="double"/>
+<key id="d5" for="node" attr.name="total focal hours (5 sampling periods)" attr.type="long"/>
+<key id="d4" for="node" attr.name="focal hours per sampling period" attr.type="long"/>
+<key id="d3" for="node" attr.name="group" attr.type="string"/>
+<key id="d2" for="node" attr.name="age class" attr.type="string"/>
+<key id="d1" for="node" attr.name="season" attr.type="string"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="marley">
+  <data key="d0">MALE</data>
+  <data key="d1">spring1</data>
+  <data key="d2">adult</data>
+  <data key="d3">G</data>
+  <data key="d4">70</data>
+  <data key="d5">350</data>
+  <data key="d6">1.0</data>
+  <data key="d7">0.71</data>
+  <data key="d8">8</data>
+</node>
+<node id="orejas">
+  <data key="d0">FEMALE</data>
+  <data key="d1">spring1</data>
+  <data key="d2">adult</data>
+  <data key="d3">G</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d8">6</data>
+</node>
+<node id="tamara">
+  <data key="d0">FEMALE</data>
+  <data key="d1">spring1</data>
+  <data key="d2">adult</data>
+  <data key="d3">G</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d9"> </data>
+  <data key="d10"> </data>
+  <data key="d8">5</data>
+</node>
+<node id="quique">
+  <data key="d0">MALE</data>
+  <data key="d1">spring1</data>
+  <data key="d2">adult</data>
+  <data key="d3">G</data>
+  <data key="d4">70</data>
+  <data key="d5">350</data>
+  <data key="d6">3.0</data>
+  <data key="d7">0.43</data>
+  <data key="d8">2</data>
+</node>
+<edge source="marley" target="orejas">
+  <data key="d11">1</data>
+</edge>
+<edge source="marley" target="tamara">
+  <data key="d11">2</data>
+</edge>
+<edge source="tamara" target="quique">
+  <data key="d11">2</data>
+</edge>
+</graph></graphml>

@@ -1,21 +1,23 @@
 network attribute|value
 ---|---
-total nodes|n/a
-total edges|n/a
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/songbird_adelman.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+total nodes|117
+total edges|1027
 network density|0.151
-average degree|17.556
-degree heterogeneity|0.746
-degree assortativity|0.0
-average betweenness centrality (unweighted)|0.009
+average degree|n/a
+degree heterogeneity|n/a
+degree assortativity|n/a
+average betweenness centrality (unweighted)|n/a
 average betweenness centrality (weighted)|n/a
 average clustering coefficient (unweighted)|0.604
 average clustering coefficient (weighted)|0.025
 Newman modularity|0.394
-maximum modularity|0.659
-relative modularity|0.598
-group cohesion|0.734
+maximum modularity|0.66
+relative modularity|0.597
+group cohesion|n/a
 network diameter|n/a
 **Study description**|**value**
+Attributes Available|sex, feeders vsited per day, feeding bouts per day, number of captures, relative dominance, time on feeders per day
 Species|*Haemorhous mexicanus*
 Taxonomic class|Aves
 Population type|free-ranging

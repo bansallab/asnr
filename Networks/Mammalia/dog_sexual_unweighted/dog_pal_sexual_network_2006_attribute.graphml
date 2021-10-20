@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="No. of courting males (young adult)" attr.type="string"/>
+<key id="d4" for="node" attr.name="No. of courting males (old adult)" attr.type="string"/>
+<key id="d3" for="node" attr.name="No. of courting associations" attr.type="string"/>
+<key id="d2" for="node" attr.name="Age" attr.type="string"/>
+<key id="d1" for="node" attr.name="Group" attr.type="string"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Sm1">
+  <data key="d0">MALE</data>
+  <data key="d1">SM</data>
+  <data key="d2">old adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Sf1">
+  <data key="d0">FEMALE</data>
+  <data key="d1">SM</data>
+  <data key="d2">old adult</data>
+  <data key="d3">12</data>
+  <data key="d4">24</data>
+  <data key="d5">5</data>
+</node>
+<node id="Sf3">
+  <data key="d0">FEMALE</data>
+  <data key="d1">SM</data>
+  <data key="d2">young adult</data>
+  <data key="d3">9</data>
+  <data key="d4">24</data>
+  <data key="d5">9</data>
+</node>
+<node id="Sf4">
+  <data key="d0">FEMALE</data>
+  <data key="d1">SM</data>
+  <data key="d2">young adult</data>
+  <data key="d3">11</data>
+  <data key="d4">17</data>
+  <data key="d5">9</data>
+</node>
+<node id="Sm2">
+  <data key="d0">MALE</data>
+  <data key="d1">SM</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Sf2">
+  <data key="d0">FEMALE</data>
+  <data key="d1">SM</data>
+  <data key="d2">young adult</data>
+  <data key="d3">11</data>
+  <data key="d4">26</data>
+  <data key="d5">7</data>
+</node>
+<node id="Sm3">
+  <data key="d0">MALE</data>
+  <data key="d1">SM</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Hf2">
+  <data key="d0">FEMALE</data>
+  <data key="d1">HIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3">9</data>
+  <data key="d4">14</data>
+  <data key="d5">2</data>
+</node>
+<node id="Hm1">
+  <data key="d0">MALE</data>
+  <data key="d1">HIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Hf1">
+  <data key="d0">FEMALE</data>
+  <data key="d1">HIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3">11</data>
+  <data key="d4">37</data>
+  <data key="d5">9</data>
+</node>
+<node id="Hm2">
+  <data key="d0">MALE</data>
+  <data key="d1">HIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Tm1">
+  <data key="d0">MALE</data>
+</node>
+<node id="Mm1">
+  <data key="d0">MALE</data>
+  <data key="d1">MIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Mf1">
+  <data key="d0">FEMALE</data>
+  <data key="d1">MIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3">11</data>
+  <data key="d4">26</data>
+  <data key="d5">8</data>
+</node>
+<node id="Mm2">
+  <data key="d0">MALE</data>
+  <data key="d1">MIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3"> </data>
+  <data key="d4"> </data>
+  <data key="d5"> </data>
+</node>
+<node id="Mf2">
+  <data key="d0">FEMALE</data>
+  <data key="d1">MIG</data>
+  <data key="d2">young adult</data>
+  <data key="d3">9</data>
+  <data key="d4">11</data>
+  <data key="d5">4</data>
+</node>
+<node id="Tm2">
+  <data key="d0">MALE</data>
+</node>
+<edge source="Sm1" target="Sf1">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Sm1" target="Sf3">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Sm1" target="Sf4">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Sf3" target="Sm2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Sf4" target="Sm2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Sm2" target="Sf2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Sm3" target="Hf2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Hf2" target="Hm2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Hf2" target="Tm1">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Hm1" target="Hf1">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Mm1" target="Mf1">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Mm2" target="Mf2">
+  <data key="d6">nan</data>
+</edge>
+<edge source="Mf2" target="Tm2">
+  <data key="d6">nan</data>
+</edge>
+</graph></graphml>

@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/sparrow_shizuka_flock_season3.png) *Season 3 Group: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|27.0 - 46.0
 total edges|163.0 - 348.0
 network density|0.336 - 0.464
@@ -16,6 +17,7 @@ relative modularity|0.394 - 0.503
 group cohesion|0.601 - 0.755
 network diameter|0.601 - 0.755
 **Study description**|**value**
+Attributes Available|not available
 Species|*Zonotrichia atricapilla*
 Taxonomic class|Aves
 Population type|free-ranging
@@ -27,5 +29,5 @@ Edge weight type|frequency
 Total duration of data collection|4 months
 Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
-Note|Networks represent social data collected during two non-breeding seasons: October 2010–February 2011 (Season 2) and October2011–April 2012 (Season 3).
-**Citation** | Shizuka, Daizaburo, et al. "Across‚Äêyear social stability shapes <br> network structure in wintering migrant sparrows." Ecology <br> letters 17.8 (2014): 998-1007.
+Note|Networks represent social data collected during two non-breeding seasons: October 2010_February 2011 (Season 2) and October2011_April 2012 (Season 3).
+**Citation** | Shizuka, Daizaburo, et al. "Across__¬êyear social stability shapes <br> network structure in wintering migrant sparrows." Ecology <br> letters 17.8 (2014): 998-1007.

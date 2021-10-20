@@ -1,5 +1,6 @@
 network attribute|range
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/wildbird_firth_network_1.png) *Group 1: The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|126.0 - 149.0
 total edges|1444.0 - 2837.0
 network density|0.164 - 0.257
@@ -16,6 +17,7 @@ relative modularity|0.264 - 0.789
 group cohesion|0.503 - 0.851
 network diameter|0.503 - 0.851
 **Study description**|**value**
+Attributes Available|not available
 Species|*Wild birds N/A*
 Taxonomic class|Aves
 Population type|free-ranging

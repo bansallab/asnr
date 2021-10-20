@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="A2"/>
+<node id="A"/>
+<node id="A1"/>
+<node id="B"/>
+<node id="B2"/>
+<node id="B1"/>
+<node id="C"/>
+<node id="C1"/>
+<edge source="A2" target="A">
+  <data key="d0">119</data>
+</edge>
+<edge source="A2" target="A1">
+  <data key="d0">40</data>
+</edge>
+<edge source="A2" target="B">
+  <data key="d0">13</data>
+</edge>
+<edge source="A2" target="B2">
+  <data key="d0">38</data>
+</edge>
+<edge source="A2" target="B1">
+  <data key="d0">16</data>
+</edge>
+<edge source="A2" target="C">
+  <data key="d0">18</data>
+</edge>
+<edge source="A2" target="C1">
+  <data key="d0">37</data>
+</edge>
+<edge source="A" target="A1">
+  <data key="d0">101</data>
+</edge>
+<edge source="A" target="B1">
+  <data key="d0">23</data>
+</edge>
+<edge source="A1" target="B">
+  <data key="d0">31</data>
+</edge>
+<edge source="A1" target="B2">
+  <data key="d0">74</data>
+</edge>
+<edge source="A1" target="B1">
+  <data key="d0">94</data>
+</edge>
+<edge source="A1" target="C">
+  <data key="d0">6</data>
+</edge>
+<edge source="A1" target="C1">
+  <data key="d0">20</data>
+</edge>
+<edge source="B" target="B2">
+  <data key="d0">39</data>
+</edge>
+<edge source="B" target="B1">
+  <data key="d0">78</data>
+</edge>
+<edge source="B" target="C">
+  <data key="d0">4</data>
+</edge>
+<edge source="B" target="C1">
+  <data key="d0">23</data>
+</edge>
+<edge source="B2" target="B1">
+  <data key="d0">33</data>
+</edge>
+<edge source="B2" target="C1">
+  <data key="d0">17</data>
+</edge>
+<edge source="B1" target="C">
+  <data key="d0">10</data>
+</edge>
+<edge source="B1" target="C1">
+  <data key="d0">33</data>
+</edge>
+<edge source="C" target="C1">
+  <data key="d0">68</data>
+</edge>
+</graph></graphml>

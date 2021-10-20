@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="I&amp;SI rank" attr.type="double"/>
+<key id="d3" for="node" attr.name="Glicko rank" attr.type="double"/>
+<key id="d2" for="node" attr.name="Glicko rating" attr.type="double"/>
+<key id="d1" for="node" attr.name="David's Score rank" attr.type="double"/>
+<key id="d0" for="node" attr.name="David's Score" attr.type="double"/>
+<graph edgedefault="undirected"><node id="ev">
+  <data key="d0">23.6</data>
+  <data key="d1">1.0</data>
+  <data key="d2">2711.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">1.2</data>
+</node>
+<node id="gm">
+  <data key="d0">19.8</data>
+  <data key="d1">2.0</data>
+  <data key="d2">2617.0</data>
+  <data key="d3">2.0</data>
+  <data key="d4">1.7</data>
+</node>
+<node id="ak">
+  <data key="d0">3.3</data>
+  <data key="d1">3.0</data>
+  <data key="d2">2337.0</data>
+  <data key="d3">3.0</data>
+  <data key="d4">3.8</data>
+</node>
+<node id="dw">
+  <data key="d0">0.2</data>
+  <data key="d1">4.0</data>
+  <data key="d2">2276.0</data>
+  <data key="d3">4.0</data>
+  <data key="d4">7.1</data>
+</node>
+<node id="kz">
+  <data key="d0">-3.2</data>
+  <data key="d1">5.0</data>
+  <data key="d2">2057.0</data>
+  <data key="d3">7.0</data>
+  <data key="d4">8.2</data>
+</node>
+<node id="gv">
+  <data key="d0">-3.7</data>
+  <data key="d1">6.0</data>
+  <data key="d2">2008.0</data>
+  <data key="d3">9.0</data>
+  <data key="d4">4.1</data>
+</node>
+<node id="ip">
+  <data key="d0">-4.9</data>
+  <data key="d1">8.0</data>
+  <data key="d2">2014.0</data>
+  <data key="d3">8.0</data>
+  <data key="d4">9.1</data>
+</node>
+<node id="iz">
+  <data key="d0">-3.8</data>
+  <data key="d1">7.0</data>
+  <data key="d2">2175.0</data>
+  <data key="d3">5.0</data>
+  <data key="d4">5.6</data>
+</node>
+<node id="ps">
+  <data key="d0">-8.2</data>
+  <data key="d1">10.0</data>
+  <data key="d2">1898.0</data>
+  <data key="d3">12.0</data>
+  <data key="d4">10.9</data>
+</node>
+<node id="mp">
+  <data key="d0">-9.7</data>
+  <data key="d1">12.0</data>
+  <data key="d2">2003.0</data>
+  <data key="d3">10.0</data>
+  <data key="d4">9.8</data>
+</node>
+<node id="oz">
+  <data key="d0">-7.0</data>
+  <data key="d1">11.0</data>
+  <data key="d2">1903.0</data>
+  <data key="d3">11.0</data>
+  <data key="d4">11.2</data>
+</node>
+<node id="gx">
+  <data key="d0">-6.5</data>
+  <data key="d1">9.0</data>
+  <data key="d2">2066.0</data>
+  <data key="d3">6.0</data>
+  <data key="d4">5.2</data>
+</node>
+<edge source="ev" target="gm">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="ak">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="dw">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="kz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="gv">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="ip">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="iz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="ps">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="mp">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ev" target="oz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="ak">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="dw">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="kz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="gv">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="ip">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="gx">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="iz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="ps">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="mp">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gm" target="oz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ak" target="dw">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ak" target="kz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ak" target="gv">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ak" target="ip">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ak" target="gx">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ak" target="iz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ak" target="mp">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ak" target="oz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="dw" target="kz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="dw" target="ip">
+  <data key="d5">nan</data>
+</edge>
+<edge source="dw" target="ps">
+  <data key="d5">nan</data>
+</edge>
+<edge source="dw" target="mp">
+  <data key="d5">nan</data>
+</edge>
+<edge source="dw" target="oz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="kz" target="ip">
+  <data key="d5">nan</data>
+</edge>
+<edge source="kz" target="ps">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gv" target="ip">
+  <data key="d5">nan</data>
+</edge>
+<edge source="gv" target="gx">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ip" target="gx">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ip" target="ps">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ip" target="mp">
+  <data key="d5">nan</data>
+</edge>
+<edge source="iz" target="gx">
+  <data key="d5">nan</data>
+</edge>
+<edge source="iz" target="ps">
+  <data key="d5">nan</data>
+</edge>
+<edge source="iz" target="mp">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ps" target="gx">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ps" target="mp">
+  <data key="d5">nan</data>
+</edge>
+<edge source="ps" target="oz">
+  <data key="d5">nan</data>
+</edge>
+<edge source="mp" target="oz">
+  <data key="d5">nan</data>
+</edge>
+</graph></graphml>
