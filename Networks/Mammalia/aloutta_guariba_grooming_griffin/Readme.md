@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/primate_griffin_2.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|5
 total edges|10
 network density|1.0
@@ -30,4 +31,3 @@ Time resolution of data collection (within a day)|
 Time span of data collection (within a day)|focal follow/ad libitum
 Note|Networks represent four control (C)  and four treatment (T) groups recorded during _undisturbedî phase where individuals were allowed to interact with each other freely.
 **Citation** | Griffin, Randi H., and Charles L. Nunn. "Community <br> structure and the spread of infectious disease <br> in primate social networks." Evolutionary Ecology 26.4 <br> (2012): 779-800.
-Network Visualization | ![NetworkImage](/Networks/Visualizations/primate_griffin_2.png)*The size of the nodes corresponds to its degree, and the color corresponds to modularity class*![image](https://user-images.githubusercontent.com/43590961/138163626-5357c234-bc6c-4196-9638-e956b8a304c1.png)
