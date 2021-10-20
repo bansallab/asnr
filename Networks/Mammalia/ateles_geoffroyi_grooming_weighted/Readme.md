@@ -1,5 +1,6 @@
 network attribute|value
 ---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/primate_griffin_1.png) *The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|15
 total edges|45
 network density|0.429
