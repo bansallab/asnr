@@ -1,5 +1,6 @@
 network attribute|range
-<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/macaque_balasubramaniam_aggression1.png) *Group1. The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
+---|---
+<img width=2500> Network Visualization | ![NetworkImage](/Networks/Visualizations/macaque_balasubramaniam_aggression1.png) * Group 1. The size of the nodes corresponds to it's degree, and the color corresponds to modularity class*
 total nodes|78.0 - 86.0
 total edges|1695.0 - 1841.0
 network density|0.464 - 0.613
