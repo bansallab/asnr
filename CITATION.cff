@@ -19,6 +19,13 @@ authors:
     email: shweta.bansal@georgetown.edu
 repository-code: 'https://github.com/bansallab/asnr'
 url: 'https://bansallab.github.io/asnr/'
+abstract: >-
+  This update provided new network data from 13
+  additional studies, updated all .graphmls in the
+  respository to include node attributes if that data
+  was available, and provided network visualizations
+  in the ReadMe file. The repository currently
+  consists of 770 networks across 69 species.
 commit: 24f42492569f75c8808abd2015deb411c216aab0
 version: '2.0'
 date-released: '2020-08-28'
