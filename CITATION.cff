@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Animal Social Network Repository
+message: 'If you use this respository, please cite below'
+type: dataset
+authors:
+  - given-names: Pratha
+    family-names: Sah
+    email: prathasah@gmail.com
+  - given-names: Melissa
+    family-names: Collier
+    email: mac532@georgetown.edu
+  - given-names: Sania
+    family-names: Ali
+  - given-names: Shweta
+    family-names: Bansal
+    email: shweta.bansal@georgetown.edu
+repository-code: 'https://github.com/bansallab/asnr'
+url: 'https://bansallab.github.io/asnr/'
+commit: 24f42492569f75c8808abd2015deb411c216aab0
+version: '2.0'
+date-released: '2020-08-28'
