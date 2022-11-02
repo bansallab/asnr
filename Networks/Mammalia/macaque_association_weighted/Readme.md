@@ -17,17 +17,17 @@ relative modularity|0.083 - 0.356
 group cohesion|0.433 - 1.0
 network diameter|0.433 - 1.0
 **Study description**|**value**
-Attributes Available|sex, rank (in 2006, 2007, 2008)
-Species|*Macaca mulatta*
+Attributes Available| NA
+Species|*Macaca*
 Taxonomic class|Mammalia
-Population type|captive
-Geographical location|Rijswijk, the Netherlands
-Data collection technique|survey scan
-Interaction type|physical contact
-Definition of interaction|Edge defined based on individuals sitting in contact with eah other.
-Edge weight type|frequency
-Total duration of data collection|3years
-Time resolution of data collection (within a day)|1 hour
-Time span of data collection (within a day)|few minutes
+Population type| NA
+Geographical location| various
+Data collection technique|various
+Interaction type|grooming
+Definition of interaction|Edge defined based on grooming interactions
+Edge weight type| NA
+Total duration of data collection|various
+Time resolution of data collection (within a day)|various
+Time span of data collection (within a day)|various
 Note|Two networks represent proximity (contact sits) and grooming patterns - who was sitting in contact with whom and who was grooming whom.
-**Citation** | Massen, Jorg JM, and Elisabeth HM Sterck. "Stability <br> and durability of intra-and intersex social bonds <br> of captive rhesus macaques (Macaca mulatta)." International <br> Journal of Primatology 34.4 (2013): 770-791.
+**Citation** | Puga-Gonzalez, I., Ostner, J., SchÙlke, O., Sosa, S., Thierry, B., & Sueur, C. (2018). Mechanisms of reciprocity and diversity in social networks: a modeling and comparative approach. Behavioral Ecology, 29(3), 745-760.
