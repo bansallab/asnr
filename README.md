@@ -10,10 +10,7 @@ Citation
 =================
 To cite the repository, please use:
 
-Pratha Sah, José David Mendez, Shweta Bansal. Animal Social Network Repository, Version 1. https://github.com/bansallab/asnr (2019)
-
-Melissa Collier, Sania Ali, Shweta Bansal. Animal Social Network Repository, Version 2. https://github.com/bansallab/asnr (2021)
-
+Melissa Collier, Pratha Sah, Sania Ali, José David Mendez, Shweta Bansal. Animal Social Network Repository, Version 2. https://github.com/bansallab/asnr (2021)
 
 To cite the project and data, please use:
 
