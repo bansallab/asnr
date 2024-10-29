@@ -1,4 +1,4 @@
-Animal Social Network Repository 2.0
+Animal Social Network Repository 2.5
  ===============
 
 Background
