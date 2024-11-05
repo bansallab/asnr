@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="Unnamed: 3" attr.type="string"/>
+<key id="d1" for="node" attr.name="age" attr.type="long"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ID12">
+  <data key="d0">Female</data>
+  <data key="d1">22</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID13">
+  <data key="d0">Female</data>
+  <data key="d1">17</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID21">
+  <data key="d0">Female</data>
+  <data key="d1">7</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID33">
+  <data key="d0">Male</data>
+  <data key="d1">18</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID36">
+  <data key="d0">Female</data>
+  <data key="d1">22</data>
+  <data key="d2">Parent</data>
+</node>
+<edge source="ID12" target="ID13">
+  <data key="d3">0.12607548077021027</data>
+</edge>
+<edge source="ID12" target="ID21">
+  <data key="d3">0.025277745519297023</data>
+</edge>
+<edge source="ID12" target="ID33">
+  <data key="d3">0.12638821825205215</data>
+</edge>
+<edge source="ID12" target="ID36">
+  <data key="d3">0.12638821825205215</data>
+</edge>
+<edge source="ID13" target="ID21">
+  <data key="d3">0.2553104250581162</data>
+</edge>
+<edge source="ID13" target="ID33">
+  <data key="d3">0.050555491038594046</data>
+</edge>
+<edge source="ID13" target="ID36">
+  <data key="d3">0.012607293404804544</data>
+</edge>
+<edge source="ID21" target="ID33">
+  <data key="d3">0.012638872759648511</data>
+</edge>
+<edge source="ID21" target="ID36">
+  <data key="d3">0.012607293404804544</data>
+</edge>
+<edge source="ID33" target="ID36">
+  <data key="d3">0.25215096154042055</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="V1"/>
+<node id="V2"/>
+<node id="V3"/>
+<node id="V4"/>
+<node id="V5"/>
+<node id="V6"/>
+<node id="V7"/>
+<node id="V8"/>
+<node id="V9"/>
+<node id="V10"/>
+<node id="V11"/>
+<node id="V12"/>
+<node id="V13"/>
+<node id="V14"/>
+<edge source="V1" target="V2">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V1" target="V3">
+  <data key="d0">0.011296660117878193</data>
+</edge>
+<edge source="V1" target="V4">
+  <data key="d0">0.011787819253438114</data>
+</edge>
+<edge source="V1" target="V5">
+  <data key="d0">0.011787819253438114</data>
+</edge>
+<edge source="V1" target="V6">
+  <data key="d0">0.008840864440078585</data>
+</edge>
+<edge source="V1" target="V7">
+  <data key="d0">0.01031434184675835</data>
+</edge>
+<edge source="V1" target="V8">
+  <data key="d0">0.008840864440078585</data>
+</edge>
+<edge source="V1" target="V9">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V1" target="V10">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V1" target="V11">
+  <data key="d0">0.0073673870333988214</data>
+</edge>
+<edge source="V1" target="V12">
+  <data key="d0">0.006630648330058939</data>
+</edge>
+<edge source="V1" target="V13">
+  <data key="d0">0.009086444007858546</data>
+</edge>
+<edge source="V1" target="V14">
+  <data key="d0">0.008349705304518664</data>
+</edge>
+<edge source="V2" target="V3">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V2" target="V4">
+  <data key="d0">0.010805500982318271</data>
+</edge>
+<edge source="V2" target="V5">
+  <data key="d0">0.012278978388998035</data>
+</edge>
+<edge source="V2" target="V6">
+  <data key="d0">0.008104125736738703</data>
+</edge>
+<edge source="V2" target="V7">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V2" target="V8">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V2" target="V9">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V2" target="V10">
+  <data key="d0">0.009577603143418467</data>
+</edge>
+<edge source="V2" target="V11">
+  <data key="d0">0.0073673870333988214</data>
+</edge>
+<edge source="V2" target="V12">
+  <data key="d0">0.00712180746561886</data>
+</edge>
+<edge source="V2" target="V13">
+  <data key="d0">0.011051080550098232</data>
+</edge>
+<edge source="V2" target="V14">
+  <data key="d0">0.008840864440078585</data>
+</edge>
+<edge source="V3" target="V4">
+  <data key="d0">0.01424361493123772</data>
+</edge>
+<edge source="V3" target="V5">
+  <data key="d0">0.01031434184675835</data>
+</edge>
+<edge source="V3" target="V6">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V3" target="V7">
+  <data key="d0">0.010805500982318271</data>
+</edge>
+<edge source="V3" target="V8">
+  <data key="d0">0.008840864440078585</data>
+</edge>
+<edge source="V3" target="V9">
+  <data key="d0">0.01031434184675835</data>
+</edge>
+<edge source="V3" target="V10">
+  <data key="d0">0.008595284872298626</data>
+</edge>
+<edge source="V3" target="V11">
+  <data key="d0">0.0068762278978389</data>
+</edge>
+<edge source="V3" target="V12">
+  <data key="d0">0.004911591355599214</data>
+</edge>
+<edge source="V3" target="V13">
+  <data key="d0">0.007858546168958742</data>
+</edge>
+<edge source="V3" target="V14">
+  <data key="d0">0.007858546168958742</data>
+</edge>
+<edge source="V4" target="V5">
+  <data key="d0">0.014489194499017682</data>
+</edge>
+<edge source="V4" target="V6">
+  <data key="d0">0.014489194499017682</data>
+</edge>
+<edge source="V4" target="V7">
+  <data key="d0">0.018664047151277015</data>
+</edge>
+<edge source="V4" target="V8">
+  <data key="d0">0.012524557956777996</data>
+</edge>
+<edge source="V4" target="V9">
+  <data key="d0">0.012524557956777996</data>
+</edge>
+<edge source="V4" target="V10">
+  <data key="d0">0.014489194499017682</data>
+</edge>
+<edge source="V4" target="V11">
+  <data key="d0">0.012278978388998035</data>
+</edge>
+<edge source="V4" target="V12">
+  <data key="d0">0.007858546168958742</data>
+</edge>
+<edge source="V4" target="V13">
+  <data key="d0">0.012770137524557957</data>
+</edge>
+<edge source="V4" target="V14">
+  <data key="d0">0.009577603143418467</data>
+</edge>
+<edge source="V5" target="V6">
+  <data key="d0">0.0137524557956778</data>
+</edge>
+<edge source="V5" target="V7">
+  <data key="d0">0.013998035363457761</data>
+</edge>
+<edge source="V5" target="V8">
+  <data key="d0">0.010805500982318271</data>
+</edge>
+<edge source="V5" target="V9">
+  <data key="d0">0.012033398821218075</data>
+</edge>
+<edge source="V5" target="V10">
+  <data key="d0">0.013015717092337918</data>
+</edge>
+<edge source="V5" target="V11">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V5" target="V12">
+  <data key="d0">0.009086444007858546</data>
+</edge>
+<edge source="V5" target="V13">
+  <data key="d0">0.01424361493123772</data>
+</edge>
+<edge source="V5" target="V14">
+  <data key="d0">0.009577603143418467</data>
+</edge>
+<edge source="V6" target="V7">
+  <data key="d0">0.013015717092337918</data>
+</edge>
+<edge source="V6" target="V8">
+  <data key="d0">0.01031434184675835</data>
+</edge>
+<edge source="V6" target="V9">
+  <data key="d0">0.012033398821218075</data>
+</edge>
+<edge source="V6" target="V10">
+  <data key="d0">0.013015717092337918</data>
+</edge>
+<edge source="V6" target="V11">
+  <data key="d0">0.008840864440078585</data>
+</edge>
+<edge source="V6" target="V12">
+  <data key="d0">0.009086444007858546</data>
+</edge>
+<edge source="V6" target="V13">
+  <data key="d0">0.011296660117878193</data>
+</edge>
+<edge source="V6" target="V14">
+  <data key="d0">0.01006876227897839</data>
+</edge>
+<edge source="V7" target="V8">
+  <data key="d0">0.015471512770137525</data>
+</edge>
+<edge source="V7" target="V9">
+  <data key="d0">0.01694499017681729</data>
+</edge>
+<edge source="V7" target="V10">
+  <data key="d0">0.01424361493123772</data>
+</edge>
+<edge source="V7" target="V11">
+  <data key="d0">0.011787819253438114</data>
+</edge>
+<edge source="V7" target="V12">
+  <data key="d0">0.009577603143418467</data>
+</edge>
+<edge source="V7" target="V13">
+  <data key="d0">0.014980353634577602</data>
+</edge>
+<edge source="V7" target="V14">
+  <data key="d0">0.01055992141453831</data>
+</edge>
+<edge source="V8" target="V9">
+  <data key="d0">0.014489194499017682</data>
+</edge>
+<edge source="V8" target="V10">
+  <data key="d0">0.01055992141453831</data>
+</edge>
+<edge source="V8" target="V11">
+  <data key="d0">0.011542239685658153</data>
+</edge>
+<edge source="V8" target="V12">
+  <data key="d0">0.007612966601178782</data>
+</edge>
+<edge source="V8" target="V13">
+  <data key="d0">0.012278978388998035</data>
+</edge>
+<edge source="V8" target="V14">
+  <data key="d0">0.01055992141453831</data>
+</edge>
+<edge source="V9" target="V10">
+  <data key="d0">0.0137524557956778</data>
+</edge>
+<edge source="V9" target="V11">
+  <data key="d0">0.013998035363457761</data>
+</edge>
+<edge source="V9" target="V12">
+  <data key="d0">0.011542239685658153</data>
+</edge>
+<edge source="V9" target="V13">
+  <data key="d0">0.015471512770137525</data>
+</edge>
+<edge source="V9" target="V14">
+  <data key="d0">0.016208251473477406</data>
+</edge>
+<edge source="V10" target="V11">
+  <data key="d0">0.01031434184675835</data>
+</edge>
+<edge source="V10" target="V12">
+  <data key="d0">0.01055992141453831</data>
+</edge>
+<edge source="V10" target="V13">
+  <data key="d0">0.015471512770137525</data>
+</edge>
+<edge source="V10" target="V14">
+  <data key="d0">0.013261296660117878</data>
+</edge>
+<edge source="V11" target="V12">
+  <data key="d0">0.0073673870333988214</data>
+</edge>
+<edge source="V11" target="V13">
+  <data key="d0">0.011296660117878193</data>
+</edge>
+<edge source="V11" target="V14">
+  <data key="d0">0.009332023575638507</data>
+</edge>
+<edge source="V12" target="V13">
+  <data key="d0">0.011051080550098232</data>
+</edge>
+<edge source="V12" target="V14">
+  <data key="d0">0.009577603143418467</data>
+</edge>
+<edge source="V13" target="V14">
+  <data key="d0">0.012278978388998035</data>
+</edge>
+</graph></graphml>

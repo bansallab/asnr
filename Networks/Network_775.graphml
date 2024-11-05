@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="SA"/>
+<node id="GA"/>
+<node id="GE"/>
+<node id="PA"/>
+<node id="PHI"/>
+<node id="GI"/>
+<node id="JO"/>
+<node id="NI"/>
+<node id="MI"/>
+<node id="SU"/>
+<node id="RA"/>
+<node id="CHE"/>
+<node id="DA"/>
+<edge source="SA" target="GA">
+  <data key="d0">0.08403361344537816</data>
+</edge>
+<edge source="SA" target="GE">
+  <data key="d0">0.01680672268907563</data>
+</edge>
+<edge source="SA" target="PA">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="SA" target="GI">
+  <data key="d0">0.04201680672268908</data>
+</edge>
+<edge source="SA" target="JO">
+  <data key="d0">0.03361344537815126</data>
+</edge>
+<edge source="SA" target="NI">
+  <data key="d0">0.07563025210084033</data>
+</edge>
+<edge source="SA" target="SU">
+  <data key="d0">0.025210084033613446</data>
+</edge>
+<edge source="SA" target="RA">
+  <data key="d0">0.04201680672268908</data>
+</edge>
+<edge source="SA" target="DA">
+  <data key="d0">0.01680672268907563</data>
+</edge>
+<edge source="GA" target="PA">
+  <data key="d0">0.025210084033613446</data>
+</edge>
+<edge source="GA" target="GI">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="GA" target="NI">
+  <data key="d0">0.01680672268907563</data>
+</edge>
+<edge source="GA" target="SU">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="GA" target="RA">
+  <data key="d0">0.01680672268907563</data>
+</edge>
+<edge source="GE" target="PA">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="GE" target="PHI">
+  <data key="d0">0.01680672268907563</data>
+</edge>
+<edge source="GE" target="JO">
+  <data key="d0">0.03361344537815126</data>
+</edge>
+<edge source="GE" target="NI">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="GE" target="SU">
+  <data key="d0">0.025210084033613446</data>
+</edge>
+<edge source="GE" target="RA">
+  <data key="d0">0.05042016806722689</data>
+</edge>
+<edge source="PA" target="GI">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="PA" target="JO">
+  <data key="d0">0.01680672268907563</data>
+</edge>
+<edge source="PA" target="SU">
+  <data key="d0">0.07563025210084033</data>
+</edge>
+<edge source="PHI" target="JO">
+  <data key="d0">0.04201680672268908</data>
+</edge>
+<edge source="PHI" target="NI">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="PHI" target="MI">
+  <data key="d0">0.03361344537815126</data>
+</edge>
+<edge source="PHI" target="SU">
+  <data key="d0">0.03361344537815126</data>
+</edge>
+<edge source="PHI" target="RA">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="GI" target="NI">
+  <data key="d0">0.03361344537815126</data>
+</edge>
+<edge source="JO" target="MI">
+  <data key="d0">0.05042016806722689</data>
+</edge>
+<edge source="JO" target="SU">
+  <data key="d0">0.03361344537815126</data>
+</edge>
+<edge source="JO" target="RA">
+  <data key="d0">0.025210084033613446</data>
+</edge>
+<edge source="JO" target="CHE">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="NI" target="MI">
+  <data key="d0">0.008403361344537815</data>
+</edge>
+<edge source="NI" target="SU">
+  <data key="d0">0.03361344537815126</data>
+</edge>
+<edge source="SU" target="RA">
+  <data key="d0">0.01680672268907563</data>
+</edge>
+</graph></graphml>

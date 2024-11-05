@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="GNF016"/>
+<node id="GNF031"/>
+<node id="GNF041"/>
+<node id="GNF049"/>
+<node id="GNF050"/>
+<node id="GNF053"/>
+<node id="GNM002"/>
+<node id="GNM012"/>
+<node id="GNM038"/>
+<node id="GNM039"/>
+<node id="GNM046"/>
+<node id="GNM052"/>
+<edge source="GNF016" target="GNF031">
+  <data key="d0">0.007936507936507938</data>
+</edge>
+<edge source="GNF016" target="GNF049">
+  <data key="d0">0.009523809523809525</data>
+</edge>
+<edge source="GNF016" target="GNF050">
+  <data key="d0">0.015873015873015876</data>
+</edge>
+<edge source="GNF016" target="GNM002">
+  <data key="d0">0.041269841269841276</data>
+</edge>
+<edge source="GNF016" target="GNM012">
+  <data key="d0">0.0253968253968254</data>
+</edge>
+<edge source="GNF016" target="GNM038">
+  <data key="d0">0.017460317460317464</data>
+</edge>
+<edge source="GNF016" target="GNM039">
+  <data key="d0">0.06190476190476192</data>
+</edge>
+<edge source="GNF016" target="GNM046">
+  <data key="d0">0.009523809523809525</data>
+</edge>
+<edge source="GNF016" target="GNM052">
+  <data key="d0">0.0253968253968254</data>
+</edge>
+<edge source="GNF031" target="GNF049">
+  <data key="d0">0.011111111111111113</data>
+</edge>
+<edge source="GNF031" target="GNF053">
+  <data key="d0">0.01904761904761905</data>
+</edge>
+<edge source="GNF031" target="GNM002">
+  <data key="d0">0.009523809523809525</data>
+</edge>
+<edge source="GNF031" target="GNM012">
+  <data key="d0">0.026984126984126992</data>
+</edge>
+<edge source="GNF031" target="GNM038">
+  <data key="d0">0.017460317460317464</data>
+</edge>
+<edge source="GNF031" target="GNM039">
+  <data key="d0">0.007936507936507938</data>
+</edge>
+<edge source="GNF031" target="GNM046">
+  <data key="d0">0.03968253968253969</data>
+</edge>
+<edge source="GNF031" target="GNM052">
+  <data key="d0">0.017460317460317464</data>
+</edge>
+<edge source="GNF041" target="GNF049">
+  <data key="d0">0.0126984126984127</data>
+</edge>
+<edge source="GNF041" target="GNF053">
+  <data key="d0">0.009523809523809525</data>
+</edge>
+<edge source="GNF041" target="GNM002">
+  <data key="d0">0.011111111111111113</data>
+</edge>
+<edge source="GNF041" target="GNM038">
+  <data key="d0">0.011111111111111113</data>
+</edge>
+<edge source="GNF041" target="GNM039">
+  <data key="d0">0.01904761904761905</data>
+</edge>
+<edge source="GNF041" target="GNM046">
+  <data key="d0">0.011111111111111113</data>
+</edge>
+<edge source="GNF049" target="GNF053">
+  <data key="d0">0.009523809523809525</data>
+</edge>
+<edge source="GNF049" target="GNM002">
+  <data key="d0">0.017460317460317464</data>
+</edge>
+<edge source="GNF049" target="GNM012">
+  <data key="d0">0.026984126984126992</data>
+</edge>
+<edge source="GNF049" target="GNM038">
+  <data key="d0">0.011111111111111113</data>
+</edge>
+<edge source="GNF049" target="GNM039">
+  <data key="d0">0.0253968253968254</data>
+</edge>
+<edge source="GNF049" target="GNM052">
+  <data key="d0">0.028571428571428574</data>
+</edge>
+<edge source="GNF050" target="GNM002">
+  <data key="d0">0.015873015873015876</data>
+</edge>
+<edge source="GNF050" target="GNM012">
+  <data key="d0">0.041269841269841276</data>
+</edge>
+<edge source="GNF050" target="GNM038">
+  <data key="d0">0.03492063492063493</data>
+</edge>
+<edge source="GNF050" target="GNM039">
+  <data key="d0">0.02380952380952381</data>
+</edge>
+<edge source="GNF050" target="GNM046">
+  <data key="d0">0.020634920634920638</data>
+</edge>
+<edge source="GNF050" target="GNM052">
+  <data key="d0">0.0253968253968254</data>
+</edge>
+<edge source="GNF053" target="GNM002">
+  <data key="d0">0.0253968253968254</data>
+</edge>
+<edge source="GNF053" target="GNM012">
+  <data key="d0">0.026984126984126992</data>
+</edge>
+<edge source="GNF053" target="GNM038">
+  <data key="d0">0.04444444444444445</data>
+</edge>
+<edge source="GNF053" target="GNM039">
+  <data key="d0">0.0253968253968254</data>
+</edge>
+<edge source="GNF053" target="GNM046">
+  <data key="d0">0.026984126984126992</data>
+</edge>
+<edge source="GNF053" target="GNM052">
+  <data key="d0">0.041269841269841276</data>
+</edge>
+<edge source="GNM002" target="GNM046">
+  <data key="d0">0.009523809523809525</data>
+</edge>
+<edge source="GNM012" target="GNM052">
+  <data key="d0">0.007936507936507938</data>
+</edge>
+<edge source="GNM038" target="GNM039">
+  <data key="d0">0.009523809523809525</data>
+</edge>
+<edge source="GNM038" target="GNM052">
+  <data key="d0">0.009523809523809525</data>
+</edge>
+<edge source="GNM039" target="GNM046">
+  <data key="d0">0.028571428571428574</data>
+</edge>
+<edge source="GNM039" target="GNM052">
+  <data key="d0">0.007936507936507938</data>
+</edge>
+<edge source="GNM046" target="GNM052">
+  <data key="d0">0.017460317460317464</data>
+</edge>
+</graph></graphml>

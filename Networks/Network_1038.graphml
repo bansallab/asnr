@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="rearing" attr.type="string"/>
+<key id="d1" for="node" attr.name="age" attr.type="long"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ID17">
+  <data key="d0">Female</data>
+  <data key="d1">16</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID51">
+  <data key="d0">Male</data>
+  <data key="d1">9</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID53">
+  <data key="d0">Female</data>
+  <data key="d1">26</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID54">
+  <data key="d0">Male</data>
+  <data key="d1">13</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID78">
+  <data key="d0">Male</data>
+  <data key="d1">17</data>
+  <data key="d2">Parent</data>
+</node>
+<edge source="ID17" target="ID51">
+  <data key="d3">0.06828703714806587</data>
+</edge>
+<edge source="ID17" target="ID53">
+  <data key="d3">0.11141569268152421</data>
+</edge>
+<edge source="ID17" target="ID54">
+  <data key="d3">0.06828703714806587</data>
+</edge>
+<edge source="ID17" target="ID78">
+  <data key="d3">0.06109892711257964</data>
+</edge>
+<edge source="ID51" target="ID53">
+  <data key="d3">0.22642543921092675</data>
+</edge>
+<edge source="ID51" target="ID54">
+  <data key="d3">0.2775950291734909</data>
+</edge>
+<edge source="ID51" target="ID78">
+  <data key="d3">0.06469298330018751</data>
+</edge>
+<edge source="ID53" target="ID54">
+  <data key="d3">0.02156432776672917</data>
+</edge>
+<edge source="ID53" target="ID78">
+  <data key="d3">0.09703947261055175</data>
+</edge>
+<edge source="ID54" target="ID78">
+  <data key="d3">0.003594053847878353</data>
+</edge>
+</graph></graphml>

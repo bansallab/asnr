@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="BF"/>
+<node id="CS"/>
+<node id="GU"/>
+<node id="KB"/>
+<node id="LL"/>
+<node id="MK"/>
+<node id="MS"/>
+<node id="NB"/>
+<node id="NW"/>
+<node id="PN"/>
+<node id="S#"/>
+<node id="SB"/>
+<node id="TR"/>
+<edge source="BF" target="GU">
+  <data key="d0">0.030303030303030304</data>
+</edge>
+<edge source="BF" target="KB">
+  <data key="d0">0.030303030303030304</data>
+</edge>
+<edge source="CS" target="LL">
+  <data key="d0">0.030303030303030304</data>
+</edge>
+<edge source="CS" target="MS">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+<edge source="CS" target="NW">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+<edge source="CS" target="TR">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+<edge source="GU" target="NB">
+  <data key="d0">0.030303030303030304</data>
+</edge>
+<edge source="GU" target="PN">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+<edge source="KB" target="LL">
+  <data key="d0">0.12121212121212122</data>
+</edge>
+<edge source="KB" target="MS">
+  <data key="d0">0.030303030303030304</data>
+</edge>
+<edge source="LL" target="MS">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+<edge source="LL" target="TR">
+  <data key="d0">0.030303030303030304</data>
+</edge>
+<edge source="MK" target="MS">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+<edge source="MS" target="NW">
+  <data key="d0">0.030303030303030304</data>
+</edge>
+<edge source="MS" target="PN">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+<edge source="MS" target="TR">
+  <data key="d0">0.030303030303030304</data>
+</edge>
+<edge source="NW" target="TR">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+<edge source="PN" target="SB">
+  <data key="d0">0.09090909090909091</data>
+</edge>
+<edge source="S#" target="SB">
+  <data key="d0">0.06060606060606061</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="LEO"/>
+<node id="GAR"/>
+<node id="MAR"/>
+<node id="MER"/>
+<node id="NER"/>
+<node id="JA"/>
+<node id="LEON"/>
+<node id="TAR"/>
+<edge source="LEO" target="GAR">
+  <data key="d0">0.13043478257240076</data>
+</edge>
+<edge source="LEO" target="MAR">
+  <data key="d0">0.06521739128620038</data>
+</edge>
+<edge source="LEO" target="MER">
+  <data key="d0">0.043478260579206056</data>
+</edge>
+<edge source="LEO" target="NER">
+  <data key="d0">0.021739130706994333</data>
+</edge>
+<edge source="LEO" target="JA">
+  <data key="d0">0.17391304315160683</data>
+</edge>
+<edge source="LEO" target="LEON">
+  <data key="d0">0.021739130706994333</data>
+</edge>
+<edge source="LEO" target="TAR">
+  <data key="d0">0.06521739128620038</data>
+</edge>
+<edge source="GAR" target="JA">
+  <data key="d0">0.021739130706994333</data>
+</edge>
+<edge source="MAR" target="MER">
+  <data key="d0">0.06521739128620038</data>
+</edge>
+<edge source="MER" target="NER">
+  <data key="d0">0.17391304315160683</data>
+</edge>
+<edge source="MER" target="LEON">
+  <data key="d0">0.021739130706994333</data>
+</edge>
+<edge source="MER" target="TAR">
+  <data key="d0">0.08695652199319472</data>
+</edge>
+<edge source="NER" target="JA">
+  <data key="d0">0.043478260579206056</data>
+</edge>
+<edge source="NER" target="TAR">
+  <data key="d0">0.043478260579206056</data>
+</edge>
+<edge source="JA" target="LEON">
+  <data key="d0">0.021739130706994333</data>
+</edge>
+</graph></graphml>

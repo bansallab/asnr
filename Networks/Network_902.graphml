@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="MS11"/>
+<node id="FS1"/>
+<node id="MS20"/>
+<node id="FS5"/>
+<node id="FS10"/>
+<node id="MS26"/>
+<edge source="MS11" target="FS1">
+  <data key="d0">0.013618589700347076</data>
+</edge>
+<edge source="MS11" target="MS20">
+  <data key="d0">0.26257477639665305</data>
+</edge>
+<edge source="MS11" target="FS10">
+  <data key="d0">0.13296044041331956</data>
+</edge>
+<edge source="MS11" target="MS26">
+  <data key="d0">0.13116852054785602</data>
+</edge>
+<edge source="MS20" target="FS10">
+  <data key="d0">0.08614456065556682</data>
+</edge>
+<edge source="MS20" target="MS26">
+  <data key="d0">0.03579729004222306</data>
+</edge>
+<edge source="FS5" target="FS10">
+  <data key="d0">0.3235403452127573</data>
+</edge>
+<edge source="FS5" target="MS26">
+  <data key="d0">0.01419547703127701</data>
+</edge>
+</graph></graphml>

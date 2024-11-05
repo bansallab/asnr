@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="GMF012"/>
+<node id="GMF036"/>
+<node id="GMF037"/>
+<node id="GMM038"/>
+<node id="GMM039"/>
+<node id="GMM040"/>
+<node id="GMM041"/>
+<node id="GMM042"/>
+<node id="GMM003"/>
+<node id="GMM004"/>
+<edge source="GMF012" target="GMF036">
+  <data key="d0">0.008179959100204501</data>
+</edge>
+<edge source="GMF012" target="GMF037">
+  <data key="d0">0.006134969325153375</data>
+</edge>
+<edge source="GMF012" target="GMM038">
+  <data key="d0">0.014314928425357878</data>
+</edge>
+<edge source="GMF012" target="GMM039">
+  <data key="d0">0.008179959100204501</data>
+</edge>
+<edge source="GMF012" target="GMM040">
+  <data key="d0">0.014314928425357878</data>
+</edge>
+<edge source="GMF012" target="GMM041">
+  <data key="d0">0.008179959100204501</data>
+</edge>
+<edge source="GMF012" target="GMM042">
+  <data key="d0">0.0245398773006135</data>
+</edge>
+<edge source="GMF012" target="GMM003">
+  <data key="d0">0.14723926380368102</data>
+</edge>
+<edge source="GMF012" target="GMM004">
+  <data key="d0">0.032719836400818006</data>
+</edge>
+<edge source="GMF036" target="GMF037">
+  <data key="d0">0.014314928425357878</data>
+</edge>
+<edge source="GMF036" target="GMM038">
+  <data key="d0">0.010224948875255626</data>
+</edge>
+<edge source="GMF036" target="GMM039">
+  <data key="d0">0.040899795501022504</data>
+</edge>
+<edge source="GMF036" target="GMM040">
+  <data key="d0">0.022494887525562376</data>
+</edge>
+<edge source="GMF036" target="GMM041">
+  <data key="d0">0.010224948875255626</data>
+</edge>
+<edge source="GMF036" target="GMM042">
+  <data key="d0">0.04498977505112475</data>
+</edge>
+<edge source="GMF036" target="GMM003">
+  <data key="d0">0.06952965235173826</data>
+</edge>
+<edge source="GMF036" target="GMM004">
+  <data key="d0">0.008179959100204501</data>
+</edge>
+<edge source="GMF037" target="GMM038">
+  <data key="d0">0.016359918200409003</data>
+</edge>
+<edge source="GMF037" target="GMM039">
+  <data key="d0">0.016359918200409003</data>
+</edge>
+<edge source="GMF037" target="GMM040">
+  <data key="d0">0.018404907975460127</data>
+</edge>
+<edge source="GMF037" target="GMM041">
+  <data key="d0">0.02658486707566463</data>
+</edge>
+<edge source="GMF037" target="GMM042">
+  <data key="d0">0.05521472392638038</data>
+</edge>
+<edge source="GMF037" target="GMM003">
+  <data key="d0">0.06543967280163601</data>
+</edge>
+<edge source="GMF037" target="GMM004">
+  <data key="d0">0.06339468302658488</data>
+</edge>
+<edge source="GMM038" target="GMM039">
+  <data key="d0">0.014314928425357878</data>
+</edge>
+<edge source="GMM038" target="GMM041">
+  <data key="d0">0.01226993865030675</data>
+</edge>
+<edge source="GMM038" target="GMM004">
+  <data key="d0">0.010224948875255626</data>
+</edge>
+<edge source="GMM039" target="GMM041">
+  <data key="d0">0.014314928425357878</data>
+</edge>
+<edge source="GMM039" target="GMM042">
+  <data key="d0">0.0245398773006135</data>
+</edge>
+<edge source="GMM039" target="GMM003">
+  <data key="d0">0.014314928425357878</data>
+</edge>
+<edge source="GMM039" target="GMM004">
+  <data key="d0">0.020449897750511252</data>
+</edge>
+<edge source="GMM040" target="GMM041">
+  <data key="d0">0.01226993865030675</data>
+</edge>
+<edge source="GMM040" target="GMM042">
+  <data key="d0">0.008179959100204501</data>
+</edge>
+<edge source="GMM041" target="GMM042">
+  <data key="d0">0.008179959100204501</data>
+</edge>
+<edge source="GMM041" target="GMM003">
+  <data key="d0">0.03476482617586913</data>
+</edge>
+<edge source="GMM041" target="GMM004">
+  <data key="d0">0.010224948875255626</data>
+</edge>
+<edge source="GMM042" target="GMM003">
+  <data key="d0">0.04498977505112475</data>
+</edge>
+<edge source="GMM042" target="GMM004">
+  <data key="d0">0.0245398773006135</data>
+</edge>
+</graph></graphml>

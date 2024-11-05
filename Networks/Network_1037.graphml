@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="rearing" attr.type="string"/>
+<key id="d1" for="node" attr.name="age" attr.type="long"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ID10">
+  <data key="d0">Female</data>
+  <data key="d1">8</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID17">
+  <data key="d0">Female</data>
+  <data key="d1">17</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID52">
+  <data key="d0">Male</data>
+  <data key="d1">10</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID53">
+  <data key="d0">Female</data>
+  <data key="d1">27</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID54">
+  <data key="d0">Male</data>
+  <data key="d1">14</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID78">
+  <data key="d0">Male</data>
+  <data key="d1">18</data>
+  <data key="d2">Parent</data>
+</node>
+<edge source="ID10" target="ID17">
+  <data key="d3">0.036475365446772816</data>
+</edge>
+<edge source="ID10" target="ID52">
+  <data key="d3">0.004575436721695683</data>
+</edge>
+<edge source="ID10" target="ID53">
+  <data key="d3">0.05484103387599099</data>
+</edge>
+<edge source="ID10" target="ID54">
+  <data key="d3">0.009150873443391366</data>
+</edge>
+<edge source="ID10" target="ID78">
+  <data key="d3">0.022904008071392982</data>
+</edge>
+<edge source="ID17" target="ID52">
+  <data key="d3">0.01367826057725596</data>
+</edge>
+<edge source="ID17" target="ID53">
+  <data key="d3">0.1322232012098353</data>
+</edge>
+<edge source="ID17" target="ID54">
+  <data key="d3">0.036475365446772816</data>
+</edge>
+<edge source="ID17" target="ID78">
+  <data key="d3">0.027356525061935505</data>
+</edge>
+<edge source="ID52" target="ID53">
+  <data key="d3">0.27186084026620017</data>
+</edge>
+<edge source="ID52" target="ID54">
+  <data key="d3">0.25313109373697795</data>
+</edge>
+<edge source="ID52" target="ID78">
+  <data key="d3">0.018387874317454672</data>
+</edge>
+<edge source="ID53" target="ID54">
+  <data key="d3">0.045754375031804</data>
+</edge>
+<edge source="ID53" target="ID78">
+  <data key="d3">0.05484103387599099</data>
+</edge>
+<edge source="ID54" target="ID78">
+  <data key="d3">0.018344712916529064</data>
+</edge>
+</graph></graphml>

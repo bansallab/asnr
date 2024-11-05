@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="LG"/>
+<node id="YV"/>
+<node id="DG"/>
+<node id="P"/>
+<node id="V"/>
+<node id="O"/>
+<node id="W"/>
+<node id="R"/>
+<node id="B"/>
+<node id="LOB"/>
+<node id="LOBB"/>
+<node id="YVV"/>
+<node id="DGO"/>
+<node id="WB"/>
+<node id="OLG"/>
+<node id="LO"/>
+<edge source="LG" target="YV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="DG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="P">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="V">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="R">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="B">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="O">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="W">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LG" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="P">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="R">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="V">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="B">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="W">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="O">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="DG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YV" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="P">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="V">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="O">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="B">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="W">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="R">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="DG" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="V">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="O">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="B">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="R">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="W">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="P" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="W">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="R">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="O">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="B">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="V" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="B">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="W">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="R">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="O" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="W" target="R">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="W" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="W" target="B">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="W" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="W" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="W" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="W" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="R" target="B">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="R" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="R" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="R" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="R" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="R" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="R" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="R" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="B" target="LOB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="B" target="LOBB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="B" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="B" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="B" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="B" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="B" target="LO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LOB" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LOB" target="YVV">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LOB" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="LOB" target="WB">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="YVV" target="DGO">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+<edge source="WB" target="OLG">
+  <data key="d0">0.010101010101010102</data>
+</edge>
+</graph></graphml>

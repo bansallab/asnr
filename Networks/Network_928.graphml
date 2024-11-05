@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="GIF005"/>
+<node id="GIF007"/>
+<node id="GIF019"/>
+<node id="GIM002"/>
+<node id="GIM035"/>
+<node id="GIM037"/>
+<node id="GIM004"/>
+<edge source="GIF005" target="GIF007">
+  <data key="d0">0.007731958762886599</data>
+</edge>
+<edge source="GIF005" target="GIF019">
+  <data key="d0">0.04639175257731959</data>
+</edge>
+<edge source="GIF005" target="GIM002">
+  <data key="d0">0.09278350515463918</data>
+</edge>
+<edge source="GIF005" target="GIM035">
+  <data key="d0">0.09020618556701032</data>
+</edge>
+<edge source="GIF005" target="GIM037">
+  <data key="d0">0.054123711340206195</data>
+</edge>
+<edge source="GIF005" target="GIM004">
+  <data key="d0">0.10824742268041239</data>
+</edge>
+<edge source="GIF007" target="GIF019">
+  <data key="d0">0.015463917525773198</data>
+</edge>
+<edge source="GIF007" target="GIM002">
+  <data key="d0">0.054123711340206195</data>
+</edge>
+<edge source="GIF007" target="GIM035">
+  <data key="d0">0.06185567010309279</data>
+</edge>
+<edge source="GIF007" target="GIM037">
+  <data key="d0">0.07474226804123713</data>
+</edge>
+<edge source="GIF007" target="GIM004">
+  <data key="d0">0.13402061855670105</data>
+</edge>
+<edge source="GIF019" target="GIM002">
+  <data key="d0">0.010309278350515465</data>
+</edge>
+<edge source="GIF019" target="GIM035">
+  <data key="d0">0.06701030927835053</data>
+</edge>
+<edge source="GIF019" target="GIM004">
+  <data key="d0">0.10051546391752579</data>
+</edge>
+<edge source="GIM002" target="GIM037">
+  <data key="d0">0.015463917525773198</data>
+</edge>
+<edge source="GIM002" target="GIM004">
+  <data key="d0">0.007731958762886599</data>
+</edge>
+<edge source="GIM035" target="GIM037">
+  <data key="d0">0.02835051546391753</data>
+</edge>
+<edge source="GIM035" target="GIM004">
+  <data key="d0">0.023195876288659795</data>
+</edge>
+<edge source="GIM037" target="GIM004">
+  <data key="d0">0.007731958762886599</data>
+</edge>
+</graph></graphml>
