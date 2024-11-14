@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="rearing" attr.type="string"/>
+<key id="d1" for="node" attr.name="age" attr.type="long"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ID14">
+  <data key="d0">Female</data>
+  <data key="d1">29</data>
+  <data key="d2">Other</data>
+</node>
+<node id="ID22">
+  <data key="d0">Female</data>
+  <data key="d1">21</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID42">
+  <data key="d0">Male</data>
+  <data key="d1">18</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID46"/>
+<edge source="ID14" target="ID22">
+  <data key="d3">0.08618887338605848</data>
+</edge>
+<edge source="ID14" target="ID42">
+  <data key="d3">0.32636495250150116</data>
+</edge>
+<edge source="ID14" target="ID46">
+  <data key="d3">0.009379315084689987</data>
+</edge>
+<edge source="ID22" target="ID42">
+  <data key="d3">0.19471543042120118</data>
+</edge>
+<edge source="ID22" target="ID46">
+  <data key="d3">0.3358020109146941</data>
+</edge>
+<edge source="ID42" target="ID46">
+  <data key="d3">0.04754941769185496</data>
+</edge>
+</graph></graphml>

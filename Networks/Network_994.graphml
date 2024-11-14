@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Camila"/>
+<node id="Lisala"/>
+<node id="Limbe"/>
+<node id="Lolaya"/>
+<node id="Mirinda"/>
+<node id="Nefertari"/>
+<edge source="Camila" target="Lisala">
+  <data key="d0">0.016172506738544475</data>
+</edge>
+<edge source="Camila" target="Limbe">
+  <data key="d0">0.01078167115902965</data>
+</edge>
+<edge source="Camila" target="Lolaya">
+  <data key="d0">0.01078167115902965</data>
+</edge>
+<edge source="Camila" target="Mirinda">
+  <data key="d0">0.018867924528301886</data>
+</edge>
+<edge source="Camila" target="Nefertari">
+  <data key="d0">0.14555256064690028</data>
+</edge>
+<edge source="Lisala" target="Limbe">
+  <data key="d0">0.0862533692722372</data>
+</edge>
+<edge source="Lisala" target="Lolaya">
+  <data key="d0">0.05390835579514825</data>
+</edge>
+<edge source="Lisala" target="Mirinda">
+  <data key="d0">0.04043126684636118</data>
+</edge>
+<edge source="Lisala" target="Nefertari">
+  <data key="d0">0.20485175202156333</data>
+</edge>
+<edge source="Limbe" target="Lolaya">
+  <data key="d0">0.0026954177897574125</data>
+</edge>
+<edge source="Limbe" target="Mirinda">
+  <data key="d0">0.08355795148247978</data>
+</edge>
+<edge source="Limbe" target="Nefertari">
+  <data key="d0">0.2857142857142857</data>
+</edge>
+<edge source="Lolaya" target="Mirinda">
+  <data key="d0">0.0026954177897574125</data>
+</edge>
+<edge source="Lolaya" target="Nefertari">
+  <data key="d0">0.03234501347708895</data>
+</edge>
+<edge source="Mirinda" target="Nefertari">
+  <data key="d0">0.005390835579514825</data>
+</edge>
+</graph></graphml>

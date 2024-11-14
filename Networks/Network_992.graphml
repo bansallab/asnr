@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="1A4F">
+  <data key="d0">F</data>
+</node>
+<node id="309">
+  <data key="d0">F</data>
+</node>
+<node id="3A3D">
+  <data key="d0">M</data>
+</node>
+<node id="3F26">
+  <data key="d0">F</data>
+</node>
+<node id="4803">
+  <data key="d0">M</data>
+</node>
+<node id="5316">
+  <data key="d0">F</data>
+</node>
+<node id="571E">
+  <data key="d0">F</data>
+</node>
+<node id="6E+16"/>
+<node id="716D">
+  <data key="d0">M</data>
+</node>
+<node id="7C0D">
+  <data key="d0">F</data>
+</node>
+<edge source="1A4F" target="7C0D">
+  <data key="d1">0.08062246663067373</data>
+</edge>
+<edge source="309" target="3A3D">
+  <data key="d1">0.027572517342771576</data>
+</edge>
+<edge source="3F26" target="5316">
+  <data key="d1">0.10691321892321226</data>
+</edge>
+<edge source="3F26" target="571E">
+  <data key="d1">0.03739493922432813</data>
+</edge>
+<edge source="3F26" target="6E+16">
+  <data key="d1">0.3029085161443878</data>
+</edge>
+<edge source="4803" target="6E+16">
+  <data key="d1">0.008693182674572853</data>
+</edge>
+<edge source="5316" target="6E+16">
+  <data key="d1">0.06830731665321786</data>
+</edge>
+<edge source="571E" target="6E+16">
+  <data key="d1">0.36758784240683595</data>
+</edge>
+</graph></graphml>

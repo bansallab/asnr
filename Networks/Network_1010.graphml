@@ -1,0 +1,645 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="focal.sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="bj"/>
+<node id="0.0"/>
+<node id="0.083333333"/>
+<node id="0.076923077"/>
+<node id="0.4"/>
+<node id="0.222222222"/>
+<node id="0.125"/>
+<node id="bob"/>
+<node id="0.142857143"/>
+<node id="booboo"/>
+<node id="0.285714286"/>
+<node id="0.2"/>
+<node id="brandon"/>
+<node id="0.8"/>
+<node id="0.090909091"/>
+<node id="brenda"/>
+<node id="0.066666667"/>
+<node id="0.1875"/>
+<node id="0.1"/>
+<node id="genny"/>
+<node id="0.428571429"/>
+<node id="0.6"/>
+<node id="0.111111111"/>
+<node id="0.333333333"/>
+<node id="gerard"/>
+<node id="girly"/>
+<node id="0.5"/>
+<node id="goliath"/>
+<node id="0.166666667"/>
+<node id="gonzaga"/>
+<node id="ilse"/>
+<node id="0.25"/>
+<node id="ingrid"/>
+<node id="innocentia"/>
+<node id="josephine"/>
+<node id="lionel"/>
+<node id="pal"/>
+<node id="regina"/>
+<node id="1.0"/>
+<node id="0.071428571"/>
+<node id="renata"/>
+<node id="rita"/>
+<node id="rusty"/>
+<node id="tara"/>
+<node id="coco"/>
+<node id="daisy"/>
+<node id="darwin"/>
+<node id="debbie"/>
+<node id="diana"/>
+<node id="0.75"/>
+<node id="dolly"/>
+<node id="donna"/>
+<node id="0.0625"/>
+<node id="dora"/>
+<node id="doug"/>
+<node id="0.666666667"/>
+<node id="littlejane"/>
+<node id="littlejenkins"/>
+<node id="littlejudy"/>
+<node id="maggie"/>
+<node id="0.9"/>
+<node id="mary"/>
+<node id="masya"/>
+<node id="mike"/>
+<node id="moyo"/>
+<node id="nina"/>
+<node id="noel"/>
+<node id="pan"/>
+<node id="pippa"/>
+<node id="taylor"/>
+<node id="tess"/>
+<node id="trixie"/>
+<node id="violet"/>
+<edge source="bj" target="0.0">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="bj" target="0.083333333">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="bj" target="0.076923077">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="bj" target="0.4">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="bj" target="0.222222222">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="bj" target="0.125">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="bob">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="booboo">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="brandon">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="brenda">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="genny">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="gerard">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="girly">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="goliath">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="gonzaga">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="ilse">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="ingrid">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="innocentia">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="josephine">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="lionel">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="pal">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="regina">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="renata">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="rita">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="rusty">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="tara">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="coco">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="daisy">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="darwin">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="debbie">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="diana">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="dolly">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="donna">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="dora">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="doug">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="littlejane">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="littlejenkins">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="littlejudy">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="maggie">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="mary">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="masya">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="mike">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="moyo">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="nina">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="noel">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="pan">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="pippa">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="taylor">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="tess">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.0" target="trixie">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.083333333" target="dolly">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.083333333" target="donna">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.083333333" target="maggie">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.076923077" target="ilse">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.4" target="bob">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.4" target="booboo">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.4" target="renata">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.4" target="dolly">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.4" target="mike">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.222222222" target="gerard">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.222222222" target="gonzaga">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.125" target="genny">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.125" target="gerard">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.125" target="ingrid">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.125" target="littlejudy">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.125" target="mike">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.125" target="pippa">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="bob" target="0.142857143">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.142857143" target="brandon">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.142857143" target="gerard">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.142857143" target="girly">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.142857143" target="mike">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.142857143" target="noel">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="booboo" target="0.285714286">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="booboo" target="0.2">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.285714286" target="nina">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.2" target="brandon">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.2" target="genny">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.2" target="gonzaga">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.2" target="darwin">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.2" target="debbie">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.2" target="diana">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.2" target="dora">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.2" target="mike">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="brandon" target="0.8">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="brandon" target="0.090909091">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.090909091" target="gerard">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.090909091" target="girly">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.090909091" target="mike">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="brenda" target="0.066666667">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="brenda" target="0.1875">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="brenda" target="0.1">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.066666667" target="ingrid">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.066666667" target="maggie">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.1" target="genny">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.1" target="girly">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.1" target="josephine">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.1" target="regina">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.1" target="pippa">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="genny" target="0.428571429">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="genny" target="0.6">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="genny" target="0.111111111">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="genny" target="0.333333333">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.6" target="goliath">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.111111111" target="goliath">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.111111111" target="ilse">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.111111111" target="lionel">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.111111111" target="dora">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.111111111" target="doug">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.333333333" target="ingrid">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.333333333" target="rita">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.333333333" target="daisy">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.333333333" target="darwin">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.333333333" target="dora">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="girly" target="0.5">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.5" target="mary">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.5" target="masya">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="goliath" target="0.166666667">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.166666667" target="ingrid">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.166666667" target="innocentia">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.166666667" target="coco">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.166666667" target="debbie">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.166666667" target="dolly">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.166666667" target="doug">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.166666667" target="mike">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.166666667" target="moyo">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="ilse" target="0.25">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.25" target="lionel">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.25" target="dolly">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.25" target="dora">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.25" target="masya">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.25" target="pan">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.25" target="violet">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="regina" target="1.0">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="regina" target="0.071428571">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="1.0" target="debbie">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="1.0" target="taylor">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="diana" target="0.75">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="donna" target="0.0625">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="doug" target="0.666666667">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="0.666666667" target="littlejane">
+  <data key="d0">female</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="maggie" target="0.9">
+  <data key="d0">male</data>
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>

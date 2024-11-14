@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="BF"/>
+<node id="CS"/>
+<node id="GU"/>
+<node id="KB"/>
+<node id="LL"/>
+<node id="MK"/>
+<node id="MS"/>
+<node id="NB"/>
+<node id="NW"/>
+<node id="PN"/>
+<node id="SB"/>
+<node id="S#"/>
+<node id="TR"/>
+<edge source="BF" target="CS">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="GU">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="BF" target="KB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="LL">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="MK">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="MS">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="NB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="NW">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="PN">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="SB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="S#">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="BF" target="TR">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="CS" target="GU">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="CS" target="KB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="CS" target="LL">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="CS" target="MK">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="CS" target="MS">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="CS" target="NB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="CS" target="NW">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="CS" target="PN">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="CS" target="SB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="CS" target="S#">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="CS" target="TR">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="GU" target="KB">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="GU" target="LL">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="GU" target="MK">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="GU" target="MS">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="GU" target="NB">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="GU" target="NW">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="GU" target="PN">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="GU" target="SB">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="GU" target="S#">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="GU" target="TR">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="KB" target="LL">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="KB" target="MK">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="KB" target="MS">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="KB" target="NB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="KB" target="NW">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="KB" target="PN">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="KB" target="SB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="KB" target="S#">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="KB" target="TR">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="LL" target="MK">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="LL" target="MS">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="LL" target="NB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="LL" target="NW">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="LL" target="PN">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="LL" target="SB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="LL" target="S#">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="LL" target="TR">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="MK" target="MS">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="MK" target="NB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="MK" target="NW">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="MK" target="PN">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="MK" target="SB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="MK" target="S#">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="MK" target="TR">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="MS" target="NB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="MS" target="NW">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="MS" target="PN">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="MS" target="SB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="MS" target="S#">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="MS" target="TR">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="NB" target="NW">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="NB" target="PN">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="NB" target="SB">
+  <data key="d0">0.010362694300518135</data>
+</edge>
+<edge source="NB" target="S#">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="NB" target="TR">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="NW" target="PN">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="NW" target="SB">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="NW" target="S#">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="NW" target="TR">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="PN" target="SB">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="PN" target="S#">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="PN" target="TR">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="SB" target="S#">
+  <data key="d0">0.0051813471502590676</data>
+</edge>
+<edge source="SB" target="TR">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+<edge source="S#" target="TR">
+  <data key="d0">0.015544041450777202</data>
+</edge>
+</graph></graphml>

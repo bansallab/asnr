@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="GKF001"/>
+<node id="GKF009"/>
+<node id="GKF016"/>
+<node id="GKF020"/>
+<node id="GKM002"/>
+<node id="GKM012"/>
+<node id="GKM018"/>
+<edge source="GKF001" target="GKF009">
+  <data key="d0">0.023554603854389726</data>
+</edge>
+<edge source="GKF001" target="GKF016">
+  <data key="d0">0.025695931477516063</data>
+</edge>
+<edge source="GKF001" target="GKF020">
+  <data key="d0">0.03211991434689508</data>
+</edge>
+<edge source="GKF001" target="GKM002">
+  <data key="d0">0.1156316916488223</data>
+</edge>
+<edge source="GKF001" target="GKM012">
+  <data key="d0">0.07922912205567453</data>
+</edge>
+<edge source="GKF001" target="GKM018">
+  <data key="d0">0.04068522483940044</data>
+</edge>
+<edge source="GKF009" target="GKF016">
+  <data key="d0">0.01713062098501071</data>
+</edge>
+<edge source="GKF009" target="GKF020">
+  <data key="d0">0.027837259100642404</data>
+</edge>
+<edge source="GKF009" target="GKM002">
+  <data key="d0">0.06209850107066382</data>
+</edge>
+<edge source="GKF009" target="GKM012">
+  <data key="d0">0.0942184154175589</data>
+</edge>
+<edge source="GKF009" target="GKM018">
+  <data key="d0">0.08137044967880087</data>
+</edge>
+<edge source="GKF016" target="GKF020">
+  <data key="d0">0.010706638115631694</data>
+</edge>
+<edge source="GKF016" target="GKM002">
+  <data key="d0">0.05781584582441115</data>
+</edge>
+<edge source="GKF016" target="GKM012">
+  <data key="d0">0.10706638115631693</data>
+</edge>
+<edge source="GKF016" target="GKM018">
+  <data key="d0">0.04710920770877945</data>
+</edge>
+<edge source="GKF020" target="GKM002">
+  <data key="d0">0.04282655246252678</data>
+</edge>
+<edge source="GKF020" target="GKM012">
+  <data key="d0">0.03640256959314776</data>
+</edge>
+<edge source="GKF020" target="GKM018">
+  <data key="d0">0.02141327623126339</data>
+</edge>
+<edge source="GKM002" target="GKM012">
+  <data key="d0">0.008565310492505356</data>
+</edge>
+<edge source="GKM002" target="GKM018">
+  <data key="d0">0.029978586723768744</data>
+</edge>
+<edge source="GKM012" target="GKM018">
+  <data key="d0">0.038543897216274096</data>
+</edge>
+</graph></graphml>

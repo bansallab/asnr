@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Camila"/>
+<node id="Lisala"/>
+<node id="Limbe"/>
+<node id="Lolaya"/>
+<node id="Mirinda"/>
+<node id="Nefertari"/>
+<edge source="Camila" target="Lisala">
+  <data key="d0">0.08881098451650599</data>
+</edge>
+<edge source="Camila" target="Limbe">
+  <data key="d0">0.2483201869704937</data>
+</edge>
+<edge source="Lisala" target="Limbe">
+  <data key="d0">0.03155127081507449</data>
+</edge>
+<edge source="Lisala" target="Lolaya">
+  <data key="d0">0.047911189015483496</data>
+</edge>
+<edge source="Lolaya" target="Mirinda">
+  <data key="d0">0.4057843996494303</data>
+</edge>
+<edge source="Lolaya" target="Nefertari">
+  <data key="d0">0.04294478527607362</data>
+</edge>
+<edge source="Mirinda" target="Nefertari">
+  <data key="d0">0.13467718375693835</data>
+</edge>
+</graph></graphml>

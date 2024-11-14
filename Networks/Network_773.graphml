@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="BF"/>
+<node id="CS"/>
+<node id="GU"/>
+<node id="KB"/>
+<node id="LL"/>
+<node id="MK"/>
+<node id="MS"/>
+<node id="NB"/>
+<node id="NW"/>
+<node id="PN"/>
+<node id="S#"/>
+<node id="SB"/>
+<node id="TR"/>
+<edge source="BF" target="GU">
+  <data key="d0">0.04</data>
+</edge>
+<edge source="BF" target="MK">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="BF" target="NB">
+  <data key="d0">0.06</data>
+</edge>
+<edge source="BF" target="S#">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="BF" target="SB">
+  <data key="d0">0.03</data>
+</edge>
+<edge source="CS" target="LL">
+  <data key="d0">0.05</data>
+</edge>
+<edge source="CS" target="MS">
+  <data key="d0">0.15</data>
+</edge>
+<edge source="CS" target="PN">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="CS" target="TR">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="GU" target="KB">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="GU" target="NW">
+  <data key="d0">0.04</data>
+</edge>
+<edge source="GU" target="S#">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="KB" target="MK">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="KB" target="MS">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="LL" target="MS">
+  <data key="d0">0.04</data>
+</edge>
+<edge source="MK" target="MS">
+  <data key="d0">0.05</data>
+</edge>
+<edge source="MK" target="NB">
+  <data key="d0">0.01</data>
+</edge>
+<edge source="MK" target="PN">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="MS" target="PN">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="MS" target="TR">
+  <data key="d0">0.07</data>
+</edge>
+<edge source="NW" target="TR">
+  <data key="d0">0.01</data>
+</edge>
+<edge source="PN" target="SB">
+  <data key="d0">0.01</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="rearing" attr.type="string"/>
+<key id="d1" for="node" attr.name="age" attr.type="long"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ID4">
+  <data key="d0">Female</data>
+  <data key="d1">20</data>
+  <data key="d2">Other</data>
+</node>
+<node id="ID60">
+  <data key="d0">Male</data>
+  <data key="d1">42</data>
+  <data key="d2">Other</data>
+</node>
+<node id="ID80">
+  <data key="d0">Female</data>
+  <data key="d1">27</data>
+  <data key="d2">Other</data>
+</node>
+<edge source="ID4" target="ID60">
+  <data key="d3">0.665934065934066</data>
+</edge>
+<edge source="ID4" target="ID80">
+  <data key="d3">0.08351648351648353</data>
+</edge>
+<edge source="ID60" target="ID80">
+  <data key="d3">0.25054945054945055</data>
+</edge>
+</graph></graphml>

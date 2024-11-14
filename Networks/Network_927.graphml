@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="GHF004"/>
+<node id="GHF011"/>
+<node id="GHF012"/>
+<node id="GHM002"/>
+<node id="GHM003"/>
+<node id="GHM004"/>
+<node id="GHM008"/>
+<edge source="GHF004" target="GHF011">
+  <data key="d0">0.0225</data>
+</edge>
+<edge source="GHF004" target="GHF012">
+  <data key="d0">0.065</data>
+</edge>
+<edge source="GHF004" target="GHM002">
+  <data key="d0">0.0625</data>
+</edge>
+<edge source="GHF004" target="GHM004">
+  <data key="d0">0.05</data>
+</edge>
+<edge source="GHF004" target="GHM008">
+  <data key="d0">0.1125</data>
+</edge>
+<edge source="GHF011" target="GHF012">
+  <data key="d0">0.04</data>
+</edge>
+<edge source="GHF011" target="GHM002">
+  <data key="d0">0.0525</data>
+</edge>
+<edge source="GHF011" target="GHM003">
+  <data key="d0">0.0775</data>
+</edge>
+<edge source="GHF011" target="GHM004">
+  <data key="d0">0.03</data>
+</edge>
+<edge source="GHF011" target="GHM008">
+  <data key="d0">0.09</data>
+</edge>
+<edge source="GHF012" target="GHM002">
+  <data key="d0">0.045</data>
+</edge>
+<edge source="GHF012" target="GHM003">
+  <data key="d0">0.05</data>
+</edge>
+<edge source="GHF012" target="GHM004">
+  <data key="d0">0.055</data>
+</edge>
+<edge source="GHF012" target="GHM008">
+  <data key="d0">0.1775</data>
+</edge>
+<edge source="GHM002" target="GHM003">
+  <data key="d0">0.015</data>
+</edge>
+<edge source="GHM002" target="GHM008">
+  <data key="d0">0.01</data>
+</edge>
+<edge source="GHM004" target="GHM008">
+  <data key="d0">0.045</data>
+</edge>
+</graph></graphml>

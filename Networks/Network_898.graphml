@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="FS1"/>
+<node id="FS2"/>
+<node id="FS3"/>
+<node id="FS4"/>
+<node id="FN5"/>
+<node id="FN6"/>
+<node id="FN7"/>
+<node id="MN8"/>
+<node id="MN9"/>
+<node id="MN10"/>
+<node id="MN11"/>
+<node id="MN12"/>
+<node id="MN13"/>
+<node id="MN14"/>
+<node id="MN15"/>
+<node id="MS16"/>
+<node id="MN17"/>
+<node id="MS18"/>
+<edge source="FS1" target="FS3">
+  <data key="d0">0.003920087847041609</data>
+</edge>
+<edge source="FS1" target="FS4">
+  <data key="d0">0.01940057924465604</data>
+</edge>
+<edge source="FS1" target="FN5">
+  <data key="d0">0.0005975797826661807</data>
+</edge>
+<edge source="FS1" target="FN6">
+  <data key="d0">0.07367393948039841</data>
+</edge>
+<edge source="FS1" target="MN8">
+  <data key="d0">0.001690774677542633</data>
+</edge>
+<edge source="FS1" target="MN9">
+  <data key="d0">0.03527666622958308</data>
+</edge>
+<edge source="FS1" target="MN10">
+  <data key="d0">0.06966388952184753</data>
+</edge>
+<edge source="FS1" target="MN11">
+  <data key="d0">0.012474892874974212</data>
+</edge>
+<edge source="FS1" target="MN12">
+  <data key="d0">0.004118094494644688</data>
+</edge>
+<edge source="FS1" target="MN13">
+  <data key="d0">0.033094402820604156</data>
+</edge>
+<edge source="FS1" target="MN15">
+  <data key="d0">0.0024661644835855434</data>
+</edge>
+<edge source="FS1" target="MS18">
+  <data key="d0">0.019820110515859524</data>
+</edge>
+<edge source="FS2" target="FS3">
+  <data key="d0">0.016333699399469343</data>
+</edge>
+<edge source="FS2" target="FS4">
+  <data key="d0">0.0017999863250560198</data>
+</edge>
+<edge source="FS2" target="FN7">
+  <data key="d0">0.030109119177759606</data>
+</edge>
+<edge source="FS2" target="MN8">
+  <data key="d0">0.0007446809701931077</data>
+</edge>
+<edge source="FS2" target="MN9">
+  <data key="d0">0.006575742389550772</data>
+</edge>
+<edge source="FS2" target="MN10">
+  <data key="d0">0.009145186625002447</data>
+</edge>
+<edge source="FS2" target="MN12">
+  <data key="d0">0.04775999713717797</data>
+</edge>
+<edge source="FS2" target="MN13">
+  <data key="d0">0.019126054078518556</data>
+</edge>
+<edge source="FS2" target="MN14">
+  <data key="d0">0.00033111882547209843</data>
+</edge>
+<edge source="FS2" target="MN17">
+  <data key="d0">0.002238989463572036</data>
+</edge>
+<edge source="FS2" target="MS18">
+  <data key="d0">0.01881387951627232</data>
+</edge>
+<edge source="FS3" target="FS4">
+  <data key="d0">0.007457320879922178</data>
+</edge>
+<edge source="FS3" target="FN7">
+  <data key="d0">0.0102293267399076</data>
+</edge>
+<edge source="FS3" target="MN8">
+  <data key="d0">0.0008445717727394739</data>
+</edge>
+<edge source="FS3" target="MN9">
+  <data key="d0">0.006606609451432616</data>
+</edge>
+<edge source="FS3" target="MN10">
+  <data key="d0">0.01008705533502336</data>
+</edge>
+<edge source="FS3" target="MN12">
+  <data key="d0">0.0019226985156763124</data>
+</edge>
+<edge source="FS3" target="MN13">
+  <data key="d0">0.00014341784365677154</data>
+</edge>
+<edge source="FS3" target="MN14">
+  <data key="d0">0.0048835616007040445</data>
+</edge>
+<edge source="FS3" target="MN15">
+  <data key="d0">0.0036651227883067036</data>
+</edge>
+<edge source="FS3" target="MS16">
+  <data key="d0">0.002276004018746369</data>
+</edge>
+<edge source="FS3" target="MN17">
+  <data key="d0">0.01754831906074774</data>
+</edge>
+<edge source="FS3" target="MS18">
+  <data key="d0">0.0021339005540312313</data>
+</edge>
+<edge source="FS4" target="FN7">
+  <data key="d0">0.00044403830290360043</data>
+</edge>
+<edge source="FS4" target="MN9">
+  <data key="d0">0.004292429867533793</data>
+</edge>
+<edge source="FS4" target="MN10">
+  <data key="d0">0.001894534251867018</data>
+</edge>
+<edge source="FS4" target="MN11">
+  <data key="d0">0.020972897627489644</data>
+</edge>
+<edge source="FS4" target="MN12">
+  <data key="d0">0.011860803525000095</data>
+</edge>
+<edge source="FS4" target="MN13">
+  <data key="d0">0.011946171602325152</data>
+</edge>
+<edge source="FS4" target="MN14">
+  <data key="d0">0.02777629947946344</data>
+</edge>
+<edge source="FS4" target="MN15">
+  <data key="d0">0.008804024114385234</data>
+</edge>
+<edge source="FS4" target="MN17">
+  <data key="d0">0.012753937623660744</data>
+</edge>
+<edge source="FS4" target="MS18">
+  <data key="d0">0.01630645722603578</data>
+</edge>
+<edge source="FN5" target="FN6">
+  <data key="d0">0.0032494006530271393</data>
+</edge>
+<edge source="FN5" target="FN7">
+  <data key="d0">0.029009282592903033</data>
+</edge>
+<edge source="FN5" target="MN8">
+  <data key="d0">0.005045895307785148</data>
+</edge>
+<edge source="FN5" target="MN9">
+  <data key="d0">0.0006345331026500827</data>
+</edge>
+<edge source="FN5" target="MN10">
+  <data key="d0">0.000380510144610433</data>
+</edge>
+<edge source="FN5" target="MN11">
+  <data key="d0">0.008548735448441903</data>
+</edge>
+<edge source="FN5" target="MN12">
+  <data key="d0">0.014429394672562008</data>
+</edge>
+<edge source="FN5" target="MN13">
+  <data key="d0">0.014587121440107391</data>
+</edge>
+<edge source="FN5" target="MN14">
+  <data key="d0">0.009488583467425463</data>
+</edge>
+<edge source="FN5" target="MN15">
+  <data key="d0">0.003172257529529181</data>
+</edge>
+<edge source="FN6" target="MN8">
+  <data key="d0">0.00289057112764314</data>
+</edge>
+<edge source="FN6" target="MN9">
+  <data key="d0">0.051588101780262324</data>
+</edge>
+<edge source="FN6" target="MN11">
+  <data key="d0">0.011203454995223825</data>
+</edge>
+<edge source="FN6" target="MN13">
+  <data key="d0">0.0072419796658296925</data>
+</edge>
+<edge source="FN6" target="MN15">
+  <data key="d0">0.014060924618791394</data>
+</edge>
+<edge source="FN7" target="MN10">
+  <data key="d0">0.01212501920191365</data>
+</edge>
+<edge source="FN7" target="MN11">
+  <data key="d0">0.0006759693463579501</data>
+</edge>
+<edge source="FN7" target="MN12">
+  <data key="d0">0.049581790977393396</data>
+</edge>
+<edge source="FN7" target="MN13">
+  <data key="d0">4.933759032654066e-05</data>
+</edge>
+<edge source="MN8" target="MN9">
+  <data key="d0">0.023608364256382963</data>
+</edge>
+<edge source="MN8" target="MN13">
+  <data key="d0">0.024614477893539474</data>
+</edge>
+<edge source="MN8" target="MS16">
+  <data key="d0">0.03351064355833719</data>
+</edge>
+<edge source="MN9" target="MN13">
+  <data key="d0">0.006401319328511227</data>
+</edge>
+<edge source="MN9" target="MN14">
+  <data key="d0">0.006569283963590256</data>
+</edge>
+<edge source="MN10" target="MN14">
+  <data key="d0">0.007262826936533717</data>
+</edge>
+<edge source="MN10" target="MS16">
+  <data key="d0">0.0013039497116218099</data>
+</edge>
+<edge source="MN11" target="MS16">
+  <data key="d0">0.007028960260952876</data>
+</edge>
+<edge source="MN13" target="MN14">
+  <data key="d0">0.007510201129731025</data>
+</edge>
+<edge source="MN14" target="MN17">
+  <data key="d0">0.006600898401874481</data>
+</edge>
+<edge source="MS16" target="MN17">
+  <data key="d0">0.01167679592232048</data>
+</edge>
+<edge source="MS16" target="MS18">
+  <data key="d0">0.011924276910813849</data>
+</edge>
+</graph></graphml>

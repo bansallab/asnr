@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="GBF029"/>
+<node id="GBF040"/>
+<node id="GBM027"/>
+<node id="GBM036"/>
+<node id="GBM037"/>
+<edge source="GBF029" target="GBF040">
+  <data key="d0">0.022598870056497175</data>
+</edge>
+<edge source="GBF029" target="GBM027">
+  <data key="d0">0.096045197740113</data>
+</edge>
+<edge source="GBF029" target="GBM036">
+  <data key="d0">0.09322033898305085</data>
+</edge>
+<edge source="GBF029" target="GBM037">
+  <data key="d0">0.1327683615819209</data>
+</edge>
+<edge source="GBF040" target="GBM027">
+  <data key="d0">0.21468926553672316</data>
+</edge>
+<edge source="GBF040" target="GBM036">
+  <data key="d0">0.192090395480226</data>
+</edge>
+<edge source="GBF040" target="GBM037">
+  <data key="d0">0.07909604519774012</data>
+</edge>
+<edge source="GBM027" target="GBM036">
+  <data key="d0">0.0847457627118644</data>
+</edge>
+<edge source="GBM027" target="GBM037">
+  <data key="d0">0.005649717514124294</data>
+</edge>
+<edge source="GBM036" target="GBM037">
+  <data key="d0">0.07909604519774012</data>
+</edge>
+</graph></graphml>

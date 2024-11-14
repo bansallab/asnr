@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="rearing" attr.type="string"/>
+<key id="d1" for="node" attr.name="age" attr.type="long"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ID5">
+  <data key="d0">Female</data>
+  <data key="d1">12</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID8">
+  <data key="d0">Male</data>
+  <data key="d1">9</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID25">
+  <data key="d0">Female</data>
+  <data key="d1">16</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID32">
+  <data key="d0">Female</data>
+  <data key="d1">56</data>
+  <data key="d2">Other</data>
+</node>
+<node id="ID63">
+  <data key="d0">Female</data>
+  <data key="d1">12</data>
+  <data key="d2">Parent</data>
+</node>
+<edge source="ID5" target="ID8">
+  <data key="d3">0.08965675045112169</data>
+</edge>
+<edge source="ID5" target="ID25">
+  <data key="d3">0.1947510846382466</data>
+</edge>
+<edge source="ID5" target="ID32">
+  <data key="d3">0.04350209350093909</data>
+</edge>
+<edge source="ID5" target="ID63">
+  <data key="d3">0.2898995851132186</data>
+</edge>
+<edge source="ID8" target="ID25">
+  <data key="d3">0.011744174274569917</data>
+</edge>
+<edge source="ID8" target="ID32">
+  <data key="d3">0.010907794336206313</data>
+</edge>
+<edge source="ID8" target="ID63">
+  <data key="d3">0.033827546859142806</data>
+</edge>
+<edge source="ID25" target="ID32">
+  <data key="d3">0.17609230099160222</data>
+</edge>
+<edge source="ID25" target="ID63">
+  <data key="d3">0.08436553325947099</data>
+</edge>
+<edge source="ID32" target="ID63">
+  <data key="d3">0.06525313657548187</data>
+</edge>
+</graph></graphml>

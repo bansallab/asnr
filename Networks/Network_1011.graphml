@@ -1,0 +1,2407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="partner.age" attr.type="double"/>
+<key id="d3" for="edge" attr.name="focal.age" attr.type="double"/>
+<key id="d2" for="edge" attr.name="partner.sex" attr.type="string"/>
+<key id="d1" for="edge" attr.name="focal.sex" attr.type="string"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="bob"/>
+<node id="bj"/>
+<node id="booboo"/>
+<node id="brandon"/>
+<node id="brenda"/>
+<node id="genny"/>
+<node id="gerard"/>
+<node id="girly"/>
+<node id="goliath"/>
+<node id="gonzaga"/>
+<node id="ilse"/>
+<node id="ingrid"/>
+<node id="innocentia"/>
+<node id="irene"/>
+<node id="josephine"/>
+<node id="lionel"/>
+<node id="pal"/>
+<node id="regina"/>
+<node id="renata"/>
+<node id="rita"/>
+<node id="rusty"/>
+<node id="tara"/>
+<node id="tobar"/>
+<node id="charity"/>
+<node id="carol"/>
+<node id="claire"/>
+<node id="coco"/>
+<node id="daisy"/>
+<node id="darwin"/>
+<node id="david"/>
+<node id="debbie"/>
+<node id="diana"/>
+<node id="diz"/>
+<node id="dolly"/>
+<node id="donna"/>
+<node id="dora"/>
+<node id="doug"/>
+<node id="littlejane"/>
+<node id="littlejenkins"/>
+<node id="littlejudy"/>
+<node id="longjohn"/>
+<node id="maggie"/>
+<node id="mary"/>
+<node id="masya"/>
+<node id="max"/>
+<node id="maxine"/>
+<node id="mike"/>
+<node id="misha"/>
+<node id="moyo"/>
+<node id="nikkie"/>
+<node id="nina"/>
+<node id="noel"/>
+<node id="pan"/>
+<node id="pippa"/>
+<node id="taylor"/>
+<node id="tess"/>
+<node id="tilly"/>
+<node id="toni"/>
+<node id="trixie"/>
+<node id="violet"/>
+<node id="vis"/>
+<node id="zsabu"/>
+<edge source="bob" target="booboo">
+  <data key="d0">0.003593498474531248</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="brandon">
+  <data key="d0">0.0038180921559160964</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="brenda">
+  <data key="d0">0.0018511961782958425</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">17.94387406</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="gerard">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">11.2991102</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="goliath">
+  <data key="d0">0.0017967492678103614</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">21.86173854</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="josephine">
+  <data key="d0">0.0017454135831714188</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="regina">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="renata">
+  <data key="d0">0.0038180921559160964</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="rita">
+  <data key="d0">0.0018511961782958425</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="rusty">
+  <data key="d0">0.0018511961782958425</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bob" target="tara">
+  <data key="d0">0.00539024774234161</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">12.28747433</data>
+</edge>
+<edge source="bj" target="genny">
+  <data key="d0">0.0019706282390645055</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">6.080766598</data>
+</edge>
+<edge source="bj" target="gerard">
+  <data key="d0">0.0019706282390645055</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">11.2991102</data>
+  <data key="d4">6.080766598</data>
+</edge>
+<edge source="bj" target="girly">
+  <data key="d0">0.002181766963691905</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">6.080766598</data>
+</edge>
+<edge source="bj" target="gonzaga">
+  <data key="d0">0.004525146254338376</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.582477755</data>
+  <data key="d4">6.080766598</data>
+</edge>
+<edge source="bj" target="lionel">
+  <data key="d0">0.0020363157961254268</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">13.58247775</data>
+  <data key="d4">6.080766598</data>
+</edge>
+<edge source="booboo" target="genny">
+  <data key="d0">0.003593498474531248</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="booboo" target="girly">
+  <data key="d0">0.0019706282390645055</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="booboo" target="goliath">
+  <data key="d0">0.005090789520858304</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">21.86173854</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="booboo" target="gonzaga">
+  <data key="d0">0.0020363157961254268</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">5.582477755</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="booboo" target="tara">
+  <data key="d0">0.006787719381507564</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="brandon" target="brenda">
+  <data key="d0">0.005553588595977001</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">17.94387406</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="brandon" target="genny">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="brandon" target="girly">
+  <data key="d0">0.004213067191782371</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="brandon" target="ingrid">
+  <data key="d0">0.0020363157961254268</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="brandon" target="josephine">
+  <data key="d0">0.0017454135831714188</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="brandon" target="renata">
+  <data key="d0">0.007636184311832193</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="brandon" target="rusty">
+  <data key="d0">0.0018511961782958425</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="brandon" target="tara">
+  <data key="d0">0.0017967492678103614</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="brenda" target="girly">
+  <data key="d0">0.0020363157961254268</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="brenda" target="goliath">
+  <data key="d0">0.0017454135831714188</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">21.86173854</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="brenda" target="gonzaga">
+  <data key="d0">0.002106533626435923</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.582477755</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="brenda" target="ilse">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">11.23613963</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="brenda" target="pal">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">32.58042437</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="brenda" target="regina">
+  <data key="d0">0.0018511961782958425</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="brenda" target="rita">
+  <data key="d0">0.0017967492678103614</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="brenda" target="rusty">
+  <data key="d0">0.003593498474531248</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="brenda" target="tara">
+  <data key="d0">0.0017454135831714188</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">17.94387406</data>
+</edge>
+<edge source="genny" target="gerard">
+  <data key="d0">0.0038180921559160964</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">11.2991102</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="genny" target="girly">
+  <data key="d0">0.012639201636436588</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="genny" target="goliath">
+  <data key="d0">0.0017967492678103614</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">21.86173854</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="genny" target="gonzaga">
+  <data key="d0">0.008727067793678146</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.582477755</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="genny" target="josephine">
+  <data key="d0">0.005236240688424782</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="genny" target="pal">
+  <data key="d0">0.0019706282390645055</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">32.58042437</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="genny" target="tobar">
+  <data key="d0">0.004072631653340327</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="gerard" target="girly">
+  <data key="d0">0.004213067191782371</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">11.2991102</data>
+</edge>
+<edge source="gerard" target="goliath">
+  <data key="d0">0.007186997010151971</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">21.86173854</data>
+  <data key="d4">11.2991102</data>
+</edge>
+<edge source="gerard" target="gonzaga">
+  <data key="d0">0.002181766963691905</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">5.582477755</data>
+  <data key="d4">11.2991102</data>
+</edge>
+<edge source="gerard" target="innocentia">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">6.557152635</data>
+  <data key="d4">11.2991102</data>
+</edge>
+<edge source="gerard" target="rusty">
+  <data key="d0">0.0018511961782958425</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">11.2991102</data>
+</edge>
+<edge source="gerard" target="tara">
+  <data key="d0">0.003593498474531248</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">11.2991102</data>
+</edge>
+<edge source="girly" target="goliath">
+  <data key="d0">0.009853141073143577</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">21.86173854</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="girly" target="gonzaga">
+  <data key="d0">0.007330736939358905</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.582477755</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="girly" target="lionel">
+  <data key="d0">0.002181766963691905</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">13.58247775</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="girly" target="pal">
+  <data key="d0">0.002181766963691905</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">32.58042437</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="girly" target="tara">
+  <data key="d0">0.0019706282390645055</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">31.58110883</data>
+</edge>
+<edge source="goliath" target="ingrid">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">21.86173854</data>
+</edge>
+<edge source="goliath" target="irene">
+  <data key="d0">0.0032152355029340537</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">1.470225873</data>
+  <data key="d4">21.86173854</data>
+</edge>
+<edge source="goliath" target="lionel">
+  <data key="d0">0.0018511961782958425</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">13.58247775</data>
+  <data key="d4">21.86173854</data>
+</edge>
+<edge source="goliath" target="pal">
+  <data key="d0">0.005553588595977001</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">32.58042437</data>
+  <data key="d4">21.86173854</data>
+</edge>
+<edge source="goliath" target="regina">
+  <data key="d0">0.0017967492678103614</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">21.86173854</data>
+</edge>
+<edge source="goliath" target="tara">
+  <data key="d0">0.005090789520858304</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">21.86173854</data>
+</edge>
+<edge source="gonzaga" target="regina">
+  <data key="d0">0.002181766963691905</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="gonzaga" target="rusty">
+  <data key="d0">0.004213067191782371</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="gonzaga" target="tara">
+  <data key="d0">0.0020363157961254268</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="ilse" target="ingrid">
+  <data key="d0">0.004213067191782371</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">11.23613963</data>
+</edge>
+<edge source="ilse" target="innocentia">
+  <data key="d0">0.003941256417039536</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">6.557152635</data>
+  <data key="d4">11.23613963</data>
+</edge>
+<edge source="ilse" target="renata">
+  <data key="d0">0.004072631653340327</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">11.23613963</data>
+</edge>
+<edge source="ilse" target="rusty">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">11.23613963</data>
+</edge>
+<edge source="ilse" target="tobar">
+  <data key="d0">0.002106533626435923</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">11.23613963</data>
+</edge>
+<edge source="ingrid" target="innocentia">
+  <data key="d0">0.0061089474494657545</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">6.557152635</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="ingrid" target="irene">
+  <data key="d0">0.01629052655227184</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">1.470225873</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="ingrid" target="lionel">
+  <data key="d0">0.002106533626435923</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">13.58247775</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="ingrid" target="regina">
+  <data key="d0">0.0020363157961254268</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="ingrid" target="renata">
+  <data key="d0">0.004363533866294335</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="ingrid" target="tara">
+  <data key="d0">0.0019090460779580482</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="ingrid" target="tobar">
+  <data key="d0">0.002181766963691905</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="innocentia" target="irene">
+  <data key="d0">0.003593498474531248</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">1.470225873</data>
+  <data key="d4">6.557152635</data>
+</edge>
+<edge source="innocentia" target="rusty">
+  <data key="d0">0.0037023924176811593</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">6.557152635</data>
+</edge>
+<edge source="irene" target="rusty">
+  <data key="d0">0.0033938597212985187</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">1.470225873</data>
+</edge>
+<edge source="josephine" target="lionel">
+  <data key="d0">0.0017967492678103614</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">13.58247775</data>
+  <data key="d4">30.58179329</data>
+</edge>
+<edge source="josephine" target="regina">
+  <data key="d0">0.0017454135831714188</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">30.58179329</data>
+</edge>
+<edge source="josephine" target="rusty">
+  <data key="d0">0.0016969298606492593</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">30.58179329</data>
+</edge>
+<edge source="josephine" target="tobar">
+  <data key="d0">0.0018511961782958425</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">31.58110883</data>
+  <data key="d4">30.58179329</data>
+</edge>
+<edge source="lionel" target="tara">
+  <data key="d0">0.0037023924176811593</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">13.58247775</data>
+</edge>
+<edge source="pal" target="regina">
+  <data key="d0">0.0019706282390645055</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">32.58042437</data>
+</edge>
+<edge source="pal" target="renata">
+  <data key="d0">0.004072631653340327</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">32.58042437</data>
+</edge>
+<edge source="regina" target="renata">
+  <data key="d0">0.011454276467748289</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">16.55578371</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="regina" target="rita">
+  <data key="d0">0.005553588595977001</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="regina" target="rusty">
+  <data key="d0">0.007404784774272845</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="regina" target="tara">
+  <data key="d0">0.0017967492678103614</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="renata" target="rita">
+  <data key="d0">0.007186997010151971</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">30.58179329</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="renata" target="rusty">
+  <data key="d0">0.007186997010151971</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">16.55578371</data>
+</edge>
+<edge source="rita" target="rusty">
+  <data key="d0">0.0017967492678103614</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.798083504</data>
+  <data key="d4">30.58179329</data>
+</edge>
+<edge source="charity" target="carol">
+  <data key="d0">0.0032152355029340537</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">5.582477755</data>
+  <data key="d4">16.65160849</data>
+</edge>
+<edge source="charity" target="claire">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">11.21423682</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="charity" target="coco">
+  <data key="d0">0.004953200629748762</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">28.58042437</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="charity" target="diana">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="charity" target="doug">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">10.53251198</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="charity" target="misha">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">25.58247775</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="charity" target="taylor">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.873374401</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="charity" target="tess">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">5.582477755</data>
+</edge>
+<edge source="carol" target="claire">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">11.21423682</data>
+  <data key="d4">16.65160849</data>
+</edge>
+<edge source="carol" target="coco">
+  <data key="d0">0.006604267506331683</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">28.58042437</data>
+  <data key="d4">16.65160849</data>
+</edge>
+<edge source="carol" target="daisy">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.788501027</data>
+  <data key="d4">16.65160849</data>
+</edge>
+<edge source="carol" target="littlejenkins">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">6.579055441</data>
+  <data key="d4">16.65160849</data>
+</edge>
+<edge source="carol" target="max">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.924024641</data>
+  <data key="d4">16.65160849</data>
+</edge>
+<edge source="carol" target="taylor">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.873374401</data>
+  <data key="d4">16.65160849</data>
+</edge>
+<edge source="carol" target="vis">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">9.32238193</data>
+  <data key="d4">16.65160849</data>
+</edge>
+<edge source="claire" target="daisy">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.788501027</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="darwin">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.581793292</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="diana">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="mike">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="moyo">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="nikkie">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="nina">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.36550308</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="tess">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="toni">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="claire" target="zsabu">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">11.21423682</data>
+</edge>
+<edge source="coco" target="david">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">11.88501027</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="coco" target="dolly">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">16.75838467</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="coco" target="maggie">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="coco" target="masya">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="coco" target="maxine">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">12.20260096</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="coco" target="toni">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="daisy" target="darwin">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.581793292</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="david">
+  <data key="d0">0.004469961566269423</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">11.88501027</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="diana">
+  <data key="d0">0.010181579102806081</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="diz">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">5.804243669</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="littlejenkins">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">6.579055441</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="max">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">6.924024641</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="nikkie">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="noel">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="toni">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="daisy" target="zsabu">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">8.788501027</data>
+</edge>
+<edge source="darwin" target="david">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">11.88501027</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="debbie">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">11.6386037</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="dolly">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">16.75838467</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="donna">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">29.58247775</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="dora">
+  <data key="d0">0.010181579102806081</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="doug">
+  <data key="d0">0.004363533866294335</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">10.53251198</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="mike">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="nikkie">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="nina">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">10.36550308</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="pan">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="pippa">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="tess">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="darwin" target="toni">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">6.581793292</data>
+</edge>
+<edge source="david" target="diana">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">11.88501027</data>
+</edge>
+<edge source="david" target="littlejane">
+  <data key="d0">0.0032152355029340537</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">28.58042437</data>
+  <data key="d4">11.88501027</data>
+</edge>
+<edge source="david" target="littlejenkins">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">6.579055441</data>
+  <data key="d4">11.88501027</data>
+</edge>
+<edge source="david" target="maggie">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">11.88501027</data>
+</edge>
+<edge source="david" target="mike">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">11.88501027</data>
+</edge>
+<edge source="david" target="pan">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">11.88501027</data>
+</edge>
+<edge source="david" target="tilly">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">12.5174538</data>
+  <data key="d4">11.88501027</data>
+</edge>
+<edge source="david" target="zsabu">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">11.88501027</data>
+</edge>
+<edge source="debbie" target="diana">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="donna">
+  <data key="d0">0.015272368623664385</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">29.58247775</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="littlejane">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">28.58042437</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="littlejenkins">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">6.579055441</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="littlejudy">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">18.58179329</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="longjohn">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="maggie">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="mike">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="misha">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">25.58247775</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="moyo">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="nikkie">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="debbie" target="pippa">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">11.6386037</data>
+</edge>
+<edge source="diana" target="diz">
+  <data key="d0">0.002841370912411</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">5.804243669</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="diana" target="dolly">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">16.75838467</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="diana" target="dora">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="diana" target="pippa">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="diana" target="taylor">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.873374401</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="diana" target="zsabu">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="diz" target="littlejane">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">28.58042437</data>
+  <data key="d4">5.804243669</data>
+</edge>
+<edge source="diz" target="littlejenkins">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">6.579055441</data>
+  <data key="d4">5.804243669</data>
+</edge>
+<edge source="diz" target="maggie">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">5.804243669</data>
+</edge>
+<edge source="diz" target="mike">
+  <data key="d0">0.001388397164266619</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">5.804243669</data>
+</edge>
+<edge source="diz" target="moyo">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">5.804243669</data>
+</edge>
+<edge source="diz" target="zsabu">
+  <data key="d0">0.002841370912411</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">5.804243669</data>
+</edge>
+<edge source="dolly" target="donna">
+  <data key="d0">0.0031327935465982277</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">29.58247775</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="dora">
+  <data key="d0">0.012217894898931509</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="doug">
+  <data key="d0">0.0045817105870993155</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">10.53251198</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="littlejane">
+  <data key="d0">0.0033021337531658414</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">28.58042437</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="littlejenkins">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">6.579055441</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="littlejudy">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">18.58179329</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="maggie">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="mike">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="moyo">
+  <data key="d0">0.004822853223856343</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="nikkie">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="noel">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="pippa">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="taylor">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.873374401</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="tess">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="toni">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="trixie">
+  <data key="d0">0.0016969298606492593</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="violet">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="dolly" target="zsabu">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">16.75838467</data>
+</edge>
+<edge source="donna" target="littlejudy">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">18.58179329</data>
+  <data key="d4">29.58247775</data>
+</edge>
+<edge source="donna" target="maggie">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">29.58247775</data>
+</edge>
+<edge source="donna" target="mike">
+  <data key="d0">0.004363533866294335</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">29.58247775</data>
+</edge>
+<edge source="donna" target="nikkie">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">29.58247775</data>
+</edge>
+<edge source="donna" target="pippa">
+  <data key="d0">0.004469961566269423</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">29.58247775</data>
+</edge>
+<edge source="donna" target="tess">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">29.58247775</data>
+</edge>
+<edge source="donna" target="violet">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">29.58247775</data>
+</edge>
+<edge source="dora" target="doug">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">10.53251198</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="dora" target="maggie">
+  <data key="d0">0.0061089474494657545</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="dora" target="masya">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="dora" target="moyo">
+  <data key="d0">0.0045817105870993155</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="dora" target="nina">
+  <data key="d0">0.004363533866294335</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.36550308</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="dora" target="pippa">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="dora" target="tess">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="doug" target="littlejenkins">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">6.579055441</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="littlejudy">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">18.58179329</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="longjohn">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="maggie">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="mike">
+  <data key="d0">0.0042620563686164995</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="moyo">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="nina">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">10.36550308</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="pan">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="taylor">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">8.873374401</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="tess">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="toni">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="trixie">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="violet">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="vis">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">9.32238193</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="doug" target="zsabu">
+  <data key="d0">0.004363533866294335</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">10.53251198</data>
+</edge>
+<edge source="littlejane" target="littlejenkins">
+  <data key="d0">0.016076177514670265</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">6.579055441</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="littlejudy">
+  <data key="d0">0.008038088726790397</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">18.58179329</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="longjohn">
+  <data key="d0">0.009163421174198631</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="masya">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="moyo">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="noel">
+  <data key="d0">0.0045817105870993155</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="pan">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="pippa">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="tess">
+  <data key="d0">0.0033021337531658414</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejane" target="toni">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">28.58042437</data>
+</edge>
+<edge source="littlejenkins" target="littlejudy">
+  <data key="d0">0.01069065803656507</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">18.58179329</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejenkins" target="longjohn">
+  <data key="d0">0.0072725564845502084</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejenkins" target="maggie">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejenkins" target="maxine">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">12.20260096</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejenkins" target="moyo">
+  <data key="d0">0.0031327935465982277</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejenkins" target="noel">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejenkins" target="pan">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejenkins" target="tess">
+  <data key="d0">0.00626558715428593</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejenkins" target="toni">
+  <data key="d0">0.0031327935465982277</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">6.579055441</data>
+</edge>
+<edge source="littlejudy" target="longjohn">
+  <data key="d0">0.014545112969100417</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">7.58110883</data>
+  <data key="d4">18.58179329</data>
+</edge>
+<edge source="littlejudy" target="maggie">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">27.58110883</data>
+  <data key="d4">18.58179329</data>
+</edge>
+<edge source="littlejudy" target="misha">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">25.58247775</data>
+  <data key="d4">18.58179329</data>
+</edge>
+<edge source="littlejudy" target="noel">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">18.58179329</data>
+</edge>
+<edge source="littlejudy" target="pippa">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">18.58179329</data>
+</edge>
+<edge source="littlejudy" target="toni">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">18.58179329</data>
+</edge>
+<edge source="littlejudy" target="zsabu">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">18.58179329</data>
+</edge>
+<edge source="longjohn" target="nina">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">10.36550308</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="longjohn" target="noel">
+  <data key="d0">0.001388397164266619</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">7.58110883</data>
+</edge>
+<edge source="maggie" target="moyo">
+  <data key="d0">0.014468559732658504</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">27.58110883</data>
+</edge>
+<edge source="maggie" target="nikkie">
+  <data key="d0">0.004469961566269423</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">27.58110883</data>
+</edge>
+<edge source="maggie" target="nina">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.36550308</data>
+  <data key="d4">27.58110883</data>
+</edge>
+<edge source="maggie" target="pan">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">27.58110883</data>
+</edge>
+<edge source="maggie" target="pippa">
+  <data key="d0">0.0061089474494657545</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">27.58110883</data>
+</edge>
+<edge source="maggie" target="toni">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">27.58110883</data>
+</edge>
+<edge source="maggie" target="zsabu">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">27.58110883</data>
+</edge>
+<edge source="mary" target="masya">
+  <data key="d0">0.012217894898931509</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">7.906913073</data>
+</edge>
+<edge source="mary" target="moyo">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">7.906913073</data>
+</edge>
+<edge source="mary" target="taylor">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.873374401</data>
+  <data key="d4">7.906913073</data>
+</edge>
+<edge source="mary" target="toni">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">7.906913073</data>
+</edge>
+<edge source="mary" target="zsabu">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">7.906913073</data>
+</edge>
+<edge source="masya" target="tess">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="masya" target="toni">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="masya" target="trixie">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="masya" target="vis">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">9.32238193</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="max" target="maxine">
+  <data key="d0">0.00626558715428593</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">12.20260096</data>
+  <data key="d4">6.924024641</data>
+</edge>
+<edge source="max" target="misha">
+  <data key="d0">0.004822853223856343</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">25.58247775</data>
+  <data key="d4">6.924024641</data>
+</edge>
+<edge source="max" target="moyo">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">6.924024641</data>
+</edge>
+<edge source="max" target="pan">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">6.924024641</data>
+</edge>
+<edge source="max" target="pippa">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">6.924024641</data>
+</edge>
+<edge source="max" target="tess">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">6.924024641</data>
+</edge>
+<edge source="maxine" target="misha">
+  <data key="d0">0.00626558715428593</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">25.58247775</data>
+  <data key="d4">12.20260096</data>
+</edge>
+<edge source="maxine" target="nikkie">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">12.20260096</data>
+</edge>
+<edge source="maxine" target="nina">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.36550308</data>
+  <data key="d4">12.20260096</data>
+</edge>
+<edge source="maxine" target="noel">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">12.20260096</data>
+</edge>
+<edge source="maxine" target="toni">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">12.20260096</data>
+</edge>
+<edge source="maxine" target="violet">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">12.20260096</data>
+</edge>
+<edge source="mike" target="pan">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="mike" target="tess">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="mike" target="toni">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="mike" target="trixie">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="mike" target="violet">
+  <data key="d0">0.001388397164266619</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="mike" target="vis">
+  <data key="d0">0.001388397164266619</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">9.32238193</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="mike" target="zsabu">
+  <data key="d0">0.0042620563686164995</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="misha" target="moyo">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">5.963039014</data>
+  <data key="d4">25.58247775</data>
+</edge>
+<edge source="misha" target="noel">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">25.58247775</data>
+</edge>
+<edge source="misha" target="pippa">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">25.58247775</data>
+</edge>
+<edge source="misha" target="zsabu">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">25.58247775</data>
+</edge>
+<edge source="moyo" target="nikkie">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">15.69336071</data>
+  <data key="d4">5.963039014</data>
+</edge>
+<edge source="moyo" target="noel">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">5.963039014</data>
+</edge>
+<edge source="moyo" target="pippa">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">5.963039014</data>
+</edge>
+<edge source="moyo" target="tess">
+  <data key="d0">0.0032152355029340537</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">5.963039014</data>
+</edge>
+<edge source="moyo" target="tilly">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">12.5174538</data>
+  <data key="d4">5.963039014</data>
+</edge>
+<edge source="moyo" target="toni">
+  <data key="d0">0.0016076177209222895</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">5.963039014</data>
+</edge>
+<edge source="moyo" target="vis">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">9.32238193</data>
+  <data key="d4">5.963039014</data>
+</edge>
+<edge source="moyo" target="zsabu">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">5.963039014</data>
+</edge>
+<edge source="nikkie" target="nina">
+  <data key="d0">0.002841370912411</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.36550308</data>
+  <data key="d4">15.69336071</data>
+</edge>
+<edge source="nikkie" target="pippa">
+  <data key="d0">0.002841370912411</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">15.69336071</data>
+</edge>
+<edge source="nikkie" target="taylor">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.873374401</data>
+  <data key="d4">15.69336071</data>
+</edge>
+<edge source="nikkie" target="tilly">
+  <data key="d0">0.002909022618255873</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">12.5174538</data>
+  <data key="d4">15.69336071</data>
+</edge>
+<edge source="nikkie" target="toni">
+  <data key="d0">0.0059599487550258965</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">15.69336071</data>
+</edge>
+<edge source="nikkie" target="violet">
+  <data key="d0">0.0027767942674437637</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">15.69336071</data>
+</edge>
+<edge source="nikkie" target="vis">
+  <data key="d0">0.001388397164266619</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">9.32238193</data>
+  <data key="d4">15.69336071</data>
+</edge>
+<edge source="nikkie" target="zsabu">
+  <data key="d0">0.002841370912411</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">15.69336071</data>
+</edge>
+<edge source="nina" target="noel">
+  <data key="d0">0.0042620563686164995</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">36.58042437</data>
+  <data key="d4">10.36550308</data>
+</edge>
+<edge source="nina" target="pan">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">10.36550308</data>
+</edge>
+<edge source="nina" target="tess">
+  <data key="d0">0.0045817105870993155</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">10.36550308</data>
+</edge>
+<edge source="nina" target="tilly">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">12.5174538</data>
+  <data key="d4">10.36550308</data>
+</edge>
+<edge source="noel" target="toni">
+  <data key="d0">0.0014899871887564741</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">36.58042437</data>
+</edge>
+<edge source="noel" target="violet">
+  <data key="d0">0.001388397164266619</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">36.58042437</data>
+</edge>
+<edge source="pan" target="pippa">
+  <data key="d0">0.0030544737247328773</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">24.58042437</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="pan" target="tess">
+  <data key="d0">0.0032152355029340537</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="pan" target="trixie">
+  <data key="d0">0.0016969298606492593</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="pan" target="violet">
+  <data key="d0">0.007449935943782371</data>
+  <data key="d1">female</data>
+  <data key="d2">male</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="pan" target="zsabu">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">male</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="pippa" target="taylor">
+  <data key="d0">0.0029799743775129482</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">8.873374401</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="pippa" target="tess">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">15.58110883</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="pippa" target="violet">
+  <data key="d0">0.0014206854562055</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">24.58042437</data>
+</edge>
+<edge source="taylor" target="trixie">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">8.873374401</data>
+</edge>
+<edge source="taylor" target="violet">
+  <data key="d0">0.0014545113091279365</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">22.58179329</data>
+  <data key="d4">8.873374401</data>
+</edge>
+<edge source="tess" target="toni">
+  <data key="d0">0.004822853223856343</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="tess" target="zsabu">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">15.58110883</data>
+</edge>
+<edge source="tilly" target="toni">
+  <data key="d0">0.001566396803843851</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">10.58179329</data>
+  <data key="d4">12.5174538</data>
+</edge>
+<edge source="tilly" target="trixie">
+  <data key="d0">0.0016510668765829207</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">12.5174538</data>
+</edge>
+<edge source="toni" target="trixie">
+  <data key="d0">0.0016969298606492593</data>
+  <data key="d1">female</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">10.58179329</data>
+</edge>
+<edge source="toni" target="zsabu">
+  <data key="d0">0.0015272368623664386</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">10.58179329</data>
+</edge>
+<edge source="violet" target="vis">
+  <data key="d0">0.012495574356220621</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">9.32238193</data>
+  <data key="d4">22.58179329</data>
+</edge>
+<edge source="violet" target="zsabu">
+  <data key="d0">0.002841370912411</data>
+  <data key="d1">male</data>
+  <data key="d2">female</data>
+  <data key="d3">23.58110883</data>
+  <data key="d4">22.58179329</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="GAM014"/>
+<node id="GAF008"/>
+<node id="GAF025"/>
+<node id="GAM007"/>
+<edge source="GAM014" target="GAF008">
+  <data key="d0">0.24107142857142858</data>
+</edge>
+<edge source="GAM014" target="GAF025">
+  <data key="d0">0.23214285714285712</data>
+</edge>
+<edge source="GAM014" target="GAM007">
+  <data key="d0">0.0625</data>
+</edge>
+<edge source="GAF008" target="GAF025">
+  <data key="d0">0.017857142857142856</data>
+</edge>
+<edge source="GAF008" target="GAM007">
+  <data key="d0">0.19642857142857142</data>
+</edge>
+<edge source="GAF025" target="GAM007">
+  <data key="d0">0.25</data>
+</edge>
+</graph></graphml>

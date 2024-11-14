@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="rearing" attr.type="string"/>
+<key id="d1" for="node" attr.name="age" attr.type="long"/>
+<key id="d0" for="node" attr.name="sex" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ID1">
+  <data key="d0">Male</data>
+  <data key="d1">11</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID2">
+  <data key="d0">Male</data>
+  <data key="d1">11</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID7">
+  <data key="d0">Male</data>
+  <data key="d1">31</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID20">
+  <data key="d0">Female</data>
+  <data key="d1">32</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID43">
+  <data key="d0">Female</data>
+  <data key="d1">24</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID48">
+  <data key="d0">Male</data>
+  <data key="d1">16</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID49">
+  <data key="d0">Female</data>
+  <data key="d1">15</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID55">
+  <data key="d0">Female</data>
+  <data key="d1">42</data>
+  <data key="d2">Other</data>
+</node>
+<node id="ID72">
+  <data key="d0">Female</data>
+  <data key="d1">14</data>
+  <data key="d2">Parent</data>
+</node>
+<node id="ID79">
+  <data key="d0">Female</data>
+  <data key="d1">7</data>
+  <data key="d2">Parent</data>
+</node>
+<edge source="ID1" target="ID2">
+  <data key="d3">0.006360960595917187</data>
+</edge>
+<edge source="ID1" target="ID7">
+  <data key="d3">0.003021222165903498</data>
+</edge>
+<edge source="ID1" target="ID20">
+  <data key="d3">0.00954144191958074</data>
+</edge>
+<edge source="ID1" target="ID48">
+  <data key="d3">0.006007057510680158</data>
+</edge>
+<edge source="ID1" target="ID49">
+  <data key="d3">0.018536837495140443</data>
+</edge>
+<edge source="ID1" target="ID55">
+  <data key="d3">0.016543628125595598</data>
+</edge>
+<edge source="ID1" target="ID72">
+  <data key="d3">0.012339308624761397</data>
+</edge>
+<edge source="ID1" target="ID79">
+  <data key="d3">0.0031034939607609965</data>
+</edge>
+<edge source="ID2" target="ID7">
+  <data key="d3">0.0089581214573061</data>
+</edge>
+<edge source="ID2" target="ID20">
+  <data key="d3">0.018536837495140443</data>
+</edge>
+<edge source="ID2" target="ID49">
+  <data key="d3">0.006096314356316607</data>
+</edge>
+<edge source="ID2" target="ID55">
+  <data key="d3">0.0395135132248746</data>
+</edge>
+<edge source="ID2" target="ID72">
+  <data key="d3">0.011996548798211963</data>
+</edge>
+<edge source="ID7" target="ID20">
+  <data key="d3">0.012283891837171807</data>
+</edge>
+<edge source="ID7" target="ID43">
+  <data key="d3">0.06666324655604738</data>
+</edge>
+<edge source="ID7" target="ID48">
+  <data key="d3">0.003003528755340079</data>
+</edge>
+<edge source="ID7" target="ID49">
+  <data key="d3">0.17663197192970467</data>
+</edge>
+<edge source="ID7" target="ID55">
+  <data key="d3">0.01250859712562227</data>
+</edge>
+<edge source="ID7" target="ID72">
+  <data key="d3">0.009130905560671329</data>
+</edge>
+<edge source="ID7" target="ID79">
+  <data key="d3">0.012120589350458651</data>
+</edge>
+<edge source="ID20" target="ID43">
+  <data key="d3">0.003251045722105349</data>
+</edge>
+<edge source="ID20" target="ID48">
+  <data key="d3">0.025093699532815802</data>
+</edge>
+<edge source="ID20" target="ID49">
+  <data key="d3">0.025287024403713963</data>
+</edge>
+<edge source="ID20" target="ID55">
+  <data key="d3">0.11454573066895968</data>
+</edge>
+<edge source="ID20" target="ID72">
+  <data key="d3">0.01920196408222065</data>
+</edge>
+<edge source="ID20" target="ID79">
+  <data key="d3">0.006430751612818993</data>
+</edge>
+<edge source="ID43" target="ID48">
+  <data key="d3">0.06206989152367945</data>
+</edge>
+<edge source="ID43" target="ID49">
+  <data key="d3">0.043383290847300464</data>
+</edge>
+<edge source="ID43" target="ID55">
+  <data key="d3">0.022793443332025706</data>
+</edge>
+<edge source="ID43" target="ID72">
+  <data key="d3">0.032053280006193945</data>
+</edge>
+<edge source="ID43" target="ID79">
+  <data key="d3">0.022194542411405654</data>
+</edge>
+<edge source="ID48" target="ID49">
+  <data key="d3">0.012210773433379118</data>
+</edge>
+<edge source="ID48" target="ID55">
+  <data key="d3">0.012624060732991783</data>
+</edge>
+<edge source="ID48" target="ID72">
+  <data key="d3">0.03367986344617547</data>
+</edge>
+<edge source="ID48" target="ID79">
+  <data key="d3">0.003057242872695739</data>
+</edge>
+<edge source="ID49" target="ID55">
+  <data key="d3">0.0483063566877142</data>
+</edge>
+<edge source="ID49" target="ID72">
+  <data key="d3">0.00613276585919213</data>
+</edge>
+<edge source="ID49" target="ID79">
+  <data key="d3">0.009240586243475242</data>
+</edge>
+<edge source="ID55" target="ID72">
+  <data key="d3">0.03256206248901099</data>
+</edge>
+<edge source="ID55" target="ID79">
+  <data key="d3">0.01298360724691982</data>
+</edge>
+</graph></graphml>

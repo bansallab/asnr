@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="ID27"/>
+<node id="ID29"/>
+<node id="ID41"/>
+<node id="ID61"/>
+<node id="ID68"/>
+<node id="ID70"/>
+<edge source="ID27" target="ID29">
+  <data key="d0">0.026883862241486516</data>
+</edge>
+<edge source="ID27" target="ID41">
+  <data key="d0">0.02719354703747959</data>
+</edge>
+<edge source="ID27" target="ID61">
+  <data key="d0">0.013411393414583498</data>
+</edge>
+<edge source="ID27" target="ID68">
+  <data key="d0">0.026701403135310716</data>
+</edge>
+<edge source="ID27" target="ID70">
+  <data key="d0">0.042760932011972196</data>
+</edge>
+<edge source="ID29" target="ID41">
+  <data key="d0">0.3077622482313652</data>
+</edge>
+<edge source="ID29" target="ID61">
+  <data key="d0">0.013171871580182605</data>
+</edge>
+<edge source="ID29" target="ID68">
+  <data key="d0">0.23762442492483446</data>
+</edge>
+<edge source="ID29" target="ID70">
+  <data key="d0">0.09452414375960057</data>
+</edge>
+<edge source="ID41" target="ID61">
+  <data key="d0">0.04023412123369028</data>
+</edge>
+<edge source="ID41" target="ID68">
+  <data key="d0">0.026701403135310716</data>
+</edge>
+<edge source="ID41" target="ID70">
+  <data key="d0">0.013884713107544713</data>
+</edge>
+<edge source="ID61" target="ID68">
+  <data key="d0">0.11545448102628882</data>
+</edge>
+<edge source="ID61" target="ID70">
+  <data key="d0">0.013691455160350103</data>
+</edge>
+</graph></graphml>
