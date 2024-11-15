@@ -6,29 +6,28 @@ title: Animal Social Network Repository
 message: 'If you use this respository, please cite below'
 type: dataset
 authors:
-  - given-names: Pratha
-    family-names: Sah
-    email: prathasah@gmail.com
   - given-names: Melissa
     family-names: Collier
     email: mac532@georgetown.edu
+  - given-names: Nitara
+    family-names: Wijayatilake
+  - given-names: Pratha
+    family-names: Sah
+    email: prathasah@gmail.com
   - given-names: Sania
     family-names: Ali
   - given-names: Jose
     name-particle: David
     family-names: Mendez
+  - given-names: Matthew
+    family-names: Silk
   - given-names: Shweta
     family-names: Bansal
     email: shweta.bansal@georgetown.edu
 repository-code: 'https://github.com/bansallab/asnr'
 url: 'https://bansallab.github.io/asnr/'
 abstract: >-
-  This update provided new network data from 13
-  additional studies, updated all .graphmls in the
-  respository to include node attributes if that data
-  was available, and provided network visualizations
-  in the ReadMe file. The repository currently
-  consists of 770 networks across 69 species.
+ This update added and additional 300 networks to the ASNR and restructured the repository so that all networks are now in a general "Networks" directory. The Network Summary Master File now contains all information for each network. This network repository is composed of 1072 networks from 92 species across 8 taxanomic classes.
 commit: 24f42492569f75c8808abd2015deb411c216aab0
-version: '2.0'
-date-released: '2020-08-28'
+version: '3.0'
+date-released: '2024-11-15'
