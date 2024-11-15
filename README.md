@@ -10,7 +10,7 @@ Citation
  =================
  To cite the repository, please use: 
 
- Melissa Collier, Nitara Wijayatilake, Pratha Sah, Jose Mendez, Sania Ali, Matthew Silk, Shweta Bansal. Animal Social Network Repository, Version 3. https://github.com/bansallab/asnr (2024)
+ Melissa Collier, Nitara Wijayatilake, Pratha Sah, Jose Mendez, Sania Ali, Matthew Silk, Shweta Bansal. Animal Social Network Repository, Version 3. https://doi.org/10.5281/zenodo.14168300 (2024)
 
  To cite the project and data, please use: 
 
