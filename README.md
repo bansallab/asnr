@@ -1,18 +1,20 @@
-Animal Social Network Repository 2.0
+Animal Social Network Repository 3.0
  ===============
 
 Background
  ==========================================
- This network repository is composed of 1072 networks from 92 species across 9 taxa, that are publicly available. This repository is novel in that it incorporates different animal networks that vary in sociality levels, including social, solitary and fission fusion. Networks vary in interaction criteria, edge definition, and weighted and unweighted, and in many more network properties as well. However, this repository synthesizes all of these networks in an organized, consistent manner in order to make sure that the networks are user-friendly. It is our hope that the networks in this repository further advance the field of wildlife network theory, yet the networks in this repository are not limited to questions of sociality. Due to its extensive and detailed nature, the networks found in this repository can be used to answer multiple scientific inquiries in varying fields.
+ This network repository is composed of 1072 networks from 92 species across 8 taxanomic classes, that are publicly available. This repository is novel in that it incorporates different animal networks that vary in sociality levels including hierarchical, solitary and fission-fusion. Networks vary in interaction criteria, edge definitions, weights, and in many network properties. This repository synthesizes these networks in an organized, consistent, user-friendly manner. It is our hope that the networks in this repository further advance the field of wildlife network theory. Due to its extensive and detailed nature, the networks found in this repository can be used to answer multiple scientific inquiries in varying fields.
  To learn more about the project, please visit our website: https://bansallab.github.io/asnr/ or read the work by Sah et al cited below.
 
 Citation
  =================
- To cite the repository, please use:
- Melissa Collier, Pratha Sah, Jose Mendez, Sania Ali, Shweta Bansal. Animal Social Network Repository, Version 2. https://github.com/bansallab/asnr (2021)
+ To cite the repository, please use: 
 
- To cite the project and data, please use:
- Pratha Sah, José David Mendez, Shweta Bansal. A multi-species respository of social networks. Scientific Data, 6:44 (2019)
+ Melissa Collier, Nitara Wijayatilake, Pratha Sah, Jose Mendez, Sania Ali, Matthew Silk, Shweta Bansal. Animal Social Network Repository, Version 3. https://github.com/bansallab/asnr (2024)
+
+ To cite the project and data, please use: 
+
+ Pratha Sah, JosÃ© David Mendez, Shweta Bansal. A multi-species respository of social networks. Scientific Data, 6:44 (2019)
 
 What is included?
  =================
@@ -26,41 +28,36 @@ What is included?
 | Aves              |                  185 | ['Hirundo rustica', 'Branta leucopsis', 'Gallus domesticus', 'Haemorhous mexicanus', 'Zonotrichia atricapilla', 'Acanthiza spp.', 'Philetairus socius', 'mixed species', 'Gallinago media', 'Gallus gallus', 'Molothrus ater', 'Myiopsitta monachus', 'Argya squamiceps']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Actinopterygii    |                  101 | ['Poecilia reticulata', 'Gasterosteus aculeatus', 'Astatotilapia burtoni']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Reptilia          |                   59 | ['Tiliqua rugosa', 'Gopherus agassizii', 'Agkistrodon contortrix ', 'Thamnophis butleri']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Arachnid          |                    1 | [' Serracutisoma proximum']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Arachnida         |                    2 | [' Serracutisoma proximum', 'Stegodyphus dumicola']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Cephalapoda       |                    1 | ['Sepia apama ']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Amphibia          |                    2 | ['Dendrobates pumilio ', 'Epidalea calamita']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Arachnida         |                    1 | ['Stegodyphus dumicola']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 | Interaction Type                | General Definition                                                                                                            |   Number of Networks |
 |:--------------------------------|:------------------------------------------------------------------------------------------------------------------------------|---------------------:|
-| physical contact                | Physical contact occurs between individuals that are not grooming, trophallaxis, or dominance behaviors.                      |                  253 |
-| trophallaxis                    | Mouth-to-mouth food-sharing behaviors.                                                                                        |                   16 |
-| dominance                       | Physical contact unique to aggressive dominance interactions such as biting, head butting, fighting, etc.                     |                   42 |
-| spatial proximity               | No physical contact; individuals are within a certain distance of each other as indicated by the study.                       |                  196 |
-| grooming                        | Physical contact unique to grooming interactions.                                                                             |                   81 |
-| social projection bipartite     | A projection of a bipartite network where individuals are connected to all locations visited (e.g., feeder sharing networks). |                  218 |
-| overall mix                     | Connections are based on multiple different types of interactions.                                                            |                    3 |
-| foraging                        | Individuals are connected if they were seen foraging together.                                                                |                    2 |
-| group membership                | Individuals are connected if they were seen as part of the same group as defined by the research study.                       |                   16 |
-| food sharing                    | Physical contact specific to food-sharing behaviors.                                                                          |                   19 |
-| Fluid Exchange mating           | Individuals are connected if mating involving fluid exchange occurred (e.g., intromission).                                   |                   58 |
-| No Fluid Exchange mating        | Individuals are connected if mating did not involve fluid exchange (e.g., spore transfer).                                    |                    3 |
-| non physical social interaction | Direct social interaction without physical contact (e.g., sniffing, chasing).                                                 |                   21 |
-| Grooming                        | Physical contact unique to grooming behaviors in primates.                                                                    |                   55 |
-| physical contact/ play          | Physical contact specific to play behaviors like play-fighting.                                                               |                   18 |
-| Dominance                       | Aggressive dominance interaction involving direct physical contact.                                                           |                   65 |
-| Spatial assocation              | Individuals connected based on spatial association, like swimming close together.                                             |                    4 |
-| Supplants/Avoidance             | Supplanting or avoidance behaviors where one individual displaces another.                                                    |                    2 |
+| physical contact                | Physical contact occurs between individuals that are not grooming, trophallaxis, or dominance behaviors                       |                  271 |
+| trophallaxis                    | Mouth to mouth foodsharing behaviors                                                                                          |                   16 |
+| dominance                       | Physical contact unique to aggressive dominance interactions such as biting, head butting, fighting, etc.                     |                  107 |
+| spatial proximity               | No physical contact, individuals are just within a certain distance of eachother as indicated by the study                    |                  200 |
+| grooming                        | Physical contact unique to grooming interactions in primates                                                                  |                  136 |
+| social projection bipartite     | A projection of a bipartite network in which individuals are connected to all locations visted (e.g. feeder sharing networks) |                  218 |
+| overall mix                     | Multiple different types of interactions                                                                                      |                    3 |
+| foraging                        | Individuals were seen foraging together                                                                                       |                    2 |
+| group membership                | Individuals were part of the same group as defined by the research study                                                      |                   16 |
+| food sharing                    | Individuals share the same food source                                                                                        |                   19 |
+| Fluid Exchange mating           | Indiivduals observed engaging in mating with fluid excahnge                                                                   |                   58 |
+| No Fluid Exchange mating        | Individuals observed engaging in mating without fluid exhange                                                                 |                    3 |
+| non physical social interaction | Direct interaction between individuals that does not involve physical contact (e.g. sniffing, chasing)                        |                   21 |
+| Avoidance                       | Active avoidance between two individuals                                                                                      |                    2 |
 
-Glossary of qualatative study description terms 
+Glossary of qualitative study description terms 
  ===================================
- All terms below are found as qualatative columns in the Network_summary_masterfile.csv
+ All terms below are found as qualitative columns in the Network_summary_masterfile.csv
 
 Network ID: Unique identifier of the network in the Networks directory.
 
 Network Identifiers: Descriptive terms to differentiate multiple networks taken from one study. Could include years, colony names, trap names, etc.
 
-Taxonomic class: Taxonomic class of the species. Could be ['Insecta', 'Mammalia', 'Aves', 'Actinopterygii', 'Reptilia', 'Arachnid', 'Cephalapoda', 'Amphibia', 'Arachnida'].
+Taxonomic class: Taxonomic class of the species. Could be ['Insecta', 'Mammalia', 'Aves', 'Actinopterygii', 'Reptilia', 'Arachnida', 'Cephalapoda', 'Amphibia'].
 
 Population type: Type of animal population recorded. Could be captive, semi-ranging or free-ranging.
 
@@ -84,9 +81,11 @@ Attributes Available: The node attributes provided in the study. If available, t
 
 Note: Additional notes on the dataset. 
 
-Glossary of quantative network metrics
+Glossary of quanttitative network metrics
  ===================================
- All metrics below are found as columns in the Network_summary_masterfile.csvIs connected: Binary value to determine if the network is fully connected (TRUE) or is composed of multiple components (FAlSE)
+ All metrics below are found as columns in the Network_summary_masterfile.csv 
+
+Is connected: Binary value to determine if the network is fully connected (TRUE) or is composed of multiple components (FALSE)
 
 Num Components: The number of connected components in the network.
 
@@ -98,13 +97,13 @@ Network Density: The proportion of existing edges in the network out of the tota
 
 Highest Degree: The highest degree value for a node in the network. 
 
-Average/Standard Deviation Degree: The average number of or standard deviation in contacts for all nodes in the network. 
+Average/Standard Deviation Degree: The average number and standard deviation in contacts for all nodes in the network. 
 
 CV Degree: The coefficient of variation in the network. Equal to the average degree divided by the standard deviation.
 
 Skewness: A measure of the asymmetry of the network's degree dsitribution. 
 
-Average/Standard Deviation Node Strength: The averagea and standard deviation of the sum of all the edgeweights connected to each node in the network. 
+Average/Standard Deviation Node Strength: The average and standard deviation of the sum of all the edgeweights connected to each node in the network. 
 
 CV Node Strength: The coefficient of variation of edge strength calculated as the average strength divided by the standard deviation. 
 
@@ -114,13 +113,13 @@ Average/Standard Deviation Edge Strength: The mean and standard deviation in edg
 
 CV Edge Strength: The coefficient of vairation in edge weight values, calculated as the average edge weight divided by the standard deviation. 
 
-Degree Assortativity: The tendency of contacts to have a similar number of contacts. Higher values mean high dgree individuals form more bonds, lower values mean that high degree individuals form bonds with low degree individuals. 
+Degree Assortativity: The tendency of contacts to have a similar number of contacts. Higher values mean high degree individuals form more bonds, lower values mean that high degree individuals form bonds with low degree individuals. 
 
-Average/Standard Devioation Betweenness Centrality (Weighted/Unweighted): The tendency for nodes to occupy a central position in the network. Higher values mean the network has more central or bridge nodes. Values calculated both with and without edge weights. 
+Average/Standard Deviation Betweenness Centrality (Weighted/Unweighted): The tendency for nodes to occupy a central position in the network. Higher values mean the network has more central or bridge nodes. Values calculated both with and without edge weights. 
 
 Highest Betweenness Centrality (Weighted/Unweighted): The higest betweeness value in the network, both with and without edgeweights. 
 
-Clustering Coefficient (Weighted/Unweighted): The tendancy for a set of three individuals to be connected, or for an individuals contacts to interact with eachother. Calculated both with and without edgeweights. 
+Clustering Coefficient (Weighted/Unweighted): The tendancy for a set of three individuals to be connected, or for an individual's contacts to interact with eachother. Calculated both with and without edgeweights. 
 
 Newman's Modularity (Q): The strength of subdividisions or communities within the network. Based on Newman's definition. 
 
@@ -130,7 +129,7 @@ Qrel: Modularity, (Q) normalized by Qmax.
 
 Number of Modules: The number of modules or communities in the network.  
 
-Average Module Size': THe average number of nodes in each mondule or community. 
+Average Module Size: The average number of nodes in each mondule or community. 
 
 Cohesion: The tendancy for individuals to interact with their own module. 
 
