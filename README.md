@@ -3,7 +3,7 @@ Animal Social Network Repository 3.0
 
 Background
  ==========================================
- This network repository is composed of 1072 networks from 92 species across 8 taxanomic classes, that are publicly available. This repository is novel in that it incorporates different animal networks that vary in sociality levels including hierarchical, solitary and fission-fusion. Networks vary in interaction criteria, edge definitions, weights, and in many network properties. This repository synthesizes these networks in an organized, consistent, user-friendly manner. It is our hope that the networks in this repository further advance the field of wildlife network theory. Due to its extensive and detailed nature, the networks found in this repository can be used to answer multiple scientific inquiries in varying fields.
+ This network repository is composed of 1196 networks from 92 species across 8 taxanomic classes, that are publicly available. This repository is novel in that it incorporates different animal networks that vary in sociality levels including hierarchical, solitary and fission-fusion. Networks vary in interaction criteria, edge definitions, weights, and in many network properties. This repository synthesizes these networks in an organized, consistent, user-friendly manner. It is our hope that the networks in this repository further advance the field of wildlife network theory. Due to its extensive and detailed nature, the networks found in this repository can be used to answer multiple scientific inquiries in varying fields.
  To learn more about the project, please visit our website: https://bansallab.github.io/asnr/ or read the work by Sah et al cited below.
 
 Citation
