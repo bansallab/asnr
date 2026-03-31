@@ -141,5 +141,8 @@ Adding data
 
 License
  =======
- All datasets in this repository were made publicly available in other data repositories. You will find a link to the original source of the network, additionally to the study in which the data was collected. A great amount of effort was made to determine the license under which the datasets were distributed, and it is our understanding that the datasets are free to redistribute. However, if you own the rights to any dataset that is included in this repository and you object their inclusion, please email shweta@sbansal.com. The data in question will promptly be removed as well as all traces from git revision history.
+ All datasets in this repository were made publicly available in other data repositories. You will find a link to the original source of the network, additionally to the study in which the data was collected. A great amount of effort was made to determine the license under which the datasets were distributed, and it is our understanding that the datasets are free to redistribute. However, if you own the rights to any dataset that is included in this repository and you object their inclusion, please email shweta.bansal@georgetonw.edu. The data in question will promptly be removed.
+
+ The ASNR's structure, metadata, curation, and documentation are licensed under CC BY-SA 4.0; individual datasets retain their original licenses as documented.
+
 
