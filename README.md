@@ -137,7 +137,7 @@ Diameter: The longest of all the shortest path lengths for all node pairs in the
 
 Adding data
  ===========
- One of the main goals of this repository is to further enhance the study of animal social networks. If you happen to come across any interesting data on animal networks that has been published and is not yet included in this repository, please contact us. We will do our best to make it consistent with our format and add it to the repository. Requests should be filed to shweta@sbansal.com
+ One of the main goals of this repository is to further enhance the study of animal social networks. If you happen to come across any interesting data on animal networks that has been published and is not yet included in this repository, please contact us. We will do our best to make it consistent with our format and add it to the repository. Requests should be filed to shweta.bansal@georgetonw.edu
 
 License
  =======
